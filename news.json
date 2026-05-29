@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T17:53:25.226Z",
+    "generatedAt": "2026-05-29T18:57:07.508Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Mourinho signs three-year deal to return as Real boss",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
+      "headline": "Arsenal's Timber fit to start Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "39m",
+      "url": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "From non-league to Champions League final - Raya's fairytale rise",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Bristol City appoint Lincoln boss Skubala",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Konate set to leave Liverpool on a free transfer",
+      "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Clarke sure he's best man for Scots after new deal",
+      "headline": "Konate set to leave Liverpool on a free transfer",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Champions League final still not free to air despite pressure",
+      "headline": "Clarke sure he's best man for Scots after new deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How Ferguson twice moved to sign Rooney from Everton",
+      "headline": "Champions League final still not free to air despite pressure",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0pnkzl9d2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid named football's most valuable club",
+      "headline": "How Ferguson twice moved to sign Rooney from Everton",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c362dzkl0w2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cn0pnkzl9d2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
+      "headline": "Real Madrid named football's most valuable club",
       "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c362dzkl0w2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Montreal fancied to land French Derby for O'Brien",
+      "topic": "Video",
+      "headline": "'I'm in absolute SHOCK!' | Sudharsan dismissed in BIZARRE fashion!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13549020/prix-du-jockey-club-montreal-fancied-to-land-french-derby-for-aidan-obrien",
+      "url": "https://www.skysports.com/watch/video/13549147/once-in-a-lifetime-sudharsan-throws-his-bat-onto-wickets",
       "isFeatured": false,
       "hasAiSummary": false
     }
