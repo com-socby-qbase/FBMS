@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T10:12:30.073Z",
+    "generatedAt": "2026-05-29T11:26:51.418Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From non-league to Champions League - Raya's fairytale rise",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "'We're just humans' - how Littler's tears revealed impact of untold struggle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13548922/premier-league-darts-luke-littler-not-a-robot-as-teary-winners-interview-highlights-untold-emotions-faced-by-world-no-1",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Konate set to leave Liverpool on a free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Montreal fancied to land French Derby for O'Brien",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13549020/prix-du-jockey-club-montreal-fancied-to-land-french-derby-for-aidan-obrien",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Outrage at French Open after claims a match needed to be 'umpired by a man'",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Konate set to leave Liverpool on a free transfer",
+      "headline": "Torreense to play European football while in second division",
       "source": "BBC Sport",
-      "timeAgo": "24m",
-      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0pnglx218o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Hodgkinson targets 800m world record on home soil",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
+      "headline": "Rice, Shaw and McInnes among BBC Football Awards winners",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "French Open scores: Swiatek, Djokovic and Jodar in third-round action",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Torreense to play European football while in second division",
+      "headline": "Covid era gave Arteta space to revive Arsenal, says Kroenke",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0pnglx218o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/c62e157w9kro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Spurs thrash Thunder to take series to a Game 7 decider",
       "source": "Sky Sports",
@@ -86,62 +126,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Rice, Shaw and McInnes among BBC Football Awards winners",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Baltic Sea Darts Open: Schedule and results as Van Veen, Wade feature",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Covid era gave Arteta space to revive Arsenal, says Kroenke",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/c62e157w9kro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Alfaraz chases a first success at Chepstow",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13548720/today-on-sky-sports-racing-brighton-chepstow-and-wolverhampton-feature-live-on-friday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Spurs closing in on Bournemouth's Senesi",
+      "headline": "Volpato makes Italy to Australia switch before World Cup",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2r4vpy0ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Article/Blog",
-      "headline": "'Step forward' for Littler as Premier League champion reveals doubts",
+      "topic": "News Story",
+      "headline": "Baltic Sea Darts Open: Schedule and results as Van Veen, Wade feature",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548918/luke-littler-wayne-mardle-hails-premier-league-champion-for-opening-up-about-struggles-says-he-has-no-weaknesses",
+      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "'I didn't want to do it anymore' - emotional Littler reveals he nearly quit Premier League",
+      "headline": "Today on Sky Sports Racing: Alfaraz chases a first success at Chepstow",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
+      "url": "https://www.skysports.com/racing/news/12040/13548720/today-on-sky-sports-racing-brighton-chepstow-and-wolverhampton-feature-live-on-friday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "USA boss Pochettino holds talks with AC Milan",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c794gn7n955o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hussain questions England 'changing winning formula' in India loss",
+      "topic": "Article/Blog",
+      "headline": "'Step forward' for Littler as Premier League champion reveals doubts",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
+      "url": "https://www.skysports.com/darts/news/12040/13548918/luke-littler-wayne-mardle-hails-premier-league-champion-for-opening-up-about-struggles-says-he-has-no-weaknesses",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Messi to represent Argentina at sixth World Cup",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cr5p96l270ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Who is Ederson and what will he bring to Man Utd’s midfield?",
+      "headline": "'I didn't want to do it anymore' - emotional Littler reveals he nearly quit Premier League",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13548882/manchester-united-transfer-news-ederson-can-adapt-to-the-premier-league-and-be-flexible-for-michael-carrick",
+      "url": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
       "isFeatured": false,
       "hasAiSummary": false
     }
