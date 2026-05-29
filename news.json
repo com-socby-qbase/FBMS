@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T12:33:57.336Z",
+    "generatedAt": "2026-05-29T13:49:22.617Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "From non-league to Champions League - Raya's fairytale rise",
+    "headline": "From non-league to Champions League final - Raya's fairytale rise",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "McCullum and Stokes 'crystal clear' where they want to take England",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13549022/brendon-mccullum-exclusive-england-coach-on-ben-stokes-how-side-will-evolve-after-ashes-and-new-opener-emilio-gay",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Konate set to leave Liverpool on a free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Coventry latest: Torp signs new contract",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
+      "source": "BBC Sport",
+      "timeAgo": "13m",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Wolves agree deal to sign Trippier",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549042/kieran-trippier-wolves-agree-deal-to-sign-former-newcastle-defender",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
+      "source": "BBC Sport",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "'We're just humans' - how Littler's tears revealed impact of untold struggle",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Konate set to leave Liverpool on a free transfer",
+      "headline": "Trippier verbally agrees to Wolves move after Newcastle exit",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cewpr4yv0y5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Montreal fancied to land French Derby for O'Brien",
       "source": "Sky Sports",
@@ -46,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
+      "headline": "Torreense to play European football while in second division",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0pnglx218o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Konate's Liverpool exit an unwanted complication ahead of crucial window",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13548995/ibrahima-konates-liverpool-exit-summer-transfer-window-becomes-more-complicated-for-arne-slot",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Rice, Shaw and McInnes among BBC Football Awards winners",
+      "source": "BBC Sport",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Outrage at French Open after claims a match needed to be 'umpired by a man'",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Torreense to play European football while in second division",
+      "headline": "Covid era gave Arteta space to revive Arsenal, says Kroenke",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0pnglx218o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.com/sport/football/articles/c62e157w9kro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Hodgkinson targets 800m world record on home soil",
       "source": "Sky Sports",
@@ -86,19 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Rice, Shaw and McInnes among BBC Football Awards winners",
+      "headline": "Volpato makes Italy to Australia switch before World Cup",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "French Open scores: Swiatek, Djokovic and Jodar in third-round action",
+      "headline": "French Open scores: Djokovic and Jodar in third-round action as Swiatek wins",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/scores-schedule",
@@ -106,47 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Covid era gave Arteta space to revive Arsenal, says Kroenke",
-      "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.com/sport/football/articles/c62e157w9kro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Spurs thrash Thunder to take series to a Game 7 decider",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13548937/san-antonio-spurs-118-91-oklahoma-city-thunder-victor-wembanyama-leads-side-to-comfortable-win-in-sixth-game-and-send-series-to-decider",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Volpato makes Italy to Australia switch before World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Baltic Sea Darts Open: Schedule and results as Van Veen, Wade feature",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Champions League quiz: Can you name every finalist?",
       "source": "BBC Sport",
@@ -156,52 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Alfaraz chases a first success at Chepstow",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13548720/today-on-sky-sports-racing-brighton-chepstow-and-wolverhampton-feature-live-on-friday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "USA boss Pochettino holds talks with AC Milan",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c794gn7n955o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "'Step forward' for Littler as Premier League champion reveals doubts",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548918/luke-littler-wayne-mardle-hails-premier-league-champion-for-opening-up-about-struggles-says-he-has-no-weaknesses",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Messi to represent Argentina at sixth World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cr5p96l270ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'I didn't want to do it anymore' - emotional Littler reveals he nearly quit Premier League",
+      "headline": "Spurs thrash Thunder to take series to a Game 7 decider",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
+      "url": "https://www.skysports.com/nba/news/12040/13548937/san-antonio-spurs-118-91-oklahoma-city-thunder-victor-wembanyama-leads-side-to-comfortable-win-in-sixth-game-and-send-series-to-decider",
       "isFeatured": false,
       "hasAiSummary": false
     }
