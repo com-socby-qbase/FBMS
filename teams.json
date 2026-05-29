@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "generatedAt": "2026-05-29T05:46:48.983Z",
+    "source": "TheSportsDB",
+    "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
+  },
+  "teams": [
+    {
+      "code": "ALG",
+      "name": "Algeria",
+      "subName": "Desert Warriors"
+    },
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "subName": "White and Sky Blue"
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "subName": "Socceroos"
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "subName": "The Team"
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "subName": "Red Devils"
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia",
+      "subName": "Dragons"
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "subName": "Little Canary"
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "subName": "The Reds"
+    },
+    {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "subName": "Blue Sharks"
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "subName": "The Tricolor"
+    },
+    {
+      "code": "CRO",
+      "name": "Croatia",
+      "subName": "Blazers"
+    },
+    {
+      "code": "CUW",
+      "name": "Curaçao",
+      "subName": "Blue Wave"
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "subName": "The Representatives"
+    },
+    {
+      "code": "COD",
+      "name": "DR Congo",
+      "subName": "Leopards"
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "subName": "The Tricolors"
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "subName": "The Pharaohs"
+    },
+    {
+      "code": "ENG",
+      "name": "England",
+      "subName": "Three Lions"
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "subName": "The Blues"
+    },
+    {
+      "code": "GER",
+      "name": "Germany",
+      "subName": "The Team"
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "subName": "Black Stars"
+    },
+    {
+      "code": "HAI",
+      "name": "Haiti",
+      "subName": "Grenadiers"
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "subName": "National Team"
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "subName": "Lions of Mesopotamia"
+    },
+    {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "subName": "The Elephants"
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "subName": "Samurai Blue"
+    },
+    {
+      "code": "JOR",
+      "name": "Jordan",
+      "subName": "The Chivalrous Ones"
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "subName": "The Tricolor"
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "subName": "Atlas Lions"
+    },
+    {
+      "code": "NED",
+      "name": "Netherlands",
+      "subName": "Orange"
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealand",
+      "subName": "All Whites"
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "subName": "Red White Blue"
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "subName": "Canal Men"
+    },
+    {
+      "code": "PAR",
+      "name": "Paraguay",
+      "subName": "White and Red"
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "subName": "Team of the Shields"
+    },
+    {
+      "code": "QAT",
+      "name": "Qatar",
+      "subName": "The Maroons"
+    },
+    {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "subName": "Green Falcons"
+    },
+    {
+      "code": "SCO",
+      "name": "Scotland",
+      "subName": "Tartan Army"
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "subName": "Lions of Teranga"
+    },
+    {
+      "code": "RSA",
+      "name": "South Africa",
+      "subName": "Bafana Bafana"
+    },
+    {
+      "code": "KOR",
+      "name": "South Korea",
+      "subName": "Taegeuk Warriors"
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "subName": "The Red One"
+    },
+    {
+      "code": "SWE",
+      "name": "Sweden",
+      "subName": "Blue and Yellow"
+    },
+    {
+      "code": "SUI",
+      "name": "Switzerland",
+      "subName": "National Team"
+    },
+    {
+      "code": "TUN",
+      "name": "Tunisia",
+      "subName": "Eagles of Carthage"
+    },
+    {
+      "code": "TUR",
+      "name": "Türkiye",
+      "subName": "Crescent Stars"
+    },
+    {
+      "code": "USA",
+      "name": "United States",
+      "subName": "Stars and Stripes"
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "subName": "Sky Blue"
+    },
+    {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "subName": "White Wolves"
+    }
+  ]
+}

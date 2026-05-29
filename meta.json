@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-05-29T05:46:52.213Z",
+  "files": [
+    "teams.json",
+    "matches.json",
+    "standings/groups.json",
+    "news.json"
+  ],
+  "counts": {
+    "teams": 48,
+    "matches": 14,
+    "groups": 5,
+    "news": 20
+  }
+}

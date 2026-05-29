@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "generatedAt": "2026-05-29T05:43:12.681Z",
+    "source": "seed:MockData",
+    "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
+  },
+  "groups": [
+    {
+      "group": "Group A",
+      "table": [
+        {
+          "position": 1,
+          "teamCode": "SCO",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalDiff": 5,
+          "points": 9,
+          "qualifies": true,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 2,
+          "teamCode": "SEN",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goalDiff": 2,
+          "points": 7,
+          "qualifies": true,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": 3,
+          "teamCode": "UZB",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalDiff": -1,
+          "points": 3,
+          "qualifies": false,
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 4,
+          "teamCode": "PAR",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goalDiff": -4,
+          "points": 0,
+          "qualifies": false,
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Group B",
+      "table": [
+        {
+          "position": 1,
+          "teamCode": "RSA",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalDiff": 5,
+          "points": 9,
+          "qualifies": true,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 2,
+          "teamCode": "ESP",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goalDiff": 2,
+          "points": 7,
+          "qualifies": true,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": 3,
+          "teamCode": "MAR",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalDiff": -1,
+          "points": 3,
+          "qualifies": false,
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 4,
+          "teamCode": "NOR",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goalDiff": -4,
+          "points": 0,
+          "qualifies": false,
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Group C",
+      "table": [
+        {
+          "position": 1,
+          "teamCode": "SWE",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalDiff": 5,
+          "points": 9,
+          "qualifies": true,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 2,
+          "teamCode": "SUI",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goalDiff": 2,
+          "points": 7,
+          "qualifies": true,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": 3,
+          "teamCode": "NED",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalDiff": -1,
+          "points": 3,
+          "qualifies": false,
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 4,
+          "teamCode": "QAT",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goalDiff": -4,
+          "points": 0,
+          "qualifies": false,
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Group D",
+      "table": [
+        {
+          "position": 1,
+          "teamCode": "KOR",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalDiff": 5,
+          "points": 9,
+          "qualifies": true,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 2,
+          "teamCode": "KSA",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goalDiff": 2,
+          "points": 7,
+          "qualifies": true,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": 3,
+          "teamCode": "USA",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalDiff": -1,
+          "points": 3,
+          "qualifies": false,
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 4,
+          "teamCode": "URU",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goalDiff": -4,
+          "points": 0,
+          "qualifies": false,
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Group E",
+      "table": [
+        {
+          "position": 1,
+          "teamCode": "TUN",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalDiff": 5,
+          "points": 9,
+          "qualifies": true,
+          "form": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 2,
+          "teamCode": "TUR",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goalDiff": 2,
+          "points": 7,
+          "qualifies": true,
+          "form": [
+            "W",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": 3,
+          "teamCode": "NZL",
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalDiff": -1,
+          "points": 3,
+          "qualifies": false,
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "position": 4,
+          "teamCode": "CRO",
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goalDiff": -4,
+          "points": 0,
+          "qualifies": false,
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    }
+  ]
+}
