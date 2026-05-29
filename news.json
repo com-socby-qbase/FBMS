@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T22:18:27.240Z",
+    "generatedAt": "2026-05-29T22:57:27.677Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
     "source": "BBC Sport",
-    "timeAgo": "56m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Barcelona move a dream for Gordon 'since he was three'",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Mourinho signs three-year deal to return as Real boss",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Djokovic says he doesn't know if he will play French Open in 2027",
+      "headline": "Papers: Man Utd have £250m to spend - but Leao to turn down summer PL move",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549173/novak-djokovic-says-he-doesnt-know-if-he-will-return-to-play-at-the-french-open-next-year-after-losing-to-joao-fonseca",
+      "url": "https://www.skysports.com/football/news/12040/13549123/x-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Boyd & Sutton reveal their Scottish Premiership team of the season!",
+      "topic": "News Story",
+      "headline": "Djokovic says he doesn't know if he will play French Open in 2027",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13548989/scottish-premiership-hearts-motherwell-dominate-as-sky-sports-kris-boyd-and-chris-sutton-pick-their-team-of-the-season",
+      "url": "https://www.skysports.com/tennis/news/12040/13549173/novak-djokovic-says-he-doesnt-know-if-he-will-return-to-play-at-the-french-open-next-year-after-losing-to-joao-fonseca",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
+      "topic": "Video",
+      "headline": "Boyd & Sutton reveal their Scottish Premiership team of the season!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
+      "url": "https://www.skysports.com/watch/video/13548989/scottish-premiership-hearts-motherwell-dominate-as-sky-sports-kris-boyd-and-chris-sutton-pick-their-team-of-the-season",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Unmissable! Why Thunder-Spurs decider is the biggest game of the NBA season",
+      "headline": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13549081/oklahoma-city-thunder-vs-san-antonio-spurs-game-7-why-victor-wembanyama-and-shai-gilgeous-alexander-clash-is-unmissable",
+      "url": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Arsenal ready to take their shot at immortality",
+      "headline": "Unmissable! Why Thunder-Spurs decider is the biggest game of the NBA season",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549001/arsenal-ready-to-take-shot-at-immortality-in-champions-league-final-against-psg-but-which-side-has-the-edge",
+      "url": "https://www.skysports.com/nba/news/12040/13549081/oklahoma-city-thunder-vs-san-antonio-spurs-game-7-why-victor-wembanyama-and-shai-gilgeous-alexander-clash-is-unmissable",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Konate set to leave Liverpool on a free transfer",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Mercedes pull out of talks to buy stake in F1 rivals Alpine",
+      "headline": "French Open bosses to make 'adjustments' to advertising boards after incidents",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13549162/mercedes-pull-out-of-talks-to-buy-minority-stake-in-f1-rivals-alpine-after-deeming-valuation-to-be-too-expensive",
+      "url": "https://www.skysports.com/tennis/news/12040/13549193/french-open-organisers-to-make-adjustments-to-advertising-boards-on-court-after-katie-boulter-and-other-players-call-for-action",
       "isFeatured": false,
       "hasAiSummary": false
     }
