@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T19:51:35.056Z",
+    "generatedAt": "2026-05-29T20:51:18.150Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Barcelona sign Gordon in £69m-plus deal from Newcastle",
     "source": "BBC Sport",
-    "timeAgo": "20m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Mourinho signs three-year deal to return as Real boss",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Arsenal's Timber fit to start Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "From non-league to Champions League final - Raya's fairytale rise",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,13 +90,33 @@
       "topic": "News",
       "headline": "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
       "source": "BBC Sport",
-      "timeAgo": "41m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Djokovic says he doesn't know if he will play French Open in 2027",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13549173/novak-djokovic-says-he-doesnt-know-if-he-will-return-to-play-at-the-french-open-next-year-after-losing-to-joao-fonseca",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Bristol City appoint Lincoln boss Skubala",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Boyd & Sutton reveal their Scottish Premiership team of the season!",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Bristol City appoint Lincoln boss Skubala",
+      "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Every VAR error: How Arsenal escaped red cards and penalties",
+      "headline": "Konate set to leave Liverpool on a free transfer",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzl2gmvrzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Unmissable! Why Thunder-Spurs decider is the biggest game of the NBA season",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Konate set to leave Liverpool on a free transfer",
+      "headline": "Man Utd want AC Milan winger Leao - Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2m",
+      "url": "https://www.bbc.com/sport/football/articles/c2k278gd02qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Arsenal ready to take their shot at immortality",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Clarke sure he's best man for Scots after new deal",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "McCullum and Stokes 'crystal clear' how they want to take England forward",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/news/12040/13549022/brendon-mccullum-exclusive-england-coach-on-ben-stokes-how-side-will-evolve-after-ashes-and-new-opener-emilio-gay",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Champions League final still not free to air despite pressure",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Coventry latest: Thomas and Torp sign new contracts",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
