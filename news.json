@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T23:08:16.242Z",
+    "generatedAt": "2026-05-30T23:36:50.269Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
     "source": "BBC Sport",
-    "timeAgo": "44m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "PSG go back-to-back and join 'greatest of all time'",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "22m",
+      "timeAgo": "50m",
       "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Liverpool sack head coach Slot and approach Iraola",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Sterling arrested on suspicion of drug-driving",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
