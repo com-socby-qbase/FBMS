@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T20:14:37.405Z",
+    "generatedAt": "2026-05-30T20:38:20.641Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "PSG go back-to-back and join 'greatest of all time'",
     "source": "BBC Sport",
-    "timeAgo": "42m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Liverpool sack head coach Slot and approach Iraola",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,9 +48,9 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "PSG retain Champions League after penalty shootout win over Arsenal",
+      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "40m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "57m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
-      "timeAgo": "40m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Sterling arrested on suspicion of drug-driving",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Rabonas & fake births - Chelsea win World Sevens",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Scotland injury blow as Gilmour ruled out of World Cup",
+      "headline": "'Cruel' Champions League defeat won't define us, says Rice",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
+      "url": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
       "isFeatured": false,
       "hasAiSummary": false
     }
