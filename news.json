@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T15:09:48.880Z",
+    "generatedAt": "2026-05-30T15:42:46.097Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool sack head coach Slot and approach Iraola",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "A team in need of change - why Liverpool parted with Slot",
+      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
       "source": "BBC Sport",
-      "timeAgo": "31m",
-      "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Clarke '100% worried' about Gilmour injury",
+      "headline": "A team in need of change - why Liverpool parted with Slot",
       "source": "BBC Sport",
-      "timeAgo": "16m",
-      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The tactics that could win Arsenal the Champions League",
+      "headline": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,15 +108,35 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Rabonas & fake births - Chelsea win World Sevens",
+      "headline": "The tactics that could win Arsenal the Champions League",
       "source": "BBC Sport",
-      "timeAgo": "38m",
-      "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Challenge Cup Finals LIVE! Wigan in control against Hull KR",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Rabonas & fake births - Chelsea win World Sevens",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
       "source": "Sky Sports",
@@ -126,32 +146,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan lead KR in tight clash with star-man Lewis an injury worry",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Budapest police investigating fan brawl before Champions League final",
+      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Barcelona move a dream for Gordon 'since he was three'",
+      "headline": "Budapest police investigating fan brawl before Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Sterling arrested on suspicion of drug driving",
+      "topic": "Video",
+      "headline": "'It hurts' - Cunningham reflects on Challenge Cup final defeat",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549234/raheem-sterling-former-england-international-arrested-on-suspicion-of-drug-driving-sky-news-understands",
+      "url": "https://www.skysports.com/watch/video/13549330/st-helens-jodie-cunningham-reflects-on-challenge-cup-defeat-to-wigan-and-her-own-legacy",
       "isFeatured": false,
       "hasAiSummary": false
     }
