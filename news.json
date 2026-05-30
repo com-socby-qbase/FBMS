@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T16:37:55.197Z",
+    "generatedAt": "2026-05-30T17:09:55.925Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "England closing on T20 victory over India in Bristol LIVE!",
+      "topic": "News Story",
+      "headline": "Ukraine's Oliynykova condemns 'evil' war after loss to Russia's Shnaider",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
+      "url": "https://www.skysports.com/tennis/news/12040/13549353/ukraines-oleksandra-oliynykova-condemns-evil-war-after-french-open-loss-to-russias-diana-shnaider",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Sterling arrested on suspicion of drug-driving",
       "source": "BBC Sport",
-      "timeAgo": "12m",
+      "timeAgo": "44m",
       "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Clarke 'praying' Gilmour makes World Cup",
+      "topic": "Liveblog",
+      "headline": "England seal T20 victory over India in Bristol LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
+      "headline": "Clarke 'praying' Gilmour makes World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
+      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "A team in need of change - why Liverpool parted with Slot",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Dominant Wigan thrash St Helens in Women's Challenge Cup final",
+      "topic": "News Story",
+      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63831",
+      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,18 +110,18 @@
       "topic": "News",
       "headline": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
+      "topic": "Report",
+      "headline": "Dominant Wigan thrash St Helens in Women's Challenge Cup final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "url": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63831",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "Report",
-      "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
+      "topic": "Article/Blog",
+      "headline": "Redknapp: Player power contributed to Slot exit, but Iraola can handle pressure",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
+      "url": "https://www.skysports.com/football/news/12040/13549327/arne-slot-sacked-by-liverpool-jamie-redknapp-claims-player-power-contributed-to-dutchmans-dismissal-but-backs-andoni-iraola-to-handle-pressure",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan beat Hull KR 40-10 to reclaim trophy",
+      "topic": "News Story",
+      "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
+      "topic": "Report",
+      "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13549252/vaibhav-sooryavanshi-is-ipl-wonderkid-15-best-t20-opener-in-the-world-and-do-india-have-to-pick-him-for-england-series",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "From London to Kansas... Arsenal fans celebrate Havertz opener!",
+      "topic": "Liveblog",
+      "headline": "Challenge Cup Finals reaction LIVE! Wigan beat Hull KR 40-10 to reclaim trophy",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549356/champions-league-arsenal-fans-celebrate-kai-havertz-opener",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
       "isFeatured": false,
       "hasAiSummary": false
     }
