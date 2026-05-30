@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T10:15:19.482Z",
+    "generatedAt": "2026-05-30T11:01:00.216Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "The tactics that could win Arsenal the Champions League",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Build-up to the action at Wembley",
+      "headline": "Scotland vs Curacao LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Challenge Cup Finals LIVE! Wigan Warriors Women strike first vs St Helens",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Sterling arrested on suspicion of drug driving",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
+      "headline": "Budapest police investigating fan brawl before Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Netball Super League 2026 - results and fixtures",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Barcelona move a dream for Gordon 'since he was three'",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Walcott: Arteta is going to continue to dominate",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Davies in 'best ever' Canada squad for World Cup",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Netball Super League: Mavericks host Dragons as playoffs approach",
       "source": "Sky Sports",
@@ -126,42 +146,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Mourinho signs three-year deal to return as Real boss",
       "source": "BBC Sport",
-      "timeAgo": "18h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arsenal's Timber fit to start Champions League final",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Chester specialist Roman Dragon headlines Roodee feature",
+      "headline": "London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13548700/today-on-sky-sports-racing-chester-specialist-roman-dragon-headlines-feature-race-on-roodee-with-lingfield-also-live-on-saturday",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Hussain questions England 'changing winning formula' in India loss",
+      "headline": "Today on Sky Sports Racing: Chester specialist Roman Dragon headlines Roodee feature",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
+      "url": "https://www.skysports.com/racing/news/12040/13548700/today-on-sky-sports-racing-chester-specialist-roman-dragon-headlines-feature-race-on-roodee-with-lingfield-also-live-on-saturday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
+      "topic": "News Story",
+      "headline": "Hussain questions England 'changing winning formula' in India loss",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
+      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     }
