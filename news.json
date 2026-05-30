@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T15:42:46.097Z",
+    "generatedAt": "2026-05-30T16:11:49.503Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
+      "headline": "Clarke 'praying' Gilmour makes World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
+      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Late Kemp cameo key as England set India 169 to win second T20 LIVE!",
+      "topic": "News Story",
+      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
+      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
       "source": "BBC Sport",
-      "timeAgo": "28m",
+      "timeAgo": "57m",
       "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Report",
-      "headline": "Dominant Wigan thrash St Helens in Women's Challenge Cup final",
+      "topic": "Liveblog",
+      "headline": "India two down chasing 169 to clinch T20 series against England LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63831",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
+      "topic": "Report",
+      "headline": "Dominant Wigan thrash St Helens in Women's Challenge Cup final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "url": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63831",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "49m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
+      "topic": "News Story",
+      "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
+      "url": "https://www.skysports.com/tennis/scores-schedule",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan in control against Hull KR",
+      "topic": "Report",
+      "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
+      "topic": "Liveblog",
+      "headline": "Challenge Cup Finals LIVE! Wigan in cruise control vs KR as French makes his return",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13549252/vaibhav-sooryavanshi-is-ipl-wonderkid-15-best-t20-opener-in-the-world-and-do-india-have-to-pick-him-for-england-series",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Slot sacked with Iraola frontrunner for Liverpool job",
+      "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
+      "url": "https://www.skysports.com/cricket/news/12040/13549252/vaibhav-sooryavanshi-is-ipl-wonderkid-15-best-t20-opener-in-the-world-and-do-india-have-to-pick-him-for-england-series",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "World Sevens tournament continues live on Sky Sports",
+      "headline": "Slot sacked with Iraola frontrunner for Liverpool job",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
+      "url": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'It hurts' - Cunningham reflects on Challenge Cup final defeat",
+      "topic": "News Story",
+      "headline": "Chelsea beat Man Utd in 11-goal thriller to win World Sevens",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549330/st-helens-jodie-cunningham-reflects-on-challenge-cup-defeat-to-wigan-and-her-own-legacy",
+      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
       "isFeatured": false,
       "hasAiSummary": false
     }
