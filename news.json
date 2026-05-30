@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T21:08:40.896Z",
+    "generatedAt": "2026-05-30T21:37:01.941Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "PSG go back-to-back and join 'greatest of all time'",
+    "headline": "Watch: Champions League Match of the Day",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "0m",
+    "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Liverpool sack head coach Slot and approach Iraola",
+      "headline": "PSG go back-to-back and join 'greatest of all time'",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
+      "headline": "Liverpool sack head coach Slot and approach Iraola",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Slot sacking completes a remarkable fall from grace",
+      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
+      "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Gabriel blazes penalty over as PSG win Champions League",
+      "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18m",
+      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Sterling arrested on suspicion of drug-driving",
+      "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
+      "headline": "Sterling arrested on suspicion of drug-driving",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "A team in need of change - why Liverpool parted with Slot",
+      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
       "source": "BBC Sport",
       "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rabonas & fake births - Chelsea win World Sevens",
+      "headline": "A team in need of change - why Liverpool parted with Slot",
       "source": "BBC Sport",
       "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
