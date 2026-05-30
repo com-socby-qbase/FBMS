@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T11:01:00.216Z",
+    "generatedAt": "2026-05-30T11:46:05.179Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The tactics that could win Arsenal the Champions League",
+    "headline": "Liverpool sack head coach Slot",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "15m",
+    "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Scotland vs Curacao LIVE!",
+      "headline": "Gordon and Gannon-Doak start for Scotland vs Curacao LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
@@ -28,17 +28,37 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
+      "headline": "The tactics that could win Arsenal the Champions League",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Slot sacked by Liverpool",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan Warriors Women strike first vs St Helens",
+      "headline": "Challenge Cup Finals LIVE! Wigan Warriors dominating vs St Helens",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
@@ -46,7 +66,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
@@ -56,7 +76,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Sterling arrested on suspicion of drug driving",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Budapest police investigating fan brawl before Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "24m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Netball Super League 2026 - results and fixtures",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Barcelona move a dream for Gordon 'since he was three'",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Walcott: Arteta is going to continue to dominate",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Davies in 'best ever' Canada squad for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Netball Super League: Mavericks host Dragons as playoffs approach",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Mourinho signs three-year deal to return as Real boss",
       "source": "BBC Sport",
-      "timeAgo": "19h",
+      "timeAgo": "20h",
       "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "From non-league to Champions League final - Raya's fairytale rise",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Chester specialist Roman Dragon headlines Roodee feature",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/racing/news/12040/13548700/today-on-sky-sports-racing-chester-specialist-roman-dragon-headlines-feature-race-on-roodee-with-lingfield-also-live-on-saturday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Hussain questions England 'changing winning formula' in India loss",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     }
