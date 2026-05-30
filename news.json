@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T13:11:28.635Z",
+    "generatedAt": "2026-05-30T13:55:26.611Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool sack head coach Slot and approach Iraola",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England look to level T20I series with India in Bristol LIVE!",
+      "headline": "England batting first in second T20 vs India in Bristol LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "The tactics that could win Arsenal the Champions League",
+      "headline": "Lacking Klopp's authority - why Liverpool parted with Slot",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "31m",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,35 +68,15 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
+      "headline": "The tactics that could win Arsenal the Champions League",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Curtis equalises for Scotland against 10-player Curacao LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
       "source": "Sky Sports",
@@ -106,12 +86,32 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
+      "source": "BBC Sport",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Shankland double puts Scotland in control against 10-player Curacao LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Budapest police investigating fan brawl before Champions League final",
+      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Barcelona move a dream for Gordon 'since he was three'",
+      "headline": "Budapest police investigating fan brawl before Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,15 +148,35 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
+      "headline": "Barcelona move a dream for Gordon 'since he was three'",
       "source": "BBC Sport",
       "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "World Sevens tournament continues live on Sky Sports",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
+      "source": "BBC Sport",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Sterling arrested on suspicion of drug driving",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Davies in 'best ever' Canada squad for World Cup",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Netball Super League 2026 - results and fixtures",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/netball/news/12040/13441713/netball-super-league-2026-fixtures-results-teams-and-dates-for-season-two-of-revamped-competition",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Mourinho signs three-year deal to return as Real boss",
-      "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Walcott: Arteta is going to continue to dominate",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott",
       "isFeatured": false,
       "hasAiSummary": false
     }
