@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T13:55:26.611Z",
+    "generatedAt": "2026-05-30T14:35:52.419Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool sack head coach Slot and approach Iraola",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England batting first in second T20 vs India in Bristol LIVE!",
+      "headline": "England lose third wicket in slow-scoring second T20 vs India LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,9 +48,9 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Lacking Klopp's authority - why Liverpool parted with Slot",
+      "headline": "A team in need of change - why Liverpool parted with Slot",
       "source": "BBC Sport",
-      "timeAgo": "31m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "French Open scores: Osaka wins before Sabalenka, Gauff in action",
+      "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/scores-schedule",
@@ -70,13 +70,33 @@
       "topic": "News",
       "headline": "The tactics that could win Arsenal the Champions League",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "Report",
+      "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Rabonas & fake births - Chelsea win World Sevens",
+      "source": "BBC Sport",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
       "source": "Sky Sports",
@@ -86,32 +106,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Shankland double puts Scotland in control against 10-player Curacao LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,17 +128,17 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Budapest police investigating fan brawl before Champions League final",
+      "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan vs Hull KR next after Warriors win Women's title",
+      "headline": "Challenge Cup Finals LIVE! Wigan score controversial opener vs Hull KR",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Barcelona move a dream for Gordon 'since he was three'",
+      "headline": "Budapest police investigating fan brawl before Champions League final",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
+      "headline": "Barcelona move a dream for Gordon 'since he was three'",
       "source": "BBC Sport",
       "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Davies in 'best ever' Canada squad for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
