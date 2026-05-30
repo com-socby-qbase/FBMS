@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T09:27:19.902Z",
+    "generatedAt": "2026-05-30T10:15:19.482Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Netball Super League 2026 - results and fixtures",
+      "topic": "Liveblog",
+      "headline": "Challenge Cup Finals LIVE! Build-up to the action at Wembley",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13441713/netball-super-league-2026-fixtures-results-teams-and-dates-for-season-two-of-revamped-competition",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Walcott: Arteta is going to continue to dominate",
+      "headline": "Sterling arrested on suspicion of drug driving",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott",
+      "url": "https://www.skysports.com/football/news/12040/13549234/raheem-sterling-former-england-international-arrested-on-suspicion-of-drug-driving-sky-news-understands",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,13 +50,53 @@
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Netball Super League 2026 - results and fixtures",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/netball/news/12040/13441713/netball-super-league-2026-fixtures-results-teams-and-dates-for-season-two-of-revamped-competition",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Barcelona move a dream for Gordon 'since he was three'",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Walcott: Arteta is going to continue to dominate",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
+      "source": "BBC Sport",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
       "source": "Sky Sports",
@@ -66,62 +106,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Barcelona move a dream for Gordon 'since he was three'",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Netball Super League: Mavericks host Dragons as playoffs approach",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Celtic penalty right, Hearts wrongly denied - SFA",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2q5nqez3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Davies in 'best ever' Canada squad for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Chester specialist Roman Dragon headlines Roodee feature",
+      "topic": "Liveblog",
+      "headline": "Netball Super League: Mavericks host Dragons as playoffs approach",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13548700/today-on-sky-sports-racing-chester-specialist-roman-dragon-headlines-feature-race-on-roodee-with-lingfield-also-live-on-saturday",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Hussain questions England 'changing winning formula' in India loss",
+      "headline": "London's calling! Wigan, Hull KR, and St Helens look to become Wembley immortals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13548142/londons-calling-how-wigan-warriors-hull-kr-and-st-helens-are-looking-to-become-wembley-immortals-rugby-league-style",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Chester specialist Roman Dragon headlines Roodee feature",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
+      "url": "https://www.skysports.com/racing/news/12040/13548700/today-on-sky-sports-racing-chester-specialist-roman-dragon-headlines-feature-race-on-roodee-with-lingfield-also-live-on-saturday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Englishman Smith tops leaderboard at Charles Schwab Challenge",
+      "topic": "News Story",
+      "headline": "Hussain questions England 'changing winning formula' in India loss",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549201/charles-schwab-challenge-day-two-highlights",
+      "url": "https://www.skysports.com/cricket/news/12040/13548902/england-vs-india-nasser-hussain-confused-by-charlotte-edwards-sides-selection-in-38-run-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Serrano targets knockout record in Hanson title clash",
+      "topic": "Liveblog",
+      "headline": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13548331/mvp-boxing-amando-serrano-targets-christie-martins-knockout-record-in-cheyenne-hanson-featherweight-title-clash",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
       "isFeatured": false,
       "hasAiSummary": false
     }
