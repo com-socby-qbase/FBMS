@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T22:35:31.390Z",
+    "generatedAt": "2026-05-30T23:08:16.242Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Why crucial penalty miss was 'cruel blow' for Arsenal standout Gabriel",
+    "headline": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
     "source": "BBC Sport",
-    "timeAgo": "12m",
+    "timeAgo": "44m",
     "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Report",
-      "headline": "Arsenal suffer penalty heartbreak as PSG win Champions League final",
+      "headline": "Arsenal suffer penalty heartache as PSG win Champions League final",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Liverpool sack head coach Slot and approach Iraola",
+      "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22m",
+      "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
+      "headline": "Liverpool sack head coach Slot and approach Iraola",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Slot sacking completes a remarkable fall from grace",
+      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
+      "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Gabriel blazes penalty over as PSG win Champions League",
+      "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Sterling arrested on suspicion of drug-driving",
+      "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
+      "headline": "Sterling arrested on suspicion of drug-driving",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rabonas & fake births - Chelsea win World Sevens",
+      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Cruel' Champions League defeat won't define us, says Rice",
+      "headline": "Papers: Liverpool U-turn for Salah now Slot is gone?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
+      "url": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
