@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T18:39:51.254Z",
+    "generatedAt": "2026-05-30T19:10:31.318Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Ukraine's Oliynykova condemns 'evil' war after loss to Russia's Shnaider",
+      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549353/ukraines-oleksandra-oliynykova-condemns-evil-war-after-french-open-loss-to-russias-diana-shnaider",
+      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,18 +130,18 @@
       "topic": "News",
       "headline": "Watch Scotland put four past Curacao in World Cup send-off",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/videos/c5yemvvd199o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "How England set up T20 decider vs India with victory in Bristol",
+      "topic": "News Story",
+      "headline": "Ukraine's Oliynykova condemns 'evil' war after loss to Russia's Shnaider",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
+      "url": "https://www.skysports.com/tennis/news/12040/13549353/ukraines-oleksandra-oliynykova-condemns-evil-war-after-french-open-loss-to-russias-diana-shnaider",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "How does Iraola's style of play compare to Klopp and Slot?",
+      "topic": "Liveblog",
+      "headline": "How England set up T20 decider vs India with victory in Bristol",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549367/premier-league-how-does-andoni-iraolas-style-of-play-compare-to-jurgen-klopp-and-arne-slot",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Clarke 'praying' Gilmour makes World Cup",
+      "topic": "Video",
+      "headline": "How does Iraola's style of play compare to Klopp and Slot?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "url": "https://www.skysports.com/watch/video/13549367/premier-league-how-does-andoni-iraolas-style-of-play-compare-to-jurgen-klopp-and-arne-slot",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
+      "headline": "Peet tells Wigan to enjoy Challenge Cup celebrations - 'go as hard as you can'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13549323/wigan-coach-matt-peet-tells-warriors-to-enjoy-challenge-cup-celebrations-after-win-over-hull-kr-at-wembley",
       "isFeatured": false,
       "hasAiSummary": false
     }
