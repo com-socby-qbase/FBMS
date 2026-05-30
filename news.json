@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T16:11:49.503Z",
+    "generatedAt": "2026-05-30T16:37:55.197Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool sack head coach Slot and approach Iraola",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Clarke 'praying' Gilmour makes World Cup",
+      "topic": "Report",
+      "headline": "Wigan cruise to Challenge Cup win over Hull KR",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "url": "https://www.skysports.com/rugby-league/wigan-vs-hull-k-r/report/64135",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,6 +37,46 @@
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "England closing on T20 victory over India in Bristol LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Sterling arrested on suspicion of drug-driving",
+      "source": "BBC Sport",
+      "timeAgo": "12m",
+      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Clarke 'praying' Gilmour makes World Cup",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
       "source": "Sky Sports",
@@ -46,27 +86,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
-      "source": "BBC Sport",
-      "timeAgo": "57m",
-      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "India two down chasing 169 to clinch T20 series against England LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13549268/england-vs-india-second-womens-t20-live-score-updates-video-and-analysis-from-bristol-as-t20-world-cup-prep-continues",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "A team in need of change - why Liverpool parted with Slot",
       "source": "BBC Sport",
@@ -76,7 +96,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Dominant Wigan thrash St Helens in Women's Challenge Cup final",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "French Open scores: Gauff in action after wins for Osaka, Sabalenka",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "The tactics that could win Arsenal the Champions League",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
       "source": "Sky Sports",
@@ -126,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Rabonas & fake births - Chelsea win World Sevens",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Challenge Cup Finals LIVE! Wigan in cruise control vs KR as French makes his return",
+      "headline": "Challenge Cup Finals LIVE! Wigan beat Hull KR 40-10 to reclaim trophy",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13548129/challenge-cup-finals-live-updates-scores-commentary-from-wembley-with-wigan-warriors-hull-kr-st-helens-women-and-wigan-warriors-women-in-action",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "From 'bling-bling' & disputes to unity: The transformation of PSG",
       "source": "BBC Sport",
-      "timeAgo": "18h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Is IPL wonderkid Sooryavanshi the best T20 opener in the world?",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Slot sacked with Iraola frontrunner for Liverpool job",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Budapest police investigating fan brawl before Champions League final",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Chelsea beat Man Utd in 11-goal thriller to win World Sevens",
+      "topic": "Video",
+      "headline": "From London to Kansas... Arsenal fans celebrate Havertz opener!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
+      "url": "https://www.skysports.com/watch/video/13549356/champions-league-arsenal-fans-celebrate-kai-havertz-opener",
       "isFeatured": false,
       "hasAiSummary": false
     }
