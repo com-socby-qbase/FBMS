@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T08:21:01.412Z",
+    "generatedAt": "2026-05-31T09:32:21.675Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
     "source": "BBC Sport",
-    "timeAgo": "9h",
+    "timeAgo": "11h",
     "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "PSG go back-to-back and join 'greatest of all time'",
+      "headline": "Fletcher chosen to replace Gilmour in Scotland squad",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.com/sport/football/articles/cn8pmj99jk7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
+      "headline": "PSG go back-to-back and join 'greatest of all time'",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Hundreds arrested in France after wild Champions League celebrations",
+      "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,15 +88,35 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Brighton's Vidosic hopes to honour late father in FA Cup final",
+      "headline": "Hundreds arrested in France after wild Champions League celebrations",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/czx22r4pn6xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Carra: An elite manager would have fixed Liverpool",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549469/arne-slots-liverpool-sacking-a-shock-but-an-elite-manager-would-have-fixed-club-last-season-says-jamie-carragher",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Brighton's Vidosic hopes to honour late father in FA Cup final",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/czx22r4pn6xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Wigan cruise to Challenge Cup win over Hull KR",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "England level series with India after Kemp’s late cameo",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Hilarious moment golfer FALLS OVER after hitting bunker shot!",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Hundreds arrested in France as clashes disrupt PSG celebrations",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Shankland and Curtis make World Cup move - but will Clarke respond?",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Ukraine's Oliynykova condemns 'evil' war after loss to Russia's Shnaider",
+      "headline": "Osaka sparkles again to set up Sabalenka clash at French Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549353/ukraines-oleksandra-oliynykova-condemns-evil-war-after-french-open-loss-to-russias-diana-shnaider",
+      "url": "https://www.skysports.com/tennis/news/12040/13549310/french-open-naomi-osaka-sets-up-aryna-sabalenka-clash-in-fourth-round-as-pair-progress-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     }
