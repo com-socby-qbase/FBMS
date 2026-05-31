@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T15:45:16.330Z",
+    "generatedAt": "2026-05-31T16:29:53.291Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Baltic Sea Darts Open: Schedule and results as top seeds Van Veen, Wade dumped out",
+      "topic": "Report",
+      "headline": "Man City sweep past Brighton in FA Cup final to complete domestic double",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-manchester-city-women/report/555728",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Sabalenka vs Osaka to play first French Open women's night match for three years",
+      "topic": "Video",
+      "headline": "Japan's Kaneko secures maiden DP World Tour in Austria",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549540/french-open-aryna-sabalenka-and-naomi-osaka-to-meet-in-first-womens-night-time-slot-at-roland-garros-since-2023",
+      "url": "https://www.skysports.com/watch/video/13549565/austrian-alpine-open-day-four-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Uruguay pick Man Utd's Ugarte but Suarez left out",
       "source": "BBC Sport",
-      "timeAgo": "27m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "All today's cricket scorecards, including IPL and Vitality Blast",
+      "headline": "Baltic Sea Darts Open: Schedule and results as top seeds Van Veen, Wade dumped out",
       "source": "Sky Sports",
-      "timeAgo": "73d",
-      "url": "https://www.skysports.com/cricket/scores-fixtures",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,6 +77,46 @@
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Sabalenka vs Osaka to play first French Open women's night match for three years",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13549540/french-open-aryna-sabalenka-and-naomi-osaka-to-meet-in-first-womens-night-time-slot-at-roland-garros-since-2023",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Zidane and Mahrez in Algeria World Cup squad",
+      "source": "BBC Sport",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.com/sport/football/articles/c62rjrpmj4po?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "All today's cricket scorecards, including IPL and Vitality Blast",
+      "source": "Sky Sports",
+      "timeAgo": "73d",
+      "url": "https://www.skysports.com/cricket/scores-fixtures",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Chelsea set to sign McCabe following Arsenal exit",
+      "source": "BBC Sport",
+      "timeAgo": "27m",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "World Cup latest: Scotland call up Man Utd teenager to replace Gilmour",
       "source": "Sky Sports",
@@ -86,67 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "PSG go back-to-back and join 'greatest of all time'",
-      "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Constitution River goes for French Derby glory at Chantilly",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13549069/today-on-sky-sports-racing-constitution-river-goes-for-french-derby-glory-at-chantilly",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Report",
-      "headline": "Arsenal suffer penalty heartache as PSG win Champions League final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Slot sacking completes a remarkable fall from grace",
-      "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Defending champion Gauff suffers shock third-round exit at French Open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549375/coco-gauff-french-open-defending-champion-suffers-shock-third-round-exit-to-anastasia-potapova-at-roland-garros",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Gabriel blazes penalty over as PSG win Champions League",
       "source": "BBC Sport",
@@ -156,52 +136,72 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Youthful Wigan surpass St Helens in clear power shift – 'Change is coming at Saints'",
+      "headline": "Constitution River goes for French Derby glory at Chantilly",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13549291/womens-challenge-cup-final-youthful-wigan-warriors-surpass-st-helens-in-clear-power-shift-8211-change-is-coming-at-saints",
+      "url": "https://www.skysports.com/racing/news/12040/13549069/today-on-sky-sports-racing-constitution-river-goes-for-french-derby-glory-at-chantilly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Slot sacking completes a remarkable fall from grace",
+      "source": "BBC Sport",
+      "timeAgo": "1d",
+      "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "Report",
+      "headline": "Arsenal suffer penalty heartache as PSG win Champions League final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Scotland set off for World Cup - in pictures",
+      "headline": "Wales call up teenage Leeds left-back Lienou",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzyvd994mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14m",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7ezgqzelo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Carra: An elite manager would have fixed Liverpool",
+      "headline": "Defending champion Gauff suffers shock third-round exit at French Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549469/arne-slots-liverpool-sacking-a-shock-but-an-elite-manager-would-have-fixed-club-last-season-says-jamie-carragher",
+      "url": "https://www.skysports.com/tennis/news/12040/13549375/coco-gauff-french-open-defending-champion-suffers-shock-third-round-exit-to-anastasia-potapova-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England players advised to holiday in US pre-World Cup",
+      "headline": "PSG go back-to-back and join 'greatest of all time'",
       "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.com/sport/football/articles/c7590xxlq7po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20h",
+      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Wigan cruise to Challenge Cup win over Hull KR",
+      "topic": "News Story",
+      "headline": "Youthful Wigan surpass St Helens in clear power shift – 'Change is coming at Saints'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/wigan-vs-hull-k-r/report/64135",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13549291/womens-challenge-cup-final-youthful-wigan-warriors-surpass-st-helens-in-clear-power-shift-8211-change-is-coming-at-saints",
       "isFeatured": false,
       "hasAiSummary": false
     }
