@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T21:36:34.248Z",
+    "generatedAt": "2026-05-31T22:08:40.816Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool to open formal talks with Iraola",
     "source": "BBC Sport",
-    "timeAgo": "31m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Man City's future looks bright - and Shaw's role is key",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Goalkeeper tactical timeouts to be banned at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Konate expresses sadness over Liverpool exit",
+      "headline": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
+      "headline": "Konate expresses sadness over Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Is SWPL momentum with Celtic after Scottish Cup win?",
+      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
       "source": "BBC Sport",
-      "timeAgo": "48m",
-      "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Uruguay pick Man Utd's Ugarte but Suarez left out",
+      "headline": "Is SWPL momentum with Celtic after Scottish Cup win?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
