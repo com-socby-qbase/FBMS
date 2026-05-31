@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T14:40:41.279Z",
+    "generatedAt": "2026-05-31T15:12:30.210Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
     "source": "BBC Sport",
-    "timeAgo": "44m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "England level series with India after Kemp’s late cameo",
+      "headline": "'Wow!' | RCB make rapid start by taking out Gill and Sudharsan in back-to-back overs",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549361/highlights-england-level-series-with-india-after-kemps-late-cameo",
+      "url": "https://www.skysports.com/watch/video/13549564/ipl-final-rcb-make-rapid-start-by-taking-out-shubman-gill-and-sai-sudharsan",
       "isFeatured": false,
       "hasAiSummary": false
     }
