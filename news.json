@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T18:29:39.621Z",
+    "generatedAt": "2026-05-31T18:56:51.308Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
+      "headline": "Man City's future looks bright - and Shaw's role is key",
       "source": "BBC Sport",
-      "timeAgo": "35m",
-      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Konate expresses sadness over Liverpool exit",
+      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
+      "headline": "Konate expresses sadness over Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Stick or twist for Arteta - how do Arsenal take next step?",
+      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
       "source": "BBC Sport",
-      "timeAgo": "59m",
-      "url": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Uruguay pick Man Utd's Ugarte but Suarez left out",
+      "headline": "Stick or twist for Arteta - how do Arsenal take next step?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
+      "headline": "Uruguay pick Man Utd's Ugarte but Suarez left out",
       "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Chelsea set to sign McCabe following Arsenal exit",
+      "headline": "PSG retain Champions League with penalty shootout win over Arsenal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23h",
+      "url": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Wales call up teenage Leeds left-back Lienou",
+      "headline": "Chelsea set to sign McCabe following Arsenal exit",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y7ezgqzelo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
+      "headline": "Wales call up teenage Leeds left-back Lienou",
       "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7ezgqzelo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Celebrations and a sing-song... PSG's Champions League title victory parade in Paris",
+      "headline": "Kohli hits his fastest IPL fifty to help RCB win back-to-back IPL titles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549624/champions-league-french-capital-hosts-paris-saint-germain-title-victory-parade",
+      "url": "https://www.skysports.com/watch/video/13549631/gujarat-titans-vs-royal-challengers-bengaluru-ipl-final-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
