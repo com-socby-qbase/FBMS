@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T23:36:50.269Z",
+    "generatedAt": "2026-05-31T00:08:42.650Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
       "source": "BBC Sport",
-      "timeAgo": "50m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Slot sacking completes a remarkable fall from grace",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
