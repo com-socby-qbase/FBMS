@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T21:08:59.605Z",
+    "generatedAt": "2026-05-31T21:36:34.248Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool to open formal talks with Iraola",
     "source": "BBC Sport",
-    "timeAgo": "3m",
+    "timeAgo": "31m",
     "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
+      "headline": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13549637/exeter-end-leicesters-unbeaten-home-run-to-set-up-thrilling-final-day-of-prem-regular-season-before-play-offs",
+      "url": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
+      "topic": "News Story",
+      "headline": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13549637/exeter-end-leicesters-unbeaten-home-run-to-set-up-thrilling-final-day-of-prem-regular-season-before-play-offs",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Stick or twist for Arteta - how do Arsenal take next step?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "King Kohli dazzles as RCB beat Gujarat Titans to defend IPL title",
+      "topic": "Liveblog",
+      "headline": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13549602/virat-kohli-stars-as-royal-challengers-bengaluru-defend-ipl-title-with-five-wicket-victory-over-gujarat-titans",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Constitution River flows to French Derby success",
+      "headline": "King Kohli dazzles as RCB beat Gujarat Titans to defend IPL title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13549604/constitution-river-flows-to-french-derby-success-for-aidan-obrien-in-prix-du-jockey-club",
+      "url": "https://www.skysports.com/cricket/news/12040/13549602/virat-kohli-stars-as-royal-challengers-bengaluru-defend-ipl-title-with-five-wicket-victory-over-gujarat-titans",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Rising star Kaneko secures first DP World Tour win at just 12th attempt",
+      "headline": "Constitution River flows to French Derby success",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
+      "url": "https://www.skysports.com/racing/news/12040/13549604/constitution-river-flows-to-french-derby-success-for-aidan-obrien-in-prix-du-jockey-club",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "Report",
-      "headline": "Man City sweep past Brighton in FA Cup final to complete domestic double",
+      "topic": "News Story",
+      "headline": "Rising star Kaneko secures first DP World Tour win at just 12th attempt",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-manchester-city-women/report/555728",
+      "url": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,6 +137,26 @@
     },
     {
       "id": "sky_sports-6",
+      "topic": "Report",
+      "headline": "Man City sweep past Brighton in FA Cup final to complete domestic double",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-manchester-city-women/report/555728",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Is SWPL momentum with Celtic after Scottish Cup win?",
+      "source": "BBC Sport",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Liverpool latest: Talks with Iraola to start",
       "source": "Sky Sports",
@@ -146,42 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Is SWPL momentum with Celtic after Scottish Cup win?",
-      "source": "BBC Sport",
-      "timeAgo": "20m",
-      "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Japan's Kaneko secures maiden DP World Tour in Austria",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549565/austrian-alpine-open-day-four-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Uruguay pick Man Utd's Ugarte but Suarez left out",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cgmprpekej2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Baltic Sea Darts Open: Schedule and results as top seeds Van Veen, Wade dumped out",
+      "topic": "Video",
+      "headline": "Japan's Kaneko secures maiden DP World Tour in Austria",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
+      "url": "https://www.skysports.com/watch/video/13549565/austrian-alpine-open-day-four-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Fletcher called up to Scotland's World Cup squad to replace Gilmour",
+      "headline": "Baltic Sea Darts Open: Schedule and results as top seeds Van Veen, Wade dumped out",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
+      "url": "https://www.skysports.com/darts/news/12040/13548855/baltic-sea-darts-open-schedule-results-draw-format-as-gian-van-veen-james-wade-headline-pdc-european-tour-event",
       "isFeatured": false,
       "hasAiSummary": false
     }
