@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-01T05:42:23.327Z",
+    "generatedAt": "2026-06-01T07:28:58.011Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Liverpool to open formal talks with Iraola",
+    "headline": "I leave Liverpool exactly where it belongs - Slot",
     "source": "BBC Sport",
-    "timeAgo": "8h",
-    "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "38m",
+    "url": "https://www.bbc.com/sport/football/articles/c5y7n8ze8j3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,45 +18,25 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Scotney: Billam-Smith would do a job on Opetaia!",
+      "headline": "Tuchel: Full belief England are capable of winning World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13546816/chris-billam-smith-would-do-a-job-on-jai-opetaia-says-ellie-scotney-as-former-world-champion-returns-this-saturday",
+      "url": "https://www.skysports.com/football/news/12040/13549709/world-cup-2026-england-boss-thomas-tuchel-has-full-belief-his-side-can-mount-serious-challenge-to-win-tournament",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The greatest World Cup shirts - and what makes them iconic",
+      "headline": "Overcoming resistance - Ancelotti's bid to revive Brazil",
       "source": "BBC Sport",
-      "timeAgo": "25m",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp7gy2ljro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Return of the rebel: Why 'world class' Robinson's England comeback makes sense",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13549014/england-vs-new-zealand-why-world-class-ollie-robinsons-test-cricket-return-after-two-years-in-exile-makes-sense",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Goalkeeper tactical timeouts to be banned at World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Why the F1 season is set to ignite! The four key races in five weeks",
       "source": "Sky Sports",
@@ -66,17 +46,57 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The greatest World Cup shirts - and what makes them iconic",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cdxp7gy2ljro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Return of the rebel: Why 'world class' Robinson's England comeback makes sense",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13549014/england-vs-new-zealand-why-world-class-ollie-robinsons-test-cricket-return-after-two-years-in-exile-makes-sense",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'Unacceptable' gap costing Wales young talent claim",
+      "headline": "Liverpool to open formal talks with Iraola",
       "source": "BBC Sport",
-      "timeAgo": "46m",
-      "url": "https://www.bbc.com/sport/football/articles/cj3ppd5r5xro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Scotney: Billam-Smith would do a job on Opetaia!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13546816/chris-billam-smith-would-do-a-job-on-jai-opetaia-says-ellie-scotney-as-former-world-champion-returns-this-saturday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Williams still hurting over Wales World Cup miss",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cj6p4r9w17jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Henley's late birdie burst secures playoff win at Charles Schwab Challenge",
       "source": "Sky Sports",
@@ -86,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Man City's future looks bright - and Shaw's role is key",
+      "headline": "Goalkeeper tactical timeouts to be banned at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "79 players who could be on the move this summer",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13537479/transfer-window-players-that-could-be-on-the-move-this-summer",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Quiz: Name every nation to have played at a World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c3326d1g7p4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Netball Super League: Semi-finals confirmed after end of regular season",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Stick or twist for Arteta - how do Arsenal take next step?",
+      "headline": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/cy9234r07pjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Ireland's Walsh impresses as Boutier wins final event before US Women's Open",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
+      "headline": "Stick or twist for Arteta - how do Arsenal take next step?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Papers: Arteta targets Villa's Rogers",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'It's like buses!' - Woodhouse wins again for first European Tour title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Konate expresses sadness over Liverpool exit",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
+      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
       "source": "BBC Sport",
-      "timeAgo": "27m",
-      "url": "https://www.bbc.com/sport/football/videos/cy9234r07pjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
+      "headline": "'It's like buses!' - Woodhouse wins again for first European Tour title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13549637/exeter-end-leicesters-unbeaten-home-run-to-set-up-thrilling-final-day-of-prem-regular-season-before-play-offs",
+      "url": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
       "isFeatured": false,
       "hasAiSummary": false
     }
