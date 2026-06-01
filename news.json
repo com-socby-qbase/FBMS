@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T23:39:12.948Z",
+    "generatedAt": "2026-06-01T00:09:26.613Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool to open formal talks with Iraola",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Netball Super League: Semi-finals confirmed after end of regular season",
+      "topic": "News Story",
+      "headline": "Henley's late birdie burst secures playoff win at Charles Schwab Challenge",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
+      "url": "https://www.skysports.com/golf/news/12040/13549620/pga-tour-russell-henley-birdie-charge-denies-eric-cole-for-charles-schwab-classic-victory-after-playoff-finish",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Man City's future looks bright - and Shaw's role is key",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Ireland's Walsh impresses as Boutier wins final event before US Women's Open",
+      "topic": "Liveblog",
+      "headline": "Netball Super League: Semi-finals confirmed after end of regular season",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13549676/lpga-tour-celine-boutier-wins-shoprite-lpga-classic-as-irelands-lauren-walsh-finishes-third",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Papers: Arteta targets Villa's Rogers",
+      "headline": "Ireland's Walsh impresses as Boutier wins final event before US Women's Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "url": "https://www.skysports.com/golf/news/12040/13549676/lpga-tour-celine-boutier-wins-shoprite-lpga-classic-as-irelands-lauren-walsh-finishes-third",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,13 +70,33 @@
       "topic": "News",
       "headline": "Goalkeeper tactical timeouts to be banned at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Papers: Arteta targets Villa's Rogers",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'It's like buses!' - Woodhouse wins again for first European Tour title",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Ice, Ice Baby and 'start of a new era' - best of Arsenal parade",
+      "headline": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
+      "headline": "Konate expresses sadness over Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Konate expresses sadness over Liverpool exit",
+      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8pxkj0wxxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
       "source": "Sky Sports",
@@ -146,31 +166,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "King Kohli dazzles as RCB beat Gujarat Titans to defend IPL title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13549602/virat-kohli-stars-as-royal-challengers-bengaluru-defend-ipl-title-with-five-wicket-victory-over-gujarat-titans",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Is SWPL momentum with Celtic after Scottish Cup win?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Constitution River flows to French Derby success",
+      "headline": "King Kohli dazzles as RCB beat Gujarat Titans to defend IPL title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13549604/constitution-river-flows-to-french-derby-success-for-aidan-obrien-in-prix-du-jockey-club",
+      "url": "https://www.skysports.com/cricket/news/12040/13549602/virat-kohli-stars-as-royal-challengers-bengaluru-defend-ipl-title-with-five-wicket-victory-over-gujarat-titans",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Rising star Kaneko secures first DP World Tour win at just 12th attempt",
+      "headline": "Constitution River flows to French Derby success",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
+      "url": "https://www.skysports.com/racing/news/12040/13549604/constitution-river-flows-to-french-derby-success-for-aidan-obrien-in-prix-du-jockey-club",
       "isFeatured": false,
       "hasAiSummary": false
     }
