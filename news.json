@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-01T11:19:20.480Z",
+    "generatedAt": "2026-06-01T13:23:22.933Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Record-holder Milner retires after 24-year career",
+    "headline": "Keegan reveals stage four cancer diagnosis",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Vallejo hit with huge fine for 'unacceptable' comments about female umpire",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13549813/adolfo-daniel-vallejo-paraguayan-player-fined-nearly-50000-at-french-open-for-unacceptable-comments-about-female-umpire",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Why Liverpool want Iraola and what he could bring to Anfield",
+      "source": "BBC Sport",
+      "timeAgo": "38m",
+      "url": "https://www.bbc.com/sport/football/articles/cy823pj9v93o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Keegan 'responding well' to treatment after stage four cancer diagnosis",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "I leave Liverpool exactly where it belongs - Slot",
+      "headline": "Record-holder Milner retires after 24-year career",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y7n8ze8j3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Mercedes reveal cause of Russell's Canada retirement may take 'several months'",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Williamson to miss World Cup qualifier against Spain",
+      "headline": "I leave Liverpool exactly where it belongs - Slot",
       "source": "BBC Sport",
-      "timeAgo": "19m",
-      "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7n8ze8j3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "New star Sooryavanshi dominates IPL awards after Kohli ends season in style",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Palace set to hold talks with Lens boss Sage",
+      "headline": "Williamson to miss World Cup qualifier against Spain",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c0q2kdv30v2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Former Super League head coach John Kear dies aged 71",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Wolves rejection to double Champions League winner: Vitinha's rise to top",
+      "headline": "Stockport boss Challinor leaves League One club",
       "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.com/sport/football/articles/cwy9lnn19neo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "42m",
+      "url": "https://www.bbc.com/sport/football/articles/ce3prl257ywo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Back to 10 players? A Royal Rumble?! - Should Premier League format change?",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Overcoming resistance - Ancelotti's bid to revive Brazil",
+      "headline": "Palace set to hold talks with Lens boss Sage",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c0q2kdv30v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Tuchel: Full belief England are capable of winning World Cup",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who should be your World Cup second team?",
+      "headline": "India's 'unsafe' 70ft Messi statue taken down",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cre13qqd2r5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c62xykzprw3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Premier League record appearance holder Milner retires",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
+      "headline": "Lille appoint Davide Ancelotti as new head coach",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/videos/cy9234r07pjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/c3w2vxpxw2do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Windsor, Newbury, Lingfield and Wolverhampton feature",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "The greatest World Cup shirts - and what makes them iconic",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp7gy2ljro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Sacked Slot says Liverpool connection 'goes beyond football'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549716/arne-slot-sacked-former-liverpool-boss-says-his-connection-with-cub-goes-beyond-football-in-farewell-letter",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Liverpool to open formal talks with Iraola",
+      "headline": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/videos/cy9234r07pjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'One of the best young wingers in the game!' | Diomande or Barcola to replace Salah?",
+      "topic": "News Story",
+      "headline": "Sacked Slot says Liverpool connection 'goes beyond football'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13549774/transfer-talk-podcast-could-yan-diomande-or-bradley-barcola-help-fix-liverpool",
+      "url": "https://www.skysports.com/football/news/12040/13549716/arne-slot-sacked-former-liverpool-boss-says-his-connection-with-cub-goes-beyond-football-in-farewell-letter",
       "isFeatured": false,
       "hasAiSummary": false
     }
