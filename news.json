@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T22:56:27.443Z",
+    "generatedAt": "2026-06-02T23:40:07.671Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool agree deal with Iraola to succeed Slot",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
       "source": "BBC Sport",
-      "timeAgo": "32m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Keane v O'Neill: Celtic's big decision?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Konate close to joining Real Madrid after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "England players will be ready for heat, says Henderson",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Does Southampton Spygate boss Eckert deserve a second chance?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Salford sack Robinson after play-off final loss",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c7v9p272v3no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
