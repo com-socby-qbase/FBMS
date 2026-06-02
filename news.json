@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T10:36:39.524Z",
+    "generatedAt": "2026-06-02T12:09:53.438Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Southampton owner will not sack Eckert over Spygate",
+    "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "33m",
+    "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "UK Athletics fined £350,000 over Paralympian's cage collapse death",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/athletics/news/12040/13550110/uk-athletics-fined-350000-for-paralympians-avoidable-death-after-practice-cage-collapsed-on-his-head",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Liverpool in advanced talks with Iraola",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "AJ fuelled by loss for big comeback | 'He wants it more than ever'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13550037/anthony-joshua-vs-kristian-prenga-eddie-hearn-praises-ajs-resilience-ahead-of-july-return-and-future-tyson-fury-fight",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Fulham boss Silva close to Benfica agreement",
+      "source": "BBC Sport",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.com/sport/football/articles/cq5pn672652o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'Some of his pace is lost on the TV viewer' - Åberg aims to slow down game",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13550055/ludvig-197berg-ryder-cup-star-aiming-to-slow-dowe-game-after-pace-of-play-issues",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Southampton owner will not sack Eckert over Spygate",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "England legend Flintoff unveiled as Sydney Thunder's new head coach",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Liverpool in advanced talks with Iraola",
+      "headline": "England arrive in Florida for pre-World Cup camp",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cx2181zx13po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Which UK-based players are heading to the 2026 World Cup?",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England arrive in Florida for pre-World Cup camp",
+      "headline": "How Cornish miners brought football to Mexico",
       "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/sport/football/articles/cx2181zx13po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Liverpool begin talks with Iraola",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "How Cornish miners brought football to Mexico",
+      "headline": "Download your World Cup 2026 wallchart",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Gyan: Ghana's success will depend on Semenyo at the World Cup",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "The Isak saga which damaged two seasons",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c5yxzey1wp7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Sabalenka calls for more women's matches in French Open night sessions",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Eckert given Saints' owner's backing as head coach apologises for Spygate scandal",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Gilmour admits struggle as World Cup dream taken away",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cgqpwj0n49qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Pink balls to be trialled in day Tests to maximise playing time",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/news/12040/13549992/pink-balls-will-be-used-in-day-tests-to-maximise-playing-time-in-trial-introduced-by-international-cricket-council",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "From non-league to Premier League... Coventry's 'unreal' pair",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gvgr3m84ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Kakirra chases hat-trick at Wolverhampton",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13549623/today-on-sky-sports-racing-newcastle-southwell-and-wolverhampton-feature-live-on-tuesday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Overtaking not impossible' - F1's 2026 cars set to flourish in Monaco",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13548770/monaco-gp-kimi-antonelli-charles-leclerc-among-drivers-predicting-2026-f1-cars-will-flourish-at-street-circuit",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "How do Aston Villa improve after making history?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3peqq41z1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Feature Story",
-      "headline": "Serena Williams returns - why now, and what next?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13549864/serena-williams-returns-to-tennis-everything-you-need-to-know-as-23-time-grand-slam-winner-enters-doubles-tournament-at-queens",
       "isFeatured": false,
       "hasAiSummary": false
     }
