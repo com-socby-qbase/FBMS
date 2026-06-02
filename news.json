@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T05:38:51.273Z",
+    "generatedAt": "2026-06-02T07:13:41.830Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Southampton owner will not sack head coach Eckert",
+    "headline": "Southampton owner will not sack Eckert over Spygate",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "43m",
     "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Kakirra chases hat-trick at Wolverhampton",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13549623/today-on-sky-sports-racing-newcastle-southwell-and-wolverhampton-feature-live-on-tuesday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "'Overtaking not impossible' - F1's 2026 cars set to flourish in Monaco",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
+      "headline": "Partey named in Ghana squad for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Feature Story",
       "headline": "Serena Williams returns - why now, and what next?",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "How Cornish miners brought football to Mexico",
+      "headline": "Chelsea reject approaches for Acheampong",
       "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g81m84m0ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Sabalenka breezes past Osaka and into French Open quarter-finals",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Keegan reveals stage four cancer diagnosis",
+      "headline": "How Cornish miners brought football to Mexico",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Billam-Smith – how to win a boxing staredown",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed",
+      "headline": "Fenerbahce presidential rivals both want Greenwood",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cqlpne0d2v7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "New WhatsApps and deleted LinkedIn profiles - latest Spygate details revealed",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Chelsea reject approaches for Acheampong",
+      "headline": "'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g81m84m0ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Earps set to join London City Lionesses",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Introducing Shorts on the BBC Sport app",
+      "headline": "World Cup 2026: How to follow on the BBC",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Feature Story",
       "headline": "Jodar and Fonseca: Meet the teenage talents taking over the French Open",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Fenerbahce presidential rivals both want Greenwood",
+      "headline": "Barca & Real Madrid eye Cucurella - Tuesday's gossip",
       "source": "BBC Sport",
       "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cqlpne0d2v7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c172k5rnvydo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Bellamy commits to Wales: I’m not going anywhere",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Barca & Real Madrid eye Cucurella - Tuesday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c172k5rnvydo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Serena Williams announces sensational tennis return at age of 44",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13546531/serena-williams-23-time-grand-slam-winner-announces-sensational-tennis-return-at-age-of-44-to-play-at-queens-and-likely-wimbledon",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "World Cup 2026: How to follow on the BBC",
+      "headline": "Keegan reveals stage four cancer diagnosis",
       "source": "BBC Sport",
-      "timeAgo": "5m",
-      "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "McLaren unveil special Monaco livery for 1000th Grand Prix",
+      "topic": "News Story",
+      "headline": "St Helens captain Lees signs for new NRL franchise Papua New Guinea from 2028",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13546924/matty-lees-st-helens-captain-and-england-star-signs-for-new-nrl-franchise-papua-new-guinea-chiefs-from-2028",
       "isFeatured": false,
       "hasAiSummary": false
     }
