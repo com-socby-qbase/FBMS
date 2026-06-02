@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T18:18:37.029Z",
+    "generatedAt": "2026-06-02T19:46:57.645Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "39m",
     "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,27 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Semenyo on bench for Ghana vs Wales LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Liverpool in advanced talks with Iraola",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "India three down vs England in T20 series decider after run out LIVE!",
+      "headline": "England lose three wickets early as India set 181 target to win T20 decider LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13550147/england-vs-india-third-womens-t20-live-score-updates-video-and-analysis-from-series-decider-in-taunton-as-t20-world-cup-looms",
@@ -46,12 +26,32 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "James hits woodwork TWICE for Wales vs Ghana LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Silva to leave Fulham as he closes in on Benfica move",
+      "headline": "Liverpool in advanced talks with Iraola",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Konate close to joining Real Madrid after Liverpool exit",
+      "headline": "Silva to leave Fulham as he closes in on Benfica move",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Does Southampton Spygate boss Eckert deserve a second chance?",
+      "headline": "Konate close to joining Real Madrid after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Bellingham is No 10 in England World Cup squad",
+      "headline": "Does Southampton Spygate boss Eckert deserve a second chance?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Gordon to be oldest player at World Cup but Gunn handed No 1",
+      "headline": "Bellingham is No 10 in England World Cup squad",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cy02ex2pq2po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How Cornish miners brought football to Mexico",
+      "headline": "Gordon to be oldest player at World Cup but Gunn handed No 1",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cy02ex2pq2po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Download your World Cup 2026 wallchart",
+      "headline": "How Cornish miners brought football to Mexico",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Hinds withdraws from England squad with ankle injury",
+      "headline": "Download your World Cup 2026 wallchart",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/clyp33n48p4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Konate edges closer to joining Real Madrid after Liverpool exit confirmed",
+      "headline": "De Graaf defeats Clayton to win Players Championship 19",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550223/ibrahima-konate-transfer-news-defender-edges-closer-to-joining-real-madrid-as-talks-continue-with-laliga-giants",
+      "url": "https://www.skysports.com/darts/news/12040/13550217/darts-players-championship-19-jeffrey-de-graaf-beats-johnny-clayton-to-win-second-pdc-tour-title",
       "isFeatured": false,
       "hasAiSummary": false
     }
