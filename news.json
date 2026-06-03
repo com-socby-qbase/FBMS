@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T14:57:32.544Z",
+    "generatedAt": "2026-06-03T16:39:12.542Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
     "source": "BBC Sport",
-    "timeAgo": "9h",
+    "timeAgo": "11h",
     "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,106 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Sabalenka: I just 'want to quit tennis' after French Open collapse",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13550480/french-open-aryna-sabalenka-says-she-wants-to-quit-tennis-after-roland-garros-quarter-final-collapse-vs-diana-shnaider",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Scott poised to make England debut in World Cup friendlies",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Liverpool agree deal with Iraola to succeed Slot",
+      "source": "BBC Sport",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Sabalenka says she wants to 'quit tennis' after shock defeat",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13550501/aryna-sabalenka-after-french-open-defeat-i-just-want-to-quit-tennis-right-now",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Man City negotiating Maresca compensation fee with Chelsea",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
+      "source": "BBC Sport",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Winning all that matters for England as talk stops and repair job begins",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13550384/england-vs-new-zealand-winning-all-that-matters-for-fans-as-ben-stokes-and-team-look-to-bounce-back-from-ashes-debacle",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Benvenuto Cellini leads four-strong O'Brien team for Derby",
       "source": "Sky Sports",
@@ -26,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Scott poised to make England debut in World Cup friendlies",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "French Open: Thursday's order of play as women's semi-finals take place",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Liverpool agree deal with Iraola to succeed Slot",
+      "headline": "Bellamy sees Koumas future at centre-forward",
       "source": "BBC Sport",
       "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Sabalenka knocked out of French Open quarters in huge shock",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
+      "headline": "Aston Villa top scorer Hanson set to join Spurs",
       "source": "BBC Sport",
-      "timeAgo": "46m",
-      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool",
       "source": "Sky Sports",
@@ -86,111 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Celtic hold talks with Keane as O'Neill discussions planned",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550439/celtic-manager-latest-talks-held-with-robbie-keane-with-martin-oneill-to-be-spoken-to-in-next-24-hours",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Wemby’s coronation? Knicks’ drought over? – NBA Finals: All you need to know",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/basketball/news/12040/13550396/nba-finals-2026-new-york-knicks-vs-san-antonio-spurs-dates-schedule-uk-start-time-key-info",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Bellamy sees Koumas future at centre-forward",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Fantasy Force and Hidden Gift test Royal Ascot credentials",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13550069/today-on-sky-sports-racing-newton-abbot-and-ripon",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Aston Villa top scorer Hanson set to join Spurs",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Capsey and Knight play starring role in England's record chase to beat India",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550280/highlights-england-take-the-series-after-capsey-and-knight-steal-the-show",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Keane v O'Neill: Celtic's big decision?",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Can Hamilton beat Leclerc if Ferrari live up to Monaco 'favourites' tag?",
+      "headline": "Celtic hold talks with Keane as O'Neill discussions planned",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13549132/why-ferrari-are-being-tipped-as-monaco-grand-prix-favourites-by-f1-rivals-as-lewis-hamilton-charles-leclerc-eye-glory",
+      "url": "https://www.skysports.com/football/news/12040/13550439/celtic-manager-latest-talks-held-with-robbie-keane-with-martin-oneill-to-be-spoken-to-in-next-24-hours",
       "isFeatured": false,
       "hasAiSummary": false
     }
