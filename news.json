@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T19:38:00.365Z",
+    "generatedAt": "2026-06-03T20:43:13.606Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Smith secures 10th career title with Players Championship 20 win over O'Connor",
+      "headline": "Smith secures 10th career title with Players Championship win over O'Connor",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/news/12040/13550536/players-championship-20-ross-smith-beats-william-oconnor-in-milton-keynes-final-to-claim-10th-career-title",
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Scott poised to make England debut in World Cup friendlies",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Why do managers struggle after stepping up to 'big-six' clubs?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cwy20xpr0pvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
       "source": "BBC Sport",
-      "timeAgo": "21h",
+      "timeAgo": "22h",
       "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Aston Villa top scorer Hanson set to join Spurs",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Winning all that matters for England as talk stops and repair job begins",
+      "headline": "Iraola set to sign Liverpool contract on Thursday",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550384/england-vs-new-zealand-winning-all-that-matters-for-fans-as-ben-stokes-and-team-look-to-bounce-back-from-ashes-debacle",
+      "url": "https://www.skysports.com/football/news/12040/13550570/andoni-iraola-set-to-sign-liverpool-contract-on-thursday-after-reaching-agreement-to-become-arne-slots-successor",
       "isFeatured": false,
       "hasAiSummary": false
     }
