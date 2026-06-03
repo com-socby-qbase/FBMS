@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T04:13:02.350Z",
+    "generatedAt": "2026-06-03T06:00:15.655Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool agree deal with Iraola to succeed Slot",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "9h",
     "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Can Hamilton beat Leclerc if Ferrari live up to Monaco 'favourites' tag?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13549132/why-ferrari-are-being-tipped-as-monaco-grand-prix-favourites-by-f1-rivals-as-lewis-hamilton-charles-leclerc-eye-glory",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "'No double bogeys' - Nicklaus reveals Masters advice to McIlroy",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Knight and Capsey star as England seal series win over India",
       "source": "Sky Sports",
@@ -46,17 +66,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Rozicki: Billam-Smith gets hit. And you can't get hit against me",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13546916/ryan-rozicki-boxing-saved-me-i-didnt-understand-how-hard-i-punched-until-it-was-almost-too-late",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Keane v O'Neill: Celtic's big decision?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Sciver-Brunt 'ready to go' for T20 World Cup - but 'probably' won't bowl",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
+      "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Man Utd agree deal to sign Ederson",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Silva to leave Fulham as he closes in on Benfica move",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Dean has 'grown as a person' during spell as stand-in England captain",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Keane v O'Neill: Celtic's big decision?",
+      "headline": "Konate close to joining Real Madrid after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "England star Kildunne to leave Harlequins",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Konate close to joining Real Madrid after Liverpool exit",
+      "headline": "England players will be ready for heat, says Henderson",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Billam-Smith hits back at Rozicki's 'irrelevant' KO claim | 'I'll do what I always do!'",
       "source": "Sky Sports",
@@ -146,51 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "England players will be ready for heat, says Henderson",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Everton latest: No concerns over Ndiaye's future",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Does Southampton Spygate boss Eckert deserve a second chance?",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Feature Story",
-      "headline": "Inside the story of Man City's historic double-winning season",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550061/man-city-win-domestic-double-inside-the-story-of-their-fantastic-first-season-under-andree-jeglertz",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Salford sack Robinson after play-off final loss",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c7v9p272v3no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "Liverpool latest: Do Reds have the finances to rebuild under Iraola?",
+      "headline": "Everton latest: No concerns over Ndiaye's future",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
