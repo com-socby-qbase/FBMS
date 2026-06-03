@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T18:14:15.833Z",
+    "generatedAt": "2026-06-03T19:38:00.365Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+    "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
     "source": "BBC Sport",
-    "timeAgo": "12h",
-    "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,47 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "McIlory to continue to 'pick and choose' PGA Tour schedule",
+      "headline": "WBC appears to name Taylor's opponent for expected Croke Park farewell",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13550541/katie-taylor-to-face-flora-pili-in-farewell-fight-as-wbc-confirms-fight-ahead-of-friday-announcement",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Smith secures 10th career title with Players Championship 20 win over O'Connor",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13550536/players-championship-20-ross-smith-beats-william-oconnor-in-milton-keynes-final-to-claim-10th-career-title",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Iraola will make Liverpool fans excited again - Murphy",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'Part-timer' McIlroy to continue to pick and choose PGA Tour events",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/news/12040/13550527/rory-mcilroy-will-continue-to-pick-and-choose-his-pga-tour-schedule-as-he-returns-for-memorial-tournament",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Iraola will make Liverpool fans excited again - Murphy",
+      "headline": "Scott poised to make England debut in World Cup friendlies",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Scheffler looks to make history with third-straight Memorial title",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
+      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
       "source": "BBC Sport",
-      "timeAgo": "13m",
-      "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Sabalenka: I just 'want to quit tennis' after French Open collapse",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Scott poised to make England debut in World Cup friendlies",
+      "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
+      "headline": "Why do managers struggle after stepping up to 'big-six' clubs?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy20xpr0pvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Sabalenka says she wants to 'quit tennis' after shock defeat",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
+      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Man City negotiating Maresca compensation fee with Chelsea",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Why do managers struggle after stepping up to 'big-six' clubs?",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy20xpr0pvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1d",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Newcastle latest: Magpies join Brighton in race to sign winger",
       "source": "Sky Sports",
@@ -146,51 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Winning all that matters for England as talk stops and repair job begins",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550384/england-vs-new-zealand-winning-all-that-matters-for-fans-as-ben-stokes-and-team-look-to-bounce-back-from-ashes-debacle",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "23h",
-      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Benvenuto Cellini leads four-strong O'Brien team for Derby",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13550423/derby-benvenuto-cellini-leads-four-strong-aidan-obrien-team-for-epsom-classic",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Aston Villa top scorer Hanson set to join Spurs",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "French Open: Thursday's order of play as women's semi-finals take place",
+      "headline": "Winning all that matters for England as talk stops and repair job begins",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13547318/french-open-order-of-play-and-mens-and-womens-draw-and-results-with-jannik-sinner-aryna-sabalenka-and-britains-katie-boulter-playing",
+      "url": "https://www.skysports.com/cricket/news/12040/13550384/england-vs-new-zealand-winning-all-that-matters-for-fans-as-ben-stokes-and-team-look-to-bounce-back-from-ashes-debacle",
       "isFeatured": false,
       "hasAiSummary": false
     }
