@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T06:00:15.655Z",
+    "generatedAt": "2026-06-03T08:00:19.892Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool agree deal with Iraola to succeed Slot",
     "source": "BBC Sport",
-    "timeAgo": "9h",
+    "timeAgo": "11h",
     "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Fantasy Force and Hidden Gift test Royal Ascot credentials",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550069/today-on-sky-sports-racing-newton-abbot-and-ripon",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Capsey and Knight play starring role in England's record chase to beat India",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13550280/highlights-england-take-the-series-after-capsey-and-knight-steal-the-show",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Can Hamilton beat Leclerc if Ferrari live up to Monaco 'favourites' tag?",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "headline": "Bellamy sees Koumas future at centre-forward",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'No double bogeys' - Nicklaus reveals Masters advice to McIlroy",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "headline": "Keane v O'Neill: Celtic's big decision?",
       "source": "BBC Sport",
-      "timeAgo": "37m",
-      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Knight and Capsey star as England seal series win over India",
       "source": "Sky Sports",
@@ -66,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
+      "headline": "Konate close to joining Real Madrid after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Rozicki: Billam-Smith gets hit. And you can't get hit against me",
+      "headline": "Rozicki fires warning to Billam-Smith: You can't get hit against me!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/boxing/news/12040/13546916/ryan-rozicki-boxing-saved-me-i-didnt-understand-how-hard-i-punched-until-it-was-almost-too-late",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Keane v O'Neill: Celtic's big decision?",
+      "headline": "Aston Villa top scorer Hanson set to join Spurs",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Sciver-Brunt 'ready to go' for T20 World Cup - but 'probably' won't bowl",
       "source": "Sky Sports",
@@ -106,102 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Sir Kenny Dalglish undergoing treatment for cancer",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Man Utd agree deal to sign Ederson",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atlanta-midfielder-set-for-old-trafford-in-38m-transfer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Silva to leave Fulham as he closes in on Benfica move",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Dean has 'grown as a person' during spell as stand-in England captain",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13550147/england-vs-india-third-womens-t20-live-score-updates-video-and-analysis-from-series-decider-in-taunton-as-t20-world-cup-looms",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Konate close to joining Real Madrid after Liverpool exit",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "England star Kildunne to leave Harlequins",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13550203/ellie-kildunne-england-star-to-depart-harlequins-at-end-of-season-with-new-club-yet-to-be-confirmed",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "England players will be ready for heat, says Henderson",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Billam-Smith hits back at Rozicki's 'irrelevant' KO claim | 'I'll do what I always do!'",
+      "headline": "Man Utd agree deal to sign Ederson",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13550067/chris-billam-smith-hits-back-at-irrelevant-ryan-rozicki-warning-after-intense-face-off-ahead-of-cruiserweight-showdown",
+      "url": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atalanta-midfielder-set-for-old-trafford-in-38m-transfer",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Salford sack Robinson after play-off final loss",
+      "headline": "England should expose themselves to Florida heat, says Henderson",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9p272v3no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "Everton latest: No concerns over Ndiaye's future",
+      "headline": "Dean has 'grown as a person' during spell as stand-in England captain",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13550147/england-vs-india-third-womens-t20-live-score-updates-video-and-analysis-from-series-decider-in-taunton-as-t20-world-cup-looms",
       "isFeatured": false,
       "hasAiSummary": false
     }
