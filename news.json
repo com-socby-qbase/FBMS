@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T09:51:43.649Z",
+    "generatedAt": "2026-06-03T11:40:53.144Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Liverpool agree deal with Iraola to succeed Slot",
+    "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
     "source": "BBC Sport",
-    "timeAgo": "12h",
-    "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "6h",
+    "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "headline": "Liverpool agree deal with Iraola to succeed Slot",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Man Utd agree £35m fee for Atalanta's Ederson",
+      "headline": "Scott poised to make England debut in World Cup friendlies",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
+      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Bellamy sees Koumas future at centre-forward",
+      "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Keane v O'Neill: Celtic's big decision?",
+      "headline": "No more delayed flag? Fifa adds new offside tech for World Cup",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Konate close to joining Real Madrid after Liverpool exit",
+      "headline": "Bellamy sees Koumas future at centre-forward",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c1724lqy2jgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Aston Villa top scorer Hanson set to join Spurs",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -168,40 +168,40 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Silva to leave Fulham as he closes in on Benfica move",
+      "headline": "Keane v O'Neill: Celtic's big decision?",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Man Utd agree deal to sign Ederson",
+      "headline": "Massey issues 'make or break' warning to Clarke - 'I'll trump him on all levels!'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atalanta-midfielder-set-for-old-trafford-in-38m-transfer",
+      "url": "https://www.skysports.com/boxing/news/12040/13550341/jack-massey-issues-warning-to-cheavon-clarke-ahead-of-cruiserweight-showdown-and-wants-chris-billam-smith-winner-next",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England should expose themselves to Florida heat, says Henderson",
+      "headline": "Silva to leave Fulham as he closes in on Benfica move",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cx21xg19l51o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Five selection questions facing Clarke ahead of Scotland’s WC campaign",
+      "headline": "Man Utd agree deal to sign Ederson",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13546541/world-cup-2026-scotland-boss-steve-clarke-facing-five-selection-questions-ahead-of-campaign",
+      "url": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atalanta-midfielder-set-for-old-trafford-in-38m-transfer",
       "isFeatured": false,
       "hasAiSummary": false
     }
