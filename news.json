@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T10:43:39.821Z",
+    "generatedAt": "2026-06-04T11:46:28.167Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Debutant Gay out for eight after England put in to bat by New Zealand LIVE!",
+      "topic": "News Story",
+      "headline": "Littler set to make first appearance since winning Premier League title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13550634/england-vs-new-zealand-first-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-side-begin-summer-at-lords",
+      "url": "https://www.skysports.com/darts/news/12040/13550718/luke-littler-world-no-1-will-make-his-first-appearance-since-picking-up-his-second-premier-league-title-at-the-nordic-darts-masters",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,73 @@
       "topic": "News",
       "headline": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
       "source": "BBC Sport",
-      "timeAgo": "22m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Clarke has no fear of Massey, he's come back from near-death twice",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13546993/cheavon-clarke-has-no-fear-of-jack-massey-hes-dodged-death-twice-normally-youre-meant-to-flatline-from-that",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Kevin Blake's Oaks day tips",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550712/epsom-tips-kevin-blakes-selections-for-oaks-day",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Send in your questions for Mark Butcher as rain stops play at Lord's LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13550634/england-vs-new-zealand-first-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-side-begin-summer-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Former Scotland forward Brazil 'lucky' to be alive",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c17244y58kko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
       "source": "Sky Sports",
@@ -46,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
+      "headline": "Two goals in 41 games - what next for Delap at Chelsea?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Wembley defeat, another manager sacked - what's going on at Salford City?",
+      "source": "BBC Sport",
+      "timeAgo": "38m",
+      "url": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Spurs in talks with Brighton over Van Hecke",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
+      "headline": "Video vault and Leeds litter picking - inside the mind of Bielsa",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Video vault and Leeds litter picking - inside the mind of Bielsa",
+      "headline": "Toone learned 'massive lesson' from hip injury setback",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8113ngyno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Netball Super League semi-final preview: 'Thunder have everything to lose'",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Toone learned 'massive lesson' from hip injury setback",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8113ngyno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Hodgkinson eyes 'world domination' in pursuit of 800m world record",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/athletics/news/12040/13550558/keely-hodgkinson-great-britains-olympic-800m-gold-medallist-eyes-world-domination-in-pursuit-of-43-year-old-world-record",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Two goals in 41 games - what next for Delap at Chelsea?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "How 'luxury' fight week has left Billam-Smith feeling Bournemouth 'pressure'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13550476/chris-billam-smith-how-luxury-fight-week-of-home-comforts-has-left-boxer-feeling-pressure-for-bournemouth-return",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Man City have opening Anderson bid rejected by Forest",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Uttoxeter, Lingfield and Ffos Las feature",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13550130/today-on-sky-sports-racing-uttoxeter-lingfield-and-ffos-las-feature",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Konate reveals depression after deaths of Jota & father",
-      "source": "BBC Sport",
       "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "How Russell can still beat Antonelli in F1 title race",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13550120/george-russell-how-mercedes-driver-can-still-beat-kimi-antonelli-to-2026-f1-title-despite-falling-43-points-behind",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'I want my name in history' - AJ's Olympic rival ready to make mark on UK return",
+      "headline": "Hodgkinson eyes 'world domination' in pursuit of 800m world record",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13550447/ivan-dychko-anthony-joshuas-former-olympic-rival-ready-for-uk-return-in-bournemouth-and-offers-aj-vs-fury-prediction",
+      "url": "https://www.skysports.com/athletics/news/12040/13550558/keely-hodgkinson-great-britains-olympic-800m-gold-medallist-eyes-world-domination-in-pursuit-of-43-year-old-world-record",
       "isFeatured": false,
       "hasAiSummary": false
     }
