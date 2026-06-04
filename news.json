@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T11:46:28.167Z",
+    "generatedAt": "2026-06-04T13:11:49.990Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Man City chairman on Pep exit, next manager and summer transfers",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550687/khaldoon-al-mubarak-man-city-chairman-discusses-pep-guardiolas-exit-new-manager-update-and-summer-transfer-window-plans",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Kevin Blake's Oaks day tips",
       "source": "Sky Sports",
@@ -66,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
+      "headline": "EFL scrap three-window transfer ban for late payments",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.com/sport/football/articles/cevprvr1l01o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Send in your questions for Mark Butcher as rain stops play at Lord's LIVE!",
+      "headline": "England slip to 33-3 vs New Zealand after return from rain delay LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13550634/england-vs-new-zealand-first-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-side-begin-summer-at-lords",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Former Scotland forward Brazil 'lucky' to be alive",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c17244y58kko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Two goals in 41 games - what next for Delap at Chelsea?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Wembley defeat, another manager sacked - what's going on at Salford City?",
+      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
       "source": "BBC Sport",
-      "timeAgo": "38m",
-      "url": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Spurs in talks with Brighton over Van Hecke",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Video vault and Leeds litter picking - inside the mind of Bielsa",
+      "headline": "Wembley defeat, another manager sacked - what's going on at Salford City?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Toone learned 'massive lesson' from hip injury setback",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8113ngyno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Netball Super League semi-final preview: 'Thunder have everything to lose'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13550563/netball-super-league-2026-semi-final-preview-manchester-thunder-have-everything-to-lose-as-they-target-home-final-at-co-op-live",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Man City have opening Anderson bid rejected by Forest",
+      "headline": "Video vault and Leeds litter picking - inside the mind of Bielsa",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Hodgkinson eyes 'world domination' in pursuit of 800m world record",
+      "topic": "Video",
+      "headline": "Will lightning strike TWICE? Wright's incredible last gasp try against Leeds celebrations",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/athletics/news/12040/13550558/keely-hodgkinson-great-britains-olympic-800m-gold-medallist-eyes-world-domination-in-pursuit-of-43-year-old-world-record",
+      "url": "https://www.skysports.com/watch/video/13439928/leeds-vs-st-helens-shane-wright-scores-with-final-play-of-match-to-win-play-off",
       "isFeatured": false,
       "hasAiSummary": false
     }
