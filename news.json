@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T04:12:26.349Z",
+    "generatedAt": "2026-06-04T05:58:03.089Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Man City have opening Anderson bid rejected by Forest",
+    "headline": "A teen with no desire to be Messi: How Lamine Yamal is forging own path",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "30m",
+    "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "How Russell can still beat Antonelli in F1 title race",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13550120/george-russell-how-mercedes-driver-can-still-beat-kimi-antonelli-to-2026-f1-title-despite-falling-43-points-behind",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Video vault and Leeds litter picking - inside the mind of Bielsa",
+      "source": "BBC Sport",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "How 'luxury' fight week has left Billam-Smith feeling Bournemouth 'pressure'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13550476/chris-billam-smith-how-luxury-fight-week-of-home-comforts-has-left-boxer-feeling-pressure-for-bournemouth-return",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Man City have opening Anderson bid rejected by Forest",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'I want my name in history' - AJ's Olympic rival ready to make mark on UK return",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13550447/ivan-dychko-anthony-joshuas-former-olympic-rival-ready-for-uk-return-in-bournemouth-and-offers-aj-vs-fury-prediction",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Konate reveals depression after deaths of Jota & father",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Uttoxeter, Lingfield and Ffos Las feature",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550130/today-on-sky-sports-racing-uttoxeter-lingfield-and-ffos-las-feature",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "WBC appears to name Taylor's opponent for expected Croke Park farewell",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Konate reveals depression after deaths of Jota & father",
+      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1d",
+      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Smith secures 10th career title with Players Championship win over O'Connor",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
+      "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'Part-timer' McIlroy to continue to pick and choose PGA Tour events",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "headline": "Scott poised to make England debut in World Cup friendlies",
       "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Scheffler looks to make history with third-straight Memorial title",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Iraola will make Liverpool fans excited again - Murphy",
+      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Sabalenka: I just want to quit tennis after French Open collapse",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Scott poised to make England debut in World Cup friendlies",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cy72rnnelpzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Is spying as common in Germany as Southampton boss Eckert claims?",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/c87q93jw4w9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Sabalenka says she wants to 'quit tennis' after shock defeat",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550501/aryna-sabalenka-after-french-open-defeat-i-just-want-to-quit-tennis-right-now",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Back shaving & biggest posers - the Scotland squad in their own words",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/cvgz2e8g4e8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Man City negotiating Maresca compensation fee with Chelsea",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Why do managers struggle after stepping up to 'big-six' clubs?",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy20xpr0pvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Newcastle latest: Magpies join Brighton in race to sign winger",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Man Utd agree £35m Ederson fee as they signal summer intentions",
-      "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Papers: Carrick wants FIVE new signings this summer",
+      "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550597/man-utd-transfer-news-michael-carrick-wants-four-more-signings-this-summer-after-ederson-deal-paper-talk",
+      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
       "isFeatured": false,
       "hasAiSummary": false
     }
