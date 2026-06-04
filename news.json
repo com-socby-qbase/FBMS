@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T14:13:40.947Z",
+    "generatedAt": "2026-06-04T15:29:37.428Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Leclerc reveals he had other options beyond Ferrari",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13550675/charles-leclerc-ferrari-driver-says-he-had-other-contract-options-from-f1-rivals-before-signing-new-seal-at-scuderia",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Brighton expect second Spurs bid for Van Hecke",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c2020rr6pggo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Former jockey Williams jailed for manslaughter",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550785/levi-williams-former-jockey-jailed-for-manslaughter-of-pensioner-he-punched-outside-pub",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Littler set to make first appearance since winning Premier League title",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Brighton expect second Spurs bid for Van Hecke",
+      "headline": "WSL has 'the edge' to attract Europe's best players",
       "source": "BBC Sport",
-      "timeAgo": "31m",
-      "url": "https://www.bbc.com/sport/football/articles/c2020rr6pggo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Clarke has no fear of Massey, he's come back from near-death twice",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
+      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Man City chairman on Pep exit, next manager and summer transfers",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
+      "headline": "Former Scotland forward Brazil 'lucky' to be alive",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c17244y58kko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Kevin Blake's Oaks day tips",
       "source": "Sky Sports",
@@ -86,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Former Scotland forward Brazil 'lucky' to be alive",
+      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c17244y58kko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "NZ on top at tea with England 118-8 after Brook wicket LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13550634/england-vs-new-zealand-first-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-side-begin-summer-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "James fit as England reignite Spain rivalry with World Cup spot at stake",
       "source": "Sky Sports",
@@ -106,37 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
+      "headline": "EFL scraps three-window transfer ban for late payments",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cevprvr1l01o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "England slump to 55-5 at Lord's as New Zealand seamers run riot LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13550634/england-vs-new-zealand-first-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-side-begin-summer-at-lords",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Heroes and villains - the stories behind Scotland's World Cup bogeymen",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c2k2ewk2x2vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "EFL scraps three-window transfer ban for late payments",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cevprvr1l01o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Two goals in 41 games - what next for Delap at Chelsea?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England eye statement win over rivals Spain to seal World Cup 2027 spot",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550753/spain-vs-england-lucy-bronze-says-rivalry-makes-teams-stronger-as-lionesses-eye-statement-win-to-seal-2027-world-cup-spot",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Wembley defeat, another manager sacked - what's going on at Salford City?",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Spurs in talks with Brighton over Van Hecke",
+      "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550663/jan-paul-van-hecke-tottenham-in-talks-with-brighton-over-defender-and-also-could-make-move-for-man-city-winger-savinho",
+      "url": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
       "isFeatured": false,
       "hasAiSummary": false
     }
