@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T21:51:22.752Z",
+    "generatedAt": "2026-06-04T22:34:01.577Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Las Vegas to host F1 until 2037 after contract extension agreed",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Celtic fan groups state opposition to Keane",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Glamorgan claim dramatic win over Somerset in Vitality Blast",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "What is happening with World Cup ticket prices?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Report",
       "headline": "Leeds fight back to beat St Helens and move top of Super League",
       "source": "Sky Sports",
@@ -26,62 +66,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Celtic fan groups state opposition to Keane",
-      "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Hamilton, Alonso join milestone McLaren photo",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "What is happening with World Cup ticket prices?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Celtic fan groups sign letter opposing Keane appointment",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550904/robbie-keane-to-celtic-fan-groups-sign-letter-opposing-appointment-due-to-maccabi-tel-aviv-links",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
       "headline": "NI's record side show grit beyond their years",
       "source": "BBC Sport",
-      "timeAgo": "33m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Korda off the pace as Kim takes early lead in US Women's Open",
+      "topic": "Liveblog",
+      "headline": "Hamilton, Alonso join milestone McLaren photo",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13550867/us-womens-open-nelly-korda-admits-it-wasnt-a-great-day-as-sei-young-kim-sets-early-pace-in-first-round-at-riviera-country-club",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,6 +98,26 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
+      "headline": "Celtic fan groups sign letter opposing Keane appointment",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550904/robbie-keane-to-celtic-fan-groups-sign-letter-opposing-appointment-due-to-maccabi-tel-aviv-links",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Switzerland's Embolo granted approval to travel to US",
+      "source": "BBC Sport",
+      "timeAgo": "19m",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p894wyq8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
       "headline": "McIlroy overcomes early Muirfield setback as Fleetwood starts strongly",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -106,7 +126,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Korda off the pace as Kim takes early lead in US Women's Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13550867/us-womens-open-nelly-korda-admits-it-wasnt-a-great-day-as-sei-young-kim-sets-early-pace-in-first-round-at-riviera-country-club",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
@@ -116,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Liverpool announce Iraola as head coach",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
       "source": "Sky Sports",
@@ -146,27 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Robinson makes dream comeback after fearing he'd never play for England again",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550889/england-vs-new-zealand-ollie-robinson-says-he-thought-hed-never-play-for-his-country-again-after-dream-comeback",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Brighton expect second Spurs bid for Van Hecke",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "WSL has 'the edge' to attract Europe's best players",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Robinson takes three wickets in over on England comeback during wild day at Lord's",
+      "headline": "Robinson makes dream comeback after fearing he'd never play for England again",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550856/england-vs-new-zealand-ollie-robinson-bags-three-wickets-in-over-as-test-summer-begins-in-breathless-fashion-at-lords",
+      "url": "https://www.skysports.com/cricket/news/12040/13550889/england-vs-new-zealand-ollie-robinson-says-he-thought-hed-never-play-for-his-country-again-after-dream-comeback",
       "isFeatured": false,
       "hasAiSummary": false
     }
