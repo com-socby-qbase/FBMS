@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T18:31:58.022Z",
+    "generatedAt": "2026-06-04T19:31:46.633Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Liverpool appoint Iraola as head coach",
     "source": "BBC Sport",
-    "timeAgo": "2m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Liverpool announce Iraola as new head coach",
+      "headline": "Liverpool announce Iraola as head coach",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
@@ -28,17 +28,57 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "What is happening with World Cup ticket prices?",
+      "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Robinson takes three wickets in over on England comeback in wild day at Lord's",
+      "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "What is happening with World Cup ticket prices?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Robinson takes three wickets in over on England comeback during wild day at Lord's",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/news/12040/13550856/england-vs-new-zealand-ollie-robinson-bags-three-wickets-in-over-as-test-summer-begins-in-breathless-fashion-at-lords",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'We have to be trusted' - Russell, Antonelli reveal outcome of Mercedes talks",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
+      "headline": "Brighton expect second Spurs bid for Van Hecke",
       "source": "BBC Sport",
-      "timeAgo": "21m",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c2020rr6pggo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Qualifier Chwalinska replicates Raducanu in reaching French Open final",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Brighton expect second Spurs bid for Van Hecke",
+      "headline": "WSL has 'the edge' to attract Europe's best players",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c2020rr6pggo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Off The Court: 'The return of Anna' - a bonus episode with Anna Stembridge",
       "source": "Sky Sports",
@@ -106,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "WSL has 'the edge' to attract Europe's best players",
+      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Super League LIVE! Leeds Rhinos face St Helens in battle for top spot",
+      "headline": "Super League LIVE! St Helens notch first try at Leeds in battle for top spot",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13550811/super-league-live-leeds-rhinos-vs-st-helens-in-battle-for-top-spot-updates-latest-scores-team-news-commentary",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
+      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'My Italian Bono!' - Hamilton hails Ferrari engineer as form improves",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "A higher ceiling than Messi? What next for Lamine Yamal?",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Scotland reporter notebook: Can Clarke's side land on cloud nine at World Cup?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550766/scotland-at-world-cup-2026-reporter-notebook-as-steve-clarkes-side-prepare-for-a-return-to-the-main-stage",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Heat experts warn 'reckless' Fifa of bottle ban health risk",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c302gelj8evo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "THREE wickets in ONE over! Robinson inspires England comeback",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550846/first-test-england-vs-new-zealand-three-wickets-in-one-over-ollie-robinson-inspires-england-comeback",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Former Scotland forward Brazil 'lucky' to be alive",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c17244y58kko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Could Rozicki’s breakfast lesson help silence Billiam-Smith's home hopes?",
+      "topic": "Video",
+      "headline": "'This is a special club' | Andoni relishing Liverpool challenge ahead",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13550736/ryan-rozicki-paying-close-attention-to-chris-billam-smith-with-late-breakfast-lesson-ahead-of-cruiserweight-clash",
+      "url": "https://www.skysports.com/watch/video/13550885/andoni-iraola-liverpool-boss-excited-by-the-challenge-ahead",
       "isFeatured": false,
       "hasAiSummary": false
     }
