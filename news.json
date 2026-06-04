@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T21:09:02.642Z",
+    "generatedAt": "2026-06-04T21:51:22.752Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Leeds fight back to beat St Helens and move top of Super League",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/leeds-vs-st-helens/report/63240",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Celtic fan groups state opposition to Keane",
+      "source": "BBC Sport",
+      "timeAgo": "58m",
+      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
       "headline": "Hamilton, Alonso join milestone McLaren photo",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Iraola will make Liverpool fans excited again - Murphy",
+      "headline": "What is happening with World Cup ticket prices?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Celtic fan groups sign letter opposing Keane appointment",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "What is happening with World Cup ticket prices?",
+      "headline": "NI's record side show grit beyond their years",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "33m",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Korda off the pace as Kim takes early lead in US Women's Open",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Liverpool step up Diomande pursuit - Friday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "21m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cz727jjzyvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "McIlroy overcomes early Muirfield setback as Fleetwood starts strongly",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
+      "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Liverpool announce Iraola as head coach",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
+      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "NI 'showed great character' in Guinea win - O'Neill",
+      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c78q86zlyp8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Robinson makes dream comeback after fearing he'd never play for England again",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Brighton expect second Spurs bid for Van Hecke",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c2020rr6pggo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "WSL has 'the edge' to attract Europe's best players",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Robinson takes three wickets in over on England comeback during wild day at Lord's",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550856/england-vs-new-zealand-ollie-robinson-bags-three-wickets-in-over-as-test-summer-begins-in-breathless-fashion-at-lords",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Guardiola quit '100 times' in the past - Khaldoon",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c17247len5po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'We have to be trusted' - Russell, Antonelli reveal outcome of Mercedes talks",
+      "headline": "Robinson takes three wickets in over on England comeback during wild day at Lord's",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13550676/monaco-gp-george-russell-kimi-antonelli-reveal-outcome-of-mercedes-talks-about-racing-after-canada-battles",
+      "url": "https://www.skysports.com/cricket/news/12040/13550856/england-vs-new-zealand-ollie-robinson-bags-three-wickets-in-over-as-test-summer-begins-in-breathless-fashion-at-lords",
       "isFeatured": false,
       "hasAiSummary": false
     }
