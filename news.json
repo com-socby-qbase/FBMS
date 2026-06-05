@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T20:25:43.470Z",
+    "generatedAt": "2026-06-05T21:05:15.874Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "O'Neill set to stay on as Celtic manager",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Mowbray returns as Blackburn head coach",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
       "headline": "McLaren handed big fine after Norris car stoppage",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Mowbray returns as Blackburn head coach",
+      "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "England make early breakthroughs after setting NZ 254 to win dizzying Lord's Test",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Bayern Munich interested in Liverpool winger Ngumoha",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cgrprlvnv7do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Gay revelling in 'dream' England debut - with one frustration",
       "source": "Sky Sports",
@@ -66,37 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Wales 'not good enough' in Montenegro - Wilkinson",
       "source": "BBC Sport",
-      "timeAgo": "21m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c3v2v245d17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Hussain: Sub-standard Lord's pitch is not good enough",
+      "headline": "Hussain: Substandard Lord's pitch is not good enough",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551258/england-vs-new-zealand-nasser-hussain-says-lords-pitch-is-not-good-enough-for-test-cricket-after-32-wickets-fall-in-two-days",
+      "url": "https://www.skysports.com/cricket/news/12040/13551258/england-vs-new-zealand-nasser-hussain-sengland-vs-new-zealand-nasser-hussain-says-lords-pitch-is-not-good-enough-for-test-cricket-after-33-wickets-fall-in-two-days-ays-lords-pitch-is-not-good-enough-for-test-cricket-after-32-wickets-fall-in-two-days",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Tottenham sign Robertson after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Automatic World Cup progress out of England hands after Spain thrashing LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "How thunderstorms and lightning could impact games at World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'Lewis has been very strong'- Ferrari favourites for 'tight' Monaco pole fight",
       "source": "Sky Sports",
@@ -106,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How thunderstorms and lightning could impact games at World Cup",
+      "headline": "The story of Norway's Viking World Cup photoshoot",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Nordic Darts Masters LIVE! Littler sails through with Humphries in action",
+      "headline": "Nordic Darts Masters LIVE! Littler, Humphries sail through to quarter-finals",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13551106/nordic-darts-masters-live-latest-scores-results-with-luke-littler-luke-humphries-gerwyn-price-in-action",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "The story of Norway's Viking World Cup photoshoot",
+      "headline": "Real Madrid plan Olise bid - Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16m",
+      "url": "https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Article/Blog",
       "headline": "Doyle: Cellini can come of age in the Derby",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Perez promises biggest deal in Real Madrid's history",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Spain thrashing England with World Cup play-offs looming LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Bellamy's Hagi pain as Wales boss eyes improvement",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cj6p6wgew69o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Kevin Blake's Derby-day tips",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551111/epsom-tips-kevin-blake-of-at-the-races-makes-his-selections-for-derby-day",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "O'Neill agrees to take Celtic job on permanent basis",
+      "headline": "Kevin Blake's Derby-day tips",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
+      "url": "https://www.skysports.com/racing/news/12040/13551111/epsom-tips-kevin-blake-of-at-the-races-makes-his-selections-for-derby-day",
       "isFeatured": false,
       "hasAiSummary": false
     }
