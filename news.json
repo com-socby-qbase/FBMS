@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T18:58:17.948Z",
+    "generatedAt": "2026-06-05T19:40:39.165Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Tottenham sign Robertson after Liverpool exit",
+      "headline": "Mowbray returns as Blackburn head coach",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "'Lewis has been very strong'- Ferrari favourites for 'tight' Monaco pole fight",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13551027/monaco-gp-lewis-hamilton-charles-leclerc-max-verstappen-set-to-lead-tight-pole-fight-after-ferrari-dominated-practice",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Bayern Munich interested in Liverpool winger Ngumoha",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cgrprlvnv7do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Nordic Darts Masters LIVE! Littler, Humphries in action as Bunting suffers shock exit",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Bayern Munich interested in Liverpool winger Ngumoha",
+      "headline": "Tottenham sign Robertson after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "54m",
-      "url": "https://www.bbc.com/sport/football/articles/cgrprlvnv7do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Article/Blog",
       "headline": "Doyle: Cellini can come of age in the Derby",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "How thunderstorms and lightning could impact games at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Kevin Blake's Derby-day tips",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "The story of Norway's Viking World Cup photoshoot",
       "source": "BBC Sport",
@@ -96,9 +116,9 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "England renew Spain rivalry with WC qualification up for grabs  LIVE!",
+      "headline": "Dominant Spain add second vs England LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
@@ -106,42 +126,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Perez promises biggest deal in Real Madrid's history",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "O'Neill agrees to take Celtic job on permanent basis",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Hamilton fastest as Ferrari underline favourites status in Monaco practice",
+      "headline": "O'Neill agrees to take Celtic job on permanent basis",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551026/monaco-gp-lewis-hamilton-fastest-from-charles-leclerc-as-ferrari-underline-favourite-status-after-friday-practice",
+      "url": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,6 +158,26 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
+      "headline": "Hamilton fastest as Ferrari underline favourites status in Monaco practice",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13551026/monaco-gp-lewis-hamilton-fastest-from-charles-leclerc-as-ferrari-underline-favourite-status-after-friday-practice",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
+      "topic": "News Story",
       "headline": "Zverev to face Cobolli in French Open final after Arnaldi withdraws",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Stockport County appoint Rochdale boss McNulty",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Thundering On storms to Oaks glory at Epsom",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/racing/news/12040/13551144/epsom-thundering-on-storms-to-oaks-glory-for-joseph-obrien",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Football regulator faces 'defining test' over potential Derby investment",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Crystal Palace latest: AC Milan considering Glasner move",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
