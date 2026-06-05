@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T08:33:32.868Z",
+    "generatedAt": "2026-06-05T10:08:15.279Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Messi v Ronaldo: A rivalry that's dominated for two decades",
+    "headline": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Video",
+      "headline": "'I can't hear a word you're saying!' | Scheffler loses it with caddie",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551030/scottie-scheffler-loses-it-with-caddie-after-failed-tee-shot-i-cant-hear-a-word-youre-saying",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Perez promises biggest deal in Real Madrid's history",
+      "source": "BBC Sport",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Rice, James shortlisted for PFA Player of the Year awards",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551019/arsenal-midfielder-declan-rice-and-chelsea-forward-lauren-james-shortlisted-for-pfa-player-of-the-year-awards",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "source": "BBC Sport",
+      "timeAgo": "57m",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Farrell extends Ireland deal to 2031 World Cup",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13551022/andy-farrell-contract-ireland-head-coach-extends-deal-until-end-of-2031-rugby-world-cup",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Messi v Ronaldo: A rivalry that's dominated for two decades",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "Kupcho fires seven birdies to earn early US Women's Open lead",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
+      "headline": "Shaw and Hasegawa on PFA women's award shortlist",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Robertson relishing chance to lead Scotland at World Cup",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
+      "headline": "Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "From a tiny changing room to Nou Camp - 'Catalans driving RL revival in France'",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Celtic fan groups state opposition to Keane",
+      "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Leeds see off Saints in Headingley thriller",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "What is happening with World Cup ticket prices?",
+      "headline": "Football regulator faces 'defining test' over potential Derby investment",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Fleetwood in four-way tie for lead at Memorial Tournament",
       "source": "Sky Sports",
@@ -106,102 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "World Cup quiz: Name every player in England's squad",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c202yprg4z2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "England Netball boss Stembridge upbeat ahead of Commonwealth Games bid",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13550946/england-netball-head-coach-anna-stembridge-confident-about-vitality-roses-squad-ahead-of-commonwealth-games-challenge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "How Hendry's Saudi Arabia experience can help him stay cool in US heat",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c62xpl0pgy4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Doncaster and Bath feature live on Sky Sports Racing on Friday",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13550449/today-on-sky-sports-racing-doncaster-and-bath-feature-on-friday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "NI's record side show grit beyond their years",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "F1 to race in Las Vegas until 2037",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13550987/f1-to-race-in-las-vegas-until-at-least-2037-following-10-year-extension",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "We need to teach boys differently to girls - Southgate",
+      "headline": "Celtic fan groups state opposition to Keane",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/news/articles/ckgp5g34kzpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hodgkinson sets 400m personal best at Diamond League in Rome",
+      "topic": "Liveblog",
+      "headline": "England look to wrap up New Zealand first innings on day two at Lord's LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/athletics/news/12040/13550961/keely-hodgkinson-sets-400m-personal-best-at-diamond-league-in-rome-as-molly-caudery-wins-pole-vault-title",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13550928/england-vs-new-zealand-first-test-day-two-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-continue-series-opener",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Liverpool step up Diomande pursuit - Friday's gossip",
+      "headline": "What is happening with World Cup ticket prices?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cz727jjzyvqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Lights go out in dramatic last over as Glamorgan win thriller on final ball!",
+      "topic": "News Story",
+      "headline": "England Netball boss Stembridge upbeat ahead of Commonwealth Games bid",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550956/glamorgan-defeat-somerset-in-t20-blast-after-dramatic-last-over",
+      "url": "https://www.skysports.com/netball/news/12040/13550946/england-netball-head-coach-anna-stembridge-confident-about-vitality-roses-squad-ahead-of-commonwealth-games-challenge",
       "isFeatured": false,
       "hasAiSummary": false
     }
