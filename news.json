@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T21:05:15.874Z",
+    "generatedAt": "2026-06-05T21:46:11.774Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "McLaren handed big fine after Norris car stoppage",
+      "topic": "News Story",
+      "headline": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
+      "url": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "20m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "England make early breakthroughs after setting NZ 254 to win dizzying Lord's Test",
+      "topic": "Liveblog",
+      "headline": "McLaren handed big fine after Norris car stoppage",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551200/england-set-new-zealand-254-to-win-first-test-at-lords-with-black-caps-ending-wicket-packed-second-day-on-36-3",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Gay revelling in 'dream' England debut - with one frustration",
+      "headline": "England make early breakthroughs after setting NZ 254 to win dizzying Lord's Test",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551260/england-vs-new-zealand-emilio-gay-loving-dream-debut-but-disappointed-by-timing-of-second-innings-dismissal",
+      "url": "https://www.skysports.com/cricket/news/12040/13551200/england-set-new-zealand-254-to-win-first-test-at-lords-with-black-caps-ending-wicket-packed-second-day-on-36-3",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,6 +98,26 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
+      "headline": "Gay revelling in 'dream' England debut - with one frustration",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13551260/england-vs-new-zealand-emilio-gay-loving-dream-debut-but-disappointed-by-timing-of-second-innings-dismissal",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Will transfers be a distraction for England at World Cup?",
+      "source": "BBC Sport",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
       "headline": "Hussain: Substandard Lord's pitch is not good enough",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -106,32 +126,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Tottenham sign Robertson after Liverpool exit",
       "source": "BBC Sport",
       "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Automatic World Cup progress out of England hands after Spain thrashing LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "How thunderstorms and lightning could impact games at World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,17 +148,17 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "The story of Norway's Viking World Cup photoshoot",
+      "headline": "How thunderstorms and lightning could impact games at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Nordic Darts Masters LIVE! Littler, Humphries sail through to quarter-finals",
+      "headline": "Littler: It's been non-stop since winning my first Worlds",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13551106/nordic-darts-masters-live-latest-scores-results-with-luke-littler-luke-humphries-gerwyn-price-in-action",
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid plan Olise bid - Saturday's gossip",
+      "headline": "The story of Norway's Viking World Cup photoshoot",
       "source": "BBC Sport",
-      "timeAgo": "16m",
-      "url": "https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Bellamy's Hagi pain as Wales boss eyes improvement",
+      "headline": "Real Madrid plan Olise bid - Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cj6p6wgew69o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "57m",
+      "url": "https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
