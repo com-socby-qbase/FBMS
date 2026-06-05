@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T22:29:07.406Z",
+    "generatedAt": "2026-06-05T22:55:31.407Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tuchel will not let Tampa pitch affect selection",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Mowbray returns as Blackburn head coach",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Advantage Scotland as they await Cuthbert injury news",
       "source": "BBC Sport",
-      "timeAgo": "28m",
+      "timeAgo": "54m",
       "url": "https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "'Absolute madness' - Callaghan fumes at call to not give Turkey red card",
       "source": "BBC Sport",
-      "timeAgo": "32m",
+      "timeAgo": "58m",
       "url": "https://www.bbc.com/sport/football/articles/cpdpd3j61l8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Tottenham sign Robertson after Liverpool exit",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "How thunderstorms and lightning could impact games at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "Doyle: Cellini can come of age in the Derby",
+      "topic": "News Story",
+      "headline": "McIlroy and Scheffler struggle at Memorial Tournament as JT Poston leads",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551251/hollie-doyle-blog-benvenuto-cellini-can-deliver-a-fifth-derby-triumph-for-ryan-moore",
+      "url": "https://www.skysports.com/golf/news/12040/13551181/memorial-tournament-rory-mcilroy-and-scottie-scheffler-struggle-as-jt-poston-leads-after-second-round",
       "isFeatured": false,
       "hasAiSummary": false
     }
