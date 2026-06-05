@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T11:25:55.582Z",
+    "generatedAt": "2026-06-05T12:27:02.265Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Man City chairman promises 'wonderful sit-down' after verdict on alleged breaches",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551086/man-city-charges-chairman-khaldoon-al-mubarak-promises-wonderful-sit-down-after-ruling-on-alleged-premier-league-financial-breaches",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Potter's Zlatan texts, overcoming failure & finding joy in Sweden",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g4443l9kdo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Dreams collide as Andreeva and qualifier Chwalinska meet in French Open final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13551051/french-open-mirra-andreeva-and-qualifier-maja-chwalinska-meet-in-saturday-showdown-for-title-as-dreams-collide",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Perez promises biggest deal in Real Madrid's history",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "'On the honours board he goes!' | Robinson achieves five-wicket haul",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551104/england-v-new-zealand-ollie-robinson-gets-incredible-five-wicket-haul",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "McLeish appointed permanent St Mirren boss",
       "source": "Sky Sports",
@@ -26,17 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Potter's Zlatan texts, overcoming failure & finding joy in Sweden",
+      "headline": "Messi v Ronaldo: A rivalry that's dominated for two decades",
       "source": "BBC Sport",
-      "timeAgo": "19m",
-      "url": "https://www.bbc.com/sport/football/articles/c4g4443l9kdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Benvenuto Cellini backed for Derby glory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13551035/epsom-tips-benvenuto-cellini-backed-for-derby-glory",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Football regulator faces 'defining test' over potential Derby investment",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Ferraris fastest as Hadjar crashes Red Bull in first practice LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Shaw and Hasegawa on PFA women's award shortlist",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Williams adds Berlin to her comeback schedule - with Wimbledon in mind?",
       "source": "Sky Sports",
@@ -46,37 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Perez promises biggest deal in Real Madrid's history",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Ferrari favourites as McLaren bring upgrades ahead of first practice LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "headline": "Huge flags and pyrotechnics with World Cup anthems",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cjdpd094lzmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "'I can't hear a word you're saying!' | Scheffler loses it with caddie",
       "source": "Sky Sports",
@@ -86,91 +166,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Messi v Ronaldo: A rivalry that's dominated for two decades",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Rice, James shortlisted for PFA Player of the Year awards",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551019/arsenal-midfielder-declan-rice-and-chelsea-forward-lauren-james-shortlisted-for-pfa-player-of-the-year-awards",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Football regulator faces 'defining test' over potential Derby investment",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Farrell extends Ireland deal to 2031 World Cup",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13551022/andy-farrell-contract-ireland-head-coach-extends-deal-until-end-of-2031-rugby-world-cup",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Shaw and Hasegawa on PFA women's award shortlist",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Potter finding joy with Sweden after Chelsea and West Ham woe",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550178/graham-potter-interview-finding-joy-with-sweden-after-chelsea-west-ham-woe-and-unlocking-viktor-gyokeres-and-alexander-isak-at-world-cup",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Huge flags and pyrotechnics with World Cup anthems",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdpd094lzmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Kupcho fires seven birdies to earn early US Women's Open lead",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550999/us-womens-open-day-one-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Robertson relishing chance to lead Scotland at World Cup",
+      "headline": "De Zerbi's Spurs rebuild is under way - and there are encouraging signs",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13549779/world-cup-2026-scotland-captain-andy-robertson-on-pinch-yourself-moment-of-being-part-of-historic-squad",
+      "url": "https://www.skysports.com/football/news/12040/13551082/spurs-notebook",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "From a tiny changing room to Nou Camp - 'Catalans driving RL revival in France'",
+      "headline": "Tottenham confirm Robertson signing",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13550950/jerome-guisset-from-a-tiny-changing-room-to-nou-camp-and-onto-super-league-in-paris-catalans-dragons-driving-rugby-league-revival-in-france",
+      "url": "https://www.skysports.com/football/news/12040/13547815/andy-robertson-tottenham-announce-signing-of-liverpool-legend-after-anfield-exit-confirmed",
       "isFeatured": false,
       "hasAiSummary": false
     }
