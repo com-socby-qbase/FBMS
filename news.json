@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T03:47:42.835Z",
+    "generatedAt": "2026-06-05T05:35:58.693Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
+    "headline": "Messi v Ronaldo: A rivalry that's dominated for two decades",
     "source": "BBC Sport",
-    "timeAgo": "9h",
-    "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "7m",
+    "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Doncaster and Bath feature live on Sky Sports Racing on Friday",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550449/today-on-sky-sports-racing-doncaster-and-bath-feature-on-friday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Top players, title fights - why Iraola feels ready for Liverpool",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "England Netball boss Stembridge upbeat ahead of Commonwealth Games bid",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/netball/news/12040/13550946/england-netball-head-coach-anna-stembridge-confident-about-vitality-roses-squad-ahead-of-commonwealth-games-challenge",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Celtic fan groups state opposition to Keane",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Hodgkinson sets 400m personal best at Diamond League in Rome",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Celtic fan groups state opposition to Keane",
+      "headline": "What is happening with World Cup ticket prices?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Las Vegas to host F1 until 2037 after contract extension agreed",
       "source": "Sky Sports",
@@ -46,17 +86,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "What is happening with World Cup ticket prices?",
+      "headline": "NI's record side show grit beyond their years",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Billam-Smith: I've got a better resume than Opetaia!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13547000/chris-billam-smith-ive-got-a-better-resume-than-jai-opetaia-i-think-its-always-been-an-inevitable-fight",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Liverpool step up Diomande pursuit - Friday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cz727jjzyvqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Glamorgan claim dramatic win over Somerset in Vitality Blast",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "NI's record side show grit beyond their years",
+      "headline": "Switzerland's Embolo granted approval to travel to US",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p894wyq8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Leeds fight back to beat St Helens and move top of Super League",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Liverpool step up Diomande pursuit - Friday's gossip",
+      "headline": "Shakira to perform at World Cup opening ceremony",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cz727jjzyvqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c8939ykg3qgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Hamilton, Alonso join milestone McLaren photo",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Switzerland's Embolo granted approval to travel to US",
+      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8p894wyq8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Celtic fan groups sign letter opposing Keane appointment",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Shakira to perform at World Cup opening ceremony",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c8939ykg3qgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "McIlroy overcomes early Memorial setback as Fleetwood starts strongly",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13550799/memorial-tournament-rory-mcilroy-content-with-muirfield-start-after-early-setback-as-tommy-fleetwood-impresses-in-first-round",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Man City consider legal action over Real candidate's promise to sign Haaland",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Korda off the pace as Kim takes early lead in US Women's Open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13550867/us-womens-open-nelly-korda-admits-it-wasnt-a-great-day-as-sei-young-kim-sets-early-pace-in-first-round-at-riviera-country-club",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Iraola will make Liverpool fans excited again - Murphy",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Liverpool announce Iraola as head coach",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Man Utd will not be swayed on transfer plan - Berrada",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
+      "headline": "McIlroy overcomes early Memorial setback as Fleetwood starts strongly",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
+      "url": "https://www.skysports.com/golf/news/12040/13550799/memorial-tournament-rory-mcilroy-content-with-muirfield-start-after-early-setback-as-tommy-fleetwood-impresses-in-first-round",
       "isFeatured": false,
       "hasAiSummary": false
     }
