@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T16:39:58.471Z",
+    "generatedAt": "2026-06-05T17:27:20.694Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Tottenham sign Robertson after Liverpool exit",
+    "headline": "O'Neill set to stay on as Celtic manager",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "29m",
+    "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Nordic Darts Masters LIVE! Littler, Humphries and Price all in action from Copenhagen",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13551106/nordic-darts-masters-live-latest-scores-results-with-luke-littler-luke-humphries-gerwyn-price-in-action",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tottenham sign Robertson after Liverpool exit",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "LIVE STREAM: Billam-Smith and Rozicki reignite rivalry at weigh-in!",
       "source": "Sky Sports",
@@ -26,7 +46,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "How thunderstorms and lightning could impact games at World Cup",
       "source": "BBC Sport",
@@ -36,17 +56,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "O'Neill agrees to take Celtic job on permanent basis",
+      "headline": "Kevin Blake's Derby-day tips",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
+      "url": "https://www.skysports.com/racing/news/12040/13551111/epsom-tips-kevin-blake-of-at-the-races-makes-his-selections-for-derby-day",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Perez promises biggest deal in Real Madrid's history",
       "source": "BBC Sport",
@@ -56,7 +76,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "O'Neill agrees to take Celtic job on permanent basis",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "The story of Norway's Viking World Cup photoshoot",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Hamilton fastest as Ferrari underline favourites status in Monaco practice",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The story of Norway's Viking World Cup photoshoot",
+      "headline": "Bellamy's Hagi pain as Wales boss eyes improvement",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cj6p6wgew69o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Thundering On storms to Oaks glory at Epsom",
       "source": "Sky Sports",
@@ -86,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Bellamy's Hagi pain as Wales boss eyes improvement",
+      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
       "source": "BBC Sport",
-      "timeAgo": "57m",
-      "url": "https://www.bbc.com/sport/football/articles/cj6p6wgew69o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Zverev gets past Mensik to book French Open final spot",
+      "headline": "Zverev to face Cobolli in French Open final after Arnaldi withdraws",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/news/12040/13551134/french-open-alexander-zverev-gets-past-jakub-mensik-at-roland-garros-to-book-fourth-ever-grand-slam-final-spot",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "headline": "Stockport County appoint Rochdale boss McNulty",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p8j4gn6xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Crystal Palace latest: AC Milan considering Glasner move",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Former Spurs boss Frank will not rush return to management",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c4g8gwxq30no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Newcastle latest: Club in talks with Reims over goalkeeping starlet",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Football regulator faces 'defining test' over potential Derby investment",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Billam-Smith's must-win battle against Rozicki: When are they in the ring?",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/boxing/news/12040/13550343/chris-billam-smith-vs-ryan-rozicki-when-is-the-fight-how-to-watch-and-what-is-at-stake-in-cruiserweight-clash-on-sky-sports",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Frank rules out return to management this summer",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Shaw and Hasegawa on PFA women's award shortlist",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Hamilton fastest as Norris' day ends early LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13549880/f1-monaco-gp-live-build-up-and-friday-practice-updates-results-stream-highlights-from-monte-carlo-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     }
