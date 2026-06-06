@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T17:14:22.343Z",
+    "generatedAt": "2026-06-06T17:44:07.583Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Russell 'bamboozled' by Monaco struggles after fresh title blow",
+      "topic": "Video",
+      "headline": "Chacarra and Soderberg tie for lead heading into final day of KLM Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551348/george-russell-mercedes-driver-bamboozled-by-pace-struggles-after-fresh-title-blow-in-monaco-gp-qualifying",
+      "url": "https://www.skysports.com/watch/video/13551462/klm-open-day-three-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "'I still have decent pace' - Hamilton hits out at 'negative comments'",
+      "headline": "Russell 'bamboozled' by Monaco struggles after fresh title blow",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551349/lewis-hamilton-ferrari-driver-insists-he-still-has-decent-pace-after-monaco-qualifying-showing-amid-negative-comments",
+      "url": "https://www.skysports.com/f1/news/12040/13551348/george-russell-mercedes-driver-bamboozled-by-pace-struggles-after-fresh-title-blow-in-monaco-gp-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,13 +110,33 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "'I still have decent pace' - Hamilton hits out at 'negative comments'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13551349/lewis-hamilton-ferrari-driver-insists-he-still-has-decent-pace-after-monaco-qualifying-showing-amid-negative-comments",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Republic of Ireland rescue draw against Canada",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Toulouse beat Huddersfield convincingly in Super League basement battle",
       "source": "Sky Sports",
@@ -126,42 +146,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Republic of Ireland rescue draw against Canada",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Super League in Paris LIVE! Catalans Dragons face Wigan Warriors",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13551429/super-league-in-paris-live-catalans-dragons-face-wigan-warriors-updates-latest-scores-team-news-commentary-from-stade-jean-bouin",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
       "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Christmas Day delivers Derby victory for O'Brien",
+      "topic": "Liveblog",
+      "headline": "Super League in Paris LIVE! Wigan score early vs Catalans Dragons",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551434/epsom-christmas-day-delivers-derby-victory-for-aidan-obrien-and-ronan-whelan",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13551429/super-league-in-paris-live-catalans-dragons-face-wigan-warriors-updates-latest-scores-team-news-commentary-from-stade-jean-bouin",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Rain frustrates England's march to victory over New Zealand",
+      "headline": "Christmas Day delivers Derby victory for O'Brien",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551394/england-vs-new-zealand-ollie-robinson-bags-two-more-wickets-between-rain-delays-to-edge-hosts-closer-to-first-test-victory",
+      "url": "https://www.skysports.com/racing/news/12040/13551434/epsom-christmas-day-delivers-derby-victory-for-aidan-obrien-and-ronan-whelan",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Monaco Grand Prix | Qualifying highlights",
+      "topic": "News Story",
+      "headline": "Rain frustrates England's march to victory over New Zealand",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551433/monaco-grand-prix-qualifying-highlights",
+      "url": "https://www.skysports.com/cricket/news/12040/13551394/england-vs-new-zealand-ollie-robinson-bags-two-more-wickets-between-rain-delays-to-edge-hosts-closer-to-first-test-victory",
       "isFeatured": false,
       "hasAiSummary": false
     }
