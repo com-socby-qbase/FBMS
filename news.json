@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T10:27:15.254Z",
+    "generatedAt": "2026-06-06T11:05:02.388Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Monaco GP: Ferrari look to continue flying form in final practice LIVE!",
+      "headline": "Monaco GP: Mercedes challenging Ferrari in close final practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13550139/f1-monaco-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-monte-carlo-race-weekend",
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The pioneer in an unlikely World Cup team",
+      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8m",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Spain expose England's flaws in painful defeat",
+      "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,6 +68,26 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
+      "headline": "Spain expose England's flaws in painful defeat",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Report",
+      "headline": "Ogbene earns Republic of Ireland draw with Canada",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551279/canada-1-1-republic-of-ireland-chiedozie-ogbene-earns-draw-with-world-cup-co-hosts-in-friendly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
       "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
       "timeAgo": "3h",
@@ -76,9 +96,9 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Rain delays start to day three of first England vs New Zealand Test LIVE!",
+      "headline": "Have YOUR say on first England vs New Zealand Test as rain delays day three LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Which World Cup team are you? Take our quiz",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Eyes LOCKED! Rozicki tries to unsettle CBS at head-to-head",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Knicks come from 14 down to win Game 1 over Spurs!",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "O'Neill set to stay on as Celtic manager",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Poston leads as McIlroy and Scheffler struggle on day two",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Mowbray returns as Blackburn head coach",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Warrington Wolves 12-4 Hull FC",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Iran's football team granted visas to enter US for World Cup, officials say",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "Video",
       "headline": "Castleford Tigers 14-24 Leigh Leopards",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13551295/castleford-tigers-14-24-leigh-leopards-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "McLeish given St Mirren chance - how have young Premieship coaches fared?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/clypyg751kdo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Bradford Bulls 30-20 York Knights",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551319/bradford-bulls-30-20-york-knights-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
