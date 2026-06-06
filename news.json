@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T21:38:34.741Z",
+    "generatedAt": "2026-06-06T22:08:46.274Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sullivan steps down at West Ham in wake of historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Northamptonshire continue perfect start to Vitality blast",
+      "topic": "Report",
+      "headline": "Scotland thrash Bolivia ahead of World Cup opener",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
+      "url": "https://www.skysports.com/football/news/12040/13551165/bolivia-0-4-scotland-che-adams-scores-twice-in-emphatic-world-cup-warm-up-win",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Wales must be better after Romania woe - Bellamy",
       "source": "BBC Sport",
-      "timeAgo": "57m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
+      "topic": "Report",
+      "headline": "Wales end season on low note with defeat in Romania",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
+      "url": "https://www.skysports.com/football/romania-vs-wales/report/555773",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
+      "topic": "Liveblog",
+      "headline": "Northamptonshire continue perfect start to Vitality Blast",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Billam-Smith secures TKO win over Rozicki in EPIC battle",
+      "topic": "News Story",
+      "headline": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551511/highlights-billam-smith-secures-tko-win-over-rozicki-in-epic-battle",
+      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,28 +97,48 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Nsemba, Marsden, Farrimond star as Wigan thrash Catalans in Paris fixture",
+      "topic": "News Story",
+      "headline": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/catalans-vs-wigan/report/63246",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "headline": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "Video",
-      "headline": "Highlights: Extraordinary fight! Clarke recovers from two knockdowns to stop Massey",
+      "headline": "Billam-Smith secures TKO win over Rozicki in EPIC battle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551511/highlights-billam-smith-secures-tko-win-over-rozicki-in-epic-battle",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "Extraordinary fight! Clarke recovers from two knockdowns to stop Massey",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13551506/highlights-extraordinary-fight-as-clarke-recovers-from-two-knockdowns-to-stop-massey",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
@@ -136,7 +156,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
+      "topic": "Report",
+      "headline": "Nsemba, Marsden, Farrimond star as Wigan thrash Catalans in Paris fixture",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/catalans-vs-wigan/report/63246",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Arsenal approach PSG defender Mbemba",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Arsenal latest: 'Gunners make approach to sign PSG defender'",
       "source": "Sky Sports",
@@ -146,27 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arsenal approach PSG defender Mbemba",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "'You deserve to be knighted!' - Fans jump on chance to take McIlroy picture!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551512/the-memorial-tournament-fans-jump-on-opportunity-to-take-picture-with-rory-mcilroy",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England make 11 half-time changes against New Zealand LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Republic of Ireland rescue draw against Canada",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Russell and Carmen watch on as Hamilton and Kim K turn heads!",
+      "headline": "'You deserve to be knighted!' - Fans jump on chance to take McIlroy picture!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551496/monaco-gp-george-russell-watches-on-as-lewis-hamilton-arrives-on-track-with-kim-kardashian",
+      "url": "https://www.skysports.com/watch/video/13551512/the-memorial-tournament-fans-jump-on-opportunity-to-take-picture-with-rory-mcilroy",
       "isFeatured": false,
       "hasAiSummary": false
     }
