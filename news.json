@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T23:08:49.704Z",
+    "generatedAt": "2026-06-06T23:37:31.504Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Report",
-      "headline": "Scotland thrash Bolivia ahead of World Cup opener",
+      "topic": "News Story",
+      "headline": "McIlroy moves under par before Memorial Tournament suspended due to storm",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "url": "https://www.skysports.com/golf/news/12040/13551508/memorial-tournament-rory-mcilroy-and-scottie-scheffler-sneak-under-par-before-play-suspended-due-to-storm",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "Report",
-      "headline": "England beat New Zealand in first World Cup warm-up game",
+      "headline": "Scotland thrash Bolivia ahead of World Cup opener",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "38m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "Solid win for Toulouse over struggling Giants",
+      "topic": "Report",
+      "headline": "England beat New Zealand in first World Cup warm-up game",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551459/huddersfield-giants-16-36-toulouse-olympique-super-league-highlights",
+      "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Brighton agree £21.5m deal for winger Yohanna",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "England latest: 'Best-in-world' Kane must be main man, says Keane",
+      "topic": "Video",
+      "headline": "Solid win for Toulouse over struggling Giants",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "url": "https://www.skysports.com/watch/video/13551459/huddersfield-giants-16-36-toulouse-olympique-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "MVG wins second Nordic Darts Masters crown as Humphries frustrated by whistling",
+      "topic": "Liveblog",
+      "headline": "England latest: 'Best-in-world' Kane must be main man, says Keane",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13551465/nordic-darts-masters-michael-van-gerwen-wins-title-as-luke-humphries-fumes-at-whistling-in-copenhagen",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "McIlroy moves under par before Memorial Tournament suspended due to storm",
+      "headline": "MVG wins second Nordic Darts Masters crown as Humphries frustrated by whistling",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13551508/memorial-tournament-rory-mcilroy-and-scottie-scheffler-sneak-under-par-before-play-suspended-due-to-storm",
+      "url": "https://www.skysports.com/darts/news/12040/13551465/nordic-darts-masters-michael-van-gerwen-wins-title-as-luke-humphries-fumes-at-whistling-in-copenhagen",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "23h",
+      "timeAgo": "1d",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
