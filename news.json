@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T17:44:07.583Z",
+    "generatedAt": "2026-06-06T18:14:17.887Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sullivan steps down at West Ham in wake of historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "FREE STREAM: Billam-Smith vs Rozicki undercard fights",
+      "headline": "Fight night: Billam-Smith vs Rozicki tops stacked bill LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/boxing/live-blog/12040/13551373/billam-smith-vs-rozicki-live-updates-stream-undercard-news-results-highlights-from-zuffa-boxing-07-in-bournemouth",
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Arsenal approach PSG defender Mbemba",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,7 +158,7 @@
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Super League in Paris LIVE! Wigan score early vs Catalans Dragons",
+      "headline": "Super League in Paris LIVE! Wigan score twice early vs Catalans Dragons",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13551429/super-league-in-paris-live-catalans-dragons-face-wigan-warriors-updates-latest-scores-team-news-commentary-from-stade-jean-bouin",
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
