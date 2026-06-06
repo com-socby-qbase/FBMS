@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T11:46:14.720Z",
+    "generatedAt": "2026-06-06T12:32:23.182Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Co-owner Sullivan steps down as West Ham's joint chairman",
+    "headline": "Sullivan steps down at West Ham over historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "29m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Video",
+      "headline": "'Can he do it on a cold night in Stoke?' | Is Sooryavanshi's India call-up too soon?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551375/mark-butcher-and-simon-doull-react-to-sensational-vaibhav-sooryavanshis-india-call-up",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Antonelli fastest as favourites Ferrari dislodged before Monaco qualifying",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "West Ham joint-chair Sullivan resigns from position",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "50m",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Monaco GP: Mercedes hit back to outpace Ferrari in final practice, Bearman crashes LIVE!",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The pioneer in an unlikely World Cup team",
+      "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Spain expose England's flaws in painful defeat",
+      "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "AGONY for Wembanyama as Knicks win Game 2 after epic ending!",
       "source": "Sky Sports",
@@ -106,42 +126,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "The underrated impact of Scotland's back-shaving hype man",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Day three of England vs New Zealand to start at 1pm after rain LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Which World Cup team are you? Take our quiz",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Knicks capitalise on Wembanyama error to take 2-0 lead over Spurs",
+      "topic": "Liveblog",
+      "headline": "Day three of England vs New Zealand resumes after second rain delay LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13551324/nba-finals-new-york-knicks-narrowly-beat-san-antonio-spurs-after-victor-wembanyama-error-to-move-2-0-up-after-two-road-wins",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,6 +157,26 @@
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Knicks capitalise on Wembanyama error to take 2-0 lead over Spurs",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/nba/news/12040/13551324/nba-finals-new-york-knicks-narrowly-beat-san-antonio-spurs-after-victor-wembanyama-error-to-move-2-0-up-after-two-road-wins",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "O'Neill set to stay on as Celtic manager",
+      "source": "BBC Sport",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "Report",
       "headline": "Ogbene earns Republic of Ireland draw with Canada",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "O'Neill set to stay on as Celtic manager",
-      "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Eyes LOCKED! Rozicki tries to unsettle CBS at head-to-head",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551237/ryan-rozicki-tries-to-unsettle-chris-billam-smith-at-head-to-head",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Mowbray returns as Blackburn head coach",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Knicks come from 14 down to win Game 1 over Spurs!",
+      "headline": "Eyes LOCKED! Rozicki tries to unsettle CBS at head-to-head",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13550619/new-york-knicks-105-95-san-antonio-spurs-nba-highlights",
+      "url": "https://www.skysports.com/watch/video/13551237/ryan-rozicki-tries-to-unsettle-chris-billam-smith-at-head-to-head",
       "isFeatured": false,
       "hasAiSummary": false
     }
