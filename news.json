@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T06:39:11.789Z",
+    "generatedAt": "2026-06-06T07:41:29.257Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Gaelic Approach and Study Of Words contest Doncaster feature",
+      "headline": "Why England players wanting a transfer face a logistical NIGHTMARE",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13550703/today-on-sky-sports-racing-gaelic-approach-and-study-of-words-contest-doncaster-feature",
+      "url": "https://www.skysports.com/football/news/12040/13551277/englands-world-cup-schedule-why-its-a-logistical-nightmare-for-three-lions-players-wanting-a-transfer-this-summer-under-thomas-tuchels-rules",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "28m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Gaelic Approach and Study Of Words contest Doncaster feature",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13550703/today-on-sky-sports-racing-gaelic-approach-and-study-of-words-contest-doncaster-feature",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Which World Cup team are you? Take our quiz",
+      "source": "BBC Sport",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Papers: Slot turns down Fulham job offer",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "O'Neill set to stay on as Celtic manager",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Mowbray returns as Blackburn head coach",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "McLaren handed big fine after Norris car stoppage",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Iran's football team granted visas to enter US for World Cup, officials say",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "England make early breakthroughs after setting NZ 254 to win dizzying Lord's Test",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Bayern Munich interested in Liverpool winger Ngumoha",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cgrprlvnv7do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Gay revelling in 'dream' England debut - with one frustration",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Advantage Scotland as they await Cuthbert injury news",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hussain: Substandard Lord's pitch is not good enough",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551258/england-vs-new-zealand-nasser-hussain-sengland-vs-new-zealand-nasser-hussain-says-lords-pitch-is-not-good-enough-for-test-cricket-after-33-wickets-fall-in-two-days-ays-lords-pitch-is-not-good-enough-for-test-cricket-after-32-wickets-fall-in-two-days",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Wales not good enough in Montenegro - Wilkinson",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c3v2v245d17o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Lewis has been very strong'- Ferrari favourites for 'tight' Monaco pole fight",
+      "headline": "Hussain: Substandard Lord's pitch is not good enough",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551027/monaco-gp-lewis-hamilton-charles-leclerc-max-verstappen-set-to-lead-tight-pole-fight-after-ferrari-dominated-practice",
+      "url": "https://www.skysports.com/cricket/news/12040/13551258/england-vs-new-zealand-nasser-hussain-sengland-vs-new-zealand-nasser-hussain-says-lords-pitch-is-not-good-enough-for-test-cricket-after-33-wickets-fall-in-two-days-ays-lords-pitch-is-not-good-enough-for-test-cricket-after-32-wickets-fall-in-two-days",
       "isFeatured": false,
       "hasAiSummary": false
     }
