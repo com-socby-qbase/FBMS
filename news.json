@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T13:11:27.245Z",
+    "generatedAt": "2026-06-06T13:55:45.988Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sullivan steps down at West Ham in wake of historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The underrated impact of Scotland's back-shaving hype man",
+      "headline": "Republic of Ireland rescue draw against Canada",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,17 +128,17 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Which World Cup team are you? Take our quiz",
+      "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
       "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Day three of England vs New Zealand underway after three rain delays LIVE!",
+      "headline": "Robinson strikes twice as England close in on win over NZ before rain LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Tuchel will not let Tampa pitch affect selection",
+      "headline": "Which World Cup team are you? Take our quiz",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "O'Neill set to stay on as Celtic manager",
+      "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Mowbray returns as Blackburn head coach",
+      "headline": "O'Neill set to stay on as Celtic manager",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20h",
+      "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
