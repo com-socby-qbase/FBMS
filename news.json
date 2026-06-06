@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T22:08:46.274Z",
+    "generatedAt": "2026-06-06T22:38:36.357Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -21,7 +21,7 @@
       "headline": "Scotland thrash Bolivia ahead of World Cup opener",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551165/bolivia-0-4-scotland-che-adams-scores-twice-in-emphatic-world-cup-warm-up-win",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,6 +37,66 @@
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "MVG wins second Nordic Darts Masters crown as Humphries frustrated by whistling",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13551465/nordic-darts-masters-michael-van-gerwen-wins-title-as-luke-humphries-fumes-at-whistling-in-copenhagen",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "source": "BBC Sport",
+      "timeAgo": "7m",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "England beat New Zealand in first World Cup warm-up game",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "McIlroy moves under par before Memorial Tournament suspended due to storm",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13551508/memorial-tournament-rory-mcilroy-and-scottie-scheffler-sneak-under-par-before-play-suspended-due-to-storm",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Brighton agree £21.5m deal for winger Yohanna",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Wales end season on low note with defeat in Romania",
       "source": "Sky Sports",
@@ -46,82 +106,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Northamptonshire continue perfect start to Vitality Blast",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Brighton agree £21.5m deal for winger Yohanna",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-5",
       "topic": "News",
       "headline": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "25m",
+      "timeAgo": "55m",
       "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Billam-Smith secures TKO win over Rozicki in EPIC battle",
+      "topic": "Liveblog",
+      "headline": "Northamptonshire continue perfect start to Vitality Blast",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551511/highlights-billam-smith-secures-tko-win-over-rozicki-in-epic-battle",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Extraordinary fight! Clarke recovers from two knockdowns to stop Massey",
+      "topic": "News Story",
+      "headline": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551506/highlights-extraordinary-fight-as-clarke-recovers-from-two-knockdowns-to-stop-massey",
+      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Nsemba, Marsden, Farrimond star as Wigan thrash Catalans in Paris fixture",
+      "topic": "News Story",
+      "headline": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/catalans-vs-wigan/report/63246",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Arsenal latest: 'Gunners make approach to sign PSG defender'",
+      "topic": "Video",
+      "headline": "Billam-Smith secures TKO win over Rozicki in EPIC battle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/watch/video/13551511/highlights-billam-smith-secures-tko-win-over-rozicki-in-epic-battle",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "22h",
+      "timeAgo": "23h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "'You deserve to be knighted!' - Fans jump on chance to take McIlroy picture!",
+      "headline": "Extraordinary fight! Clarke recovers from two knockdowns to stop Massey",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551512/the-memorial-tournament-fans-jump-on-opportunity-to-take-picture-with-rory-mcilroy",
+      "url": "https://www.skysports.com/watch/video/13551506/highlights-extraordinary-fight-as-clarke-recovers-from-two-knockdowns-to-stop-massey",
       "isFeatured": false,
       "hasAiSummary": false
     }
