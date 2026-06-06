@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T18:14:17.887Z",
+    "generatedAt": "2026-06-06T18:47:10.322Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Fight night: Billam-Smith vs Rozicki tops stacked bill LIVE!",
+      "topic": "News Story",
+      "headline": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/live-blog/12040/13551373/billam-smith-vs-rozicki-live-updates-stream-undercard-news-results-highlights-from-zuffa-boxing-07-in-bournemouth",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,23 +30,43 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Cricket 'shoots itself in the foot' as lunch taken amid sunshine",
+      "topic": "Video",
+      "headline": "Hickey lands HUGE right-hand KO on Billam-Smith undercard!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551446/england-vs-new-zealand-pundits-and-cricket-fans-baffled-as-lunch-taken-amid-sunshine-during-rain-hit-lords-day",
+      "url": "https://www.skysports.com/watch/video/13551486/boxing-sam-hickey-lands-huge-right-hand-knockout",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Brighton agree £21.5m deal for winger Yohanna",
+      "source": "BBC Sport",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "England vs New Zealand team news and build-up LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
@@ -56,17 +76,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "'Sickening power!' | MacMillan scores historic first Zuffa Boxing UK stoppage!",
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Fight night: Billam-Smith vs Rozicki tops stacked bill LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551467/chris-billam-smith-v-ryan-rozicki-alex-macmillan-scores-historic-first-zuffa-uk-stoppage",
+      "url": "https://www.skysports.com/boxing/live-blog/12040/13551373/billam-smith-vs-rozicki-live-updates-stream-undercard-news-results-highlights-from-zuffa-boxing-07-in-bournemouth",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
@@ -76,17 +96,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Chacarra and Soderberg tie for lead heading into final day of KLM Open",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Cricket 'shoots itself in foot' as lunch taken amid brief Lord's sunshine",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551462/klm-open-day-three-highlights",
+      "url": "https://www.skysports.com/cricket/news/12040/13551446/england-vs-new-zealand-pundits-and-cricket-fans-baffled-as-lunch-taken-amid-sunshine-during-rain-hit-lords-day",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Arsenal approach PSG defender Mbemba",
       "source": "BBC Sport",
@@ -96,7 +116,47 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "'Sickening power!' | MacMillan scores historic first Zuffa Boxing UK stoppage!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551467/chris-billam-smith-v-ryan-rozicki-alex-macmillan-scores-historic-first-zuffa-uk-stoppage",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Spain expose England's flaws in painful defeat",
+      "source": "BBC Sport",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "Chacarra and Soderberg tie for lead heading into final day of KLM Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551462/klm-open-day-three-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Republic of Ireland rescue draw against Canada",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Russell 'bamboozled' by Monaco struggles after fresh title blow",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Spain expose England's flaws in painful defeat",
+      "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'I still have decent pace' - Hamilton hits out at 'negative comments'",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Republic of Ireland rescue draw against Canada",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Toulouse beat Huddersfield convincingly in Super League basement battle",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13551436/super-league-toulouse-olympique-beat-huddersfield-giants-convincingly-in-basement-battle",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "The underrated impact of Scotland's back-shaving hype man",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Super League in Paris LIVE! Wigan score twice early vs Catalans Dragons",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13551429/super-league-in-paris-live-catalans-dragons-face-wigan-warriors-updates-latest-scores-team-news-commentary-from-stade-jean-bouin",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Tuchel will not let Tampa pitch affect selection",
-      "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Christmas Day delivers Derby victory for O'Brien",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551434/epsom-christmas-day-delivers-derby-victory-for-aidan-obrien-and-ronan-whelan",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "O'Neill set to stay on as Celtic manager",
+      "headline": "How to follow the World Cup on the BBC",
       "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4d",
+      "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Rain frustrates England's march to victory over New Zealand",
+      "headline": "Toulouse beat Huddersfield convincingly in Super League basement battle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551394/england-vs-new-zealand-ollie-robinson-bags-two-more-wickets-between-rain-delays-to-edge-hosts-closer-to-first-test-victory",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13551436/super-league-toulouse-olympique-beat-huddersfield-giants-convincingly-in-basement-battle",
       "isFeatured": false,
       "hasAiSummary": false
     }
