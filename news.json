@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T14:36:45.513Z",
+    "generatedAt": "2026-06-06T15:10:55.330Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sullivan steps down at West Ham in wake of historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "18m",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Monaco GP: Leclerc fastest as Bortoleto crashes in Q1 LIVE!",
+      "headline": "Monaco GP: Antonelli snatches pole from Verstappen in epic qualifying LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13550139/f1-monaco-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-monte-carlo-race-weekend",
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "French Open final LIVE! Advantage Andreeva against Chwalinska with Brad Pitt watching",
+      "headline": "French Open final LIVE! Andreeva beats qualifier Chwalinska to win title",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13551116/french-open-final-live-score-results-game-by-game-updates-as-mirra-andreeva-takes-on-qualifier-maja-chwalinska-at-roland-garros",
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Republic of Ireland rescue draw against Canada",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cg749g07evno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Which World Cup team are you? Take our quiz",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Tuchel will not let Tampa pitch affect selection",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "O'Neill set to stay on as Celtic manager",
       "source": "BBC Sport",
-      "timeAgo": "21h",
+      "timeAgo": "22h",
       "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
