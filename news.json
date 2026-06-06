@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T13:55:45.988Z",
+    "generatedAt": "2026-06-06T14:36:45.513Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Sullivan steps down at West Ham in wake of historical allegations",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "French Open final LIVE! Andreeva takes on shock qualifier Chwalinska",
+      "topic": "News Story",
+      "headline": "Bay City Roller dethrones Jan Brueghel in Coronation Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13551116/french-open-final-live-score-results-game-by-game-updates-as-mirra-andreeva-takes-on-qualifier-maja-chwalinska-at-roland-garros",
+      "url": "https://www.skysports.com/racing/news/12040/13551411/epsom-bay-city-roller-dethrones-jan-brueghel-in-coronation-cup-after-sparks-fly-and-ten-bob-tony-win",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "'Can he do it on a cold night in Stoke?' | Is Sooryavanshi's India call-up too soon?",
+      "topic": "News Story",
+      "headline": "Gallagher Prem final day - latest scores and scorers",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551375/mark-butcher-and-simon-doull-react-to-sensational-vaibhav-sooryavanshis-india-call-up",
+      "url": "https://www.skysports.com/rugby-union/competitions/gallagher-prem/fixtures",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Antonelli fastest as favourites Ferrari dislodged before Monaco qualifying",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Leclerc fastest as Bortoleto crashes in Q1 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551346/monaco-gp-kimi-antonelli-tops-final-practice-as-mercedes-dislodge-ferrari-oliver-bearman-crashes-before-qualifying",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13550139/f1-monaco-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-monte-carlo-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "West Ham joint-chair Sullivan steps down from position",
+      "topic": "Liveblog",
+      "headline": "French Open final LIVE! Advantage Andreeva against Chwalinska with Brad Pitt watching",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551368/david-sullivan-west-ham-joint-chair-resigns-from-position-with-immediate-effect",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13551116/french-open-final-live-score-results-game-by-game-updates-as-mirra-andreeva-takes-on-qualifier-maja-chwalinska-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Best qualifying of season from 3pm amid Mercedes vs Ferrari fight LIVE!",
+      "topic": "Video",
+      "headline": "'Can he do it on a cold night in Stoke?' | Is Sooryavanshi's India call-up too soon?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13550139/f1-monaco-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-monte-carlo-race-weekend",
+      "url": "https://www.skysports.com/watch/video/13551375/mark-butcher-and-simon-doull-react-to-sensational-vaibhav-sooryavanshis-india-call-up",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+      "topic": "News Story",
+      "headline": "Antonelli fastest as favourites Ferrari dislodged before Monaco qualifying",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "url": "https://www.skysports.com/f1/news/12040/13551346/monaco-gp-kimi-antonelli-tops-final-practice-as-mercedes-dislodge-ferrari-oliver-bearman-crashes-before-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,18 +130,18 @@
       "topic": "News",
       "headline": "The underrated impact of Scotland's back-shaving hype man",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cj4pre1z242o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Robinson strikes twice as England close in on win over NZ before rain LIVE!",
+      "topic": "News Story",
+      "headline": "West Ham joint-chair Sullivan steps down from position",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
+      "url": "https://www.skysports.com/football/news/12040/13551368/david-sullivan-west-ham-joint-chair-resigns-from-position-with-immediate-effect",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "AGONY for Wembanyama as Knicks win Game 2 after epic ending!",
+      "topic": "Liveblog",
+      "headline": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551331/nba-agony-for-spurs-wembanyama-as-knicks-win-game-2-after-epic-ending",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Knicks capitalise on Wembanyama error to take 2-0 lead over Spurs",
+      "topic": "Liveblog",
+      "headline": "Robinson strikes twice as England close in on win over NZ before rain LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13551324/nba-finals-new-york-knicks-narrowly-beat-san-antonio-spurs-after-victor-wembanyama-error-to-move-2-0-up-after-two-road-wins",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551269/england-vs-new-zealand-first-test-day-three-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "O'Neill set to stay on as Celtic manager",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Ogbene earns Republic of Ireland draw with Canada",
+      "topic": "News Story",
+      "headline": "Doubts and disbelief - dissecting England's nightmare in Spain",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551279/canada-1-1-republic-of-ireland-chiedozie-ogbene-earns-draw-with-world-cup-co-hosts-in-friendly",
+      "url": "https://www.skysports.com/football/news/12040/13551388/spain-4-0-england-analysing-the-fallout-from-the-lionesses-heaviest-defeat-under-sarina-wiegman",
       "isFeatured": false,
       "hasAiSummary": false
     }
