@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T20:09:33.945Z",
+    "generatedAt": "2026-06-06T20:40:05.621Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Wigan Warriors claim easy win over Catalans Dragons in Paris!",
+      "topic": "Report",
+      "headline": "Nsemba, Marsden, Farrimond star as Wigan thrash Catalans in Paris fixture",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551499/catalans-dragons-16-40-wigan-warriors-super-league-highlights",
+      "url": "https://www.skysports.com/rugby-league/catalans-vs-wigan/report/63246",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "Video",
-      "headline": "'It looks like he's dislocated his shoulder!' | BIZARRE ending as Cutler secures TKO",
+      "headline": "Highlights: Extraordinary fight as Clarke recovers from two knockdowns to stop Massey",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551491/boxing-bizarre-ending-as-lee-cutler-secures-tko-after-opponent-pulls-out-with-shoulder-injury",
+      "url": "https://www.skysports.com/watch/video/13551506/highlights-extraordinary-fight-as-clarke-recovers-from-two-knockdowns-to-stop-massey",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Brighton agree £21.5m deal for winger Yohanna",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Tuchel starts Kane and Watkins as England face New Zealand LIVE!",
+      "headline": "Watkins spurns good early chance as England face New Zealand LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "Video",
-      "headline": "McKenna BLASTS through Streeter with first round ‘phonebox fight’ KO!",
+      "headline": "Wigan Warriors claim easy win over Catalans Dragons in Paris!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551489/stephen-mckenna-blasts-through-casey-streeter-with-first-round-phonebox-fight-ko",
+      "url": "https://www.skysports.com/watch/video/13551499/catalans-dragons-16-40-wigan-warriors-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,18 +110,18 @@
       "topic": "News",
       "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Lino try sees Wakefield claim last-gasp victory over Hull KR",
+      "topic": "Video",
+      "headline": "'It looks like he's dislocated his shoulder!' | BIZARRE ending as Cutler secures TKO",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13551436/super-league-toulouse-olympique-beat-huddersfield-giants-convincingly-in-basement-battle",
+      "url": "https://www.skysports.com/watch/video/13551491/boxing-bizarre-ending-as-lee-cutler-secures-tko-after-opponent-pulls-out-with-shoulder-injury",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Hamilton eyes 'best ever start' to challenge for Monaco win",
+      "topic": "Video",
+      "headline": "McKenna BLASTS through Streeter with first round ‘phonebox fight’ KO!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551350/monaco-gp-lewis-hamilton-eyes-best-ever-start-to-challenge-kimi-antonelli-and-max-verstappen-for-victory",
+      "url": "https://www.skysports.com/watch/video/13551489/stephen-mckenna-blasts-through-casey-streeter-with-first-round-phonebox-fight-ko",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "Spain expose England's flaws in painful defeat",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Hickey lands HUGE right-hand KO on Billam-Smith undercard!",
+      "topic": "News Story",
+      "headline": "Lino try sees Wakefield claim last-gasp victory over Hull KR",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551486/boxing-sam-hickey-lands-huge-right-hand-knockout",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13551436/super-league-toulouse-olympique-beat-huddersfield-giants-convincingly-in-basement-battle",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Fight night LIVE! Billam-Smith vs Rozicki coming up after stunning early fights",
+      "topic": "News Story",
+      "headline": "Hamilton eyes 'best ever start' to challenge for Monaco win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/live-blog/12040/13551373/billam-smith-vs-rozicki-live-updates-stream-undercard-news-results-highlights-from-zuffa-boxing-07-in-bournemouth",
+      "url": "https://www.skysports.com/f1/news/12040/13551350/monaco-gp-lewis-hamilton-eyes-best-ever-start-to-challenge-kimi-antonelli-and-max-verstappen-for-victory",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Cricket 'shoots itself in foot' as lunch taken amid brief Lord's sunshine",
+      "topic": "Video",
+      "headline": "Hickey lands HUGE right-hand KO on Billam-Smith undercard!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551446/england-vs-new-zealand-pundits-and-cricket-fans-baffled-as-lunch-taken-amid-sunshine-during-rain-hit-lords-day",
+      "url": "https://www.skysports.com/watch/video/13551486/boxing-sam-hickey-lands-huge-right-hand-knockout",
       "isFeatured": false,
       "hasAiSummary": false
     }
