@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T16:33:29.770Z",
+    "generatedAt": "2026-06-07T17:10:48.610Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+    "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
     "source": "BBC Sport",
-    "timeAgo": "10h",
-    "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "15m",
+    "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "This was a training game - England and Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "French Open final LIVE! Zverev one set away from glory but Cobolli still fighting",
+      "headline": "French Open final LIVE! Cobolli, Zverev head into deciding set shoot-out for title",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
@@ -48,15 +48,75 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
+      "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Chacarra claims KLM Open to win second DP World Tour title",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551716/klm-open-day-four-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "'An incredible moment' | Antonelli ecstatic after fifth straight win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551715/monaco-gp-kimi-antonelli-ecstatic-after-fifth-straight-win",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "DR Congo friendly to be played behind closed doors",
+      "source": "BBC Sport",
+      "timeAgo": "14m",
+      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "'I don't need to win': Serena says shock tennis comeback is not about titles",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13551725/serena-williams-says-shock-tennis-comeback-at-queens-club-is-not-about-titles-as-she-refuses-to-commit-to-singles-return",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "'I look like an idiot' | Leclerc on driving 'borderline dangerous' Ferrari",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
+      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Explained: Were Leclerc & Stroll's Monaco crashes caused by broken track?!",
       "source": "Sky Sports",
@@ -86,27 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Explained: Why Russell was given drive-through penalty",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
@@ -116,17 +156,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Hadjar awaits confirmation of podium after Antonelli win LIVE!",
+      "id": "sky_sports-7",
+      "topic": "Video",
+      "headline": "Explained: Why Russell was given drive-through penalty",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
+      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Iran's World Cup team lands in Mexico amid US visa row",
       "source": "BBC Sport",
@@ -136,72 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "NIGHTMARE start for Max as he fails to get off the line in Monaco!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551659/monaco-gp-disaster-as-max-verstappen-fails-on-race-start",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "England seal comfortable win over New Zealand at Lord's",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551638/england-vs-new-zealand-first-test-day-four-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
-      "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Hadjar awaits confirmation of podium after Antonelli win LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551618/what-next-for-zuffa-boxing-after-uk-debut-dana-white-celebrates-bournemouth-show-and-teases-big-announcements-ahead",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "headline": "Brighton agree £21.5m deal for winger Yohanna",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22h",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
+      "headline": "England vs NZ ratings: Returning Robinson stands out",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551602/england-beat-new-zealand-by-115-runs-on-day-four-of-first-test-at-lords-in-first-match-since-ashes-thrashing",
+      "url": "https://www.skysports.com/cricket/news/12040/13551422/england-vs-new-zealand-1st-test-player-ratings-ollie-robinson-makes-dream-return-debutant-emilio-gay-impresses-on-tricky-pitch",
       "isFeatured": false,
       "hasAiSummary": false
     }
