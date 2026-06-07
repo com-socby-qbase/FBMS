@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T14:26:29.259Z",
+    "generatedAt": "2026-06-07T15:07:01.817Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "8h",
     "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "French Open final LIVE! One-way traffic as Zverev cruises to first set",
+      "headline": "French Open final LIVE! What a turnaround as Cobolli levels against Zverev",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "This was a training game - England & Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Monaco GP: Late Safety Car creates late drama after Stroll crash LIVE!",
+      "headline": "Monaco GP: Race set to resume for final 10 laps amid wild finale LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Sullivan steps down at West Ham in wake of historical allegations",
       "source": "BBC Sport",
-      "timeAgo": "23h",
+      "timeAgo": "1d",
       "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
