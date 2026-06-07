@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T10:35:11.832Z",
+    "generatedAt": "2026-06-07T11:22:16.378Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was a training game - England & Tuchel now need to get serious",
     "source": "BBC Sport",
-    "timeAgo": "10h",
+    "timeAgo": "11h",
     "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England need four wickets to beat New Zealand at Lord's as Tongue strikes LIVE!",
+      "headline": "England need two wickets to beat NZ as Atkinson dismisses Smith LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13551474/england-vs-new-zealand-first-test-day-four-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
       "source": "BBC Sport",
-      "timeAgo": "45m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Sullivan steps down at West Ham in wake of historical allegations",
       "source": "BBC Sport",
-      "timeAgo": "19h",
+      "timeAgo": "20h",
       "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Belief but work to do - Wales' two years under Bellamy",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c62r235ygg1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
