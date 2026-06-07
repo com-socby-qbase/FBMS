@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T22:41:05.635Z",
+    "generatedAt": "2026-06-07T23:10:21.495Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Real Madrid to join Fernandes race - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "59m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Van Persie sacked by Feyenoord after 16 months",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "DR Congo friendly to be played behind closed doors",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Papers: Ederson's Man Utd move at risk of delay after World Cup call-up",
+      "headline": "Poston clinches thrilling win at The Memorial after play-off drama",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551789/ederson-to-manchester-united-midfielders-call-up-to-brazil-world-cup-squad-could-delay-old-trafford-move-paper-talk",
+      "url": "https://www.skysports.com/golf/news/12040/13551782/the-memorial-tournament-j-t-poston-overcomes-ryan-gerard-on-second-play-off-hole-after-tommy-fleetwood-comes-close-on-final-day",
       "isFeatured": false,
       "hasAiSummary": false
     }
