@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T12:04:41.108Z",
+    "generatedAt": "2026-06-07T12:48:51.809Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was a training game - England & Tuchel now need to get serious",
     "source": "BBC Sport",
-    "timeAgo": "12h",
+    "timeAgo": "13h",
     "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
+      "topic": "Liveblog",
+      "headline": "French Open final LIVE! Title-chasing Zverev takes on dark-horse Cobolli in Paris",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551602/england-beat-new-zealand-by-115-runs-on-day-four-of-first-test-at-lords-in-first-match-since-ashes-thrashing",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Verstappen, Hamilton target pole-sitter Antonelli at the start LIVE!",
+      "topic": "News Story",
+      "headline": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
+      "url": "https://www.skysports.com/boxing/news/12040/13551618/what-next-for-zuffa-boxing-after-uk-debut-dana-white-celebrates-bournemouth-show-and-teases-big-announcements-ahead",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "Bethell takes 'excellent catch' as England turn screw on New Zealand",
+      "topic": "News Story",
+      "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551628/england-vs-new-zealand-bethell-takes-excellent-catch-as-the-blacks-caps-struggle",
+      "url": "https://www.skysports.com/cricket/news/12040/13551602/england-beat-new-zealand-by-115-runs-on-day-four-of-first-test-at-lords-in-first-match-since-ashes-thrashing",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Korda leads US Women's Open with Hull in contention",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Verstappen, Hamilton target pole-sitter Antonelli at the start LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551579/nelly-korda-leads-us-womens-open-with-charley-hull-in-contention",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "England thrash New Zealand by 115 runs on day four of Lord's Test LIVE!",
+      "topic": "Video",
+      "headline": "Bethell takes 'excellent catch' as England turn screw on New Zealand",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13551474/england-vs-new-zealand-first-test-day-four-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
+      "url": "https://www.skysports.com/watch/video/13551628/england-vs-new-zealand-bethell-takes-excellent-catch-as-the-blacks-caps-struggle",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
+      "topic": "Video",
+      "headline": "Korda leads US Women's Open with Hull in contention",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
+      "url": "https://www.skysports.com/watch/video/13551579/nelly-korda-leads-us-womens-open-with-charley-hull-in-contention",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,18 +130,18 @@
       "topic": "News",
       "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Ferrari boss Vasseur returns to F1 paddock after being hospitalised",
+      "topic": "Liveblog",
+      "headline": "England thrash New Zealand by 115 runs on day four of Lord's Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551334/frederic-vasseur-ferrari-team-principal-hospitalised-after-medical-checks-at-monaco-grand-prix",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551474/england-vs-new-zealand-first-test-day-four-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Nighttime and Synaran clash at ParisLongchamp",
+      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551149/today-on-sky-sports-racing-french-action-from-parislongchamp",
+      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "McIlroy moves under par before Memorial Tournament suspended due to storm",
+      "headline": "Ferrari boss Vasseur returns to F1 paddock after being hospitalised",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13551508/memorial-tournament-rory-mcilroy-and-scottie-scheffler-sneak-under-par-before-play-suspended-due-to-storm",
+      "url": "https://www.skysports.com/f1/news/12040/13551334/frederic-vasseur-ferrari-team-principal-hospitalised-after-medical-checks-at-monaco-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Scotland thrash Bolivia ahead of World Cup opener",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Nighttime and Synaran clash at ParisLongchamp",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "url": "https://www.skysports.com/racing/news/12040/13551149/today-on-sky-sports-racing-french-action-from-parislongchamp",
       "isFeatured": false,
       "hasAiSummary": false
     }
