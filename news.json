@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T23:10:21.495Z",
+    "generatedAt": "2026-06-07T23:38:30.444Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Eriksen conscious after collapsing in Denmark game",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Rice to be England's vice-captain at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "This was a training game - England and Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "23h",
+      "timeAgo": "1d",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Man Utd-bound Ederson replaces Wesley in Brazil squad",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c0ey82g18xjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
