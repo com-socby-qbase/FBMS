@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T17:43:50.088Z",
+    "generatedAt": "2026-06-07T18:13:02.222Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
     "source": "BBC Sport",
-    "timeAgo": "48m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Man Utd latest: Ederson called up to Brazil World Cup squad",
+      "topic": "News Story",
+      "headline": "Zverev wins French Open title after dramatic five-set win against Cobolli",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/tennis/news/12040/13551609/french-open-alexander-zverev-wins-maiden-grand-slam-title-after-dramatic-five-set-win-against-flavio-cobolli",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,36 +37,16 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Supreme Antonelli beats Hamilton to Monaco win after wild finale",
+      "topic": "Liveblog",
+      "headline": "Man Utd latest: Ederson called up to Brazil World Cup squad",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551585/monaco-gp-kimi-antonelli-wins-fifth-f1-race-running-with-lewis-hamilton-second-after-dramatic-chaotic-finish-to-grand-prix",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Will NI be 'badly-behaved guests' at France's party?",
-      "source": "BBC Sport",
-      "timeAgo": "45m",
-      "url": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Golden Tempo shines once again to seal Belmont Stakes glory",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551737/belmont-stakes-golden-tempo-shines-once-again-to-seal-glory-for-history-maker-cherie-devaux",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
@@ -76,17 +56,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "French Open final LIVE! Zverev one game away from winning maiden Grand Slam title",
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Supreme Antonelli beats Hamilton to Monaco win after wild finale",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
+      "url": "https://www.skysports.com/f1/news/12040/13551585/monaco-gp-kimi-antonelli-wins-fifth-f1-race-running-with-lewis-hamilton-second-after-dramatic-chaotic-finish-to-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
       "source": "BBC Sport",
@@ -96,7 +76,47 @@
       "hasAiSummary": false
     },
     {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Golden Tempo shines once again to seal Belmont Stakes glory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13551737/belmont-stakes-golden-tempo-shines-once-again-to-seal-glory-for-history-maker-cherie-devaux",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "DR Congo friendly to be played behind closed doors",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "French Open final reaction LIVE! Zverev wins maiden Grand Slam title after thriller",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Chacarra claims KLM Open to win second DP World Tour title",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "DR Congo friendly to be played behind closed doors",
+      "headline": "O'Neill a 'no-brainer' for Celtic – now major rebuild awaits",
       "source": "BBC Sport",
-      "timeAgo": "47m",
-      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "53m",
+      "url": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "'An incredible moment' | Antonelli ecstatic after fifth straight win",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
+      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "'I don't need to win': Serena says shock tennis comeback is not about titles",
       "source": "Sky Sports",
@@ -146,47 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "O'Neill a 'no-brainer' for Celtic – now major rebuild awaits",
-      "source": "BBC Sport",
-      "timeAgo": "24m",
-      "url": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "'I look like an idiot' | Leclerc on driving 'borderline dangerous' Ferrari",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551697/monaco-gp-charles-leclerc-on-driving-borderline-dangerous-ferrari",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Explained: Were Leclerc & Stroll's Monaco crashes caused by broken track?!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551690/monaco-gp-ant-davidson-explains-bizzare-monaco-red-flag",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
@@ -196,12 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-9",
+      "id": "sky_sports-8",
       "topic": "Video",
-      "headline": "Explained: Why Russell was given drive-through penalty",
+      "headline": "'I look like an idiot' | Leclerc on driving 'borderline dangerous' Ferrari",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
+      "url": "https://www.skysports.com/watch/video/13551697/monaco-gp-charles-leclerc-on-driving-borderline-dangerous-ferrari",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
+      "topic": "News",
+      "headline": "Iran's World Cup team lands in Mexico amid US visa row",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-9",
+      "topic": "News Story",
+      "headline": "'I'll be doing nappies tonight': New dad Hatton holds off Rahm to win in Andalucia",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13551742/tyrrell-hatton-beats-jon-rahm-to-win-liv-golf-andalucia-as-joaquin-niemann-earns-spot-at-the-open-championship",
       "isFeatured": false,
       "hasAiSummary": false
     }
