@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T23:37:31.504Z",
+    "generatedAt": "2026-06-07T00:09:02.957Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Sullivan steps down at West Ham in wake of historical allegations",
+    "headline": "This was a training game - England & Tuchel now need to get serious",
     "source": "BBC Sport",
-    "timeAgo": "8h",
-    "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "33m",
+    "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Wales must be better after Romania woe - Bellamy",
+      "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
+      "headline": "Wales must be better after Romania woe - Bellamy",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Brighton agree £21.5m deal for winger Yohanna",
+      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
+      "headline": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "headline": "Brighton agree £21.5m deal for winger Yohanna",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "The pioneer in an unlikely World Cup team",
+      "headline": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Arsenal approach PSG defender Mbemba",
+      "headline": "The pioneer in an unlikely World Cup team",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Spain expose England's flaws in painful defeat",
+      "headline": "Arsenal approach PSG defender Mbemba",
       "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
+      "headline": "Clarke hails 'fantastic problems' with starting choices",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
+      "url": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
       "isFeatured": false,
       "hasAiSummary": false
     }
