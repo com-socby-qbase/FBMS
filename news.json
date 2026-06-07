@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T07:09:00.112Z",
+    "generatedAt": "2026-06-07T08:24:32.302Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was a training game - England & Tuchel now need to get serious",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "8h",
     "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Are Portugal better without Ronaldo - and is he un-droppable?",
       "source": "BBC Sport",
-      "timeAgo": "36m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
+      "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "51m",
+      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Wales must be better after Romania woe - Bellamy",
+      "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,17 +148,17 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Brighton agree £21.5m deal for winger Yohanna",
+      "headline": "Wales must be better after Romania woe - Bellamy",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "England latest: 'Best-in-world' Kane must be main man, says Keane",
+      "headline": "England latest: Kane in 'best shape of career' - does his form offer WC hope?",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
+      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
       "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Arsenal approach PSG defender Mbemba",
+      "headline": "Brighton agree £21.5m deal for winger Yohanna",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
