@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T12:48:51.809Z",
+    "generatedAt": "2026-06-07T13:36:25.474Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was a training game - England & Tuchel now need to get serious",
     "source": "BBC Sport",
-    "timeAgo": "13h",
+    "timeAgo": "14h",
     "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,13 +30,73 @@
       "topic": "News",
       "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "NIGHTMARE start for Max as he fails to get off the line in Monaco!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551659/monaco-gp-disaster-as-max-verstappen-fails-on-race-start",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Antonelli leading Hamilton, Russell lining up Hadjar overtake LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "England seal comfortable win over New Zealand at Lord's",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13551638/england-vs-new-zealand-first-test-day-four-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
       "source": "Sky Sports",
@@ -66,37 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
+      "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
       "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Verstappen, Hamilton target pole-sitter Antonelli at the start LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Bethell takes 'excellent catch' as England turn screw on New Zealand",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
+      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22h",
+      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Korda leads US Women's Open with Hull in contention",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "World Cup quiz: Can you name every host?",
+      "headline": "Iran's World Cup team lands in Mexico amid US visa row",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "England thrash New Zealand by 115 runs on day four of Lord's Test LIVE!",
       "source": "Sky Sports",
@@ -146,51 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Sullivan steps down at West Ham in wake of historical allegations",
-      "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Belief but work to do - Wales' two years under Bellamy",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c62r235ygg1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Ferrari boss Vasseur returns to F1 paddock after being hospitalised",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551334/frederic-vasseur-ferrari-team-principal-hospitalised-after-medical-checks-at-monaco-grand-prix",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Nighttime and Synaran clash at ParisLongchamp",
+      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551149/today-on-sky-sports-racing-french-action-from-parislongchamp",
+      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
       "isFeatured": false,
       "hasAiSummary": false
     }
