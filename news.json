@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T20:10:27.641Z",
+    "generatedAt": "2026-06-07T20:42:22.496Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Eriksen conscious after collapsing in Denmark game",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "This was a training game - England and Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Man Utd-bound Ederson replaces Wesley in Brazil squad",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c0ey82g18xjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "O'Neill a 'no-brainer' for Celtic – now major rebuild awaits",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
