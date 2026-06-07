@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T15:07:01.817Z",
+    "generatedAt": "2026-06-07T15:45:35.387Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
     "source": "BBC Sport",
-    "timeAgo": "8h",
+    "timeAgo": "9h",
     "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "This was a training game - England & Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "Video",
-      "headline": "NIGHTMARE start for Max as he fails to get off the line in Monaco!",
+      "headline": "'I look like an idiot' | Leclerc on driving 'borderline dangerous' Ferrari",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551659/monaco-gp-disaster-as-max-verstappen-fails-on-race-start",
+      "url": "https://www.skysports.com/watch/video/13551697/monaco-gp-charles-leclerc-on-driving-borderline-dangerous-ferrari",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Monaco GP: Race set to resume for final 10 laps amid wild finale LIVE!",
+      "topic": "Video",
+      "headline": "Explained: Were Leclerc & Stroll's Monaco crashes caused by broken track?!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
+      "url": "https://www.skysports.com/watch/video/13551690/monaco-gp-ant-davidson-explains-bizzare-monaco-red-flag",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "Video",
-      "headline": "England seal comfortable win over New Zealand at Lord's",
+      "headline": "Explained: Why Russell was given drive-through penalty",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551638/england-vs-new-zealand-first-test-day-four-highlights",
+      "url": "https://www.skysports.com/watch/video/13551693/monaco-gp-why-george-russell-was-given-drive-through-penalty",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
+      "topic": "Liveblog",
+      "headline": "Monaco GP: Antonelli takes brilliant win ahead of Hamilton amid wild finish LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551618/what-next-for-zuffa-boxing-after-uk-debut-dana-white-celebrates-bournemouth-show-and-teases-big-announcements-ahead",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
+      "topic": "Video",
+      "headline": "NIGHTMARE start for Max as he fails to get off the line in Monaco!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13551602/england-beat-new-zealand-by-115-runs-on-day-four-of-first-test-at-lords-in-first-match-since-ashes-thrashing",
+      "url": "https://www.skysports.com/watch/video/13551659/monaco-gp-disaster-as-max-verstappen-fails-on-race-start",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "World Cup quiz: Can you name every host?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "Video",
-      "headline": "Bethell takes 'excellent catch' as England turn screw on New Zealand",
+      "headline": "England seal comfortable win over New Zealand at Lord's",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551628/england-vs-new-zealand-bethell-takes-excellent-catch-as-the-blacks-caps-struggle",
+      "url": "https://www.skysports.com/watch/video/13551638/england-vs-new-zealand-first-test-day-four-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Korda leads US Women's Open with Hull in contention",
+      "topic": "News Story",
+      "headline": "'Big things coming! - what next for Zuffa Boxing after 'incredible' UK debut?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551579/nelly-korda-leads-us-womens-open-with-charley-hull-in-contention",
+      "url": "https://www.skysports.com/boxing/news/12040/13551618/what-next-for-zuffa-boxing-after-uk-debut-dana-white-celebrates-bournemouth-show-and-teases-big-announcements-ahead",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Iran's World Cup team lands in Mexico amid US visa row",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England thrash New Zealand by 115 runs on day four of Lord's Test LIVE!",
+      "topic": "News Story",
+      "headline": "England wrap up thumping victory over New Zealand in Lord's Test",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13551474/england-vs-new-zealand-first-test-day-four-live-cricket-score-updates-video-and-analysis-as-ben-stokes-side-look-to-win-series-opener-at-lords",
+      "url": "https://www.skysports.com/cricket/news/12040/13551602/england-beat-new-zealand-by-115-runs-on-day-four-of-first-test-at-lords-in-first-match-since-ashes-thrashing",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
+      "topic": "Video",
+      "headline": "Bethell takes 'excellent catch' as England turn screw on New Zealand",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
+      "url": "https://www.skysports.com/watch/video/13551628/england-vs-new-zealand-bethell-takes-excellent-catch-as-the-blacks-caps-struggle",
       "isFeatured": false,
       "hasAiSummary": false
     }
