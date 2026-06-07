@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T18:13:02.222Z",
+    "generatedAt": "2026-06-07T18:45:53.945Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
+    "headline": "Eriksen conscious after collapsing in Denmark game",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "13m",
+    "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Eriksen conscious after collapsing during Denmark friendly",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Zverev wins French Open title after dramatic five-set win against Cobolli",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "This was a training game - England and Tuchel now need to get serious",
       "source": "BBC Sport",
-      "timeAgo": "18h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Man Utd latest: Ederson called up to Brazil World Cup squad",
       "source": "Sky Sports",
@@ -46,17 +66,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Alpine request review of Monaco pit lane penalties as Gasly left 'heartbroken'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13551589/alpine-request-fia-review-of-monaco-gp-pit-lane-speeding-penalties-as-pierre-gasly-left-heartbroken-after-losing-podium",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Supreme Antonelli beats Hamilton to Monaco win after wild finale",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "headline": "Man Utd-bound Ederson replaces Wesley in Brazil squad",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "32m",
+      "url": "https://www.bbc.com/sport/football/articles/c0ey82g18xjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Golden Tempo shines once again to seal Belmont Stakes glory",
       "source": "Sky Sports",
@@ -86,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "DR Congo friendly to be played behind closed doors",
       "source": "BBC Sport",
@@ -96,9 +136,9 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "French Open final reaction LIVE! Zverev wins maiden Grand Slam title after thriller",
+      "headline": "Henman: 'Zverev can now release Grand Slam stress, tension, baggage of many years'",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13551613/french-open-final-live-score-results-game-by-game-updates-as-alexander-zverev-takes-on-flavio-cobolli-at-roland-garros",
@@ -106,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Pre-World Cup friendlies - Messi rested & Leao sent off",
       "source": "BBC Sport",
@@ -116,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Chacarra claims KLM Open to win second DP World Tour title",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "O'Neill a 'no-brainer' for Celtic – now major rebuild awaits",
       "source": "BBC Sport",
-      "timeAgo": "53m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'An incredible moment' | Antonelli ecstatic after fifth straight win",
       "source": "Sky Sports",
@@ -146,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
       "source": "BBC Sport",
@@ -156,52 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'I don't need to win': Serena says shock tennis comeback is not about titles",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13551725/serena-williams-says-shock-tennis-comeback-at-queens-club-is-not-about-titles-as-she-refuses-to-commit-to-singles-return",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "World Cup quiz: Can you name every host?",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "'I look like an idiot' | Leclerc on driving 'borderline dangerous' Ferrari",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13551697/monaco-gp-charles-leclerc-on-driving-borderline-dangerous-ferrari",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Iran's World Cup team lands in Mexico amid US visa row",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "'I'll be doing nappies tonight': New dad Hatton holds off Rahm to win in Andalucia",
+      "topic": "Liveblog",
+      "headline": "Hull chases Korda for major victory at US Women's Open LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13551742/tyrrell-hatton-beats-jon-rahm-to-win-liv-golf-andalucia-as-joaquin-niemann-earns-spot-at-the-open-championship",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13551635/us-womens-open-live-latest-scores-updates-highlights-as-nelly-korda-charley-hull-chase-major-victory-in-california",
       "isFeatured": false,
       "hasAiSummary": false
     }
