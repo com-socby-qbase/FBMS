@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T15:27:26.198Z",
+    "generatedAt": "2026-06-08T16:50:23.380Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "How can athletes play with ICDs, and what happens when one goes off?",
+    "headline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "50m",
+    "url": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Former Hull FC and NRL player Evans comes out as gay",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Eriksen at home and 'doing well' after collapse",
+      "source": "BBC Sport",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Man City and Chelsea remain in talks over Maresca",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
       "source": "Sky Sports",
@@ -26,17 +66,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Man City and Chelsea remain in talks over Maresca",
+      "headline": "How can athletes play with ICDs, and what happens when one goes off?",
       "source": "BBC Sport",
-      "timeAgo": "17m",
-      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Eriksen to return home 'soon' after collapsing during Denmark friendly",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Norway boss brands Scotland's Clarke 'unprofessional'",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Eagleson signs with Zuffa Boxing and will fight on Sky Sports",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Norway boss brands Scotland's Clarke 'unprofessional'",
+      "headline": "Rashford 'dead cert to start for me' - Walcott",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "50m",
+      "url": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Origi retires: The Liverpool 'legend' who scored when it mattered most",
       "source": "Sky Sports",
@@ -66,37 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Bellingham has fight to start for England - Tuchel",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Sciver-Brunt out cheaply on England return but Capsey impressing vs Australia LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13551949/england-vs-australia-live-cricket-score-updates-video-analysis-from-icc-womens-t20-world-cup-warm-up-match-at-sophia-gardens-cardiff",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Lionesses need setbacks like Spain loss - Wiegman",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c892lp9q7j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Russell admits to being in 'very weird state of mind' after poor run",
       "source": "Sky Sports",
@@ -106,19 +146,39 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Ex-England midfielder Dyer named new Southend boss",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c9d33n2dexyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Scotland labelled 'unprofessional' by Norway after friendly U-turn",
+      "headline": "England hope as two Australia wickets fall in two overs in World Cup warm-up LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551949/england-vs-australia-live-cricket-score-updates-video-analysis-from-icc-womens-t20-world-cup-warm-up-match-at-sophia-gardens-cardiff",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Bellingham has fight to start for England - Tuchel",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
+      "topic": "Liveblog",
+      "headline": "Scotland hit back after being labelled 'unprofessional' by Norway boss",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Inside the fairytale journey of Scotland captain Robertson",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Leclerc's 'nightmare' criticism ignites dispute with Ferrari brake supplier",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551947/charles-leclerc-ignites-dispute-with-ferrari-brake-supplier-brembo-after-criticism-following-monaco-gp-crash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Mourinho set for Real after Perez re-elected",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cgk67jxy106o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Spain defeat causes sleepless night as Wiegman seeks reaction from Lionesses",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551918/england-women-sarina-wiegman-looking-for-lionesses-to-show-their-true-selves-as-lauren-hemp-admits-to-sleepless-night-after-spain-thrashing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
-      "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "McIlroy finds 'good stuff' ahead of US Open but identifies 'limited' area",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13551925/rory-mcilroy-highlights-driver-inconsistency-issue-heading-into-us-open-but-takes-positives-from-memorial-tournament",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "How Emslie went from giving birth to World Cup qualifiers inside six months",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cx23kj5814po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Britain's Joyce to fight unbeaten heavyweight Suslenkov in July",
+      "headline": "Leclerc's 'nightmare' criticism ignites dispute with Ferrari brake supplier",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551767/britains-joe-joyce-to-fight-unbeaten-heavyweight-artem-suslenkov-on-undercard-of-murat-gassiev-vs-tony-yoka-on-july-11",
+      "url": "https://www.skysports.com/f1/news/12040/13551947/charles-leclerc-ignites-dispute-with-ferrari-brake-supplier-brembo-after-criticism-following-monaco-gp-crash",
       "isFeatured": false,
       "hasAiSummary": false
     }
