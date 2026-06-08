@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T19:05:27.999Z",
+    "generatedAt": "2026-06-08T19:57:27.931Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Defending champ Maria 'surprised' at Queen's wildcard snub",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13552029/tatjana-maria-reigning-queens-club-champion-surprised-at-wildcard-snub-with-the-respect-for-me-i-thought-i-deserved-one",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Eriksen at home and 'doing well' after collapse",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Will England pair Littler and Humphries right the wrongs at World Cup of Darts?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Watch: The Monday Night Club",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058cz6?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Article/Blog",
       "headline": "Brundle salutes 'unbeatable' Antonelli, gives verdict on Monaco penalties",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Eriksen at home and 'doing well' after collapse",
+      "headline": "Man City and Chelsea remain in talks over Maresca",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "ECB investigating Stokes and Atkinson after nightclub incident",
       "source": "Sky Sports",
@@ -46,62 +86,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Watch: The Monday Night Club",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058cz6?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "England fall to five‑wicket defeat against Australia",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Man City and Chelsea remain in talks over Maresca",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Article/Blog",
-      "headline": "Winning isn't important to Serena Williams? 'Success is in her DNA!'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13552027/serena-williams-winning-isnt-important-to-23-time-grand-slam-champion-success-is-in-her-dna-claims-gigi-salmon",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Somali referee Artan barred from entering USA",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Former Hull FC and NRL player Evans comes out as gay",
+      "topic": "Video",
+      "headline": "England fall to five‑wicket defeat against Australia",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
+      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
+      "topic": "Article/Blog",
+      "headline": "Winning isn't important to Serena Williams? 'Success is in her DNA!'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
+      "url": "https://www.skysports.com/tennis/news/12040/13552027/serena-williams-winning-isnt-important-to-23-time-grand-slam-champion-success-is-in-her-dna-claims-gigi-salmon",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
+      "headline": "Former Hull FC and NRL player Evans comes out as gay",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12288/11933951/love-the-darts-podcast-sky-sports",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Norway boss brands Scotland's Clarke 'unprofessional'",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,30 +158,30 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Eriksen to return home 'soon' after collapsing during Denmark friendly",
+      "headline": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "url": "https://www.skysports.com/football/news/12040/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "FAI tight-lipped on venue switch for Israel game",
+      "headline": "Netherlands' Timber out of World Cup with injury",
       "source": "BBC Sport",
-      "timeAgo": "57m",
-      "url": "https://www.bbc.com/sport/football/articles/cz75jrl141xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "35m",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Origi retires: The Liverpool 'legend' who scored when it mattered most",
+      "headline": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
+      "url": "https://www.skysports.com/darts/news/12288/11933951/love-the-darts-podcast-sky-sports",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Lionesses need setbacks like Spain loss - Wiegman",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c892lp9q7j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Eagleson signs with Zuffa Boxing and will fight on Sky Sports",
+      "headline": "Eriksen to return home 'soon' after collapsing during Denmark friendly",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13551981/dylan160eagleson-commonwealth-games-gold-medallist-signs-long-term-deal-with-zuffa-boxing-and-will-fight-on-sky-sports",
+      "url": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
       "isFeatured": false,
       "hasAiSummary": false
     }
