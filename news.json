@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T12:32:26.598Z",
+    "generatedAt": "2026-06-08T14:10:03.880Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Bellingham has fight to start for England - Tuchel",
+    "headline": "How can athletes play with ICDs, and what happens when it goes off?",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "10m",
+    "url": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,27 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Scotland latest: Clarke urges his squad to soak up atmosphere",
+      "headline": "Sciver-Brunt returns as England bat vs Australia in World Cup warm-up LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551949/england-vs-australia-live-cricket-score-updates-video-analysis-from-icc-womens-t20-world-cup-warm-up-match-at-sophia-gardens-cardiff",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Bellingham has fight to start for England - Tuchel",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Scotland labelled 'unprofessional' by Norway after friendly U-turn",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
@@ -26,19 +46,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Eriksen 'in good spirits' after collapse",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Leclerc criticism 'premature' says Ferrari brake supplier",
+      "headline": "Leclerc's 'nightmare' criticism ignites dispute with Ferrari brake supplier",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/news/12040/13551947/charles-leclerc-ignites-dispute-with-ferrari-brake-supplier-brembo-after-criticism-following-monaco-gp-crash",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Inside the fairytale journey of Scotland captain Robertson",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Spain defeat causes sleepless night as Wiegman seeks reaction from Lionesses",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Mourinho set for Real after Perez re-elected",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cgk67jxy106o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "McIlroy finds 'good stuff' ahead of US Open but identifies 'limited' area",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "From dazzling winger to veteran who barely runs - the evolution of Messi",
       "source": "BBC Sport",
-      "timeAgo": "19h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Britain's Joyce to fight unbeaten heavyweight Suslenkov in July",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Rice to be England's vice-captain at World Cup",
+      "headline": "How Emslie went from giving birth to World Cup qualifiers inside six months",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.com/sport/football/articles/cx23kj5814po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "McCullum 'hopeful' of Archer return as he hails Gay's 'super-impressive' debut",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 1",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/cpwpn4kvd2do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Sinfield to visit 12 Super League grounds in final MND challenge",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Real Madrid to join Fernandes race - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Liverpool latest: Inter chief admits interest in Jones",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Why Olise can be one of France's very best - Clichy",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c2020jylzk1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Brutal, searing and punishing heat' - Babb on playing for Ireland at USA '94",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550143/phil-babb",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Emotion and celebration for Deschamps' home farewell",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cdr4l7gy57lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Barcelona-Catalunya GP: UK schedule and how to watch on Sky Sports",
+      "headline": "'Brutal, searing and punishing heat' - Babb on playing for Ireland at USA '94",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13551599/barcelona-catalunya-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-spain-live-on-sky-sports",
+      "url": "https://www.skysports.com/football/news/12040/13550143/phil-babb",
       "isFeatured": false,
       "hasAiSummary": false
     }
