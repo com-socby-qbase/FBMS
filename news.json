@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T23:10:33.307Z",
+    "generatedAt": "2026-06-08T23:42:39.268Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Somali referee Artan to miss World Cup after being barred from entering US",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Why Olise can be one of France's very best - Clichy",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/c2020jylzk1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Eriksen at home and 'doing well' after collapse",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Spurs close in on Man City's Savinho - Tuesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cj9gjvedwp3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Wolves sign Trippier and in Jimenez talks",
       "source": "BBC Sport",
-      "timeAgo": "32m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Lionesses need setbacks like Spain loss - Wiegman",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c892lp9q7j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
