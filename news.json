@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T19:57:27.931Z",
+    "generatedAt": "2026-06-08T21:00:44.768Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Eriksen at home and 'doing well' after collapse",
+      "headline": "Why Olise can be one of France's very best - Clichy",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/c2020jylzk1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Watch: The Monday Night Club",
+      "headline": "Eriksen at home and 'doing well' after collapse",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058cz6?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Man City and Chelsea remain in talks over Maresca",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Somali referee Artan barred from entering USA",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Rashford 'dead cert to start for me' - Walcott",
+      "headline": "Palace hold initial talks with Lens manager Sage",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12m",
+      "url": "https://www.bbc.com/sport/football/articles/c20ypg5vyveo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "How can athletes play with ICDs, and what happens when one goes off?",
+      "headline": "Rashford 'dead cert to start for me' - Walcott",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Norway boss brands Scotland's Clarke 'unprofessional'",
+      "headline": "How can athletes play with ICDs, and what happens when one goes off?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/ceqdnr89yy0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Netherlands' Timber out of World Cup with injury",
+      "headline": "Norway boss brands Scotland's Clarke 'unprofessional'",
       "source": "BBC Sport",
-      "timeAgo": "35m",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Lionesses need setbacks like Spain loss - Wiegman",
+      "headline": "Netherlands' Timber out of World Cup with injury",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c892lp9q7j0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Eriksen to return home 'soon' after collapsing during Denmark friendly",
+      "headline": "Sullivan facing further scrutiny following investigation by BBC and The Times",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "url": "https://www.skysports.com/football/news/12040/13552124/david-sullivan-former-west-ham-chairman-facing-further-scrutiny-following-investigation-by-bbc-and-the-times",
       "isFeatured": false,
       "hasAiSummary": false
     }
