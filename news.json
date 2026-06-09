@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T19:44:07.109Z",
+    "generatedAt": "2026-06-09T20:29:56.093Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Does referee case show Fifa has lost control of its own World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Real Madrid's £130m Alvarez bid rejected",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Risk of death to oldest man at World Cup - walking miracle Gordon",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "What now for West Ham after Sullivan allegations?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Play BBC Sport's new World Cup predictor game",
+      "headline": "Why super-sized and politicised World Cup comes at a cost",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,17 +148,17 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How to watch the World Cup on the BBC and ITV",
+      "headline": "Play BBC Sport's new World Cup predictor game",
       "source": "BBC Sport",
-      "timeAgo": "2d",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Raducanu makes blistering Queen's start in straight sets win",
+      "headline": "Raducanu makes blistering Queen's start before doubles exit with Boulter",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/news/12040/13552301/queens-club-emma-raducanu-impresses-in-blistering-straight-sets-win-over-anna-blinkova-in-lead-up-to-wimbledon",
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Download your World Cup 2026 wallchart",
+      "headline": "How to watch the World Cup on the BBC and ITV",
       "source": "BBC Sport",
-      "timeAgo": "7d",
-      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2d",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+      "headline": "Download your World Cup 2026 wallchart",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7d",
+      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
