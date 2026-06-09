@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T09:47:23.146Z",
+    "generatedAt": "2026-06-09T11:06:52.429Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why super-sized and politicised World Cup comes at a cost",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+      "headline": "Tickets for Iran fans revoked, says federation",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "51m",
+      "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Play BBC Sport's new World Cup predictor game",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Stokes and Atkinson's nightclub breach ended in Saracens player altercation",
+      "headline": "Stokes' future in spotlight after nightclub incident with Atkinson and Saracens player",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/news/12040/13552186/ben-stokes-and-gus-atkinson-england-players-midnight-curfew-breach-ended-in-saracens-player-altercation",
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "The flag Iranians are not allowed to wave at the World Cup",
+      "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
       "source": "BBC Sport",
-      "timeAgo": "19m",
-      "url": "https://www.bbc.com/sport/articles/c2eykvw3exwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Why France's Olise is moving into Ballon d'Or picture",
+      "headline": "The flag Iranians are not allowed to wave at the World Cup",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/articles/cx2k50v9zyxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/articles/c2eykvw3exwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Diogo will be with you' - Jota's widow writes to Robertson",
+      "headline": "Why France's Olise is moving into Ballon d'Or picture",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/articles/cx2k50v9zyxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Wolves sign Trippier and in Jimenez talks",
+      "headline": "'Diogo will be with you' - Jota's widow writes to Robertson",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 2",
+      "headline": "Wolves sign Trippier and in Jimenez talks",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c202d04y761o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Somali referee Artan to miss World Cup after being barred from entering US",
+      "headline": "Who am I? Guess World Cup star No 2",
       "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c202d04y761o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Scotland's fateful 1978 World Cup campaign still resonates",
+      "headline": "Palmer and Joao Pedro feature in Madonna video",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c626v3y3jz4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Story Telling",
-      "headline": "Next Up: The players who could become stars at this World Cup",
+      "topic": "News Story",
+      "headline": "Nordqvist: Great battle coming for Team Europe's Solheim Cup spots",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/story-telling/12040/13550821/world-cup-2026-the-young-players-who-could-become-stars-in-the-usa-canada-and-mexico-this-summer",
+      "url": "https://www.skysports.com/golf/news/12040/13552221/solheim-cup-anna-nordqvists-captain-column-team-europes-qualification-battle-as-preparation-ramps-up-to-face-team-usa",
       "isFeatured": false,
       "hasAiSummary": false
     }
