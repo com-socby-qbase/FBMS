@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T17:45:21.103Z",
+    "generatedAt": "2026-06-09T18:48:36.893Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "I have right papers and visa - barred referee Artan",
+    "headline": "Does referee case show Fifa has lost control of its own World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "4h",
-    "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "52m",
+    "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Stokes considering his future after nightclub incident",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13552470/ben-stokes-england-test-captain-considering-future-after-nightclub-incident-involving-gus-atkinson-and-saracens-player",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
+      "source": "BBC Sport",
+      "timeAgo": "54m",
+      "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Real Madrid's £129m bid for Atleti's Alvarez rejected",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Real Madrid's £130m Alvarez bid rejected",
+      "source": "BBC Sport",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "England third favourites? Their real World Cup chances assessed",
       "source": "Sky Sports",
@@ -26,19 +66,39 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+      "headline": "I have right papers and visa - barred referee Artan",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13552418/fia-confirm-date-for-alpine-appeal-hearing-over-monaco-gp-speeding-penalties-for-pierre-gasly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "What now for West Ham after Sullivan allegations?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "England latest: Tuchel & Guehi to speak to media at 7.15pm LIVE!",
+      "headline": "England latest: Tuchel & Guehi to speak to media LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "What now for West Ham after Sullivan allegations?",
+      "headline": "Risk of death to oldest man at World Cup - walking miracle Gordon",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cdjke4r7dmeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Crystal Palace agree deal in principle for Lens boss Sage",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Tickets for Iran fans revoked, says federation",
+      "headline": "Play BBC Sport's new World Cup predictor game",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Raducanu makes blistering Queen's start in straight sets win",
       "source": "Sky Sports",
@@ -86,107 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Ngumoha to leave England squad having made mark",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Risk of death to oldest man at World Cup - walking miracle Gordon",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "RFU council member resigns over discriminatory Alphonsi comments",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Why super-sized and politicised World Cup comes at a cost",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Wolff reveals unease at joining Antonelli on podium amid Russell woe",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552260/mercedes-boss-toto-wolff-reveals-unease-at-joining-kimi-antonelli-on-monaco-podium-amid-continued-woe-for-george-russell",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "'Gridlock alert days' and a race for tickets as US prepares to host World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jk042y7vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Spurs keep NBA Finals alive going into Game 4 - all you need to know",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/basketball/news/12040/13550396/nba-finals-2026-new-york-knicks-vs-san-antonio-spurs-dates-schedule-uk-start-time-key-info",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Play BBC Sport's new World Cup predictor game",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "George Scott: Caballo can claim Gold",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13552291/george-scott-is-going-for-gold-with-caballo-de-mar",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "How to watch the World Cup on the BBC and ITV",
       "source": "BBC Sport",
@@ -196,12 +156,52 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Explained: Is Stokes' captaincy untenable after curfew breach?",
+      "id": "sky_sports-7",
+      "topic": "Liveblog",
+      "headline": "Fulham latest: Jimenez set to join Wolves on free transfer",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13552428/england-cricket-is-ben-stokes-captaincy-untenable-after-nightclub-breach",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Download your World Cup 2026 wallchart",
+      "source": "BBC Sport",
+      "timeAgo": "7d",
+      "url": "https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
+      "topic": "News Story",
+      "headline": "RFU council member resigns over discriminatory Alphonsi comments",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
+      "topic": "News",
+      "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-9",
+      "topic": "News Story",
+      "headline": "Serena Williams makes winning comeback after four-year absence",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13552468/serena-williams-44-year-old-grand-slam-great-makes-winning-comeback-in-queens-doubles-event-after-four-year-absence",
       "isFeatured": false,
       "hasAiSummary": false
     }
