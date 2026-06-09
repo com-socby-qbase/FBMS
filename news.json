@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T21:57:32.311Z",
+    "generatedAt": "2026-06-09T22:40:05.869Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England taking care of Saka before World Cup - Tuchel",
+    "headline": "Caution over Saka as Tuchel says England must dare to dream",
     "source": "BBC Sport",
-    "timeAgo": "52m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Relegated twice - so why is Fernandes still wanted by Europe's best?",
+      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
+      "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Stokes considering his future after nightclub incident",
+      "headline": "Relegated twice - so why is Fernandes still wanted by Europe's best?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552470/ben-stokes-england-test-captain-considering-future-after-nightclub-incident-involving-gus-atkinson-and-saracens-player",
+      "url": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
       "source": "BBC Sport",
-      "timeAgo": "17m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Stokes considering his future after nightclub incident",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13552470/ben-stokes-england-test-captain-considering-future-after-nightclub-incident-involving-gus-atkinson-and-saracens-player",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Real Madrid's £130m Alvarez bid rejected by laughing Atletico",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "'You make us laugh more than Barca!' - Atleti mock Real after £129m Alvarez bid",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Real Madrid's £130m Alvarez bid rejected by laughing Atletico",
+      "headline": "From risk of death to oldest man at World Cup - walking miracle Gordon",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "England third favourites? Their real World Cup chances assessed",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "From risk of death to oldest man at World Cup - walking miracle Gordon",
+      "headline": "Pain in Grenoble but hope for Irish as play-offs loom",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.com/sport/football/articles/c62144y5yz4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "I have right papers and visa - barred referee Artan",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "England latest: 'From the heart' - Tuchel explains viral speech to players",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "What now for West Ham after Sullivan allegations?",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Crystal Palace agree deal in principle for Lens boss Sage",
       "source": "Sky Sports",
@@ -146,7 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Scoring on NI debut unbelievable - Cassap",
       "source": "BBC Sport",
@@ -156,7 +176,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Raducanu makes blistering Queen's start before doubles exit with Boulter",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Play BBC Sport's new World Cup predictor game",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "Liveblog",
       "headline": "Fulham latest: Jimenez set to join Wolves on free transfer",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "How to watch the World Cup on the BBC and ITV",
-      "source": "BBC Sport",
-      "timeAgo": "3d",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Lionesses forced to settle for World Cup play-off spot despite Ukraine win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/england-women-vs-ukraine-women/report/550130",
       "isFeatured": false,
       "hasAiSummary": false
     }
