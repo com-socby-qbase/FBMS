@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T23:42:39.268Z",
+    "generatedAt": "2026-06-09T00:11:46.502Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "8h",
     "url": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Man City and Chelsea remain in talks over Maresca",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "McGinn in the form of his life and now dancing to Scotland's tune",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cn94d7w2zylo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Palace hold initial talks with Lens manager Sage",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c20ypg5vyveo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
