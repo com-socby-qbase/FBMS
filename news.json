@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T06:50:22.670Z",
+    "generatedAt": "2026-06-09T08:15:33.975Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why super-sized and politicised World Cup comes at a cost",
     "source": "BBC Sport",
-    "timeAgo": "52m",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "All you need to know about the World Cup of Darts 2026",
+      "headline": "Miles Russell, 17, qualifies for US Open with Woods' son as caddie",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
+      "url": "https://www.skysports.com/golf/news/12040/13552169/us-open-final-qualifying-miles-russell-17-has-tiger-woods-son-as-caddie-in-securing-shinnecock-hills-spot-for-2026",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,33 +30,13 @@
       "topic": "News",
       "headline": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "No More No looks to make up for lost time at Southwell",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13551962/today-on-sky-sports-racing-brighton-and-southwell",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Wolves sign Trippier and in Jimenez talks",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Ally Pally heroes Lim, Sakai, Leung and Kumar in World Cup of Darts action",
       "source": "Sky Sports",
@@ -66,17 +46,77 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Why France's Olise is moving into Ballon d'Or picture",
+      "source": "BBC Sport",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.com/sport/articles/cx2k50v9zyxo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Stokes and Atkinson's nightclub breach ended in Saracens player altercation",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13552186/ben-stokes-and-gus-atkinson-england-players-midnight-curfew-breach-ended-in-saracens-player-altercation",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Somali referee Artan to miss World Cup after being barred from entering US",
+      "headline": "Wolves sign Trippier and in Jimenez talks",
       "source": "BBC Sport",
       "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "All you need to know about the World Cup of Darts 2026",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Spurs close in on Man City's Savinho - Tuesday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cj9gjvedwp3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "No More No looks to make up for lost time at Southwell",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13551962/today-on-sky-sports-racing-brighton-and-southwell",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Scotland's fateful 1978 World Cup campaign still resonates",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c626v3y3jz4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Wembanyama carries Spurs to crucial win to cut Knicks' NBA Finals lead",
       "source": "Sky Sports",
@@ -86,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Scotland's fateful 1978 World Cup campaign still resonates",
+      "headline": "Who am I? Guess World Cup star No 2",
       "source": "BBC Sport",
-      "timeAgo": "30m",
-      "url": "https://www.bbc.com/sport/football/articles/c626v3y3jz4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c202d04y761o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "'UNBELIEVABLE!' | All of Russell's bad luck this season so far",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13552016/f1-all-of-george-russells-bad-luck-this-season-so-far",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Man City and Chelsea remain in talks over Maresca",
+      "source": "BBC Sport",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Defending champ Maria 'surprised' at Queen's wildcard snub",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 2",
+      "headline": "'Diogo will be with you' - Jota's widow writes to Robertson",
       "source": "BBC Sport",
-      "timeAgo": "57m",
-      "url": "https://www.bbc.com/sport/football/articles/c202d04y761o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "54m",
+      "url": "https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Somali referee dropped from World Cup after US visa denial",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Spurs close in on Man City's Savinho - Tuesday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cj9gjvedwp3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Will England pair Littler and Humphries right the wrongs at World Cup of Darts?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Football regulator seeks 'urgent information' from Sullivan after allegations",
-      "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Article/Blog",
-      "headline": "Brundle salutes 'unbeatable' Antonelli, gives verdict on Monaco penalties",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552010/monaco-gp-martin-brundle-salutes-unbeatable-kimi-antonelli-gives-verdict-on-speeding-penalties-in-f1-race",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Eriksen at home and 'doing well' after collapse",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "ECB investigating Stokes and Atkinson after nightclub incident",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552071/ben-stokes-and-gus-atkinson-ecb-investigating-a-breach-of-team-protocols-involving-england-internationals",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Man City and Chelsea remain in talks over Maresca",
+      "headline": "Somali referee Artan to miss World Cup after being barred from entering US",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "England fall to five‑wicket defeat against Australia",
+      "headline": "Inspector Hamilton 🔍 Ferrari driver closely eyes up Mercedes' race-winning car",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
+      "url": "https://www.skysports.com/watch/video/13552006/lewis-hamilton-inspects-kimi-antonellis-mercedes-car-after-monaco-gp",
       "isFeatured": false,
       "hasAiSummary": false
     }
