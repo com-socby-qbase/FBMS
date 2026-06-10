@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T22:25:52.469Z",
+    "generatedAt": "2026-06-10T23:05:03.812Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Manager McKenna leaves promoted Ipswich",
+    "headline": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "37m",
+    "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Saracens' Willis wins Prem player of the season",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13552894/gallagher-prem-tom-wills-crowned-prem-player-of-the-season-ahead-of-bordeaux-switch",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Legend of the club - but McKenna leaves promoted Ipswich",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Mahomes signs record-breaking $500m Chiefs contract",
       "source": "Sky Sports",
@@ -26,7 +46,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Essex Police given new Sullivan information",
       "source": "BBC Sport",
@@ -36,7 +56,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Infantino tells people to 'chill and relax' after Somali referee denied US entry",
       "source": "Sky Sports",
@@ -46,7 +66,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "US official claims banned referee had links with 'terror organisations'",
       "source": "BBC Sport",
@@ -56,7 +76,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Is football impacting the US? Or is the US impacting football?",
       "source": "Sky Sports",
@@ -66,32 +86,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Scotland's Super Mario and social butterfly who emerged from Man Utd cocoon",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "'Not a sackable offence' - Atherton, Hussain back Stokes over England future",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552791/ben-stokes-former-england-captains-michael-atherton-and-nasser-hussain-on-why-nightclub-incident-is-not-a-sackable-offence",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Everton ordered to pay Burnley £35m over PSR breaches",
-      "source": "BBC Sport",
       "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cqx1wqr3yjno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,15 +108,35 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Who will win the World Cup? BBC pundits make their predictions",
+      "headline": "Everton ordered to pay Burnley £35m over PSR breaches",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cqx1wqr3yjno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "'Not a sackable offence' - Atherton, Hussain back Stokes over England future",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13552791/ben-stokes-former-england-captains-michael-atherton-and-nasser-hussain-on-why-nightclub-incident-is-not-a-sackable-offence",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Fifa and global players' union agree landmark deal",
+      "source": "BBC Sport",
+      "timeAgo": "33m",
+      "url": "https://www.bbc.com/sport/football/articles/ckg8vpx9rego?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "F1 agree engine rule changes for 2027 and 2028 seasons",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "headline": "Who will win the World Cup? BBC pundits make their predictions",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Williams' Queen's campaign in jeopardy after Mboko injury",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Keane and Fernandes clear air after row over 'lie'",
+      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/c1mylp97p53o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "F1, FIA, Ecclestone win permission to take Massa appeal to Supreme Court",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "World Cup quiz: How well do you remember these opening games?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9l92pvqyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "McKenna stepping down as Ipswich boss to take break from football",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rashford future uncertain as Barca deal deadline looms",
+      "headline": "Arsenal in hunt for Williams - Thursday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c3ryx74peyeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "32m",
+      "url": "https://www.bbc.com/sport/football/articles/ce371zx8zdko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Papers: Mourinho eyes Gvardiol and Fernandes for Real Madrid",
+      "headline": "McKenna stepping down as Ipswich boss to take break from football",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552883/real-madrid-transfer-news-jose-mourinho-targeting-man-citys-josko-gvardiol-and-man-utd-target-mateus-fernandes",
+      "url": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
       "isFeatured": false,
       "hasAiSummary": false
     }
