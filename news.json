@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T08:09:54.359Z",
+    "generatedAt": "2026-06-10T09:32:06.690Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who will win the World Cup? BBC pundits make their predictions",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Sunderland latest: Talks begin with Geertruida as four depart",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Keane and Fernandes clear air after row over 'lie'",
+      "source": "BBC Sport",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.com/sport/football/articles/c1mylp97p53o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Man Utd latest: Is Fernandes worth £80m? Have your say!",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "headline": "Why this World Cup will showcase 'different Steve Clarke'",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cy5vy5w52wxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "LIV Golf chief executive dodges questions over viability of future events",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'Different' Clarke bids to smash Scotland's glass ceiling",
+      "headline": "Who am I? Guess World Cup star No 3",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cy5vy5w52wxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c759x541vn9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Man City latest: 'Eight players could leave in summer'",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 3",
+      "headline": "When will an African side win the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c759x541vn9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "38m",
+      "url": "https://www.bbc.com/sport/football/articles/c98rn3d135jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Littler and Humphries top US Darts Masters bill at Madison Square Garden",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Caution over Saka as Tuchel says England must dare to dream",
+      "headline": "England miss out on automatic World Cup spot - so what happens now?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Wembanyama stars as Spurs fight back to beat Knicks",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "England miss out on automatic World Cup spot - so what happens now?",
+      "headline": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Mourinho to fly to Madrid to complete Real return",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
+      "headline": "Real Madrid eye Arsenal's Calafiori - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8ky3nl7d4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Quadrillion and Shushu clash at Yarmouth",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Real Madrid eye Arsenal's Calafiori - Wednesday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8ky3nl7d4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "World Cup of Darts 2026: Pundit predictions with Littler, Humphries, Rock in action",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13551187/world-cup-of-darts-2026-pundit-predictions-for-winners-dark-horses-best-pairings-with-luke-littler-luke-humphries-josh-rock-in-action",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Does referee case show Fifa has lost control of its own World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hamilton: First win for Ferrari 'couldn't be closer'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552393/lewis-hamilton-says-his-first-win-for-ferrari-couldnt-be-closer-after-going-second-in-championship-with-strong-monaco-showing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Scotland 'living dream' thanks to 'humble' superstar Weir",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/crr899ke177o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
+      "headline": "World Cup of Darts 2026: Pundit predictions with Littler, Humphries, Rock in action",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
+      "url": "https://www.skysports.com/darts/news/12040/13551187/world-cup-of-darts-2026-pundit-predictions-for-winners-dark-horses-best-pairings-with-luke-littler-luke-humphries-josh-rock-in-action",
       "isFeatured": false,
       "hasAiSummary": false
     }
