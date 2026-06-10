@@ -1,22 +1,142 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T06:32:38.073Z",
+    "generatedAt": "2026-06-10T08:09:54.359Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
+    "headline": "Who will win the World Cup? BBC pundits make their predictions",
     "source": "BBC Sport",
-    "timeAgo": "47m",
-    "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "2h",
+    "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Man Utd latest: Is Fernandes worth £80m? Have your say!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "LIV Golf chief executive dodges questions over viability of future events",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13552582/liv-golf-chief-executive-scott-oneil-dodges-question-over-viability-of-future-events",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Different' Clarke bids to smash Scotland's glass ceiling",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cy5vy5w52wxo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Man City latest: 'Eight players could leave in summer'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Who am I? Guess World Cup star No 3",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c759x541vn9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Littler and Humphries top US Darts Masters bill at Madison Square Garden",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13552562/us-darts-masters-luke-littler-and-luke-humphries-headline-madison-square-garden-bill",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Caution over Saka as Tuchel says England must dare to dream",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Wembanyama stars as Spurs fight back to beat Knicks",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13552217/new-york-knicks-111-115-san-antonio-spurs-nba-finals-game-3-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "England miss out on automatic World Cup spot - so what happens now?",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Mourinho to fly to Madrid to complete Real return",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13552583/jose-mourinho-to-real-madrid-former-chelsea-boss-flying-to-madrid-to-complete-deal-to-replace-alvaro-arbeloa-on-three-year-contract",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
+      "source": "BBC Sport",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Quadrillion and Shushu clash at Yarmouth",
       "source": "Sky Sports",
@@ -26,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who will win the World Cup? BBC pundits make their predictions",
+      "headline": "Real Madrid eye Arsenal's Calafiori - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8ky3nl7d4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "World Cup of Darts 2026: Pundit predictions with Littler, Humphries, Rock in action",
       "source": "Sky Sports",
@@ -46,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 3",
+      "headline": "Does referee case show Fifa has lost control of its own World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.com/sport/football/articles/c759x541vn9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Hamilton: First win for Ferrari 'couldn't be closer'",
       "source": "Sky Sports",
@@ -66,142 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Caution over Saka as Tuchel says England must dare to dream",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "England miss out on automatic World Cup spot - so what happens now?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Relegated twice - so why is Fernandes still wanted by Europe's best?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Stokes considering his future after nightclub incident",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552470/ben-stokes-england-test-captain-considering-future-after-nightclub-incident-involving-gus-atkinson-and-saracens-player",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Real Madrid eye Arsenal's Calafiori - Wednesday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8ky3nl7d4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "'You make us laugh more than Barca!' - Atleti mock Real after £129m Alvarez bid",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Does referee case show Fifa has lost control of its own World Cup?",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "England third favourites? Their real World Cup chances assessed",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England latest: Saka not ready for 90 minutes yet, reveals Tuchel",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "From risk of death to oldest man at World Cup - walking miracle Gordon",
+      "headline": "Scotland 'living dream' thanks to 'humble' superstar Weir",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/crr899ke177o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
+      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552418/fia-confirm-date-for-alpine-appeal-hearing-over-monaco-gp-speeding-penalties-for-pierre-gasly",
+      "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
       "isFeatured": false,
       "hasAiSummary": false
     }
