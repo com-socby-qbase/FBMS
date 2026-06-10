@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T13:44:11.205Z",
+    "generatedAt": "2026-06-10T14:48:37.275Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Who will win the World Cup? BBC pundits make their predictions",
+    "headline": "US official says banned referee had links with 'terror organisations'",
     "source": "BBC Sport",
-    "timeAgo": "8h",
-    "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "40m",
+    "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "headline": "Everton ordered to pay Burnley £35m over PSR breaches",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "31m",
+      "url": "https://www.bbc.com/sport/football/articles/cqx1wqr3yjno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Everton appeal against PL order to pay £40m to Burnley over PSR breach",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Who will win the World Cup? BBC pundits make their predictions",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Is FIA decision to grant Mercedes engine upgrades ‘baffling’?",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "How Alvarez became Europe's most sought-after striker",
+      "headline": "VAR, timewasting and subs - World Cup law changes explained",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy7j94z03o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ce8jv326d7vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Michael Olise's brother among released players",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Banned referee Artan arrives home in Somalia",
+      "headline": "The wild hip-hop parties that started Tuchel's journey to England boss",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Eight red cards?! Chaos reigns as USA edge Brazil",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "VAR, timewasting and subs - World Cup law changes explained",
+      "headline": "How Alvarez became Europe's most sought-after striker",
       "source": "BBC Sport",
-      "timeAgo": "25m",
-      "url": "https://www.bbc.com/sport/football/articles/ce8jv326d7vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy7j94z03o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Carragher fears over Bellingham’s England role at World Cup",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Keane and Fernandes clear air after row over 'lie'",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c1mylp97p53o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Sunderland latest: Talks begin with Geertruida as four depart",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Anderson's rise from League Two loan to potential British record transfer",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "England latest: Three Lions ready to step up intensity, says Tuchel",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Why Newcastle have signed a 'giant' from French second tier",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/ckg0lj8lq22o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Man Utd latest: Sancho released after 83 games in five years",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 3",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c759x541vn9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "When will an African side win the World Cup?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c98rn3d135jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "LIV Golf chief executive dodges questions over viability of future events",
+      "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13552582/liv-golf-chief-executive-scott-oneil-dodges-question-over-viability-of-future-events",
+      "url": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
       "isFeatured": false,
       "hasAiSummary": false
     }
