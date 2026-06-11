@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T08:35:07.643Z",
+    "generatedAt": "2026-06-11T10:11:46.520Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Wolves sack Edwards after seven months",
     "source": "BBC Sport",
-    "timeAgo": "46m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Germany players will pay for 600 fans to travel to game",
       "source": "BBC Sport",
-      "timeAgo": "31m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c9v2nvm02llo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
+      "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Scotland have chip on shoulder in search of history",
+      "headline": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cdejng0n6k2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,17 +108,17 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
+      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "Video",
-      "headline": "'Bedlam at the Garden!' | SCENES as Knicks win in the last second",
+      "headline": "'Bedlam at the Garden!' | London-born Anunoby gives Knicks INCREDIBLE last-gasp win",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13552917/scenes-as-knicks-go-one-win-away-from-glory-in-the-dying-seconds",
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "headline": "Scotland have chip on shoulder in search of history",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cdejng0n6k2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "World Cup fever meets protest in Mexico City",
+      "headline": "Star players and World Cup history - your guide to Mexico",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cjrg4qxz7g4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5d",
+      "url": "https://www.bbc.com/sport/football/articles/czx2pqp57kgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "National League clubs urge FA to end academy teams proposal",
+      "headline": "All you need to know about South Africa before World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/sport/football/articles/clyp5k542veo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5d",
+      "url": "https://www.bbc.com/sport/football/articles/cj0p6n8r9q2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Arsenal in hunt for Williams - Thursday's gossip",
+      "headline": "National League clubs urge FA to end academy teams proposal",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/ce371zx8zdko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/clyp5k542veo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
