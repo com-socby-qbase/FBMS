@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T21:56:12.061Z",
+    "generatedAt": "2026-06-11T22:40:50.675Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "World Cup of Darts: Wales' Clayton and Kenny get off to winning start in group stages",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13552971/world-cup-of-darts-wales-jonny-clayton-and-nick-kenny-get-off-to-winning-ways-as-germany-ireland-also-win",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
+      "source": "BBC Sport",
+      "timeAgo": "39m",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off with win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Real Madrid bring back Mourinho on three-year deal",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Williams pays tribute to Mboko after 'special' doubles campaign ends",
       "source": "Sky Sports",
@@ -26,27 +66,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Real Madrid bring back Mourinho on three-year deal",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Fatigue? The World Cup players who have had toughest seasons",
       "source": "BBC Sport",
@@ -56,7 +76,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'Cannot last forever' - Russell feels 'everything is going against me'",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "headline": "Why are footballers wearing pink boots at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "35m",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "'This is just the beginning!' Hamilton targets 'magical place' for Ferrari",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
+      "headline": "Quinones scores opening goal of 2026 World Cup",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Verstappen says 'confused' Red Bull in FIA talks over 'surprise' engine ranking",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
+      "headline": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Australia suffer ODI series defeat to Bangladesh after batting collapse",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "headline": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Gasly penalty challenge proceeds after ‘significant’ new evidence",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Players organise England team-bonding dinner in Miami",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552951/ben-stokes-ecbs-rob-key-insists-england-have-not-considered-relieving-captain-of-duties-despite-being-angry-at-nightclub-incident",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "London Stadium and West Ham women's team not aware of Sullivan contact ban",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "'It's a terrible look' | Key opens up on Stokes, Atkinson nightclub incident",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553006/rob-key-opens-up-on-ben-stokes-gus-atkinson-nightclub-incident-its-a-terrible-look",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Newcastle in talks to sign Spain winger Munoz",
+      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'That is superb!' | Clayton gets off to winning start with new World Cup partner",
+      "topic": "News Story",
+      "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553202/world-cup-of-darts-jonny-clayton-gets-off-to-winning-start-with-new-world-cup-partner",
+      "url": "https://www.skysports.com/cricket/news/12040/13552951/ben-stokes-ecbs-rob-key-insists-england-have-not-considered-relieving-captain-of-duties-despite-being-angry-at-nightclub-incident",
       "isFeatured": false,
       "hasAiSummary": false
     }
