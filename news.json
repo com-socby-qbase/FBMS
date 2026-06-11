@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T22:40:50.675Z",
+    "generatedAt": "2026-06-11T23:12:57.709Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
+    "headline": "World Cup kicks off in Mexico with Shakira, vibrant fans, and protests",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4m",
     "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "39m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Real Madrid bring back Mourinho on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Fatigue? The World Cup players who have had toughest seasons",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Why are footballers wearing pink boots at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "35m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Quinones scores opening goal of 2026 World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Verstappen says 'confused' Red Bull in FIA talks over 'surprise' engine ranking",
+      "headline": "Trippier could cancel Wolves move after Edwards sacking",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552950/max-verstappen-says-red-bull-are-in-discussions-with-fia-over-aduo-results-ahead-of-barcelona-catalunya-grand-prix",
+      "url": "https://www.skysports.com/football/news/12040/13553188/wolves-kieran-trippier-could-cancel-molineux-move-after-rob-edwards-sacking",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Australia suffer ODI series defeat to Bangladesh after batting collapse",
+      "headline": "Verstappen says 'confused' Red Bull in FIA talks over 'surprise' engine ranking",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13553073/australia-suffer-bangladesh-odi-series-defeat-as-josh-inglis-top-order-collapses-in-rain-hit-match",
+      "url": "https://www.skysports.com/f1/news/12040/13552950/max-verstappen-says-red-bull-are-in-discussions-with-fia-over-aduo-results-ahead-of-barcelona-catalunya-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Gasly penalty challenge proceeds after ‘significant’ new evidence",
+      "topic": "News Story",
+      "headline": "Australia suffer ODI series defeat to Bangladesh after batting collapse",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "url": "https://www.skysports.com/cricket/news/12040/13553073/australia-suffer-bangladesh-odi-series-defeat-as-josh-inglis-top-order-collapses-in-rain-hit-match",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
+      "topic": "Liveblog",
+      "headline": "Gasly penalty challenge proceeds after ‘significant’ new evidence",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552951/ben-stokes-ecbs-rob-key-insists-england-have-not-considered-relieving-captain-of-duties-despite-being-angry-at-nightclub-incident",
+      "url": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     }
