@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T20:01:37.092Z",
+    "generatedAt": "2026-06-11T21:05:50.792Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
+    "headline": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
     "source": "BBC Sport",
-    "timeAgo": "47m",
+    "timeAgo": "39m",
     "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,9 +28,9 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Real Madrid reappoint Jose Mourinho on three-year deal",
+      "headline": "Real Madrid bring back Mourinho on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "50m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Fatigue? The World Cup players who have had toughest seasons",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The rise of 'Meatball' McGinn - from ball games ban to World Cup",
+      "headline": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "39m",
+      "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "headline": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Players organise England team-bonding dinner in Miami",
+      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Newcastle in talks to sign Spain winger Munoz",
+      "headline": "Players organise England team-bonding dinner in Miami",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "World Cup quiz: How well do you remember these opening games?",
+      "headline": "London Stadium and West Ham women's team not aware of Sullivan contact ban",
       "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9l92pvqyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Man City second offer worth £120m for Anderson rejected",
+      "headline": "Newcastle in talks to sign Spain winger Munoz",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
