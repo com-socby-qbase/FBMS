@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T17:46:25.128Z",
+    "generatedAt": "2026-06-11T19:04:20.523Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+    "headline": "Fatigue? The World Cup players who have had toughest seasons",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "5h",
+    "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,47 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "'This is just the beginning!' Hamilton sees 'magical place' for Ferrari",
+      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "'Cannot last forever' - Russell feels 'everything is going against me'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13552953/george-russell-mercedes-driver-says-misfortune-cannot-last-forever-ahead-of-barcelona-catalunya-grand-prix",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The rise of 'Meatball' McGinn",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'This is just the beginning!' Hamilton targets 'magical place' for Ferrari",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/news/12040/13552952/lewis-hamilton-ferrari-driver-says-team-can-get-to-magical-place-at-top-of-f1-by-building-on-early-2026-improvement",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Fatigue? The World Cup players who have had toughest seasons",
+      "headline": "Artan to referee Uefa Super Cup after losing World Cup spot",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Verstappen says 'confused' Red Bull in FIA talks over 'surprise' engine ranking",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The rise and rise of 'Meatball' McGinn",
+      "headline": "Players organise England team-bonding dinner in Miami",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23m",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Australia suffer ODI series defeat to Bangladesh after batting collapse",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Artan to referee Uefa Super Cup after losing World Cup spot",
+      "headline": "Newcastle in talks to sign Spain winger Munoz",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Gasly penalty challenge proceeds after ‘significant’ new evidence",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Newcastle in talks to sign Spain winger Munoz",
+      "headline": "World Cup quiz: How well do you remember these opening games?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9l92pvqyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Man City second offer worth £120m for Anderson rejected",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "'It's a terrible look' | Key opens up on Stokes, Atkinson nightclub incident",
       "source": "Sky Sports",
@@ -126,82 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Could visa issues continue to define the World Cup?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "O'Neill safest of safe bets as Celtic opt against another gamble",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "O'Neill, 74, named permanent Celtic boss",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13547214/martin-oneill-celtic-manager-74-signs-permanent-deal-after-scottish-premiership-and-scottish-cup-success",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Sacked Edwards discovered Wolves job in jeopardy on social media",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Wimbledon announces record increase in prize money amid player demands",
+      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13552980/wimbledon-announces-record-20-per-cent-increase-in-prize-money-pot-of-64-2m-amid-player-grand-slam-demands",
+      "url": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Who will win the World Cup? BBC pundits make their predictions",
+      "headline": "O'Neill safest of safe bets as Celtic opt against another gamble",
       "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "'The right thing to do' | Key explains Root captaincy decision over Brook",
+      "headline": "Could visa issues continue to define the World Cup?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553007/rob-key-explains-joe-root-captaincy-decision-over-harry-brook-the-right-thing-to-do",
+      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
       "isFeatured": false,
       "hasAiSummary": false
     }
