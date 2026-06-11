@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T19:04:20.523Z",
+    "generatedAt": "2026-06-11T20:01:37.092Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Fatigue? The World Cup players who have had toughest seasons",
+    "headline": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "47m",
+    "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Williams pays tribute to Mboko after 'special' doubles campaign ends",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13553171/queens-club-serena-williams-pays-tribute-to-partner-victoria-mboko-after-injury-ended-special-doubles-campaign",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Real Madrid reappoint Jose Mourinho on three-year deal",
+      "source": "BBC Sport",
+      "timeAgo": "50m",
+      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "headline": "Fatigue? The World Cup players who have had toughest seasons",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "'Cannot last forever' - Russell feels 'everything is going against me'",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "The rise of 'Meatball' McGinn",
+      "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "'This is just the beginning!' Hamilton targets 'magical place' for Ferrari",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Artan to referee Uefa Super Cup after losing World Cup spot",
+      "headline": "The rise of 'Meatball' McGinn - from ball games ban to World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Verstappen says 'confused' Red Bull in FIA talks over 'surprise' engine ranking",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Players organise England team-bonding dinner in Miami",
+      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
       "source": "BBC Sport",
-      "timeAgo": "23m",
-      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Australia suffer ODI series defeat to Bangladesh after batting collapse",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Newcastle in talks to sign Spain winger Munoz",
+      "headline": "Players organise England team-bonding dinner in Miami",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Gasly penalty challenge proceeds after ‘significant’ new evidence",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "World Cup quiz: How well do you remember these opening games?",
+      "headline": "Newcastle in talks to sign Spain winger Munoz",
       "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.com/sport/football/articles/c7v9l92pvqyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Man City second offer worth £120m for Anderson rejected",
+      "headline": "World Cup quiz: How well do you remember these opening games?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22h",
+      "url": "https://www.bbc.com/sport/football/articles/c7v9l92pvqyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'It's a terrible look' | Key opens up on Stokes, Atkinson nightclub incident",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "O'Neill safest of safe bets as Celtic opt against another gamble",
+      "headline": "Man City second offer worth £120m for Anderson rejected",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Could visa issues continue to define the World Cup?",
+      "topic": "News Story",
+      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
+      "url": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
       "isFeatured": false,
       "hasAiSummary": false
     }
