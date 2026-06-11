@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T11:49:08.534Z",
+    "generatedAt": "2026-06-11T13:25:07.598Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
     "source": "BBC Sport",
-    "timeAgo": "11h",
+    "timeAgo": "12h",
     "url": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "No 'rash decision' over Stokes' future, says 'angry' Key",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13552951/ben-stokes-ecbs-rob-key-insists-england-have-not-considered-relieving-captain-of-duties-despite-being-angry-at-nightclub-incident",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "O'Neill safest of safe bets as Celtic opt against another gamble",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "'It's a terrible look' | Key opens up on Stokes, Atkinson nightclub incident",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553006/rob-key-opens-up-on-ben-stokes-gus-atkinson-nightclub-incident-its-a-terrible-look",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Sacked Edwards discovered Wolves job in jeopardy on social media",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Could visa issues continue to define the World Cup?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Germany players will pay for 600 fans to travel to game",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c9v2nvm02llo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "O'Neill, 74, named permanent Celtic boss",
       "source": "Sky Sports",
@@ -26,17 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "O'Neill confirmed as Celtic's permanent manager",
+      "headline": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.com/sport/football/articles/cqj1zlngn94o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Wimbledon announces record increase in prize money amid player demands",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13552980/wimbledon-announces-record-20-per-cent-increase-in-prize-money-pot-of-64-2m-amid-player-grand-slam-demands",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "'The right thing to do' | Key explains Root captaincy decision over Brook",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553007/rob-key-explains-joe-root-captaincy-decision-over-harry-brook-the-right-thing-to-do",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "What have we learned from England's World Cup training camp?",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Germany players will pay for 600 fans to travel to game",
+      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c9v2nvm02llo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "EFL latest: Terry consortium's Colchester takeover falls through",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
+      "headline": "Three key issues Celtic and O'Neill must tackle",
       "source": "BBC Sport",
-      "timeAgo": "59m",
-      "url": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cm209rdy8eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Fix Vini Jnr relationship, maximise Mbappe - win! Jose's Real Madrid priorities",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "When does the transfer window open? And what's the new deadline?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13546220/summer-transfer-window-2026-dates-when-is-deadline-day-for-premier-league-and-efl-clubs-to-sign-players",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Mexico vs South Africa: Predict the score for the World Cup opener",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-      "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Hussain: I would have brought in 'outstanding' Lawrence for second Test",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552898/nasser-hussain-outstanding-dan-lawrence-would-have-been-former-england-captains-pick-for-second-test-vs-new-zealand",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "How the weather can shape the tactics of a football nation",
       "source": "BBC Sport",
-      "timeAgo": "52m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/articles/cqj10gkn788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "World Cup of Darts starts today! Who is playing and how does it work?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Wolves sack Edwards after seven months",
-      "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Edwards 'shocked' by Wolves sacking with replacement lined up",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552944/rob-edwards-wolves-sack-head-coach-after-seven-months-in-charge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Knicks complete thrilling comeback to go one win from NBA glory",
+      "topic": "News Story",
+      "headline": "When does the transfer window open? And what's the new deadline?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13552934/new-york-knicks-107-106-san-antonio-spurs-nba-finals-game-4-highlights",
+      "url": "https://www.skysports.com/football/news/12040/13546220/summer-transfer-window-2026-dates-when-is-deadline-day-for-premier-league-and-efl-clubs-to-sign-players",
       "isFeatured": false,
       "hasAiSummary": false
     }
