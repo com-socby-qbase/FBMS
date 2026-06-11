@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T21:05:50.792Z",
+    "generatedAt": "2026-06-11T21:56:12.061Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
     "source": "BBC Sport",
-    "timeAgo": "39m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Real Madrid bring back Mourinho on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Fatigue? The World Cup players who have had toughest seasons",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "39m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Players organise England team-bonding dinner in Miami",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Newcastle in talks to sign Spain winger Munoz",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
+      "topic": "Video",
+      "headline": "'That is superb!' | Clayton gets off to winning start with new World Cup partner",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
+      "url": "https://www.skysports.com/watch/video/13553202/world-cup-of-darts-jonny-clayton-gets-off-to-winning-start-with-new-world-cup-partner",
       "isFeatured": false,
       "hasAiSummary": false
     }
