@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T06:52:54.024Z",
+    "generatedAt": "2026-06-12T08:32:47.186Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'There's a World Cup happening?' Are Americans excited about tournament?",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Feature Story",
+      "headline": "How the USA fell in love with football",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Dzeko's last dance could be Bosnia's new beginning",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Japan's Motomu steals the show with bizarre walk-on!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Best Canada team ever' bid to shine at home World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Highlights: St Helens 6-18 Warrington Wolves",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "We need to feel love playing for England - Bellingham",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Neville reveals Lightning's X-factor ahead of NSL preliminary final",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'Best Canada team ever' bid to shine at home World Cup",
+      "headline": "From near death to World Cup hero - Jimenez's tears for Mexico",
       "source": "BBC Sport",
-      "timeAgo": "40m",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Women's T20 World Cup predictions: Who will win, England's MVP and more",
       "source": "Sky Sports",
@@ -46,17 +106,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Everyone needs to feel loved playing for England - Bellingham",
+      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Cool as you like! Kyrgios pulls out classic as drop shot leaves crowd laughing",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553149/atp-tour-nick-kyrgios-immediately-turns-around-after-hitting-drop-shot-volley",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "Bezuidenhout hits his first PGA Tour hole-in-one at Canadian Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553197/pga-tour-christiaan-bezuidenhout-hits-hole-in-one-at-canadian-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Who am I? Guess World Cup star No 5",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "South Korea fight back to beat Czech Republic",
       "source": "Sky Sports",
@@ -66,122 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "From near death to World Cup hero - Jimenez's tears for Mexico",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Morbeh faces Simon Pierre at Chester",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13552744/today-on-sky-sports-racing-morbeh-faces-simon-pierre-at-chester",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "World Cup of Darts: Wales' Clayton and Kenny get off to winning start in group stages",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13552971/world-cup-of-darts-wales-jonny-clayton-and-nick-kenny-get-off-to-winning-ways-as-germany-ireland-also-win",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "South Korea 2-1 Czech Republic: All the big moments and rate the players",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/korea-republic-vs-czech-republic/live/549766",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Three red cards - are referees getting tough at this World Cup?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "World Cup of Darts 2026 schedule: Wales kick group-stage off with win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 5",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Williams pays tribute to Mboko after 'special' doubles campaign ends",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13553171/queens-club-serena-williams-pays-tribute-to-partner-victoria-mboko-after-injury-ended-special-doubles-campaign",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+      "topic": "Video",
+      "headline": "Explained: Monaco pit lane penalties suspected incorrect - so what happens next?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "url": "https://www.skysports.com/watch/video/13553109/fia-suspect-pit-lane-penalties-were-inaccurate-what-could-happen-next",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "London Stadium and West Ham women's team not aware of David Sullivan contact ban",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Cannot last forever' - Russell feels 'everything is going against me'",
+      "headline": "Clayton ready to go all the way at World Cup of Darts with new team-mate Kenny",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13552953/george-russell-mercedes-driver-says-misfortune-cannot-last-forever-ahead-of-barcelona-catalunya-grand-prix",
+      "url": "https://www.skysports.com/darts/news/12040/13552975/jonny-clayton-ready-to-go-all-the-way-at-world-cup-of-darts-with-new-team-mate-nick-kenny-you-dont-turn-down-the-chance-to-put-the-welsh-shirt-on",
       "isFeatured": false,
       "hasAiSummary": false
     }
