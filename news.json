@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T15:07:24.542Z",
+    "generatedAt": "2026-06-12T16:24:04.305Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Scotland's McTominay trains after stomach upset",
+    "headline": "Premier League target hair pulling and set-piece grappling in rules review",
     "source": "BBC Sport",
-    "timeAgo": "47m",
-    "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "25m",
+    "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Barcelona GP: Hamilton, Antonelli return in second practice LIVE!",
+      "topic": "News Story",
+      "headline": "Norris pips Russell to top Barcelona practice with Antonelli off pace",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
+      "url": "https://www.skysports.com/f1/news/12040/13553264/barcelona-catalunya-gp-lando-norris-fastest-from-george-russell-as-mclaren-outpace-mercedes-in-second-practice",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Watford great Jackett dies aged 64",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: McLaren hit back to outpace Mercedes with Norris ahead LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Scotland's McTominay trains after stomach upset",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Russell starts big Barcelona weekend fastest in first practice",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Man City sign England's Mead on free transfer",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Canada vs Bosnia-Herzegovina preview: Predict the score!",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "You are Steve Clarke... what would you do against Haiti?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cy06gkd521wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Puerto Rico fancied to outrun his odds in St James's Palace",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "'Best Canada team ever' bid to shine at home World Cup",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Set your alarms! USA vs Paraguay kicks off at 2am - predict the score",
       "source": "Sky Sports",
@@ -126,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Dzeko's last dance could be Bosnia's new beginning",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Gasly reinstated to Monaco podium after successful appeal",
+      "headline": "Gasly reinstated to Monaco podium",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/news/12040/13553036/pierre-gasly-alpine-driver-reinstated-to-monaco-grand-prix-podium-after-successful-right-of-review",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Is Shankland finally the striker Scotland have been waiting for?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/ckg41k8397lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Williamson announces shock retirement from international cricket",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Republic of Ireland v Israel to be played at neutral venue",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "Liveblog",
       "headline": "Haiti vs Scotland preview: Is this a must win for Clarke's side?",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/haiti-vs-scotland/live/549772",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "A new way to experience the World Cup - only on BBC Sport",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Raducanu through to Queen's quarter-finals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13553347/queens-club-emma-raducanu-beats-sorana-cirstea-in-straight-sets-to-reach-quarter-finals-on-home-soil",
       "isFeatured": false,
       "hasAiSummary": false
     }
