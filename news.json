@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T22:35:23.227Z",
+    "generatedAt": "2026-06-12T23:11:16.596Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Bellingham set to start, but no Guehi - England's expected team",
+    "headline": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "7m",
+    "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Partey denied entry to Canada for Ghana's World Cup opener",
+      "headline": "Larin equaliser earns Canada first ever World Cup point",
       "source": "BBC Sport",
       "timeAgo": "57m",
-      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Six Lionesses made MBEs in King's Birthday Honours",
+      "headline": "Bellingham set to start, but no Guehi - England's expected team",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
+      "headline": "Partey denied entry to Canada for Ghana's World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Fans on concourses instead of in seats, claims Fifa",
+      "headline": "Crystal Palace close to appointing Sage as manager",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/cjdgnmvgv8po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Scotland boss Clarke by those who know him best",
+      "headline": "Six Lionesses made MBEs in King's Birthday Honours",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Arsenal consider move for Greek forward Tzolis",
+      "headline": "Brady stayed at West Ham despite knowing of Sullivan women's team ban",
       "source": "BBC Sport",
-      "timeAgo": "9m",
-      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Costs rise as Man Utd agree new $550m funding deal",
+      "headline": "Fans on concourses instead of in seats, claims Fifa",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c77yj502z12o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Premier League target hair pulling and set-piece grappling in rules review",
+      "headline": "Rooney and Cann strongly disagree on Bosnia goalkeeper incident",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Larin equaliser earns Canada first ever World Cup point",
+      "headline": "Scotland boss Clarke by those who know him best",
       "source": "BBC Sport",
-      "timeAgo": "21m",
-      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
