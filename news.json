@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T21:54:44.968Z",
+    "generatedAt": "2026-06-12T22:35:23.227Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Partey denied entry to Canada for Ghana's World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "17m",
+      "timeAgo": "57m",
       "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Six Lionesses made MBEs in King's Birthday Honours",
       "source": "BBC Sport",
-      "timeAgo": "24m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/articles/c07ygxxj0g3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Fans on concourses instead of in seats, claims Fifa",
+      "headline": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Scotland boss Clarke by those who know him best",
+      "headline": "Fans on concourses instead of in seats, claims Fifa",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,17 +108,17 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Costs rise as Man Utd agree new $550m funding deal",
+      "headline": "Scotland boss Clarke by those who know him best",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c77yj502z12o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "England hammer Sri Lanka by 87 runs in T20 World Cup opener LIVE!",
+      "headline": "Wyatt-Hodge hails 'amazing' home crowd after hundred in England opening win",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13553406/england-vs-sri-lanka-live-cricket-score-updates-video-and-analysis-from-icc-womens-t20-world-cup-opener-at-edgbaston",
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Premier League target hair pulling and set-piece grappling in rules review",
+      "headline": "Arsenal consider move for Greek forward Tzolis",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Scotland's McTominay 'ready to go' for Haiti opener after illness",
+      "headline": "Costs rise as Man Utd agree new $550m funding deal",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c77yj502z12o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'Toronto erupts' - Larin equalises for Canada",
+      "headline": "Premier League target hair pulling and set-piece grappling in rules review",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.com/sport/football/videos/cp8lngn61kro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rooney and Cann disagree on Bosnia goalkeeper incident",
+      "headline": "Larin equaliser earns Canada first ever World Cup point",
       "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Norris pips Russell to top Barcelona practice with Antonelli off pace",
+      "topic": "Video",
+      "headline": "'They might trouble England' | Part believes Spain could test Littler and Humphries",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553264/barcelona-catalunya-gp-lando-norris-fastest-from-george-russell-as-mclaren-outpace-mercedes-in-second-practice",
+      "url": "https://www.skysports.com/watch/video/13553555/john-part-believes-spains-duo-of-cristo-reyes-and-jose-justicia-could-trouble-luke-littler-and-luke-humphries-in-the-second-round",
       "isFeatured": false,
       "hasAiSummary": false
     }
