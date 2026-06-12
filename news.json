@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T10:10:34.393Z",
+    "generatedAt": "2026-06-12T11:30:29.678Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Ex-Watford and Swans boss Jackett dies aged 64",
+    "headline": "Watford great Jackett dies aged 64",
     "source": "BBC Sport",
-    "timeAgo": "10m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Ferrari with big upgrade as seven rookies drive in first practice LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Republic of Ireland v Israel to be played at neutral venue",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Gasly reinstated to Monaco podium after successful appeal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13553036/pierre-gasly-alpine-driver-reinstated-to-monaco-grand-prix-podium-after-successful-right-of-review",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Is Shankland finally the striker Scotland have been waiting for?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg41k8397lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Williamson announces shock retirement from international cricket",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13228436/kane-williamson-new-zealands-all-time-leading-run-scorer-announces-retirement-from-international-cricket",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Haiti vs Scotland preview: Is this a must win for Clarke's side?",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Republic of Ireland v Israel to be played at neutral venue",
+      "headline": "We need to feel love playing for England - Bellingham",
       "source": "BBC Sport",
-      "timeAgo": "19m",
-      "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Former Wolves, Millwall and Portsmouth boss Jackett dies aged 64",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
+      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Controversial Derby non-runner Benvenuto Cellini could star at Royal Ascot",
       "source": "Sky Sports",
@@ -66,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "We need to feel love playing for England - Bellingham",
+      "headline": "'Best Canada team ever' bid to shine at home World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Bellingham: England got things wrong off the pitch at Euro 2024",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "A new way to experience the World Cup - only on BBC Sport",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Rock: No pressure on reigning champs Northern Ireland at World Cup of Darts",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Dzeko's last dance could be Bosnia's new beginning",
+      "headline": "Who am I? Guess World Cup star No 5",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "Feature Story",
       "headline": "How the USA fell in love with football",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Japan's Motomu steals the show with bizarre walk-on!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "'Best Canada team ever' bid to shine at home World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Article/Blog",
-      "headline": "Neville: England team is built around Kane - he's the only world-class talent",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553281/world-cup-2026-england-team-is-built-around-harry-kane-hes-the-only-genuine-world-class-player-in-squad-says-gary-neville",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "A new way to experience the World Cup - only on BBC Sport",
-      "source": "BBC Sport",
-      "timeAgo": "46m",
-      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Highlights: St Helens 6-18 Warrington Wolves",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 5",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Neville reveals Lightning's X-factor ahead of NSL preliminary final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13553173/netball-super-league-tracey-neville-reveals-loughborough-lightning-x-factor-ahead-of-preliminary-final-against-london-pulse",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "From near death to World Cup hero - Jimenez's tears for Mexico",
+      "headline": "Three red cards - are referees getting tough at this World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Women's T20 World Cup predictions: Who will win, England's MVP and more",
+      "headline": "Mead signs for Man City",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13552837/2026-womens-t20-world-cup-pundit-predictions-how-far-will-england-go-who-will-be-their-star-player-and-which-other-nations-could-spring-a-surprise",
+      "url": "https://www.skysports.com/football/news/12040/13553326/beth-mead-england-winger-signs-three-year-deal-with-manchester-city-after-arsenal-exit",
       "isFeatured": false,
       "hasAiSummary": false
     }
