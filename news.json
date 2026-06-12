@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T11:30:29.678Z",
+    "generatedAt": "2026-06-12T12:44:24.751Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Watford great Jackett dies aged 64",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,8 +17,108 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Russell starts big Barcelona weekend fastest in first practice",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13553262/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-in-first-practice-as-ferrari-reveal-upgrades",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man City sign Mead on free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Barcelona GP: Ferrari with big upgrade as seven rookies drive in first practice LIVE!",
+      "headline": "Canada vs Bosnia-Herzegovina preview: Predict the score!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/live/549768",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Republic of Ireland v Israel to be played at neutral venue",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Puerto Rico fancied to outrun his odds in St James's Palace",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13553254/royal-ascot-tips-puerto-rico-fancied-to-outrun-his-odds-in-st-jamess-palace-stakes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Is Shankland finally the striker Scotland have been waiting for?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg41k8397lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "We need to feel love playing for England - Bellingham",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Set your alarms! USA vs Paraguay kicks off at 2am - predict the score",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-paraguay/live/549769",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Russell makes flying start after first practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
@@ -26,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Republic of Ireland v Israel to be played at neutral venue",
+      "headline": "'Best Canada team ever' bid to shine at home World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Gasly reinstated to Monaco podium after successful appeal",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Is Shankland finally the striker Scotland have been waiting for?",
+      "headline": "A new way to experience the World Cup - only on BBC Sport",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg41k8397lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Williamson announces shock retirement from international cricket",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
+      "headline": "Who am I? Guess World Cup star No 5",
       "source": "BBC Sport",
       "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Haiti vs Scotland preview: Is this a must win for Clarke's side?",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "We need to feel love playing for England - Bellingham",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Former Wolves, Millwall and Portsmouth boss Jackett dies aged 64",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553291/kenny-jackett-former-wolves-millwall-portsmouth-and-swansea-manager-dies-aged-64",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Three red cards shown as Mexico beat South Africa in World Cup opener",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Controversial Derby non-runner Benvenuto Cellini could star at Royal Ascot",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13553287/royal-ascot-derby-non-runner-benvenuto-cellini-could-feature-in-king-edward-vii-stakes-says-aidan-obrien",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "'Best Canada team ever' bid to shine at home World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Bellingham: England got things wrong off the pitch at Euro 2024",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "A new way to experience the World Cup - only on BBC Sport",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Rock: No pressure on reigning champs Northern Ireland at World Cup of Darts",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13552976/world-cup-of-darts-josh-rock-says-no-pressure-on-reigning-champions-northern-ireland-all-eyes-will-be-on-england",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 5",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Feature Story",
-      "headline": "How the USA fell in love with football",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Three red cards - are referees getting tough at this World Cup?",
+      "headline": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Mead signs for Man City",
+      "headline": "Former Wolves, Millwall and Portsmouth boss Jackett dies aged 64",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553326/beth-mead-england-winger-signs-three-year-deal-with-manchester-city-after-arsenal-exit",
+      "url": "https://www.skysports.com/football/news/12040/13553291/kenny-jackett-former-wolves-millwall-portsmouth-and-swansea-manager-dies-aged-64",
       "isFeatured": false,
       "hasAiSummary": false
     }
