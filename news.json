@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T16:11:06.800Z",
+    "generatedAt": "2026-06-13T16:47:52.559Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "New rules abound - why VAR diving decision was wrong despite feeling right",
       "source": "BBC Sport",
-      "timeAgo": "8m",
+      "timeAgo": "44m",
       "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "'Top of British basketball history' - NBA Finals hero Anunoby on brink of glory",
+      "headline": "How Balogun went from Arsenal and England U21s to America's star",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13553630/nba-finals-hero-og-anunoby-stands-at-top-of-british-basketball-history-and-on-brink-of-glory-with-new-york-knicks",
+      "url": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "West Ham shareholders address Sullivan allegations and agree ownership deal",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Barcelona GP: Reaction as Russell just denies Hamilton pole in dramatic finale LIVE!",
+      "topic": "News Story",
+      "headline": "'Top of British basketball history' - NBA Finals hero Anunoby on brink of glory",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
+      "url": "https://www.skysports.com/nba/news/12040/13553630/nba-finals-hero-og-anunoby-stands-at-top-of-british-basketball-history-and-on-brink-of-glory-with-new-york-knicks",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "The trauma and hope behind Haiti's rare World Cup appearance",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Scotland hammer Ireland to secure first-ever T20 World Cup win",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Reaction as Russell just denies Hamilton pole in dramatic finale LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13553650/womens-t20-world-cup-scotland-hammer-ireland-by-40-runs-to-claim-their-first-win-in-tournament-history",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Russell fastest as Antonelli left frustrated in Barcelona final practice",
+      "headline": "Scotland hammer Ireland to secure first-ever T20 World Cup win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553598/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-as-kimi-antonelli-left-frustrated-with-traffic-in-final-practice",
+      "url": "https://www.skysports.com/cricket/news/12040/13553650/womens-t20-world-cup-scotland-hammer-ireland-by-40-runs-to-claim-their-first-win-in-tournament-history",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,13 +130,33 @@
       "topic": "News",
       "headline": "Scotland return to centre stage at last in must-win World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Russell fastest as Antonelli left frustrated in Barcelona final practice",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13553598/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-as-kimi-antonelli-left-frustrated-with-traffic-in-final-practice",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Stolen England training equipment recovered",
+      "source": "BBC Sport",
+      "timeAgo": "55m",
+      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Inside the England training base in Kansas",
       "source": "Sky Sports",
@@ -146,42 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Stolen England training equipment recovered",
-      "source": "BBC Sport",
-      "timeAgo": "18m",
-      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Base camp: England's luxury five-star World Cup hotel",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Balogun stars in impressive USA win over Paraguay",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Wigan thrash Wakefield as Hodkinson scores four",
+      "topic": "News Story",
+      "headline": "Base camp: England's luxury five-star World Cup hotel",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553541/wakefield-10-48-wigan-warriors-super-league-highlights",
+      "url": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Hull KR run in seven tries to sweep aside York",
+      "headline": "Wigan thrash Wakefield as Hodkinson scores four",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553545/hull-kr-38-6-york-knights-super-league-highlights",
+      "url": "https://www.skysports.com/watch/video/13553541/wakefield-10-48-wigan-warriors-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
