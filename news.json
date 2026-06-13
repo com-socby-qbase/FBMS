@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T20:11:35.946Z",
+    "generatedAt": "2026-06-13T20:44:08.473Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester",
+      "headline": "Hull end losing Super League streak as Dragons bounce back",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13553804/super-league-hull-fc-beat-huddersfield-to-end-losing-super-league-streak-as-catalans-dragons-bounce-back-with-win-over-castleford",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "New rules abound - was VAR diving decision wrong despite feeling right?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "'I'll give it a go!' - Hamilton targets 'perfect job' to claim first Ferrari win",
+      "headline": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
+      "url": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Impressive Raducanu storms into Queen's final",
+      "headline": "'I'll give it a go!' - Hamilton targets 'perfect job' to claim first Ferrari win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13553765/emma-raducanu-brit-storms-into-queens-final-with-victory-over-iva-jovic-as-katie-boulter-beaten-in-last-four",
+      "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,13 +70,33 @@
       "topic": "News",
       "headline": "Iran win four staff visa appeals but 11  banned",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "'The new Emma' - Impressive Raducanu storms into Queen's final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13553765/emma-raducanu-brit-storms-into-queens-final-with-victory-over-iva-jovic-as-katie-boulter-beaten-in-last-four",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "14m",
+      "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Donald expresses gratitude for OBE - Could he captain 2031 Ryder Cup team?!",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Fulham in talks to appoint Arbeloa as Silva's replacement",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Russell finding his groove again after 'big reset' in Barcelona",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Can Vinicius finally convince Brazil in Neymar's absence?",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "West Ham shareholders address Sullivan allegations and agree ownership deal",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Russell regains mojo to claim dramatic Barcelona pole over Hamilton!",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "The trauma and hope behind Haiti's rare World Cup appearance",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Leclerc crashes in Q3 to end pole hopes!",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Why Pulisic is ready to take USA to next level  - Giroud",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "How Balogun went from Arsenal and England U21s to America's star",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Scotland return to centre stage at last in must-win World Cup opener",
+      "headline": "Balogun stars in impressive USA win over Paraguay",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Top of British basketball history' - NBA Finals hero Anunoby on brink of glory",
+      "headline": "Rangers to hold talks with Hearts' McInnes over replacing Röhl",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13553630/nba-finals-hero-og-anunoby-stands-at-top-of-british-basketball-history-and-on-brink-of-glory-with-new-york-knicks",
+      "url": "https://www.skysports.com/football/news/12040/13553807/rangers-to-hold-talks-with-hearts-boss-derek-mcinnes-over-replacing-danny-r246hl-who-is-on-verge-of-joining-rb-salzburg",
       "isFeatured": false,
       "hasAiSummary": false
     }
