@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T09:08:46.277Z",
+    "generatedAt": "2026-06-13T10:11:13.004Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "USA start World Cup in style - but will they finally join the elite?",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Women's T20 World Cup: Scotland take on Ireland at Old Trafford LIVE!",
+      "headline": "Barcelona GP: Ferrari, Red Bull bid to find form in final practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553409/womens-t20-world-cup-live-scotland-vs-ireland-australia-vs-south-africa-score-updates-video-and-analysis-from-old-trafford",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Scotland return to centre stage at last in must-win World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Women's T20 World Cup: Ireland get two early wickets vs Scotland LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13553409/womens-t20-world-cup-live-scotland-vs-ireland-australia-vs-south-africa-score-updates-video-and-analysis-from-old-trafford",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England have training equipment stolen",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Moore awarded MBE in King's Birthday Honours",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "England have training equipment stolen",
+      "headline": "Balogun stars in impressive USA win over Paraguay",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Masked Warrior faces Startled at Chester",
       "source": "Sky Sports",
@@ -66,31 +86,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Balogun stars in impressive USA win over Paraguay",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Hearn confident AJ vs Fury will take place in the UK this November",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13553538/anthony-joshua-vs-tyson-fury-eddie-hearn-confident-fight-will-take-place-in-the-uk-this-november-with-wembley-a-clear-favourite",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Real Madrid close in on Silva signing- Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,13 +110,33 @@
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 6",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c62rv27dp3eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Hearn confident AJ vs Fury will take place in the UK this November",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13553538/anthony-joshua-vs-tyson-fury-eddie-hearn-confident-fight-will-take-place-in-the-uk-this-november-with-wembley-a-clear-favourite",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Rate the players and catch up with the key moments from USA's dominant win",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+      "headline": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Boulter records biggest win of career over world No 2 Rybakina at Queen's",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'Clear red' for Bosnia or 'wins the ball'? BBC pundits disagree",
+      "headline": "Arsenal consider move for Greek forward Tzolis",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyd45wl7no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Wyatt-Hodge stars as England dominate Sri Lanka in World Cup opener",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Arsenal consider move for Greek forward Tzolis",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'No grip!' - Hamilton, Verstappen admit Spain struggles",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553268/barcelona-catalunya-gp-lewis-hamilton-max-verstappen-admit-spain-struggles-with-no-grip-in-friday-practice",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Katy Perry, Tyla & Future among performers at USA's opening ceremony",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/videos/ce8me8qrlrmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "McLaren, Red Bull plan Gasly verdict appeal as Mercedes mull options",
+      "headline": "'No grip!' - Hamilton, Verstappen admit Spain struggles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553371/mclaren-red-bull-lodge-intent-to-appeal-pierre-gaslys-monaco-gp-podium-reinstatement-as-mercedes-mull-options",
+      "url": "https://www.skysports.com/f1/news/12040/13553268/barcelona-catalunya-gp-lewis-hamilton-max-verstappen-admit-spain-struggles-with-no-grip-in-friday-practice",
       "isFeatured": false,
       "hasAiSummary": false
     }
