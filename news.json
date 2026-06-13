@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T14:56:32.688Z",
+    "generatedAt": "2026-06-13T15:39:06.086Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "'Top of British basketball history' - NBA Finals hero Anunoby on brink of glory",
+      "headline": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13553630/nba-finals-hero-og-anunoby-stands-at-top-of-british-basketball-history-and-on-brink-of-glory-with-new-york-knicks",
+      "url": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Can Vinicius finally convince Brazil in Neymar's absence?",
       "source": "BBC Sport",
-      "timeAgo": "46m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Barcelona GP: Red flag at start of Q3 after pole contender Leclerc crashes LIVE!",
+      "topic": "Video",
+      "headline": "Leclerc crashes in Q3 to end pole hopes!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
+      "url": "https://www.skysports.com/watch/video/13553716/barcelona-catalunya-gp-charles-leclerc-crashes-out-of-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,13 +50,53 @@
       "topic": "News",
       "headline": "West Ham shareholders address Sullivan allegations and agree ownership deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'Top of British basketball history' - NBA Finals hero Anunoby on brink of glory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/nba/news/12040/13553630/nba-finals-hero-og-anunoby-stands-at-top-of-british-basketball-history-and-on-brink-of-glory-with-new-york-knicks",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "The trauma and hope behind Haiti's rare World Cup appearance",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Reaction as Russell just denies Hamilton pole in dramatic finale LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Why Pulisic is ready to take USA to next level  - Giroud",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Scotland hammer Ireland to secure first-ever T20 World Cup win",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The trauma and hope behind Haiti's rare World Cup appearance",
+      "headline": "Scotland return to centre stage at last in must-win World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Russell fastest as Antonelli left frustrated in Barcelona final practice",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Why Pulisic is ready to take USA to next level  - Giroud",
+      "headline": "Stolen England training equipment recovered",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Inside the England training base in Kansas",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Scotland return to centre stage at last in must-win World Cup opener",
+      "headline": "Balogun stars in impressive USA win over Paraguay",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Base camp: England's luxury five-star World Cup hotel",
       "source": "Sky Sports",
@@ -126,51 +166,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Stolen England training equipment recovered",
-      "source": "BBC Sport",
-      "timeAgo": "2m",
-      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Wigan thrash Wakefield as Hodkinson scores four",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553541/wakefield-10-48-wigan-warriors-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Balogun stars in impressive USA win over Paraguay",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Hull KR run in seven tries to sweep aside York",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553545/hull-kr-38-6-york-knights-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Ghana government wants review of Partey Canada ban",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/ce3en0nz251o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "Video",
-      "headline": "'She's fuming!' | Tector battles wind to dismiss Fraser with AMAZING catch!",
+      "headline": "Wigan thrash Wakefield as Hodkinson scores four",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553636/scotland-v-ireland-katherine-fraser-hit-with-a-wicket-from-an-incredible-catch-by-alice-tector",
+      "url": "https://www.skysports.com/watch/video/13553541/wakefield-10-48-wigan-warriors-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Robinson an injury doubt for second Test against New Zealand",
+      "topic": "Video",
+      "headline": "Hull KR run in seven tries to sweep aside York",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13553694/england-vs-new-zealand-ollie-robinson-an-injury-doubt-for-second-test-after-suffering-knee-soreness-in-training",
+      "url": "https://www.skysports.com/watch/video/13553545/hull-kr-38-6-york-knights-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
