@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T19:34:05.521Z",
+    "generatedAt": "2026-06-13T20:11:35.946Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Might Scotland throw midfield curveball at Haiti?",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.com/sport/football/articles/cqj1z4e21gro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Amorim a leading contender for AC Milan job",
       "source": "BBC Sport",
-      "timeAgo": "34m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c15yzlzxq8xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Can Vinicius finally convince Brazil in Neymar's absence?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Why Pulisic is ready to take USA to next level  - Giroud",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c8r2jn402pro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
