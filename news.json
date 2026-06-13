@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T21:15:43.318Z",
+    "generatedAt": "2026-06-13T21:52:50.259Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "New rules abound - was VAR diving decision wrong despite feeling right?",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Iran win four staff visa appeals but 11  banned",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "46m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Fulham in advanced talks to appoint Arbeloa as Silva's replacement",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "The trauma and hope behind Haiti's rare World Cup appearance",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Was there an offside in build up to Switzerland penalty?",
+      "headline": "Switzerland stunned by late Qatar equaliser",
       "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.com/sport/football/videos/cm207deyvl2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3m",
+      "url": "https://www.bbc.com/sport/football/videos/ckg80ym83j5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "West Ham shareholders address Sullivan allegations and agree ownership deal",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Rangers to hold talks with Hearts' McInnes over replacing Röhl",
+      "topic": "Video",
+      "headline": "'We know we can win on this stage' | England 'proud' after World Cup opener",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553807/rangers-to-hold-talks-with-hearts-boss-derek-mcinnes-over-replacing-danny-r246hl-who-is-on-verge-of-joining-rb-salzburg",
+      "url": "https://www.skysports.com/watch/video/13553811/englands-luke-littler-and-luke-humphries-win-round-2-match-against-spain",
       "isFeatured": false,
       "hasAiSummary": false
     }
