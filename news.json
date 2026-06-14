@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T05:00:26.355Z",
+    "generatedAt": "2026-06-14T06:52:23.287Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "McGinn fires Scotland to first World Cup win for 36 years",
+    "headline": "Why Haiti v Scotland was antidote to the ills of world football",
     "source": "BBC Sport",
-    "timeAgo": "53m",
-    "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Report",
-      "headline": "McGinn strike beats Haiti as Scotland enjoy dream World Cup return",
+      "headline": "Australia shock Turkey to make winning start to World Cup campaign",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "url": "https://www.skysports.com/football/australia-vs-turkey/report/549773",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,27 +38,27 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Fleetwood in hunt ahead of final round in Canada as Suber leads",
+      "headline": "Knicks crowned NBA champions for first time in 53 years",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13553827/rbc-canadian-open-tommy-fleetwood-in-contention-ahead-of-final-round-as-jackson-suber-leads-field-by-one-shot",
+      "url": "https://www.skysports.com/nba/news/12040/13553860/nba-finals-new-york-knicks-crowned-champions-for-first-time-in-53-years-after-victory-over-san-antonio-spurs-in-game-5",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "McGinn 'beaming with pride' - and hopes kids around Scotland are too",
+      "headline": "McGinn fires Scotland to first World Cup win for 36 years",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Irankunda gives Australia shock lead vs Turkey LIVE!",
+      "headline": "Reaction as disciplined Australia stun Turkey LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/australia-vs-turkey/live/549773",
@@ -68,15 +68,95 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'He's become Scots' chief creative force' - how the players rated",
+      "headline": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/crmpyx2xpklo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Diamond Necklace headlines Prix de Diane field",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13553357/today-on-sky-sports-racing-diamond-necklace-headlines-prix-de-diane-field-at-chantilly",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Shirts, stuffed lions & Lego - the stolen England items worth $18,000",
+      "source": "BBC Sport",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Report",
+      "headline": "McGinn strike beats Haiti as Scotland secure first WC win in 36 years",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "What does 1-0 win mean for Scotland's chances of qualification?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Clarke: Haiti was a must-win game - and we won",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553844/haiti-0-1-scotland-steve-clarke-reflects-on-must-win-world-cup-group-c-opener-as-andy-robertson-says-players-achieved-their-dreams",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Fleetwood in hunt ahead of final round in Canada as Suber leads",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13553827/rbc-canadian-open-tommy-fleetwood-in-contention-ahead-of-final-round-as-jackson-suber-leads-field-by-one-shot",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "England's first World Cup training session: What did we learn?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2kjrrxxx2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Hull end losing Super League streak as Dragons bounce back",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
+      "headline": "Was this offside? Technology fault leaves questions over VAR images",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Was this offside? Technology fault leaves questions over VAR images",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "'I'll give it a go!' - Hamilton targets 'perfect job' to claim first Ferrari win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Amorim a leading contender for AC Milan job",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c15yzlzxq8xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "'The new Emma' - Impressive Raducanu storms into Queen's final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13553765/emma-raducanu-brit-storms-into-queens-final-with-victory-over-iva-jovic-as-katie-boulter-beaten-in-last-four",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Donald expresses gratitude for OBE - Could he captain 2031 Ryder Cup team?!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553725/luke-donald-shows-his-appreciation-as-the-ryder-cup-captain-is-set-to-be-awarded-an-obe-in-the-kings-birthday-honours",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Fulham in advanced talks to appoint Arbeloa as Silva's replacement",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Russell finding his groove again after 'big reset' in Barcelona",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553602/barcelona-catalunya-grand-prix-george-russell-back-in-the-groove-after-big-reset-in-title-fight-with-kimi-antonelli",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Iran win four staff visa appeals but 11  banned",
+      "headline": "Who am I? Guess World Cup star No 7",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7vy9zz25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
+      "headline": "'I'll give it a go!' - Hamilton targets 'perfect job' to claim first Ferrari win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
+      "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
       "isFeatured": false,
       "hasAiSummary": false
     }
