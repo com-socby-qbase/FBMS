@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T21:10:29.668Z",
+    "generatedAt": "2026-06-14T21:44:56.638Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Humphries says pressure made World Cup win with Littler more special",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13553960/luke-humphries-says-huge-expectation-made-world-cup-of-darts-victory-for-england-with-luke-littler-more-special",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
+      "source": "BBC Sport",
+      "timeAgo": "47m",
+      "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Wolff: Mercedes can't compete for championship with unreliability",
       "source": "Sky Sports",
@@ -26,31 +46,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
-      "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553905/lewis-hamilton-ferrari-driver-reveals-self-doubts-over-last-12-months-before-dream-win-at-barcelona-catalunya-grand-prix",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-2",
       "topic": "News",
       "headline": "England-Croatia referee was called Grade E by Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "25m",
+      "timeAgo": "59m",
       "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
+      "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
+      "url": "https://www.skysports.com/f1/news/12040/13553905/lewis-hamilton-ferrari-driver-reveals-self-doubts-over-last-12-months-before-dream-win-at-barcelona-catalunya-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,6 +77,26 @@
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Arsenal & Liverpool in Bouaddi talks - Monday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/c621q422lepo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "England defeat Scotland to book spot in World Cup of Darts final!",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "'A middle finger to the critics': How F1 rivals reacted to 'special' Hamilton win",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Havertz scores twice as Germany thrash Curacao",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Hamilton claims spectacular first Grand Prix win for Ferrari",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Porro signs new long-term Tottenham contract",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Henman: Raducanu should be very encouraged after making Queen's final",
       "source": "Sky Sports",
@@ -146,7 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
@@ -156,32 +176,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Barcelona-Catalunya GP | Race Highlights",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13554035/barcelona-catalunya-gp-race-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "World Cup of Darts: STUNNING England beat Netherlands in final- as it happened",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Robinson ruled out of England's second Test against New Zealand",
+      "topic": "Liveblog",
+      "headline": "World Cup of Darts: STUNNING England beat Netherlands in final- as it happened",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13554109/ollie-robinson-ruled-out-of-englands-second-test-against-new-zealand-with-knee-soreness",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
       "isFeatured": false,
       "hasAiSummary": false
     }
