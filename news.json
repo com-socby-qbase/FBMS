@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T21:44:56.638Z",
+    "generatedAt": "2026-06-14T22:16:20.260Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
       "source": "BBC Sport",
-      "timeAgo": "47m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "England-Croatia referee was called Grade E by Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "59m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "The 20-year-old who stole the show on Scotland's World Cup return",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Arsenal & Liverpool in Bouaddi talks - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "20m",
+      "timeAgo": "52m",
       "url": "https://www.bbc.com/sport/football/articles/c621q422lepo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Havertz scores twice as Germany thrash Curacao",
+      "headline": "Summerville scores 'sizzler' as Netherlands retake lead",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/c74y83g7jqxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19m",
+      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Porro signs new long-term Tottenham contract",
+      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
+      "headline": "Havertz scores twice as Germany thrash Curacao",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c74y83g7jqxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Comenencia scores Curacao's first-ever World Cup goal",
+      "headline": "Porro signs new long-term Tottenham contract",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/ce8k58ld05xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "World Cup of Darts: STUNNING England beat Netherlands in final- as it happened",
+      "topic": "News Story",
+      "headline": "Papers: Arsenal chasing Morocco teenager Bouaddi",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
+      "url": "https://www.skysports.com/football/news/12040/13554161/arsenal-transfer-news-gunners-in-talks-to-sign-lille-and-morocco-midfielder-ayyoub-bouaddi-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
