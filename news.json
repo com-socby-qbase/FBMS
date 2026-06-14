@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T17:11:24.023Z",
+    "generatedAt": "2026-06-14T17:48:52.784Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Real Madrid agree £47.5m deal for Chelsea's Cucurella",
+    "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
     "source": "BBC Sport",
-    "timeAgo": "29m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Clinical Australia upset Turkey in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,7 +158,7 @@
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "World Cup of Darts: England, Netherlands, Northern Ireland, Scotland in semis",
+      "headline": "World Cup of Darts: England on top vs Scotland in semis",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Why can't World Cup games kick off on time?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/ce8k5xyljn9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
