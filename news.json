@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T15:14:19.644Z",
+    "generatedAt": "2026-06-14T15:56:36.349Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Hamilton claims spectacular first Ferrari win in Barcelona",
+      "headline": "Hamilton claims spectacular first Grand Prix win for Ferrari",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/news/12040/13553903/barcelona-catalunya-gp-lewis-hamilton-claims-first-grand-prix-win-for-ferrari-as-kimi-antonelli-retires-late-on",
@@ -37,6 +37,26 @@
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Barcelona-Catalunya GP | Race Highlights",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554035/barcelona-catalunya-gp-race-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Raducanu loses Queen's final to Vekic despite battling display",
       "source": "Sky Sports",
@@ -46,42 +66,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Women's T20 World Cup: Two in two overs for Pakistan as India halted LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553910/icc-womens-t20-world-cup-live-india-vs-pakistan-score-updates-video-and-analysis-from-edgbaston",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Raducanu beaten by Vekic in Queen's women's final - as it happened",
+      "topic": "Video",
+      "headline": "Late DRAMA! Antonelli passes Russell for second before retiring from race!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13553767/emma-raducanu-vs-donna-vekic-queens-womens-singles-final-updates-and-analysis",
+      "url": "https://www.skysports.com/watch/video/13554011/barcelona-catalunya-gp-kimi-antonelli-passes-russell-for-second-before-retiring-from-race",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Why Haiti v Scotland was antidote to the ills of world football",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "World Cup of Darts: England, Netherlands, Northern Ireland, Scotland in semis",
+      "topic": "Video",
+      "headline": "'What timing!' - Hamilton capitalises on virtual safety car to take lead!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
+      "url": "https://www.skysports.com/watch/video/13553998/barcelona-catalunya-gp-lewis-hamilton-capitalizes-on-virtual-safety-car-to-take-lead",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Barcelona GP: Reaction to Hamilton's first Ferrari win in British 1-2-3 LIVE!",
+      "headline": "Women's T20 World Cup: Pakistan set 171 to beat India LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13553910/icc-womens-t20-world-cup-live-india-vs-pakistan-score-updates-video-and-analysis-from-edgbaston",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,18 +130,18 @@
       "topic": "News",
       "headline": "Clinical Australia upset Turkey in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "New York Knicks win long-awaited NBA championship in epic comeback!",
+      "topic": "Liveblog",
+      "headline": "Raducanu beaten by Vekic in Queen's women's final - as it happened",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553873/san-antonio-spurs-90-94-new-york-knicks-nba-finals-game-5-highlights",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13553767/emma-raducanu-vs-donna-vekic-queens-womens-singles-final-updates-and-analysis",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,51 +157,51 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "'Surreal feeling' | Players, fans and Timothee Chalamet celebrate Knicks' historic win",
+      "topic": "Liveblog",
+      "headline": "World Cup of Darts: England, Netherlands, Northern Ireland, Scotland in semis",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553947/nba-players-fans-and-timothee-chalamet-celebrate-new-york-knicks-historic-win",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
+      "headline": "Why can't World Cup games kick off on time?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k5xyljn9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Catalans sizzle in six-try Castleford win",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Reaction to Hamilton's first Ferrari win in British 1-2-3 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553784/catalans-dragons-34-12-castleford-tigers-makinson-and-faataape-doubles-help-dragons-win-in-testing-heat",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Could Japan be the World Cup's dark horses?",
+      "headline": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Hull FC end losing run with dominant Giants win",
+      "headline": "New York Knicks win long-awaited NBA championship in epic comeback!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553743/hull-fc-36-6-huddersfield-giants-oneill-double-helps-hull-return-to-winning-ways-in-super-league",
+      "url": "https://www.skysports.com/watch/video/13553873/san-antonio-spurs-90-94-new-york-knicks-nba-finals-game-5-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
