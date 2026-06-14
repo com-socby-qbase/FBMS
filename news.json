@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T22:16:20.260Z",
+    "generatedAt": "2026-06-14T22:53:23.523Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "England-Croatia referee was called Grade E by Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Arsenal & Liverpool in Bouaddi talks - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "52m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c621q422lepo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Summerville scores 'sizzler' as Netherlands retake lead",
+      "headline": "Japan come from behind twice to draw with Netherlands",
       "source": "BBC Sport",
-      "timeAgo": "19m",
-      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8m",
+      "url": "https://www.bbc.com/sport/football/videos/cnv9dzl62g6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Havertz scores twice as Germany thrash Curacao",
+      "headline": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/c74y83g7jqxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "53m",
+      "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Papers: Arsenal chasing Morocco teenager Bouaddi",
+      "topic": "Report",
+      "headline": "Japan level it late to earn draw with the Netherlands",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554161/arsenal-transfer-news-gunners-in-talks-to-sign-lille-and-morocco-midfielder-ayyoub-bouaddi-paper-talk",
+      "url": "https://www.skysports.com/football/netherlands-vs-japan/report/549776",
       "isFeatured": false,
       "hasAiSummary": false
     }
