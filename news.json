@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T23:53:45.107Z",
+    "generatedAt": "2026-06-14T00:59:20.561Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+    "headline": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
     "source": "BBC Sport",
-    "timeAgo": "55m",
-    "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "17m",
+    "url": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,9 +28,9 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Was this offside? Fifa under pressure to release VAR images",
+      "headline": "Was this offside? Technology fault leaves questions over VAR images",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "0m",
       "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+      "headline": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "New rules abound - was VAR diving decision wrong despite feeling right?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Amorim a leading contender for AC Milan job",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c15yzlzxq8xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Iran win four staff visa appeals but 11  banned",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Fulham in advanced talks to appoint Arbeloa as Silva's replacement",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Might Scotland throw midfield curveball at Haiti?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cqj1z4e21gro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Can Vinicius finally convince Brazil in Neymar's absence?",
+      "headline": "West Ham shareholders address Sullivan allegations and agree ownership deal",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/c932ll05592o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Papers: Carrick open to Rashford Man Utd return",
+      "topic": "Report",
+      "headline": "Brazil forced to settle for Morocco draw despite Vinicius stunner",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553832/manchester-united-transfers-michael-carrick-open-to-allowing-marcus-rashford-to-return-to-old-trafford-ahead-of-next-season-paper-talk",
+      "url": "https://www.skysports.com/football/brazil-vs-morocco/report/549771",
       "isFeatured": false,
       "hasAiSummary": false
     }
