@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T11:01:25.598Z",
+    "generatedAt": "2026-06-14T11:55:14.133Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why Haiti v Scotland was antidote to the ills of world football",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,27 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "World Cup of Darts LIVE! England's Littler and Humphries in quarter-finals from 12pm",
+      "headline": "Barcelona GP: Hamilton targets first Ferrari win from front row next to Russell LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
+      "source": "BBC Sport",
+      "timeAgo": "50m",
+      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "World Cup of Darts LIVE! Scotland's Anderson, Menzies dazzling, England's Littler, Humphries up next",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
@@ -26,7 +46,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
       "source": "BBC Sport",
@@ -36,7 +56,87 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "New York Knicks win long-awaited NBA championship in epic comeback!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553873/san-antonio-spurs-90-94-new-york-knicks-nba-finals-game-5-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "'Surreal feeling' | Players, fans and Timothee Chalamet celebrate Knicks' historic win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553947/nba-players-fans-and-timothee-chalamet-celebrate-new-york-knicks-historic-win",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "McGinn fires Scotland to first World Cup win for 36 years",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Catalans sizzle in six-try Castleford win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553784/catalans-dragons-34-12-castleford-tigers-makinson-and-faataape-doubles-help-dragons-win-in-testing-heat",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Clinical Australia upset Turkey in World Cup opener",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Hull FC end losing run with dominant Giants win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553743/hull-fc-36-6-huddersfield-giants-oneill-double-helps-hull-return-to-winning-ways-in-super-league",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "What does 1-0 win mean for Scotland's chances of qualification?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Fury beats former World's Strongest Man Hall by decision",
       "source": "Sky Sports",
@@ -46,87 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "McInnes agrees Rangers deal to replace Röhl",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "McGinn fires Scotland to first World Cup win for 36 years",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "'Resolute, gritty and determined' - Scotland battle to famous win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Clinical Australia upset Turkey in World Cup opener",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Australia shock Turkey to make winning start to World Cup campaign",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/australia-vs-turkey/report/549773",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "What does 1-0 win mean for Scotland's chances of qualification?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Knicks crowned NBA champions for first time in 53 years",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13553860/nba-finals-new-york-knicks-crowned-champions-for-first-time-in-53-years-after-victory-over-san-antonio-spurs-in-game-5",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Fifa to pay Somali referee Artan full World Cup fee",
       "source": "BBC Sport",
@@ -136,32 +156,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Australia vs Turkey: All the big moments and rate the players",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/australia-vs-turkey/live/549773",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Shirts, stuffed lions & Lego - the stolen England items worth $18,000",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Diamond Necklace headlines Prix de Diane field",
+      "headline": "McInnes agrees Rangers deal to replace Röhl",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13553357/today-on-sky-sports-racing-diamond-necklace-headlines-prix-de-diane-field-at-chantilly",
+      "url": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Was this offside? Technology fault leaves questions over VAR images",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "McGinn strike beats Haiti as Scotland secure first WC win in 36 years",
+      "topic": "Video",
+      "headline": "World Cup fever! Alex Fitzpatrick shows off keepie-uppie skills with golf ball",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "url": "https://www.skysports.com/watch/video/13553801/alex-fitzpatrick-shows-off-his-football-skills-with-some-keepie-uppies-whilst-he-was-waiting-to-tee-off-on-the-11th-hole",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Clarke: Pressure has eased on Scotland after crucial win",
+      "topic": "Video",
+      "headline": "'Resolute, gritty and determined' - Scotland battle to famous win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553844/haiti-0-1-scotland-steve-clarke-reflects-on-must-win-world-cup-group-c-opener-as-andy-robertson-says-players-achieved-their-dreams",
+      "url": "https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict",
       "isFeatured": false,
       "hasAiSummary": false
     }
