@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T22:53:23.523Z",
+    "generatedAt": "2026-06-14T23:31:11.600Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "The 20-year-old who stole the show on Scotland's World Cup return",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Arsenal & Liverpool in Bouaddi talks - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c621q422lepo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Japan come from behind twice to draw with Netherlands",
       "source": "BBC Sport",
-      "timeAgo": "8m",
+      "timeAgo": "46m",
       "url": "https://www.bbc.com/sport/football/videos/cnv9dzl62g6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
       "source": "BBC Sport",
-      "timeAgo": "53m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Porro signs new long-term Tottenham contract",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
