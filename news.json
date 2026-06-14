@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T19:11:33.543Z",
+    "generatedAt": "2026-06-14T19:53:05.262Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
+      "headline": "Wolff: Mercedes can't compete for championship with unreliability",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553905/lewis-hamilton-ferrari-driver-reveals-self-doubts-over-last-12-months-before-dream-win-at-barcelona-catalunya-grand-prix",
+      "url": "https://www.skysports.com/f1/news/12040/13553908/toto-wolff-mercedes-team-principal-says-silver-arrows-cant-compete-for-a-championship-with-power-unit-unreliability-issues",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
+      "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
+      "url": "https://www.skysports.com/f1/news/12040/13553905/lewis-hamilton-ferrari-driver-reveals-self-doubts-over-last-12-months-before-dream-win-at-barcelona-catalunya-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Comenencia scores Curacao's first-ever World Cup goal",
+      "source": "BBC Sport",
+      "timeAgo": "54m",
+      "url": "https://www.bbc.com/sport/football/videos/ce8k58ld05xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "England defeat Scotland to book spot in World Cup of Darts final!",
       "source": "Sky Sports",
@@ -66,7 +86,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Porro signs new long-term Tottenham contract",
       "source": "BBC Sport",
@@ -76,7 +96,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'A middle finger to the critics': How F1 rivals reacted to 'special' Hamilton win",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Hamilton claims spectacular first Grand Prix win for Ferrari",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Henman: Raducanu should be very encouraged after making Queen's final",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Barcelona-Catalunya GP | Race Highlights",
       "source": "Sky Sports",
@@ -146,7 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Why Haiti v Scotland was antidote to the ills of world football",
       "source": "BBC Sport",
@@ -156,32 +176,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "World Cup of Darts LIVE! England taking on Netherlands in stellar final",
+      "headline": "World Cup of Darts LIVE! STUNNING England beat Netherlands in final",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Comenencia scores Curacao's first-ever World Cup goal",
-      "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.com/sport/football/videos/ce8k58ld05xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Robinson ruled out of England's second Test against New Zealand",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13554109/ollie-robinson-ruled-out-of-englands-second-test-against-new-zealand-with-knee-soreness",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Raducanu loses Queen's final to Vekic despite battling display",
+      "headline": "Robinson ruled out of England's second Test against New Zealand",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13553975/emma-raducanu-loses-queens-final-to-donna-vekic-despite-battling-display-by-british-no-1",
+      "url": "https://www.skysports.com/cricket/news/12040/13554109/ollie-robinson-ruled-out-of-englands-second-test-against-new-zealand-with-knee-soreness",
       "isFeatured": false,
       "hasAiSummary": false
     }
