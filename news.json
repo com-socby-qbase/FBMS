@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T11:55:14.133Z",
+    "generatedAt": "2026-06-14T12:44:33.389Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,27 +18,27 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Barcelona GP: Hamilton targets first Ferrari win from front row next to Russell LIVE!",
+      "headline": "Raducanu takes on Vekic in Queen's final LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13553767/emma-raducanu-vs-donna-vekic-queens-womens-singles-final-updates-and-analysis",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
+      "headline": "The 20-year-old who stole the show on Scotland's World Cup return",
       "source": "BBC Sport",
-      "timeAgo": "50m",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "World Cup of Darts LIVE! Scotland's Anderson, Menzies dazzling, England's Littler, Humphries up next",
+      "headline": "World Cup of Darts LIVE! England's Littler, Humphries in battle vs Wales",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Barcelona GP: Hamilton targets first Ferrari win from front row next to Russell LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13553507/f1-barcelona-catalunya-gp-live-race-updates-results-stream-highlights-from-seventh-round-of-2026-formula-1-season-in-spain",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "New York Knicks win long-awaited NBA championship in epic comeback!",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Refugee who quit Bayern to create Aussie World Cup dream",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "'Surreal feeling' | Players, fans and Timothee Chalamet celebrate Knicks' historic win",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "McGinn fires Scotland to first World Cup win for 36 years",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Catalans sizzle in six-try Castleford win",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Clinical Australia upset Turkey in World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Hull FC end losing run with dominant Giants win",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "What does 1-0 win mean for Scotland's chances of qualification?",
+      "headline": "Fifa to pay Somali referee Artan full World Cup fee",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Fury beats former World's Strongest Man Hall by decision",
       "source": "Sky Sports",
@@ -146,47 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Fifa to pay Somali referee Artan full World Cup fee",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "McInnes agrees Rangers deal to replace Röhl",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Was this offside? Technology fault leaves questions over VAR images",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "World Cup fever! Alex Fitzpatrick shows off keepie-uppie skills with golf ball",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553801/alex-fitzpatrick-shows-off-his-football-skills-with-some-keepie-uppies-whilst-he-was-waiting-to-tee-off-on-the-11th-hole",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
       "source": "BBC Sport",
@@ -196,12 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'Resolute, gritty and determined' - Scotland battle to famous win",
+      "id": "sky_sports-8",
+      "topic": "News Story",
+      "headline": "McInnes agrees Rangers deal to replace Röhl",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict",
+      "url": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
+      "topic": "News",
+      "headline": "Could Japan be the World Cup's dark horses?",
+      "source": "BBC Sport",
+      "timeAgo": "42m",
+      "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-9",
+      "topic": "Video",
+      "headline": "World Cup fever! Alex Fitzpatrick shows off keepie-uppie skills with golf ball",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13553801/alex-fitzpatrick-shows-off-his-football-skills-with-some-keepie-uppies-whilst-he-was-waiting-to-tee-off-on-the-11th-hole",
       "isFeatured": false,
       "hasAiSummary": false
     }
