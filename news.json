@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T06:07:31.934Z",
+    "generatedAt": "2026-06-15T08:29:10.549Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
+    "headline": "From last-chance saloon to World Cup redemption for Potter",
     "source": "BBC Sport",
     "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "De Bruyne vs Salah: Premier League greats set for final World Cup showdown",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13551896/belgium-vs-egypt-mo-salah-and-kevin-de-bruyne-set-to-lead-their-countries-out-at-world-cup-ahead-of-one-last-battle-between-two-premier-league-icons",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Durham Castle and Shiplake contest Windsor feature",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Gyokeres & Isak score as Sweden put five past Tunisia",
+      "headline": "The night the Tartan Army took over iconic Fenway Park",
       "source": "BBC Sport",
-      "timeAgo": "40m",
-      "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/articles/c5yzrrezmz8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Report",
       "headline": "Gyokeres and Isak shine as Sweden secure dominant win over Tunisia",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'Hard to read' Bellingham criticism - Henderson",
+      "headline": "Political tension has undermined World Cup joy, says Iran striker",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Sweden vs Tunisia: All the big moments and rate the players",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
+      "headline": "Criticism of Bellingham is hard to read - Henderson",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Man Utd's Amad nets last-minute winner to see Ivory Coast past Ecuador",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
+      "headline": "Gyokeres & Isak score as Sweden put five past Tunisia",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Humphries says pressure made World Cup win with Littler more special",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Amad scores late winner as Ivory Coast beat Ecuador",
+      "headline": "Who am I? Guess World Cup star No 8",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c4g50gydzrpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Wolff: Mercedes can't compete for championship with unreliability",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "England-Croatia referee was called Grade E by Tuchel",
+      "headline": "Amad scores late winner as Ivory Coast beat Ecuador",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
       "source": "Sky Sports",
@@ -146,62 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "The 20-year-old who stole the show on Scotland's World Cup return",
+      "headline": "Recruited on LinkedIn, set to face Spain - the Dublin-born Cape Verde star",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "England defeat Scotland to book spot in World Cup of Darts final!",
+      "topic": "News Story",
+      "headline": "Waine: There is going to be that opportunity to be New Zealand's hero",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554096/england-book-spot-in-world-cup-of-darts-final",
+      "url": "https://www.skysports.com/football/news/12040/13549739/ben-waine-interview-port-vale-and-new-zealand-forward-on-his-world-cup-adventure-as-he-dreams-of-being-the-hero",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
+      "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
       "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'A middle finger to the critics': How F1 rivals reacted to 'special' Hamilton win",
+      "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553907/lewis-hamilton-wins-barcelona-catalunya-grand-prix-george-russell-lando-norris-kimi-antonelli-toto-wolff-hail-special-moment",
+      "url": "https://www.skysports.com/f1/news/12040/13553906/lewis-hamilton-ferrari-driver-not-ruling-out-2026-f1-title-win-as-mercedes-count-him-in-after-barcelona-catalunya-gp",
       "isFeatured": false,
       "hasAiSummary": false
     }
