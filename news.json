@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T21:07:42.414Z",
+    "generatedAt": "2026-06-15T22:04:15.389Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
+    "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
     "source": "BBC Sport",
-    "timeAgo": "52m",
-    "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "11m",
+    "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Cape Verde show beauty of football in one of game's biggest mismatches",
+      "headline": "Cape Verde show beauty of football in one of the game's biggest mismatches",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game",
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "I'll keep gambling with fitness for England - Saka",
+      "headline": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
       "source": "BBC Sport",
-      "timeAgo": "20m",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Fifa seeks explanation over VAR official's hand gesture",
+      "headline": "'Cartwheels at breakfast' & kicking about Boston - the culture shift in Scotland camp",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.com/sport/football/articles/cj3gnz8kvevo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Palace appoint Sage as head coach on three-year deal",
+      "headline": "I'll keep gambling with fitness for England - Saka",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "51m",
+      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Political tension has undermined World Cup joy, says Iran striker",
+      "headline": "Palace appoint Sage as head coach on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
+      "headline": "Political tension has undermined World Cup joy, says Iran striker",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "headline": "Lukaku makes impact off the bench as Belgium draw with Egypt",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.com/sport/football/videos/cly72zdjzgqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde stifle group rivals",
+      "headline": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "False nines? 4-4-2? The tactical trends defining World Cup so far",
+      "headline": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde stifle group rivals",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c3dy8147dmzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Ex-Wolves & Forest striker Mir gets eight-year sentence for sexual assault",
+      "headline": "Real make Fernandes contact - Tuesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c932knkrxw9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "50m",
+      "url": "https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Overton puts Somerset in County Championship title race as Essex move top",
+      "topic": "Report",
+      "headline": "Egypt denied first World Cup win in Belgium draw as Lukaku makes instant impact",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13554457/county-championship-craig-overton-leads-somerset-to-big-win-over-champions-nottinghamshire-as-essex-go-top",
+      "url": "https://www.skysports.com/football/belgium-vs-egypt/report/549778",
       "isFeatured": false,
       "hasAiSummary": false
     }
