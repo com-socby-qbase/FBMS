@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T22:04:15.389Z",
+    "generatedAt": "2026-06-15T22:56:47.714Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
     "source": "BBC Sport",
-    "timeAgo": "11m",
+    "timeAgo": "27m",
     "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "'Cartwheels at breakfast' & kicking about Boston - the culture shift in Scotland camp",
       "source": "BBC Sport",
-      "timeAgo": "26m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cj3gnz8kvevo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "I'll keep gambling with fitness for England - Saka",
       "source": "BBC Sport",
-      "timeAgo": "51m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Palace appoint Sage as head coach on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Political tension has undermined World Cup joy, says Iran striker",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Lukaku makes impact off the bench as Belgium draw with Egypt",
       "source": "BBC Sport",
-      "timeAgo": "9m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/cly72zdjzgqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -168,9 +168,9 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde stifle group rivals",
+      "headline": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Real make Fernandes contact - Tuesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "50m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
