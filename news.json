@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T12:52:28.401Z",
+    "generatedAt": "2026-06-15T15:05:29.606Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "World Cup hydration breaks - who are the winners and losers?",
+    "headline": "Fifa seeks explanation over VAR official's hand gesture",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "2h",
+    "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Yamal on bench for Spain against Cape Verde LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "False nines? 4-4-2? The tactical trends defining World Cup so far",
+      "source": "BBC Sport",
+      "timeAgo": "54m",
+      "url": "https://www.bbc.com/sport/football/articles/c3dy8147dmzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Serena Williams in doubles at Berlin Open - live on Sky Sports",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13554279/serena-williams-to-partner-karolina-muchova-at-berlin-open-as-23-time-grand-slam-champion-re-debuts-at-593rd-in-doubles-rankings",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "World Cup hydration breaks - who are the winners and losers?",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "McCullum 'worried' about Stokes as England name much-changed XI",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13554303/ben-stokes-brendon-mccullum-worried-about-england-captain-as-much-changed-xi-named-for-second-new-zealand-test",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Wolves appoint Portuguese Peixoto as new boss",
+      "source": "BBC Sport",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.com/sport/football/articles/c3dy8r2ex43o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "'Bewildered' McCullum 'worried' for Stokes - 'We need to look after him'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554338/brendon-mccullum-worried-for-ben-stokes-we-need-to-look-after-him",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Cucurella joins Real Madrid - will Fernandez follow?",
+      "source": "BBC Sport",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.com/sport/football/articles/c3rynp1ex9ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'Bringing back coach Richardson is paying off for Raducanu'",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Stones goes from brink of retirement to World Cup 'pure joy'",
       "source": "BBC Sport",
-      "timeAgo": "30m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Royal Ascot tips: Kevin Blake's best bets for day one",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
+      "headline": "Amorim agrees to become new AC Milan boss",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Mercedes request right of review of Monaco result after Gasly reinstatement",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Man Utd to appear in Amazon's All or Nothing documentary",
+      "headline": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.com/sport/football/articles/crlwxzey377o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Royal Ascot day 1 preview: 'Fireworks' expected from Bow Echo",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "From last-chance saloon to World Cup redemption for Potter",
+      "headline": "Man Utd to appear in Amazon's All or Nothing documentary",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/crlwxzey377o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Is Cucurella sale the right call? Have your say!",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "The night the Tartan Army took over iconic Fenway Park",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/articles/c5yzrrezmz8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Will Scheffler fulfil his career Grand Slam destiny with US Open win?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13553986/us-open-is-scottie-scheffler-ready-to-fulfil-his-destiny-and-complete-career-grand-slam-at-shinnecock-hills",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Taking a leaf from Arsenal's playbook - Tuchel's set-piece plan",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "F1 2026 team-mate head-to-heads after Barcelona GP",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "France star Mbappe vows to increase defensive work",
-      "source": "BBC Sport",
-      "timeAgo": "35m",
-      "url": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Real Madrid sign Cucurella from Chelsea",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554263/marc-cucurella-transfer-news-real-madrid-sign-defender-from-chelsea-in-deal-worth-51-8m",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Gyokeres & Isak score as Sweden put five past Tunisia",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Diouf: World Cup semi-finals the target for Senegal after AFCON drama",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13546213/senegal-at-the-world-cup-semi-finals-the-target-after-afcon-title-drama-says-el-hadji-diouf",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Amad scores late winner as Ivory Coast beat Ecuador",
+      "headline": "From last-chance saloon to World Cup redemption for Potter",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Explained: World Cup VAR official accused of offensive hand gesture",
+      "topic": "News Story",
+      "headline": "Röhl to Salzburg deal completed as Rangers close in on McInnes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554317/geraint-on-world-cup-ref",
+      "url": "https://www.skysports.com/football/news/12040/13553276/danny-r246hl-rangers-complete-rb-salzburg-deal-with-derek-mcinnes-set-for-ibrox",
       "isFeatured": false,
       "hasAiSummary": false
     }
