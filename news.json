@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T16:57:07.507Z",
+    "generatedAt": "2026-06-15T18:38:55.143Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Fifa seeks explanation over VAR official's hand gesture",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Article/Blog",
+      "headline": "Brundle's verdict on 'dominant' Hamilton triumph and Monaco penalty 'mess'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13554327/barcelona-catalunya-gp-martin-brundles-verdict-on-lewis-hamiltons-first-grand-prix-win-for-ferrari-and-monaco-speeding-penalty-mess",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Palace appoint Sage as head coach on three-year deal",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Crystal Palace appoint Sage as new manager",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13552705/crystal-palace-pierre-sage-appointed-new-manager-as-he-leaves-rc-lens-to-replace-oliver-glasner-at-selhurst-park",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Political tension has undermined World Cup joy, says Iran striker",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "'Would've been classy gesture to give me Queen's wildcard' - claims Evans",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Political tension has undermined World Cup joy, says Iran striker",
+      "headline": "False nines? 4-4-2? The tactical trends defining World Cup so far",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c3dy8147dmzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Peixoto appointed as new Wolves boss",
       "source": "Sky Sports",
@@ -46,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Empty seat at World Cup for imprisoned French sports journalist",
       "source": "BBC Sport",
-      "timeAgo": "11m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/c0ly17770lpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Cape Verde's 40-year-old keeper keeping out Spain LIVE!",
+      "headline": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "False nines? 4-4-2? The tactical trends defining World Cup so far",
+      "headline": "World Cup hydration breaks - who are the winners and losers?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c3dy8147dmzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Serena Williams in doubles at Berlin Open - live on Sky Sports",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "World Cup hydration breaks - who are the winners and losers?",
+      "headline": "Watford appoint Dionisi as head coach",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2m",
+      "url": "https://www.bbc.com/sport/football/articles/c4g421020n9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "McCullum 'worried' about Stokes as England name much-changed XI",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "BBC or ITV? Inside how World Cup broadcast picks are made",
       "source": "BBC Sport",
-      "timeAgo": "5m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "'Bewildered' McCullum 'worried' for Stokes - 'We need to look after him'",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Wolves appoint Portuguese Peixoto as new boss",
+      "headline": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
       "source": "BBC Sport",
-      "timeAgo": "44m",
-      "url": "https://www.bbc.com/sport/football/articles/c3dy8r2ex43o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Tunisia sack head coach after heavy defeat in World Cup opener",
       "source": "Sky Sports",
@@ -146,51 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "World Cup quiz: Name these top nations' leading scorers",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c1m2p27p8xzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'Bringing back coach Richardson is paying off for Raducanu'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13554278/emma-raducanu-british-no-1-bringing-back-coach-andrew-richardson-is-paying-off-believes-tim-henman",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Cucurella joins Real Madrid - will Fernandez follow?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c3rynp1ex9ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Royal Ascot tips: Kevin Blake's best bets for day one",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13554293/royal-ascot-tips-kevin-blakes-best-bets-for-day-one-featuring-a-10-1-fancy-in-the-st-jamess-palace-stakes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Gyokeres & Isak score as Sweden put five past Tunisia",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Calls for World Cup VAR official to be removed after 'white supremacist sign'",
+      "headline": "'Bringing back coach Richardson is paying off for Raducanu'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554379/world-cup-2026-calls-for-world-cup-var-official-shaun-evans-to-be-removed-after-white-supremacist-sign",
+      "url": "https://www.skysports.com/tennis/news/12040/13554278/emma-raducanu-british-no-1-bringing-back-coach-andrew-richardson-is-paying-off-believes-tim-henman",
       "isFeatured": false,
       "hasAiSummary": false
     }
