@@ -1,24 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T04:12:49.309Z",
+    "generatedAt": "2026-06-15T06:07:31.934Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Amad scores late winner as Ivory Coast beat Ecuador",
+    "headline": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Today on Sky Sports Racing: Durham Castle and Shiplake contest Windsor feature",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13553925/today-on-sky-sports-racing-durham-castle-and-shiplake-contest-windsor-feature-with-chepstow-also-live-on-monday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Gyokeres & Isak score as Sweden put five past Tunisia",
+      "source": "BBC Sport",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Report",
+      "headline": "Gyokeres and Isak shine as Sweden secure dominant win over Tunisia",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/sweden-vs-tunisia/report/549777",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Hard to read' Bellingham criticism - Henderson",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Ayari scores another stunner as Sweden score five  vs Tunisia LIVE!",
+      "headline": "Sweden vs Tunisia: All the big moments and rate the players",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/sweden-vs-tunisia/live/549777",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'Hard to read' Bellingham criticism - Henderson",
+      "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
       "source": "BBC Sport",
-      "timeAgo": "43m",
-      "url": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "Man Utd's Amad nets last-minute winner to see Ivory Coast past Ecuador",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
+      "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Humphries says pressure made World Cup win with Littler more special",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'I'll be staying out of the way' - Southgate on World Cup punditry",
+      "headline": "Amad scores late winner as Ivory Coast beat Ecuador",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/videos/cx2dyrzwk2vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Wolff: Mercedes can't compete for championship with unreliability",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Thunderbolt!' - Brighton's Ayari scores stunner but refuses to celebrate",
+      "headline": "England-Croatia referee was called Grade E by Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.com/sport/football/videos/czj8e33pgdjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'I was in a low place' - Hamilton reveals self-doubts before 'dream' Ferrari win",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "England-Croatia referee was called Grade E by Tuchel",
+      "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "'Nothing is impossible' - is Hamilton's title challenge now on?",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "The 20-year-old who stole the show on Scotland's World Cup return",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "England defeat Scotland to book spot in World Cup of Darts final!",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'A middle finger to the critics': How F1 rivals reacted to 'special' Hamilton win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553907/lewis-hamilton-wins-barcelona-catalunya-grand-prix-george-russell-lando-norris-kimi-antonelli-toto-wolff-hail-special-moment",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hamilton claims spectacular first Grand Prix win for Ferrari",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13553903/barcelona-catalunya-gp-lewis-hamilton-claims-first-grand-prix-win-for-ferrari-as-kimi-antonelli-retires-late-on",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Porro signs new long-term Tottenham contract",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Henman: Raducanu should be very encouraged after making Queen's final",
+      "topic": "News Story",
+      "headline": "'A middle finger to the critics': How F1 rivals reacted to 'special' Hamilton win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554058/tennis-tim-henman-says-emma-raducanu-should-be-very-encouraged-despite-her-loss-in-the-queens-final",
+      "url": "https://www.skysports.com/f1/news/12040/13553907/lewis-hamilton-wins-barcelona-catalunya-grand-prix-george-russell-lando-norris-kimi-antonelli-toto-wolff-hail-special-moment",
       "isFeatured": false,
       "hasAiSummary": false
     }
