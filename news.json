@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T12:16:23.387Z",
+    "generatedAt": "2026-06-16T14:18:10.533Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Livramento's World Cup in doubt after injury blow",
+    "headline": "Chalobah replaces injured Livramento for World Cup",
     "source": "BBC Sport",
-    "timeAgo": "30m",
+    "timeAgo": "39m",
     "url": "https://www.bbc.com/sport/football/articles/c992n95lgrmo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,126 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "McLaren appeal Monaco GP result with concerns over 'sporting fairness'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13554653/monaco-gp-mclaren-appeal-race-classification-with-concerns-over-sporting-fairness-after-pierre-gasly-podium-reinstatement",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tuchel's England deal includes performance clause",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "McIlroy gets Ryder Cup grouping as US Open tee times revealed",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13554472/us-open-tee-times-rory-mcilroy-grouped-with-ryder-cup-teammates-tommy-fleetwood-and-ludvig-197berg-at-shinnecock-hills",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Stag-do drag to World Cup - the rise of Scotland's other national anthem",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "50/1 shock! Ten Bob Tony stikes late in the Queen Anne",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554657/50-1-shock-ten-bob-tony-stikes-late-in-the-queen-anne",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Tunisia sack Lamouchi just one game into World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "US Open LIVE! McIlroy press conference and tee times announced",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13554305/us-open-build-up-live-latest-major-updates-from-shinnecock-hills-as-scottie-scheffler-rory-mcilroy-feature-in-new-york",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Meet the Iraq player set to make history for Pakistan",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Livramento out of World Cup with Chalobah called up",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13554613/world-cup-2026-tino-livramento-suffers-hamstring-injury-and-replaced-by-trevoh-chalobah-in-england-squad",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Jordan's journey from Harry Redknapp to date with Messi",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c172dxe8qleo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Royal Ascot LIVE! Guineas hero Bow Echo stars on day one",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/horse-racing/live-blog/12040/12717872/racing-round-up-all-the-latest-horse-racing-news-previews-and-reaction",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Solskjaer in the running for Ipswich job",
+      "source": "BBC Sport",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.com/sport/football/articles/c17y5gxjl0zo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Why Ronaldo's last World Cup chance with Portugal could be his best",
       "source": "Sky Sports",
@@ -26,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Tuchel's England deal includes performance clause",
+      "headline": "What does future hold for Rashford as deadline passes?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Root responds to drinking culture claims: 'Disappointing... we've let ourselves down'",
       "source": "Sky Sports",
@@ -46,37 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Tunisia sack Lamouchi just one game into World Cup",
+      "headline": "Would Hearts' McInnes be 'perfect fit' for Rangers?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c05ym32g48no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Stag-do drag to World Cup - the rise of Scotland's other national anthem",
-      "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Serena and Venus Williams to play doubles together at Wimbledon",
       "source": "Sky Sports",
@@ -86,111 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Meet the Iraq player set to make history for Pakistan",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Tottenham want Newcastle midfielder Tonali",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554541/sandro-tonali-transfer-news-tottenham-hotspur-want-newcastle-midfielder-as-roberto-de-zerbi-makes-italian-top-target",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Ghana challenges Partey's visa denial in court",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c39yvgp73x8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Would Hearts' McInnes be 'perfect fit' for Rangers?",
-      "source": "BBC Sport",
-      "timeAgo": "37m",
-      "url": "https://www.bbc.com/sport/football/articles/c05ym32g48no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Today at Royal Ascot: Bow Echo and Gstaad lock horns in St James's Palace Stakes",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13554266/today-at-royal-ascot-bow-echo-and-gstaad-lock-horns-in-st-jamess-palace-stakes-live-on-tuesday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What does future hold for Rashford as deadline passes?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "NUMBER 272! - Josh Charnley makes history with record breaking Super League try",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554073/super-league-josh-charnley-makes-history-becoming-super-leagues-all-time-leading-try-scorer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 9",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/crkprk512mlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Bradford Bulls 12-38 Leigh Leopards",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554091/bradford-bulls-12-38-leigh-leopards-rugby-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "'Not a model' - Bielsa refuses to engage with World Cup photoshoot",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cd6e58eq72eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "The four selection dilemmas facing Tuchel",
+      "headline": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554511/england-vs-croatia-thomas-tuchels-selection-dilemmas-for-world-cup-analysed-four-positions-up-for-grabs",
+      "url": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
       "isFeatured": false,
       "hasAiSummary": false
     }
