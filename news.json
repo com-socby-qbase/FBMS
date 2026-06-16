@@ -1,57 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T04:13:30.125Z",
+    "generatedAt": "2026-06-16T06:12:44.241Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
+    "headline": "Iran v Iran in the stands as politics and football intertwine",
     "source": "BBC Sport",
-    "timeAgo": "7h",
-    "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Report",
-      "headline": "Iran fight back twice to rescue thrilling draw against New Zealand",
+      "topic": "News Story",
+      "headline": "Today at Royal Ascot: Bow Echo and Gstaad lock horns in St James's Palace Stakes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+      "url": "https://www.skysports.com/racing/news/12040/13554266/today-at-royal-ascot-bow-echo-and-gstaad-lock-horns-in-st-jamess-palace-stakes-live-on-tuesday",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Just scores double but New Zealand held by Iran in entertaining game",
+      "headline": "The 40-year-old keeper who inspired Cape Verde's historic debut against Spain",
       "source": "BBC Sport",
-      "timeAgo": "16m",
-      "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Iran 2-2 New Zealand: All the big moments and rate the players!",
+      "topic": "News Story",
+      "headline": "What's behind Hamilton's resurgence?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/iran-vs-new-zealand/live/549779",
+      "url": "https://www.skysports.com/f1/news/12040/13554357/lewis-hamilton-whats-behind-ferrari-drivers-resurgence-after-win-at-barcelona-catalunya-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
+      "headline": "Are billions flooding into Saudi Pro League helping national team?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c892y35lnq8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,15 +68,55 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Saudi Arabia hold off relentless Uruguay to earn draw",
+      "headline": "Just scores double but New Zealand held by Iran in entertaining game",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/cvgedzwp21wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "Report",
+      "headline": "Iran fight back twice to rescue thrilling draw against New Zealand",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Iran 2-2 New Zealand: All the big moments and rate the players!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/iran-vs-new-zealand/live/549779",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Why Kante is still crucial for France  - Giroud",
+      "source": "BBC Sport",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/articles/c3vypg424glo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Cape Verde show beauty of football in one of the game's biggest mismatches",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Cartwheels at breakfast' & kicking about Boston - the culture shift in Scotland camp",
+      "headline": "Saudi Arabia hold off relentless Uruguay to earn draw",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cj3gnz8kvevo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/videos/cvgedzwp21wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Article/Blog",
       "headline": "Brundle's verdict on 'dominant' Hamilton triumph",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "I'll keep gambling with fitness for England - Saka",
+      "headline": "Who am I? Guess World Cup star No 9",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.com/sport/football/articles/crkprk512mlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Crystal Palace appoint Sage as new manager",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Are billions flooding into Saudi Pro League helping national team?",
+      "headline": "'Cartwheels at breakfast' & kicking about Boston - the culture shift in Scotland camp",
       "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.com/sport/football/articles/c892y35lnq8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cj3gnz8kvevo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Would've been classy gesture to give me Queen's wildcard' - claims Evans",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Palace appoint Sage as head coach on three-year deal",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Peixoto appointed as new Wolves boss",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554380/wolves-manager-latest-cesar-peixoto-announced-as-rob-edwards-replacement-at-molineux",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Real make Fernandes contact - Tuesday's gossip",
+      "headline": "I'll keep gambling with fitness for England - Saka",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Serena Williams in doubles at Berlin Open - live on Sky Sports",
+      "headline": "'Dangerous' DeChambeau remains major threat despite uncertainty and struggle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13554279/serena-williams-to-partner-karolina-muchova-at-berlin-open-as-23-time-grand-slam-champion-re-debuts-at-593rd-in-doubles-rankings",
+      "url": "https://www.skysports.com/golf/news/12040/13554424/us-open-2026-why-bryson-dechambeau-remains-dangerous-contender-despite-liv-golf-uncertainty-and-major-struggles",
       "isFeatured": false,
       "hasAiSummary": false
     }
