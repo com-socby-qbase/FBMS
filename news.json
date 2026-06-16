@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T16:06:03.809Z",
+    "generatedAt": "2026-06-16T17:56:50.641Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Chalobah replaces injured Livramento for World Cup",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/c992n95lgrmo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,166 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Williams' Wimbledon preparations suffer blow with Berlin doubles defeat",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13554732/serena-williams-wimbledon-preparations-suffer-blow-with-opening-round-doubles-defeat-at-berlin-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tuchel's England deal includes performance clause",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Royal Ascot tips: Kevin Blake's 16/1 Hunt Cup fancy on day two",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13554370/royal-ascot-tips-kevin-blakes-16-1-hunt-cup-fancy-on-day-two-among-three-best-bets-for-wednesday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Spurs agree deal to sign Van Hecke from Brighton",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13554757/jan-paul-van-hecke-tottenham-agree-deal-for-brighton-defender-worth-52m",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Lack of World Cup segregation a risk - fans' chief",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Connor recalled to England squad ahead of World Cup",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13554727/rugby-league-world-cup-jake-connor-recalled-by-england-coach-brian-mcdermott-in-build-up-to-this-autumns-tournament",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Amorim appointed as AC Milan head coach",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Rew to make England debut after replacing Smith as wicketkeeper",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13554739/james-rew-to-make-england-debut-in-second-test-against-new-zealand-as-jamie-smith-replaced-following-birth-of-his-second-child",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Meet the Iraq player set to make history for Pakistan",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Rain delays start as England face Ireland at Women's T20 World Cup LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13554665/england-vs-ireland-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-the-utilita-bowl-in-southampton",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Tunisia sack Lamouchi just one game into World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "McLaren, Red Bull appeal Monaco GP result with concerns over 'sporting fairness'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13554653/monaco-gp-mclaren-appeal-race-classification-with-concerns-over-sporting-fairness-after-pierre-gasly-podium-reinstatement",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Stag-do drag to World Cup - the rise of Scotland's other national anthem",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Moutet faces fine after swearing seven times during Queen's interview",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13554726/queens-corentin-moutet-faces-fine-after-french-player-swore-seven-times-during-television-interview",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Record draws and Europe's slow start - is the World Cup lacking jeopardy?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c24y18g9v03o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Why Spurs want Tonali - and Newcastle do not want to let him go",
       "source": "Sky Sports",
@@ -26,182 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Tuchel's England deal includes performance clause",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | Bow Echo holds off Gstaad in thriller!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554720/royal-ascot-replay-bow-echo-holds-off-gstaad-in-thriller",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
-      "source": "BBC Sport",
-      "timeAgo": "15m",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "Magic from Moore as Mission Central flies home in the King Charles III",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554696/magic-from-moore-as-mission-central-flies-home-in-the-king-charles-iii",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Tunisia sack Lamouchi just one game into World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "McLaren appeal Monaco GP result with concerns over 'sporting fairness'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13554653/monaco-gp-mclaren-appeal-race-classification-with-concerns-over-sporting-fairness-after-pierre-gasly-podium-reinstatement",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Lack of World Cup segregation a risk - fans' chief",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Royal Ascot day 2 preview: Superstars Daryz and Ombudsman clash",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554285/royal-ascot-day-2-preview-superstars-daryz-and-ombudsman-clash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Record draws and Europe's slow start - is the World Cup lacking jeopardy?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c24y18g9v03o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "McIlroy gets Ryder Cup grouping as US Open tee times revealed",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13554472/us-open-tee-times-rory-mcilroy-grouped-with-ryder-cup-teammates-tommy-fleetwood-and-ludvig-197berg-at-shinnecock-hills",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Stag-do drag to World Cup - the rise of Scotland's other national anthem",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "50/1 shock! Ten Bob Tony stikes late in the Queen Anne",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554657/50-1-shock-ten-bob-tony-stikes-late-in-the-queen-anne",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Meet the Iraq player set to make history for Pakistan",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c99lzern58eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Scott 'not concerned' by US Open test on historic 100th consecutive major",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13554305/us-open-build-up-live-latest-major-updates-from-shinnecock-hills-as-scottie-scheffler-rory-mcilroy-feature-in-new-york",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Solskjaer in the running for Ipswich job",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c17y5gxjl0zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Livramento out of World Cup with Chalobah called up",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554613/world-cup-2026-tino-livramento-suffers-hamstring-injury-and-replaced-by-trevoh-chalobah-in-england-squad",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Just's rise from Austrian second tier to World Cup breakout star",
-      "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.com/sport/football/articles/cr7pr9j23dyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Royal Ascot LIVE! Brilliant Bow Echo bags St James's Palace Stakes title",
+      "topic": "Video",
+      "headline": "Royal Ascot replay | Bow Echo holds off Gstaad in thriller!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/horse-racing/live-blog/12040/12717872/racing-round-up-all-the-latest-horse-racing-news-previews-and-reaction",
+      "url": "https://www.skysports.com/watch/video/13554720/royal-ascot-replay-bow-echo-holds-off-gstaad-in-thriller",
       "isFeatured": false,
       "hasAiSummary": false
     }
