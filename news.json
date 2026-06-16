@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T08:22:06.165Z",
+    "generatedAt": "2026-06-16T10:16:30.373Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tunisia sack Lamouchi just one game into World Cup",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Serena and Venus Williams handed Wimbledon doubles wildcard",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13554497/serena-and-venus-williams-handed-wimbledon-doubles-wildcard",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Iran v Iran in the stands as politics and football intertwine",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Iran v Iran in the stands as politics and football intertwine",
+      "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Today at Royal Ascot: Bow Echo and Gstaad lock horns in St James's Palace Stakes",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
+      "headline": "What does future hold for Rashford as deadline passes?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "NUMBER 272! - Josh Charnley makes history with record breaking Super League try",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "What does future hold for Rashford as deadline passes?",
+      "headline": "Who am I? Guess World Cup star No 9",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/crkprk512mlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Bradford Bulls 12-38 Leigh Leopards",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Just scores double but New Zealand held by Iran in entertaining game",
+      "headline": "'Not a model' - Bielsa refuses to engage with World Cup photoshoot",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cd6e58eq72eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "The four selection dilemmas facing Tuchel",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Not a model' - Bielsa refuses to engage with World Cup photoshoot",
+      "headline": "Why Kante is still crucial for France  - Giroud",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cd6e58eq72eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c3vypg424glo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "What's behind Hamilton's resurgence?",
       "source": "Sky Sports",
@@ -126,32 +146,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Are billions flooding into Saudi Pro League helping national team?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c892y35lnq8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "'You killed it!' | Who did Hamilton ring after his victory in Barcelona? 👀",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554241/f1-lewis-hamilton-shares-emotional-barcelona-post-race-win-phone-call-with-a-special-someone",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Iran 'most oppressed' team at World Cup - Ghalenoei",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg48wvv0v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,40 +168,40 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Saudi Arabia hold off relentless Uruguay to earn draw",
+      "headline": "Just scores double but New Zealand held by Iran in entertaining game",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/cvgedzwp21wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Iran fight back twice to rescue thrilling draw against New Zealand",
+      "topic": "News Story",
+      "headline": "Why is retaining the World Cup so hard? Messi’s Argentina out to buck trend",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+      "url": "https://www.skysports.com/football/news/12040/13549736/world-cup-2026-lionel-messis-argentina-want-to-retain-trophy-but-history-suggests-the-holders-risk-spectacular-failure-in-2026",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 9",
+      "headline": "Iran 'most oppressed' team at World Cup - Ghalenoei",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/crkprk512mlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg48wvv0v2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Iran vs New Zealand: All the big moments and rate the players!",
+      "topic": "Report",
+      "headline": "Iran fight back twice to rescue thrilling draw against New Zealand",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/iran-vs-new-zealand/live/549779",
+      "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
       "isFeatured": false,
       "hasAiSummary": false
     }
