@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T20:28:20.353Z",
+    "generatedAt": "2026-06-16T21:33:33.019Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+    "headline": "Project Mbappe - the road to becoming France's record scorer",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "25m",
+    "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/france-vs-senegal/report/549782",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Partey to miss Ghana game after visa appeal rejected",
+      "source": "BBC Sport",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.com/sport/football/articles/cly8qj2nlzqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Nijman beats Searle to claim sixth Players Championship title of season",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13554802/players-championship-21-wessel-nijman-claims-sixth-title-of-season-with-victory-over-ryan-searle-in-wigan-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Williams' Wimbledon preparations suffer blow with Berlin doubles defeat",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Spurs agree £52m Van Hecke deal with Brighton",
       "source": "BBC Sport",
-      "timeAgo": "59m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Royal Ascot tips: Kevin Blake's 16/1 Hunt Cup fancy on day two",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Spurs agree £52m deal to sign Van Hecke from Brighton",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Lack of World Cup segregation a risk - fans' chief",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Connor recalled to England squad ahead of World Cup",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Amorim appointed as AC Milan head coach",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'He's a superstar' | Boughey beams as Bow Echo shines at Royal Ascot",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Snakes on a train (ing pitch)",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c2lyzdwjwgwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Stokes breaks silence with message to trio of England debutants",
       "source": "Sky Sports",
@@ -126,82 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Cape Verde - Scotland's template against Morocco?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c982g3m5e5lo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "England chasing 119 to beat Ireland at Women's T20 World Cup LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13554665/england-vs-ireland-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-the-utilita-bowl-in-southampton",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Tuchel's England deal includes performance clause",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "McLaren, Red Bull appeal Monaco GP result with concerns over 'sporting fairness'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13554653/monaco-gp-mclaren-appeal-race-classification-with-concerns-over-sporting-fairness-after-pierre-gasly-podium-reinstatement",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Record draws and Europe's slow start - is the World Cup lacking jeopardy?",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c24y18g9v03o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Moutet faces fine after swearing seven times during Queen's interview",
+      "headline": "Papers: Rashford's secret £40m release clause revealed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13554726/queens-corentin-moutet-faces-fine-after-french-player-swore-seven-times-during-television-interview",
+      "url": "https://www.skysports.com/football/news/12040/13554798/man-utd-news-marcus-rashford-has-secret-40m-release-clause-in-his-contract-as-barcelona-dont-pick-up-option-to-sign-forward-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Just scores double but New Zealand held by Iran in entertaining game",
+      "headline": "'Very, very special' - Mbappe scores two superb goals against Senegal",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/videos/c8d242de81eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23m",
+      "url": "https://www.bbc.com/sport/football/videos/c5yzjn3240eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Why Spurs want Tonali - and Newcastle do not want to let him go",
+      "headline": "McLaren, Red Bull appeal Monaco GP result with concerns over 'sporting fairness'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554623/sandro-tonali-the-view-from-tottenham-and-newcastle-as-spurs-target-magpies-midfielder-for-summer-transfer",
+      "url": "https://www.skysports.com/f1/news/12040/13554653/monaco-gp-mclaren-appeal-race-classification-with-concerns-over-sporting-fairness-after-pierre-gasly-podium-reinstatement",
       "isFeatured": false,
       "hasAiSummary": false
     }
