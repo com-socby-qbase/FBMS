@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T17:20:12.591Z",
+    "generatedAt": "2026-06-17T18:17:42.154Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Bellingham set to start for England against Croatia",
     "source": "BBC Sport",
-    "timeAgo": "50m",
+    "timeAgo": "17m",
     "url": "https://www.bbc.com/sport/football/articles/c9d2j44jxy2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Gosden hails Ombudsman among his greats after wowing Royal Ascot crowd",
+      "headline": "Off The Court: Karen Greig, Sam Bird & The NSL Grand Finals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555075/royal-ascot-john-gosden-hails-ombudsman-among-his-greats-after-wowing-crowd-in-prince-of-waless-stakes",
+      "url": "https://www.skysports.com/podcasts/36578/13326329/sky-sports-netball-off-the-court-with-tamsin-greenway-and-tracey-neville",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Can Bellingham become England's superstar once more at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Neves heads Portugal into early lead vs DR Congo LIVE!",
+      "headline": "Wissa heads DR Congo level vs Portugal LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "How Modric and Croatia continue to defy the odds",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "England vs Croatia: YOUR questions answered LIVE!",
+      "topic": "News Story",
+      "headline": "Gosden hails Ombudsman among his greats after wowing Royal Ascot crowd",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/england-vs-croatia/live/549788",
+      "url": "https://www.skysports.com/racing/news/12040/13555075/royal-ascot-john-gosden-hails-ombudsman-among-his-greats-after-wowing-crowd-in-prince-of-waless-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,13 +70,53 @@
       "topic": "News",
       "headline": "Hull could face points deduction in Premier League",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Key Ireland quartet ruled out of Nations Championship",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13555070/nations-championship-irelands-jack-crowley-andrew-porter-mack-hansen-ryan-baird-among-those-ruled-out-for-andy-farrell",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Rohl leaves Rangers - is McInnes appointment near?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "England vs Croatia: Q&A and build-up LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/england-vs-croatia/live/549788",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "How sweltering Scotland can handle World Cup heat",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Rohl leaves Rangers - is McInnes appointment near?",
+      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Villeneuve: Ferrari need to focus on Hamilton if they want chance of title",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How sweltering Scotland can handle World Cup heat",
+      "headline": "Fulham 'really like' two candidates to replace Silva",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Royal Ascot day 3 preview: Will a new Gold Cup king be crowned?",
       "source": "Sky Sports",
@@ -126,62 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Blundell falls after bringing up fifty; NZ six down vs England LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Fulham 'really like' two candidates to replace Silva",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Royal Ascot tips: Kevin Blake's 22/1 pick in the Britannia on day three",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13554970/royal-ascot-tips-kevin-blakes-22-1-pick-in-the-britannia-stakes-on-day-three",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Real Madrid sign Silva on free transfer",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Full race replay | Ombudsman defends Prince Of Wales's Stakes title",
+      "topic": "Liveblog",
+      "headline": "New Zealand 291-7 at stumps vs England as Phillips braves Archer bouncer barrage LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555040/full-race-replay-ombudsman-defends-prince-of-waless-stakes-title",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Messi stays humble after hat-trick performance",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Brilliant Blue Bolt lights up Duke Of Cambridge Stakes",
+      "topic": "News Story",
+      "headline": "Bethell bags late double as England edge New Zealand on first day of Oval Test",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555025/brilliant-blue-bolt-lights-up-duke-of-cambridge-stakes",
+      "url": "https://www.skysports.com/cricket/news/12040/13555076/jacob-bethell-claims-late-new-zealand-wickets-as-england-end-first-day-of-second-test-at-the-oval-on-high",
       "isFeatured": false,
       "hasAiSummary": false
     }
