@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T22:51:59.959Z",
+    "generatedAt": "2026-06-17T23:36:07.223Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
+    "headline": "I tried to encourage them to go for it - Tuchel",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "20m",
+    "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Liverpool latest: Reds hijack Newcastle move for Spain winger Munoz",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "England hit four in World Cup opener against Croatia",
+      "source": "BBC Sport",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "'Magic, controversy, drama' - Prem Rugby's greatest finals revisited",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Who was the biggest attacking threat? England player ratings",
+      "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
       "source": "BBC Sport",
-      "timeAgo": "50m",
-      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "44m",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Cross claims first Players Championship title of season",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Spurs join clubs interested in Tonali",
+      "headline": "Who was the biggest attacking threat? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "33m",
-      "url": "https://www.bbc.com/sport/football/articles/cd6ej7njylyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Sabalenka into Berlin Open quarters as Gauff knocked out by Badosa",
       "source": "Sky Sports",
@@ -66,87 +86,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Rangers appoint McInnes as Röhl replacement",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Why was Kane's penalty retaken against Croatia?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Ghana vs Panama build-up LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13552265/ghana-vs-panama",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Hull could face points deduction in Premier League",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Archer's box-office spell to Phillips lights up The Oval",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555113/jofra-archer-england-fast-bowlers-fiery-spell-to-glenn-phillips-lights-up-the-oval-on-day-one-of-second-test",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Substitute Rashford guides home England's fourth against Croatia",
-      "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "How tough will Shinnecock Hills play ahead of US Open?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555103/us-open-2026-how-tough-will-shinnecock-hills-play-usga-bosses-keen-to-ensure-greens-are-fair-but-hard-ahead-of-major",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Cape Verde goalkeeper set to be reunited with his mum",
       "source": "BBC Sport",
@@ -156,12 +96,72 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Article/Blog",
-      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "England vs Croatia ratings: Kane & Madueke shine but issues at the back",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
+      "url": "https://www.skysports.com/football/news/12040/13555073/england-4-2-croatia-ratings-harry-kane-and-noni-madueke-shine-but-will-thomas-tuchel-make-changes-in-defence",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Why was Kane's penalty retaken against Croatia?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Rangers appoint McInnes as Röhl replacement",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Spurs join clubs interested in Tonali",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cd6ej7njylyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "Ghana vs Panama LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13552265/ghana-vs-panama",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Archer's box-office spell to Phillips lights up The Oval",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555113/jofra-archer-england-fast-bowlers-fiery-spell-to-glenn-phillips-lights-up-the-oval-on-day-one-of-second-test",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Man Utd & Spurs move for Summerville - Thursday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cwyknx34n7ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "Hussain: Time for ECB to back Stokes",
+      "topic": "News Story",
+      "headline": "How tough will Shinnecock Hills play ahead of US Open?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test",
+      "url": "https://www.skysports.com/golf/news/12040/13555103/us-open-2026-how-tough-will-shinnecock-hills-play-usga-bosses-keen-to-ensure-greens-are-fair-but-hard-ahead-of-major",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "How sweltering Scotland can handle World Cup heat",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Ronaldo flatters to deceive as Portugal slump to DR Congo draw",
+      "topic": "Article/Blog",
+      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/portugal-vs-dr-congo/report/549786",
+      "url": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
       "isFeatured": false,
       "hasAiSummary": false
     }
