@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T18:17:42.154Z",
+    "generatedAt": "2026-06-17T19:19:18.099Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Bellingham set to start for England against Croatia",
+    "headline": "Can Bellingham become England's superstar once more at the World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "17m",
-    "url": "https://www.bbc.com/sport/football/articles/c9d2j44jxy2o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "9h",
+    "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Rangers appoint McInnes as Röhl replacement",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "How Modric and Croatia continue to defy the odds",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Article/Blog",
+      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Hull could face points deduction in Premier League",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Article/Blog",
+      "headline": "Hussain: Time for ECB to back Stokes",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
+      "source": "BBC Sport",
+      "timeAgo": "30m",
+      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Report",
+      "headline": "Ronaldo flatters to deceive as Portugal slump to DR Congo draw",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/portugal-vs-dr-congo/report/549786",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "How sweltering Scotland can handle World Cup heat",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Off The Court: Karen Greig, Sam Bird & The NSL Grand Finals",
       "source": "Sky Sports",
@@ -26,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Can Bellingham become England's superstar once more at the World Cup?",
+      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Wissa heads DR Congo level vs Portugal LIVE!",
+      "headline": "Portugal vs DR Congo: All the big moments and rate the players",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "How Modric and Croatia continue to defy the odds",
+      "headline": "Fulham 'really like' two candidates to replace Silva",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Gosden hails Ombudsman among his greats after wowing Royal Ascot crowd",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Hull could face points deduction in Premier League",
+      "headline": "No stage too big - Haaland arrives in style at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Key Ireland quartet ruled out of Nations Championship",
       "source": "Sky Sports",
@@ -86,91 +166,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Rohl leaves Rangers - is McInnes appointment near?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "England vs Croatia: Q&A and build-up LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/england-vs-croatia/live/549788",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "How sweltering Scotland can handle World Cup heat",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13555032/maro-itoje-very-realistic-that-england-captain-misses-all-summer-fixtures-says-head-coach-steve-borthwick",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Villeneuve: Ferrari need to focus on Hamilton if they want chance of title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13555001/ferrari-need-to-focus-on-lewis-hamilton-to-have-chance-of-winning-2026-f1-title-says-jacques-villeneuve",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Fulham 'really like' two candidates to replace Silva",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Royal Ascot day 3 preview: Will a new Gold Cup king be crowned?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554576/royal-ascot-day-3-preview-will-a-new-gold-cup-king-be-crowned",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid sign Silva on free transfer",
+      "headline": "Real Madrid sign Bernardo on free after Man City exit",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "New Zealand 291-7 at stumps vs England as Phillips braves Archer bouncer barrage LIVE!",
+      "headline": "Bellingham, Madueke, Gordon start for England vs Croatia LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
+      "url": "https://www.skysports.com/football/england-vs-croatia/live/549788",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Messi stays humble after hat-trick performance",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Bethell bags late double as England edge New Zealand on first day of Oval Test",
+      "headline": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555076/jacob-bethell-claims-late-new-zealand-wickets-as-england-end-first-day-of-second-test-at-the-oval-on-high",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13555032/maro-itoje-very-realistic-that-england-captain-misses-all-summer-fixtures-says-head-coach-steve-borthwick",
       "isFeatured": false,
       "hasAiSummary": false
     }
