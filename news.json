@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T07:01:57.697Z",
+    "generatedAt": "2026-06-17T08:56:10.022Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Extraordinary Messi makes more history in masterclass for the ages",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England will not adapt style despite USA heat - Tuchel",
+      "headline": "No stage too big - Haaland arrives in style at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Serena Williams defeated ahead of Wimbledon return",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554774/serena-williams-defeated-again-ahead-of-wimbledon-return",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England won't change style despite US heat - Tuchel",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Arc hero Daryz faces Ombudsman in blockbuster Royal Ascot clash",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "No stage too big - Haaland arrives in style at World Cup",
+      "headline": "Emotional Messi explains tears after Argentina goal",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.com/sport/football/articles/c74yz03glrro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "FIA reviewing engine findings as 'surprised' Red Bull question ADUO results",
       "source": "Sky Sports",
@@ -66,17 +86,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Project Mbappe - the road to becoming France's record scorer",
+      "headline": "'Magnificent' - Messi scores hat-trick to equal Klose scoring record",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/videos/cd6ej2xq37no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Even the best do it! 🫣 Relatable golf FAILS by pros that your mate would do",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554377/golf-fails-by-professional-golfers-on-pga-tour-and-dp-world-tour",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "The VAR call that dumbfounded the world's best refs",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyr9dr4yvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Hat-trick hero Messi writes himself into history as Argentina beat Algeria",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Magnificent' - Messi scores hat-trick to equal Klose scoring record",
+      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/cd6ej2xq37no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Argentina vs Algeria: All the big moments as Messi equals World Cup goals record",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "headline": "Project Mbappe - the road to becoming France's record scorer",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Austria 3-1 Jordan: All the big moments and rate the players",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Spurs join three-way Tonali fight - Wednesday's gossip",
+      "headline": "Who am I? Guess World Cup star No 10",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jykw8j42o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c8d80dzj6gmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Sciver-Brunt fitness scare as England beat Ireland to maintain winning start",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 10",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c8d80dzj6gmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/france-vs-senegal/report/549782",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "From tragedy to World Cup history - Iraq scorer Hussein's story",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Can Littler pull off a clean sweep in 2026?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/27451/11933951/love-the-darts-podcast-sky-sports",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Partey misled Canadian officials over previous arrest",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cly8qj2nlzqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Nijman beats Searle to claim sixth Players Championship title of season",
+      "topic": "Report",
+      "headline": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13554802/players-championship-21-wessel-nijman-claims-sixth-title-of-season-with-victory-over-ryan-searle-in-wigan-final",
+      "url": "https://www.skysports.com/football/france-vs-senegal/report/549782",
       "isFeatured": false,
       "hasAiSummary": false
     }
