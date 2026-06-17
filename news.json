@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T10:39:04.978Z",
+    "generatedAt": "2026-06-17T12:11:46.169Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Can Bellingham become England's superstar once more at the World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "32m",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England bowl first vs New Zealand as Root stands in as captain for Stokes LIVE!",
+      "headline": "New Zealand frustrate England after Fisher takes early wicket LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Rohl leaves Rangers - is McInnes appointment near?",
       "source": "BBC Sport",
-      "timeAgo": "13m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
+      "headline": "Hull could face points deduction in Premier League",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Real Madrid sign Silva on free transfer",
+      "headline": "How sweltering Scotland can handle World Cup heat",
       "source": "BBC Sport",
-      "timeAgo": "51m",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "55m",
+      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "No stage too big - Haaland arrives in style at World Cup",
+      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Rabiot raises concerns about MetLife Stadium pitch",
+      "headline": "Real Madrid sign Silva on free transfer",
       "source": "BBC Sport",
-      "timeAgo": "33m",
-      "url": "https://www.bbc.com/sport/football/articles/cevld1m8nxno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "England won't change style despite US heat - Tuchel",
+      "headline": "No stage too big - Haaland arrives in style at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Emotional Messi explains tears after Argentina goal",
+      "headline": "Rabiot raises concerns about MetLife Stadium pitch",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c74yz03glrro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cevld1m8nxno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,40 +168,40 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Hearts to face Sturm Graz in Champions League qualifying",
+      "headline": "England won't change style despite US heat - Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "18m",
-      "url": "https://www.bbc.com/sport/football/articles/cpd3z61q5e6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Argentina vs Algeria: Should Messi have been sent off? VOTE!",
+      "topic": "News Story",
+      "headline": "Tottenham's Vuskovic dilemma after Van Hecke deal agreed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
+      "url": "https://www.skysports.com/football/news/12040/13554938/tottenham-transfer-news-spurs-luka-vuskovic-dilemma-as-two-brighton-bids-rejected-after-jan-paul-van-hecke-deal-agreed",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Magnificent' - Messi scores hat-trick to equal Klose scoring record",
+      "headline": "Emotional Messi explains tears after Argentina goal",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/cd6ej2xq37no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c74yz03glrro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "Austria vs Jordan: All the big moments and rate the players",
+      "headline": "Argentina vs Algeria: Should Messi have been sent off? VOTE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/austria-vs-jordan/live/549785",
+      "url": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
       "isFeatured": false,
       "hasAiSummary": false
     }
