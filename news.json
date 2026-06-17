@@ -1,24 +1,44 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T16:05:53.891Z",
+    "generatedAt": "2026-06-17T17:20:12.591Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Can Bellingham become England's superstar once more at the World Cup?",
+    "headline": "Bellingham set to start for England against Croatia",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "50m",
+    "url": "https://www.bbc.com/sport/football/articles/c9d2j44jxy2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Gosden hails Ombudsman among his greats after wowing Royal Ascot crowd",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13555075/royal-ascot-john-gosden-hails-ombudsman-among-his-greats-after-wowing-crowd-in-prince-of-waless-stakes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Can Bellingham become England's superstar once more at the World Cup?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Ronaldo starts as Portugal face DR Congo in opener",
+      "headline": "Neves heads Portugal into early lead vs DR Congo LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
@@ -26,17 +46,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "How Modric and Croatia continue to defy the odds",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "England vs Croatia: YOUR questions answered LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/england-vs-croatia/live/549788",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Hull could face points deduction in Premier League",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Borthwick: 'Very realistic' that Itoje misses England summer fixtures",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "headline": "Rohl leaves Rangers - is McInnes appointment near?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Villeneuve: Ferrari need to focus on Hamilton if they want chance of title",
       "source": "Sky Sports",
@@ -66,17 +106,77 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Hull could face points deduction in Premier League",
+      "headline": "How sweltering Scotland can handle World Cup heat",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Royal Ascot day 3 preview: Will a new Gold Cup king be crowned?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13554576/royal-ascot-day-3-preview-will-a-new-gold-cup-king-be-crowned",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "Blundell falls after bringing up fifty; NZ six down vs England LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Fulham 'really like' two candidates to replace Silva",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Royal Ascot tips: Kevin Blake's 22/1 pick in the Britannia on day three",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13554970/royal-ascot-tips-kevin-blakes-22-1-pick-in-the-britannia-stakes-on-day-three",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Real Madrid sign Silva on free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Full race replay | Ombudsman defends Prince Of Wales's Stakes title",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Rohl leaves Rangers - is McInnes appointment near?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Brilliant Blue Bolt lights up Duke Of Cambridge Stakes",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555025/brilliant-blue-bolt-lights-up-duke-of-cambridge-stakes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "How sweltering Scotland can handle World Cup heat",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Debutant Baker strikes again as England take fifth New Zealand wicket LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Extraordinary Messi makes more history in masterclass for the ages",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Sciver-Brunt to miss England's next two T20 World Cup matches",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555021/england-captain-nat-sciver-brunt-to-miss-next-two-womens-t20-world-cup-matches-with-calf-injury",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Real Madrid sign Silva on free transfer",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | Photo finish in the Queen's Vase!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555017/royal-ascot-replay-photo-finish-in-the-queens-vase",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Fulham 'really like' two candidates to replace Silva",
-      "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | One-eyed horse Victorious wins the Queen Mary!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555006/royal-ascot-replay-one-eyed-horse-victorious-wins-the-queen-mary",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England won't change style despite US heat - Tuchel",
+      "headline": "Messi stays humble after hat-trick performance",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Real Madrid sign Bernardo Silva",
+      "topic": "Video",
+      "headline": "Brilliant Blue Bolt lights up Duke Of Cambridge Stakes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554908/bernardo-silva-real-madrid-sign-manchester-city-midfielder-on-free-transfer-as-jose-mourinho-impact-continues",
+      "url": "https://www.skysports.com/watch/video/13555025/brilliant-blue-bolt-lights-up-duke-of-cambridge-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     }
