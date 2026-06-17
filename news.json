@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T02:05:04.915Z",
+    "generatedAt": "2026-06-17T03:26:15.289Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "England will not adapt style despite USA heat - Tuchel",
     "source": "BBC Sport",
-    "timeAgo": "18m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Messi scores stunner to give Argentina lead over Algeria LIVE!",
+      "headline": "Messi HAT-TRICK! Argentina beat Algeria in style LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Project Mbappe - the road to becoming France's record scorer",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "The VAR call that dumbfounded the world's best refs",
+      "headline": "No stage too big - Haaland arrives in style at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyr9dr4yvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Highlights: Haaland scores twice in Norway win over Iraq",
+      "headline": "From tragedy to World Cup history - Iraq scorer Hussein's story",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Partey misled Canadian officials over previous arrest",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cly8qj2nlzqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+      "headline": "The VAR call that dumbfounded the world's best refs",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyr9dr4yvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Spurs agree £52m Van Hecke deal with Brighton",
+      "headline": "Highlights: Haaland scores twice in Norway win over Iraq",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "headline": "Spurs agree £52m Van Hecke deal with Brighton",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Snakes on a train (ing pitch)",
+      "headline": "Up to 15,000 England fans head to Dallas for World Cup opener",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyzdwjwgwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Meet the striker who doesn't score often - but Scotland win when he does",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cvglpml0mgeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
