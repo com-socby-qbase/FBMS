@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T12:10:42.443Z",
+    "generatedAt": "2026-06-18T13:29:21.393Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "This was an England we haven't seen for years - and it was fun",
+    "headline": "Most shots? Best dribbler? The World Cup so far in numbers",
     "source": "BBC Sport",
-    "timeAgo": "11h",
-    "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/cddl26617m4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Stokes included in Durham squad for Friday's County Championship game",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555343/ben-stokes-england-captain-included-in-durhams-15-man-squad-for-fridays-county-championship-clash-with-northamptonshire",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tactical analysis: England look exciting but how can they tighten up?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Crocombe one of 32 players selected in The Hundred wildcard draft",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555328/the-hundred-recent-england-test-call-up-henry-crocombe-one-of-the-final-32-players-selected-in-wildcard-draft",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The celebration photo that sums up my relationship with Mbappe - Giroud",
+      "source": "BBC Sport",
+      "timeAgo": "31m",
+      "url": "https://www.bbc.com/sport/football/articles/cjrg7x4y975o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "MVG, Price, Van Veen and Bunting star as Slovakia headlines Euro Tour",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13555305/slovak-darts-open-schedule-results-as-the-european-tour-visits-bratislava-with-michael-van-gerwen-gerwyn-price-and-stephen-bunting-in-action",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Ivory Coast's Wahi denied entry to Canada",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Sheffield-based star Thibeault added to undisputed world title clash",
       "source": "Sky Sports",
@@ -26,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Tactical analysis: England look exciting but how can they tighten up?",
+      "headline": "Lionesses will face Greece in World Cup play-offs",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Host nations learn World Cup play-off opponents",
+      "headline": "Home nations and ROI learn World Cup play-off opponents",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13555247/womens-world-cup-play-off-draw-england-scotland-wales-northern-ireland-and-republic-of-ireland-learn-opponents",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Lionesses will face Greece in World Cup play-offs",
+      "headline": "Why does Scotland's McGinn do goggles celebration?",
       "source": "BBC Sport",
-      "timeAgo": "38m",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Beaumont in squad for historic Lord's Test but no place for Dean",
       "source": "Sky Sports",
@@ -66,19 +126,39 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "France beat the heat? The teams and players coping best with World Cup conditions",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "What's going on with stoppage time at the World Cup?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2de8l2dzmo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "US Open LIVE! Play suspended by fog before McIlroy tees off",
+      "headline": "US Open LIVE! Play resumes after fog delay with McIlroy out shortly",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/live-blog/12040/13554821/us-open-golf-2026-first-round-live-latest-updates-highlights-scores-as-scottie-scheffler-rory-mcilroy-chase-major-win",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Hydration boos and surprise results - World Cup talking points",
+      "headline": "This was an England we haven't seen for years - and it was fun",
       "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.com/sport/football/articles/cj6g88ernggo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Scottish Premiership: Every match across opening weekend live on Sky Sports",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Most shots? Best dribbler? World Cup so far in numbers",
-      "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/sport/football/articles/cddl26617m4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "What have we learned from the first round of World Cup group games?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554245/world-cup-2026-what-have-we-learned-from-the-first-round-of-group-stage-fixtures-in-the-usa-canada-and-mexico",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Ivory Coast's Wahi denied entry to Canada",
-      "source": "BBC Sport",
-      "timeAgo": "31m",
-      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Itauma confirms high-risk clash with Hrgovic",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13555242/moses-itauma-to-fight-filip-hrgovic-in-high-risk-heavyweight-bout-in-august-as-british-boxer-puts-unbeaten-record-on-line",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "From one to 48 - every World Cup team ranked after first game",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Scorecard: England vs New Zealand, second Test, The Kia Oval",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/england-v-new-zealand/scorecard/d08512c4-51bd-5660-b51d-53ba78f7e948",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "England hit four in World Cup opener against Croatia",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England 15-0 at lunch on day two replying to New Zealand's 391 all out LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13555117/england-vs-new-zealand-second-test-day-two-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-for-captain-ben-stokes-at-kia-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Konate to join Real Madrid on four-year deal",
+      "headline": "Hydration boos and surprise results - World Cup talking points",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/crr8797ek15o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cj6g88ernggo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'The first Old Firm is always key!' | Boyd weighs in on Celtic's Scottish Premiership fixtures",
+      "topic": "News Story",
+      "headline": "Motherwell appoint Johansson as new manager",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555304/kris-boyd-weighs-in-on-celtics-scottish-premiership-fixtures",
+      "url": "https://www.skysports.com/football/news/12040/13555331/motherwell-appoint-alfred-johansson-as-new-manager-replacing-jens-berthel-askou-at-fir-park",
       "isFeatured": false,
       "hasAiSummary": false
     }
