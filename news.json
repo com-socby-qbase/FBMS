@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T02:26:48.060Z",
+    "generatedAt": "2026-06-18T03:50:20.759Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was an England we haven't seen for years - and it was fun",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Fans boo, players adapt - the view on World Cup hydration breaks",
       "source": "BBC Sport",
-      "timeAgo": "5m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cwye0zdm9j4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "'Chip on shoulder' may help Bellingham to best form",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "England hit four in World Cup opener against Croatia",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Uzbekistan vs Colombia LIVE!",
+      "headline": "Luis Diaz grabs goal & assist for Colombia vs Uzbekistan LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/uzbekistan-vs-colombia/live/549787",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "'If we lose, we lose in our way' - how Tuchel inspired England at half-time",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Who was the biggest attacking threat? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "I knew stuttered run-up might get keeper off line - Kane",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
