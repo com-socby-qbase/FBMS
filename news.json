@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T14:33:36.397Z",
+    "generatedAt": "2026-06-18T15:57:47.849Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Most shots? Best dribbler? The World Cup so far in numbers",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cddl26617m4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Stokes included in Durham squad for Friday's County Championship game",
+      "headline": "Stokes to play for Durham in County Championship on Friday",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555343/ben-stokes-england-captain-included-in-durhams-15-man-squad-for-fridays-county-championship-clash-with-northamptonshire",
+      "url": "https://www.skysports.com/cricket/news/12040/13555343/ben-stokes-england-captain-will-play-for-durham-in-fridays-county-championship-clash-with-northamptonshire",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Tactical analysis: England look exciting but how can they tighten up?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "A Royal Ascot thriller | Watch Scandinavia's Gold Cup victory in full!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13555404/a-royal-ascot-thriller-watch-scandinavias-gold-cup-victory-in-full",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Kane is England's greatest striker, says Lineker",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Full race replay | Late drama in the Ribblesdale Stakes!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13555383/full-race-replay-late-drama-in-the-ribblesdale-stakes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "The celebration photo that sums up my relationship with Mbappe - Giroud",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cjrg7x4y975o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Crocombe one of 32 players selected in The Hundred wildcard draft",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The celebration photo that sums up my relationship with Mbappe - Giroud",
+      "headline": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cjrg7x4y975o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "MVG, Price, Van Veen and Bunting star as Slovakia headlines Euro Tour",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
+      "headline": "Ivory Coast's Wahi denied entry to Canada",
       "source": "BBC Sport",
-      "timeAgo": "52m",
-      "url": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Sheffield-based star Thibeault added to undisputed world title clash",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Ivory Coast's Wahi denied entry to Canada",
+      "headline": "Lionesses will face Greece in World Cup play-offs",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Home nations and ROI learn World Cup play-off opponents",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Lionesses will face Greece in World Cup play-offs",
+      "headline": "Why does Scotland's McGinn do goggles celebration?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Beaumont in squad for historic Lord's Test but no place for Dean",
       "source": "Sky Sports",
@@ -126,39 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Why does Scotland's McGinn do goggles celebration?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Most distance covered? Highest top speed? World Cup heat impact revealed",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "US Open LIVE! McIlroy under way as McDowell takes early lead",
+      "headline": "US Open LIVE! Åberg leads as McIlroy slips back after fast start",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/live-blog/12040/13554821/us-open-golf-2026-first-round-live-latest-updates-highlights-scores-as-scottie-scheffler-rory-mcilroy-chase-major-win",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "What's going on with stoppage time at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cx2de8l2dzmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Scottish Premiership: Every match across opening weekend live on Sky Sports",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13551122/scottish-premiership-2026-27-fixtures-dates-schedule-every-match-across-opening-weekend-live-on-sky-sports",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "This was an England we haven't seen for years - and it was fun",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Motherwell appoint Johansson as new manager",
+      "headline": "Most distance covered? Highest top speed? World Cup heat impact revealed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555331/motherwell-appoint-alfred-johansson-as-new-manager-replacing-jens-berthel-askou-at-fir-park",
+      "url": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
       "isFeatured": false,
       "hasAiSummary": false
     }
