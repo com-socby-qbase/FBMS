@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T13:29:21.393Z",
+    "generatedAt": "2026-06-18T14:33:36.397Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Most shots? Best dribbler? The World Cup so far in numbers",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cddl26617m4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Tactical analysis: England look exciting but how can they tighten up?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "The celebration photo that sums up my relationship with Mbappe - Giroud",
       "source": "BBC Sport",
-      "timeAgo": "31m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cjrg7x4y975o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Ivory Coast's Wahi denied entry to Canada",
+      "headline": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "52m",
+      "url": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Lionesses will face Greece in World Cup play-offs",
+      "headline": "Ivory Coast's Wahi denied entry to Canada",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Why does Scotland's McGinn do goggles celebration?",
+      "headline": "Lionesses will face Greece in World Cup play-offs",
       "source": "BBC Sport",
-      "timeAgo": "45m",
-      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9xp2lgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,17 +128,17 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
+      "headline": "Why does Scotland's McGinn do goggles celebration?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cwyknd3lk7eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "France beat the heat? The teams and players coping best with World Cup conditions",
+      "headline": "Most distance covered? Highest top speed? World Cup heat impact revealed",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
@@ -148,17 +148,17 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "What's going on with stoppage time at the World Cup?",
+      "headline": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2de8l2dzmo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "US Open LIVE! Play resumes after fog delay with McIlroy out shortly",
+      "headline": "US Open LIVE! McIlroy under way as McDowell takes early lead",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/live-blog/12040/13554821/us-open-golf-2026-first-round-live-latest-updates-highlights-scores-as-scottie-scheffler-rory-mcilroy-chase-major-win",
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "This was an England we haven't seen for years - and it was fun",
+      "headline": "What's going on with stoppage time at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2de8l2dzmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Hydration boos and surprise results - World Cup talking points",
+      "headline": "This was an England we haven't seen for years - and it was fun",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cj6g88ernggo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
