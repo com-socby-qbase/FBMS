@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T23:36:07.223Z",
+    "generatedAt": "2026-06-18T00:11:17.823Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "I tried to encourage them to go for it - Tuchel",
+    "headline": "'If we lose, we lose in our way' - how Tuchel inspired England at half-time",
     "source": "BBC Sport",
-    "timeAgo": "20m",
+    "timeAgo": "55m",
     "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "England hit four in World Cup opener against Croatia",
       "source": "BBC Sport",
-      "timeAgo": "40m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
+      "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
       "source": "BBC Sport",
-      "timeAgo": "44m",
-      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Tuchel praises 'all-in' Kane and 'team player' Bellingham after Croatia win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13555059/world-cup-2026-england-boss-thomas-tuchel-praises-all-in-harry-kane-and-team-player-jude-bellingham-after-win-over-croatia",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Cross claims first Players Championship title of season",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Who was the biggest attacking threat? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Sabalenka into Berlin Open quarters as Gauff knocked out by Badosa",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Cape Verde goalkeeper set to be reunited with his mum",
+      "headline": "I knew stuttered run-up might get keeper off line - Kane",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "England vs Croatia ratings: Kane & Madueke shine but issues at the back",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Why was Kane's penalty retaken against Croatia?",
+      "headline": "Drone brought down near South Korea training base",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7m",
+      "url": "https://www.bbc.com/sport/football/articles/c872pv2r5y4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Rangers appoint McInnes as Röhl replacement",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Spurs join clubs interested in Tonali",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Ghana vs Panama LIVE!",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Archer's box-office spell to Phillips lights up The Oval",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Man Utd & Spurs move for Summerville - Thursday's gossip",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "How tough will Shinnecock Hills play ahead of US Open?",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/news/12040/13555103/us-open-2026-how-tough-will-shinnecock-hills-play-usga-bosses-keen-to-ensure-greens-are-fair-but-hard-ahead-of-major",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "How sweltering Scotland can handle World Cup heat",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
       "isFeatured": false,
       "hasAiSummary": false
     }
