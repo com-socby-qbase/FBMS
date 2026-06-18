@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T01:27:35.657Z",
+    "generatedAt": "2026-06-18T02:26:48.060Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was an England we haven't seen for years - and it was fun",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "'Chip on shoulder' may help Bellingham to best form",
+      "headline": "Fans boo, players adapt - the view on World Cup hydration breaks",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5m",
+      "url": "https://www.bbc.com/sport/football/articles/cwye0zdm9j4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "England hit four in World Cup opener against Croatia",
+      "headline": "'Chip on shoulder' may help Bellingham to best form",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,15 +68,35 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
+      "headline": "England hit four in World Cup opener against Croatia",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Uzbekistan vs Colombia LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/uzbekistan-vs-colombia/live/549787",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Cross claims first Players Championship title of season",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Sabalenka into Berlin Open quarters as Gauff knocked out by Badosa",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "'If we lose, we lose in our way' - how Tuchel inspired England at half-time",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "England vs Croatia ratings: Kane & Madueke shine but issues at the back",
       "source": "Sky Sports",
@@ -126,39 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Who was the biggest attacking threat? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Rangers appoint McInnes as Röhl replacement",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "I knew stuttered run-up might get keeper off line - Kane",
-      "source": "BBC Sport",
       "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Ghana score late to beat Panama LIVE!",
+      "headline": "Ghana vs Panama: All the big moments and rate the players",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13552265/ghana-vs-panama",
@@ -168,20 +168,20 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Drone brought down near South Korea training base",
+      "headline": "I knew stuttered run-up might get keeper off line - Kane",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c872pv2r5y4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Archer's box-office spell to Phillips lights up The Oval",
+      "headline": "Rangers appoint McInnes as Röhl replacement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555113/jofra-archer-england-fast-bowlers-fiery-spell-to-glenn-phillips-lights-up-the-oval-on-day-one-of-second-test",
+      "url": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "How tough will Shinnecock Hills play ahead of US Open?",
+      "topic": "Report",
+      "headline": "Ghana score dramatic 95th-minute winner against Panama",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555103/us-open-2026-how-tough-will-shinnecock-hills-play-usga-bosses-keen-to-ensure-greens-are-fair-but-hard-ahead-of-major",
+      "url": "https://www.skysports.com/football/news/12040/13552730/world-cup-ghana-1-0-panama-caleb-yirenkyi-scores-95th-minute-winner-for-carlos-queirozs-side-in-group-l-opener",
       "isFeatured": false,
       "hasAiSummary": false
     }
