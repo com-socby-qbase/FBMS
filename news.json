@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T21:56:41.514Z",
+    "generatedAt": "2026-06-18T22:46:09.755Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tuchel's complaints lead to Fifa moving photographers",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Canada vs Qatar LIVE!",
+      "topic": "News Story",
+      "headline": "West Indies edge out Scotland for seven-run win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
+      "url": "https://www.skysports.com/cricket/news/12040/13555547/t20-world-cup-west-indies-claim-seven-run-victory-over-scotland-in-thrilling-contest-at-headingley",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Van der Vaart apologises over Japan racial slur",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cdjk9yw9xv3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Papers: Liverpool target £86m star",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Liverpool sign Munoz and offer £86m for Diomande",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Qatar go down to 10 after falling 2-0 down to Canada LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Rice expected to be fit to face Ghana despite back pain",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Premier League ins and outs - the confirmed deals so far...",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Rice expected to be fit to face Ghana despite back pain",
+      "headline": "Sutton's World Cup score predictions - second group games",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "McIlroy makes fast start at windy US Open despite expensive finish",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Sutton's World Cup score predictions - second group games",
+      "headline": "Spurs complete £52m Van Hecke signing from Brighton",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cgqj33gq21jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Spurs latest: New signing Van Hecke opens up on Spurs move",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Spurs complete £52m Van Hecke signing from Brighton",
+      "headline": "Messi's father dealing with 'health-related situation'",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cgqj33gq21jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Tuchel: Saka unlikely to start against Ghana",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Messi's father dealing with 'health-related situation'",
+      "headline": "Premier League fixtures released at 10:00 BST on Friday",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "54m",
+      "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "EFL latest: Wrexham interested in departing Newcastle chief",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Premier League fixtures released at 10:00 BST on Friday",
+      "headline": "Manzambi double propels Switzerland to win against Bosnia",
       "source": "BBC Sport",
-      "timeAgo": "5m",
-      "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.com/sport/football/videos/c8x2e857755o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Inept' and 'brainless' bouncer barrage leaves England on the back foot",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Liverpool sign Munoz and offer £86m for Diomande",
-      "source": "BBC Sport",
-      "timeAgo": "24m",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Mercedes withdraw appeal of Gasly Monaco podium reinstatement",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13555495/monaco-gp-mercedes-withdraw-appeal-of-pierre-gasly-podium-reinstatement-following-speeding-penalty-controversy",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Switzerland's Manzambi scores superb double against Bosnia",
       "source": "BBC Sport",
-      "timeAgo": "45m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Late penalty gifts South Africa first point against wasteful Czech Republic",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/czech-republic-vs-south-africa/report/549790",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Mokoena's late penalty earns South Africa draw against Czech Republic",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/ce8kd23y37lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "US Open: Full R2 groupings and tee times for Friday's second round",
+      "headline": "Mercedes withdraw appeal of Gasly Monaco podium reinstatement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555394/us-open-2026-tee-times-full-r2-groupings-and-uk-and-ireland-start-times-for-second-round-at-shinnecock-hills-in-new-york",
+      "url": "https://www.skysports.com/f1/news/12040/13555495/monaco-gp-mercedes-withdraw-appeal-of-pierre-gasly-podium-reinstatement-following-speeding-penalty-controversy",
       "isFeatured": false,
       "hasAiSummary": false
     }
