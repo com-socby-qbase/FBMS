@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T03:50:20.759Z",
+    "generatedAt": "2026-06-18T05:40:44.102Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "This was an England we haven't seen for years - and it was fun",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Fans boo, players adapt - the view on World Cup hydration breaks",
+      "headline": "From one to 48 - every World Cup team ranked after first game",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwye0zdm9j4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "'Chip on shoulder' may help Bellingham to best form",
+      "headline": "England hit four in World Cup opener against Croatia",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "England hit four in World Cup opener against Croatia",
+      "headline": "Fans boo, players adapt - the view on World Cup hydration breaks",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cwye0zdm9j4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Luis Diaz grabs goal & assist for Colombia vs Uzbekistan LIVE!",
+      "headline": "Colombia vs Uzbekistan: All the big moments & rate players",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/uzbekistan-vs-colombia/live/549787",
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
+      "headline": "'Chip on shoulder' may help Bellingham to best form",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
+      "headline": "Liverpool trigger winger Munoz's £34.6m release clause",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'If we lose, we lose in our way' - how Tuchel inspired England at half-time",
+      "headline": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who was the biggest attacking threat? England player ratings",
+      "headline": "'If we lose, we lose in our way' - how Tuchel inspired England at half-time",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cy4eg2k4l2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "I knew stuttered run-up might get keeper off line - Kane",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "McInnes replaces Rohl at Rangers - was decision no-brainer?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cn8k5jd0788o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Report",
-      "headline": "Ghana score dramatic 95th-minute winner against Panama",
+      "headline": "Luis Diaz steals the show for Colombia in win over Uzbekistan",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13552730/world-cup-ghana-1-0-panama-caleb-yirenkyi-scores-95th-minute-winner-for-carlos-queirozs-side-in-group-l-opener",
+      "url": "https://www.skysports.com/football/uzbekistan-vs-colombia/report/549787",
       "isFeatured": false,
       "hasAiSummary": false
     }
