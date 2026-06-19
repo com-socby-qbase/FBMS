@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T00:15:46.660Z",
+    "generatedAt": "2026-06-19T01:39:05.428Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Scotland's Boston love affair one for the ages",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c4gyree9775o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Mexico pushing for opener vs South Korea LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/mexico-vs-korea-republic/live/549793",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Toney scores hat-trick in England friendly win",
+      "source": "BBC Sport",
+      "timeAgo": "3m",
+      "url": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "West Indies edge out Scotland for seven-run win",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Tuchel's complaints lead to Fifa moving photographers",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Papers: Liverpool target £86m star",
       "source": "Sky Sports",
@@ -46,19 +66,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Van der Vaart apologises over Japan racial slur",
+      "headline": "Liverpool sign Munoz and offer £86m for Diomande",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cdjk9yw9xv3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Canada vs Qatar: The key moments and rate the playres",
+      "headline": "Canada vs Qatar: The key moments and rate the players",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Liverpool sign Munoz and offer £86m for Diomande",
+      "headline": "Rice expected to be fit to face Ghana despite back pain",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Premier League ins and outs - the confirmed deals so far...",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Rice expected to be fit to face Ghana despite back pain",
+      "headline": "Sutton's World Cup score predictions - second group games",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Scotland's chance to re-write painful Morocco memories and make history",
       "source": "Sky Sports",
@@ -106,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Sutton's World Cup score predictions - second group games",
+      "headline": "Premier League fixtures released at 10:00 BST on Friday",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "McIlroy makes fast start at windy US Open despite expensive finish",
+      "headline": "'Anything under par is good!' - McIlroy upbeat despite expensive finish",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/golf/news/12040/13555389/us-open-rory-mcilroy-makes-strong-start-as-scottie-scheffler-stays-in-grand-slam-hunt-at-windy-shinnecock-hills",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Messi's father dealing with 'health-related situation'",
+      "headline": "Manzambi double propels Switzerland to win against Bosnia",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c8x2e857755o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Spurs latest: New signing Van Hecke opens up on Spurs move",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Premier League fixtures released at 10:00 BST on Friday",
+      "headline": "Switzerland's Manzambi scores superb double against Bosnia",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Tuchel: Saka unlikely to start against Ghana",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Manzambi double propels Switzerland to win against Bosnia",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/c8x2e857755o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Scheffler enjoys 'great battle' as stars struggle at 'brutal' major test",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555393/us-open-scottie-scheffler-enjoys-great-battle-as-worlds-best-praise-brutal-major-test-at-windy-shinnecock-hills",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Switzerland's Manzambi scores superb double against Bosnia",
+      "headline": "Kone injury is a 'huge loss' - Marsch",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "'Stuff of dreams!' | DJ goes on big birdie run to charge into US Open contention",
+      "headline": "Clark surges ahead as McIlroy starts strong after brutal day at Shinnecock",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555581/us-open-dustin-johnson-goes-on-incredible-four-birdie-run-at-shinnecock-hills",
+      "url": "https://www.skysports.com/watch/video/13555590/us-open-round-one-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
