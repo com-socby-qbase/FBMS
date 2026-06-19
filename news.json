@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T15:25:25.724Z",
+    "generatedAt": "2026-06-19T16:24:00.208Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Scotland's totems must turn up to thwart dynamic Morocco",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Video",
+      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Coventry play champions Arsenal in Premier League opener",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Video",
       "headline": "Photo finish! Venetian Sun beats outsider Spicy Marg in Commonwealth Cup",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Coventry play champions Arsenal in Premier League opener",
+      "headline": "The maths whizz turned teen star who chose Morocco over France",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Gannon rejoinng Leeds after single year in NRL",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "The maths whizz turned teen star who chose Morocco over France",
+      "headline": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Moutet fined almost all his prize money after Queen's outburst",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+      "headline": "Nike v Adidas - the World Cup brand battle",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Billy from the back! Libertango lands the Albany Stakes",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Nike v Adidas - the World Cup brand battle",
+      "headline": "The US World Cup star who couldn't be an American under Trump's plan",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "DeChambeau misses back-to-back tap-ins and is set to miss another major cut!",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "The US World Cup star who couldn't be an American under Trump's plan",
+      "headline": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
       "source": "Sky Sports",
@@ -126,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
+      "headline": "Morocco captain Hakimi to stand trial for rape",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "New Zealand push lead beyond 200 vs England at The Oval LIVE!",
+      "headline": "New Zealand push lead beyond 250 vs England at The Oval LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13555513/england-vs-new-zealand-second-test-day-three-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-at-kia-oval",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Morocco captain Hakimi to stand trial for rape",
+      "headline": "London City Lionesses sign ex-England keeper Earps",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Today at Royal Ascot: O’Brien pair star in Coronation clash",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "London City Lionesses sign ex-England keeper Earps",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Knicks celebrate NBA Championship in style with New York mayor",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555503/new-york-knicks-celebrate-nba-playoff-championship-feat-appearance-from-new-york-mayor-zohran-mamdani-at-parade",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Who's the Bos? - meet 2026 World Cup's fastest player",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Leeds snatch statement win against Warrington",
+      "headline": "Knicks celebrate NBA Championship in style with New York mayor",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555533/warrington-wolves-6-34-leeds-rhinos-super-league-highlights",
+      "url": "https://www.skysports.com/watch/video/13555503/new-york-knicks-celebrate-nba-playoff-championship-feat-appearance-from-new-york-mayor-zohran-mamdani-at-parade",
       "isFeatured": false,
       "hasAiSummary": false
     }
