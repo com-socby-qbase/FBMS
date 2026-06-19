@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T20:20:06.033Z",
+    "generatedAt": "2026-06-19T20:55:50.384Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "After the big one comes the even bigger one for Scotland",
+    "headline": "England winger Saka unlikely to start against Ghana",
     "source": "BBC Sport",
-    "timeAgo": "9h",
-    "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "45m",
+    "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Scotland switch to a back five vs Morocco LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Fifa alters how World Cup tables work - it changes everything",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
       "source": "Sky Sports",
@@ -26,17 +46,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "England winger Saka unlikely to start against Ghana",
+      "headline": "Ipswich close in on O'Neil as new head coach",
       "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Brighton make improved offer for Spurs' Vuskovic",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13555941/luka-vuskovic-brighton-make-improved-45m-bid-for-tottenham-defender",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Lampard & Coventry hold positive talks over new deal",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "McIlroy hits huge 393-yard drive to set-up early second round birdie!",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Fifa alters how World Cup tables work - it changes everything",
+      "headline": "After the big one comes the even bigger one for Scotland",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Moore made to work hard as Precise bags Coronation crown",
       "source": "Sky Sports",
@@ -66,27 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Lampard & Coventry hold positive talks over new deal",
-      "source": "BBC Sport",
-      "timeAgo": "30m",
-      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Oval Test becoming 'Root's worst nightmare' as interim captain",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Coventry play champions Arsenal in Premier League opener",
       "source": "BBC Sport",
@@ -96,7 +116,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Oval Test becoming 'Root's worst nightmare' as interim captain",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Spurs to enter Wharton chase - Saturday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "59m",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Rew dealt tough hand on England debut",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Spurs to enter Wharton chase - Saturday's gossip",
+      "headline": "The maths whizz turned teen star who chose Morocco over France",
       "source": "BBC Sport",
-      "timeAgo": "23m",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Leeds latest: Club working on deals for Fulham's Wilson and Brandt",
       "source": "Sky Sports",
@@ -126,27 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "The maths whizz turned teen star who chose Morocco over France",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Satono Reve fancied to land QEII Jubilee crown at Royal Ascot",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555692/royal-ascot-tips-satono-reve-fancied-to-land-queen-elizabeth-ii-jubilee-stakes-crown-for-japan",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "England's Barry to continue with half-time interviews",
       "source": "BBC Sport",
@@ -156,17 +176,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
+      "id": "sky_sports-8",
+      "topic": "News Story",
+      "headline": "Satono Reve fancied to land QEII Jubilee crown at Royal Ascot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
+      "url": "https://www.skysports.com/racing/news/12040/13555692/royal-ascot-tips-satono-reve-fancied-to-land-queen-elizabeth-ii-jubilee-stakes-crown-for-japan",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Canada score six but historic win marred by Kone injury",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "'Oh my goodness!' | Dustin Johnson makes horror QUADRUPLE BOGEY!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555863/us-open-he-might-play-his-way-out-the-cut-line-dustin-johnson-makes-quadruple-bogey",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Manzambi double propels Switzerland to win against Bosnia",
-      "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.com/sport/football/videos/c8x2e857755o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Full race replay | Causeway battles to King Edward VII victory",
+      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555867/full-race-replay-causeway-battles-to-king-edward-vii-victory",
+      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
       "isFeatured": false,
       "hasAiSummary": false
     }
