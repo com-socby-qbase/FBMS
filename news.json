@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T16:24:00.208Z",
+    "generatedAt": "2026-06-19T17:17:57.981Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Scotland's totems must turn up to thwart dynamic Morocco",
+    "headline": "After the big one comes the even bigger one for Scotland",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
+      "topic": "News Story",
+      "headline": "Satono Reve fancied to land QEII Jubilee crown at Royal Ascot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
+      "url": "https://www.skysports.com/racing/news/12040/13555692/royal-ascot-tips-satono-reve-fancied-to-land-queen-elizabeth-ii-jubilee-stakes-crown-for-japan",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Coventry play champions Arsenal in Premier League opener",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "Video",
-      "headline": "Photo finish! Venetian Sun beats outsider Spicy Marg in Commonwealth Cup",
+      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555807/photo-finish-venetian-sun-beats-outsider-spicy-marg-in-commonwealth-cup",
+      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Gannon rejoinng Leeds after single year in NRL",
+      "topic": "Video",
+      "headline": "'Oh, my goodness!' | Dustin Johnson makes horror QUADRUPLE BOGEY!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "url": "https://www.skysports.com/watch/video/13555863/us-open-he-might-play-his-way-out-the-cut-line-dustin-johnson-makes-quadruple-bogey",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Moutet fined almost all his prize money after Queen's outburst",
+      "topic": "Video",
+      "headline": "Full race replay | Causeway battles to King Edward VII victory",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13555804/corentin-moutet-handed-steep-fine-for-foul-mouthed-outburst-in-hsbc-championship-at-queens-club",
+      "url": "https://www.skysports.com/watch/video/13555867/full-race-replay-causeway-battles-to-king-edward-vii-victory",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Nike v Adidas - the World Cup brand battle",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "Video",
-      "headline": "Billy from the back! Libertango lands the Albany Stakes",
+      "headline": "Photo finish needed for Commonwealth Cup thriller!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555797/billy-from-the-back-libertango-lands-the-albany-stakes",
+      "url": "https://www.skysports.com/watch/video/13555807/photo-finish-venetian-sun-beats-outsider-spicy-marg-in-commonwealth-cup",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "Video",
-      "headline": "DeChambeau misses back-to-back tap-ins and is set to miss another major cut!",
+      "headline": "Royal Ascot day 5 preview: International stars set to light up final day",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555791/us-open-bryson-dechambeau-misses-back-to-back-tap-ins-as-is-set-to-miss-another-major-cut",
+      "url": "https://www.skysports.com/watch/video/13555274/royal-ascot-day-5-preview-internationals-stars-set-to-light-up-final-day",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
+      "headline": "Royal Ascot tips: Kevin Blake's 16/1 Jersey Stakes pick on day five",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
+      "url": "https://www.skysports.com/racing/news/12040/13555732/royal-ascot-tips-kevin-blakes-16-1-jersey-stakes-pick-on-day-five-plus-queen-elizabeth-ii-jubilee-fancy",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Morocco captain Hakimi to stand trial for rape",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "New Zealand push lead beyond 250 vs England at The Oval LIVE!",
+      "headline": "Gannon rejoinng Leeds after single year in NRL",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13555513/england-vs-new-zealand-second-test-day-three-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-at-kia-oval",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "London City Lionesses sign ex-England keeper Earps",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Today at Royal Ascot: O’Brien pair star in Coronation clash",
+      "headline": "Moutet fined almost all his prize money after Queen's outburst",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555245/today-at-royal-ascot-aidan-obrien-pair-precise-and-true-love-star-in-coronation-stakes-clash",
+      "url": "https://www.skysports.com/tennis/news/12040/13555804/corentin-moutet-handed-steep-fine-for-foul-mouthed-outburst-in-hsbc-championship-at-queens-club",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Who's the Bos? - meet 2026 World Cup's fastest player",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Knicks celebrate NBA Championship in style with New York mayor",
+      "headline": "Billy from the back! Libertango lands the Albany Stakes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555503/new-york-knicks-celebrate-nba-playoff-championship-feat-appearance-from-new-york-mayor-zohran-mamdani-at-parade",
+      "url": "https://www.skysports.com/watch/video/13555797/billy-from-the-back-libertango-lands-the-albany-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     }
