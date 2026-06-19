@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T18:55:01.115Z",
+    "generatedAt": "2026-06-19T19:35:47.722Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Moore made to work hard as Precise bags Coronation crown",
+      "headline": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555902/royal-ascot-ryan-moore-made-to-work-hard-as-precise-bags-coronation-stakes-crown-on-day-four",
+      "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Fifa alters how World Cup tables work - it changes everything",
       "source": "BBC Sport",
-      "timeAgo": "2m",
+      "timeAgo": "43m",
       "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Moore made to work hard as Precise bags Coronation crown",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13555902/royal-ascot-ryan-moore-made-to-work-hard-as-precise-bags-coronation-stakes-crown-on-day-four",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England's Barry to continue with half-time interviews",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Rew dealt tough hand on England debut",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555903/james-rew-england-wicketkeeper-dealt-tough-hand-on-test-debut-at-the-oval",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Coventry play champions Arsenal in Premier League opener",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Leeds latest: Club working on deals for Fulham's Wilson and Brandt",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "England's Barry to continue with half-time interviews",
+      "headline": "The maths whizz turned teen star who chose Morocco over France",
       "source": "BBC Sport",
-      "timeAgo": "53m",
-      "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Satono Reve fancied to land QEII Jubilee crown at Royal Ascot",
       "source": "Sky Sports",
@@ -66,51 +106,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Coventry play champions Arsenal in Premier League opener",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "The maths whizz turned teen star who chose Morocco over France",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "'Oh my goodness!' | Dustin Johnson makes horror QUADRUPLE BOGEY!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555863/us-open-he-might-play-his-way-out-the-cut-line-dustin-johnson-makes-quadruple-bogey",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "Video",
-      "headline": "Full race replay | Causeway battles to King Edward VII victory",
+      "headline": "Royal Ascot replay | Precise crowned Coronation Stakes queen",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555867/full-race-replay-causeway-battles-to-king-edward-vii-victory",
+      "url": "https://www.skysports.com/watch/video/13555831/royal-ascot-replay-precise-crowned-coronation-stakes-queen",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "Video",
-      "headline": "Photo finish! Venetian Sun beats outsider Spicy Marg in Commonwealth Cup",
+      "headline": "'Oh my goodness!' | Dustin Johnson makes horror QUADRUPLE BOGEY!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555807/photo-finish-venetian-sun-beats-outsider-spicy-marg-in-commonwealth-cup",
+      "url": "https://www.skysports.com/watch/video/13555863/us-open-he-might-play-his-way-out-the-cut-line-dustin-johnson-makes-quadruple-bogey",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "Nike v Adidas - the World Cup brand battle",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "World Cup news: Canada's Kone releases statement after broken leg",
+      "topic": "Video",
+      "headline": "Full race replay | Causeway battles to King Edward VII victory",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "url": "https://www.skysports.com/watch/video/13555867/full-race-replay-causeway-battles-to-king-edward-vii-victory",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Royal Ascot tips: Kevin Blake's 16/1 Jersey Stakes pick on day five",
+      "topic": "Video",
+      "headline": "Photo finish! Venetian Sun beats outsider Spicy Marg in Commonwealth Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555732/royal-ascot-tips-kevin-blakes-16-1-jersey-stakes-pick-on-day-five-plus-queen-elizabeth-ii-jubilee-fancy",
+      "url": "https://www.skysports.com/watch/video/13555807/photo-finish-venetian-sun-beats-outsider-spicy-marg-in-commonwealth-cup",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Canada score six but historic win marred by Kone injury",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'Would you believe it?!' | Clark extends US Open lead with huge birdie putt",
+      "topic": "Liveblog",
+      "headline": "World Cup news: Canada's Kone releases statement after broken leg",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555882/us-open-wyndham-clark-extends-lead-with-long-birdie-putt-on-final-hole",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
       "isFeatured": false,
       "hasAiSummary": false
     }
