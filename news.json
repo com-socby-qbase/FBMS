@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T21:56:48.628Z",
+    "generatedAt": "2026-06-19T22:27:09.642Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "England winger Saka unlikely to start against Ghana",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Papers: Rashford an injury worry for England",
+      "headline": "Hull KR battle past Leigh as Wakefield rout Hull FC",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555947/marcus-rashford-england-forward-an-injury-worry-ahead-of-world-cup-game-with-ghana-paper-talk",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13555963/super-league-champions-hull-kr-beat-leigh-leopards-while-wakefield-trinity-rout-hull-fc",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "USA close in on last 32 with win over Australia",
       "source": "BBC Sport",
-      "timeAgo": "10m",
+      "timeAgo": "40m",
       "url": "https://www.bbc.com/sport/football/videos/c30ylqjmpgyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Scotland switch to a back five vs Morocco LIVE!",
+      "topic": "News Story",
+      "headline": "Papers: Rashford an injury worry for England",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
+      "url": "https://www.skysports.com/football/news/12040/13555947/marcus-rashford-england-forward-an-injury-worry-ahead-of-world-cup-game-with-ghana-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
+      "topic": "Liveblog",
+      "headline": "Disaster for Scotland as Morocco take lead inside two minutes LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
+      "url": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,6 +98,26 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
+      "headline": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Coventry play champions Arsenal in Premier League opener",
+      "source": "BBC Sport",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
       "headline": "Brighton make improved offer for Spurs' Vuskovic",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -106,47 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "After the big one comes the even bigger one for Scotland",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "McIlroy hits huge 393-yard drive to set-up early second round birdie!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555935/us-open-rory-mcilroy-kickstarts-second-round-with-birdie-after-huge-393-yard-drive",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Coventry play champions Arsenal in Premier League opener",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Moore made to work hard as Precise bags Coronation crown",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555902/royal-ascot-ryan-moore-made-to-work-hard-as-precise-bags-coronation-stakes-crown-on-day-four",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Spurs to enter Wharton chase - Saturday's gossip",
       "source": "BBC Sport",
@@ -156,7 +136,47 @@
       "hasAiSummary": false
     },
     {
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "McIlroy hits huge 393-yard drive to set-up early second round birdie!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13555935/us-open-rory-mcilroy-kickstarts-second-round-with-birdie-after-huge-393-yard-drive",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "The maths whizz turned teen star who chose Morocco over France",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Moore made to work hard as Precise bags Coronation crown",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13555902/royal-ascot-ryan-moore-made-to-work-hard-as-precise-bags-coronation-stakes-crown-on-day-four",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "England's Barry to continue with half-time interviews",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Oval Test becoming 'Root's worst nightmare' as interim captain",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "The maths whizz turned teen star who chose Morocco over France",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Rew dealt tough hand on England debut",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555903/james-rew-england-wicketkeeper-dealt-tough-hand-on-test-debut-at-the-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England's Barry to continue with half-time interviews",
+      "headline": "Earps 'doesn't know' if she's ready for spotlight again",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c30y8ed8vdmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "USA secure World Cup knockout spot with win over Australia",
+      "topic": "News Story",
+      "headline": "Rew dealt tough hand on England debut",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/united-states-of-america-vs-australia/report/549797",
+      "url": "https://www.skysports.com/cricket/news/12040/13555903/james-rew-england-wicketkeeper-dealt-tough-hand-on-test-debut-at-the-oval",
       "isFeatured": false,
       "hasAiSummary": false
     }
