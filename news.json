@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T22:27:09.642Z",
+    "generatedAt": "2026-06-19T22:51:19.756Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "USA close in on last 32 with win over Australia",
       "source": "BBC Sport",
-      "timeAgo": "40m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/c30ylqjmpgyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Ipswich close in on O'Neil as new head coach",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Disaster for Scotland as Morocco take lead inside two minutes LIVE!",
+      "headline": "Scotland struggling against Morocco after losing early goal LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Lampard & Coventry hold positive talks over new deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Rew dealt tough hand on England debut",
+      "topic": "Report",
+      "headline": "Leinster retain URC title after battering Bulls",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13555903/james-rew-england-wicketkeeper-dealt-tough-hand-on-test-debut-at-the-oval",
+      "url": "https://www.skysports.com/rugby-union/leinster-vs-bulls/report/110669",
       "isFeatured": false,
       "hasAiSummary": false
     }
