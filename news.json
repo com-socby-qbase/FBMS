@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T00:54:47.000Z",
+    "generatedAt": "2026-06-20T01:46:30.660Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "The Super Bowl winner's son stepping into spotlight with USA",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England winger Saka unlikely to start against Ghana",
+      "headline": "Should Scotland have had two penalties & been playing against 10 men?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "50m",
+      "url": "https://www.bbc.com/sport/football/articles/c3vydkrd5dvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Fifa alters how World Cup tables work - it changes everything",
+      "headline": "England winger Saka unlikely to start against Ghana",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "How presenter's Messi error caused outrage in Argentina",
+      "headline": "Fifa alters how World Cup tables work - it changes everything",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy03yzw2y3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Scotland fall to narrow defeat against Morocco",
+      "headline": "How presenter's Messi error caused outrage in Argentina",
       "source": "BBC Sport",
-      "timeAgo": "7m",
-      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy03yzw2y3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Ipswich close in on O'Neil as new head coach",
+      "headline": "Scotland fall to narrow defeat against Morocco",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "59m",
+      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Lampard & Coventry hold positive talks over new deal",
+      "headline": "Ipswich close in on O'Neil as new head coach",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Coventry play champions Arsenal in Premier League opener",
+      "headline": "Lampard & Coventry hold positive talks over new deal",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Spurs to enter Wharton chase - Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Moore made to work hard as Precise bags Coronation crown",
+      "headline": "US Open: Full R3 pairings and tee times for Saturday's third round",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555902/royal-ascot-ryan-moore-made-to-work-hard-as-precise-bags-coronation-stakes-crown-on-day-four",
+      "url": "https://www.skysports.com/golf/news/12040/13555933/us-open-2026-tee-times-full-r3-pairings-and-uk-and-ireland-start-times-for-third-round-at-shinnecock-hills-in-new-york",
       "isFeatured": false,
       "hasAiSummary": false
     }
