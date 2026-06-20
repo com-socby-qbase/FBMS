@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T12:53:52.973Z",
+    "generatedAt": "2026-06-20T13:36:53.097Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Flawed but relentless Scotland show themselves as men of substance",
+    "headline": "Why Kane is different at this World Cup",
     "source": "BBC Sport",
-    "timeAgo": "11h",
-    "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "12m",
+    "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Mitchell falls before New Zealand lead over England passes 450 LIVE!",
+      "headline": "England begin pursuit of 463 to win after New Zealand all out for 362 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Curacao's trailblazer doctor on football's big stage",
       "source": "BBC Sport",
-      "timeAgo": "18m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Australia extend winning World Cup start in big Netherlands win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Flawed but relentless Scotland show themselves as men of substance",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Prem Rugby final LIVE! Northampton Saints vs Exeter Chiefs at Twickenham",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13556092/prem-rugby-final-live-northampton-saints-vs-exeter-chiefs-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "Who did it better? Rew recreates iconic Jones catch!",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
+      "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Mercedes find reasons for ‘very painful’ failures",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
+      "headline": "World Cup still waits for real Brazil to show up",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Latest tennis scores: Sabalenka vs Pegula in Berlin semi-finals live on Sky",
       "source": "Sky Sports",
@@ -86,27 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "World Cup still waits for real Brazil to show up",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Wakefield ease past Hull FC to move up to fourth",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555976/hull-fc-10-36-wakefield-trinity-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Almiron first player sent off for covering mouth",
       "source": "BBC Sport",
@@ -116,17 +136,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Today at Royal Ascot: Australia’s Joliestar leads raiders in QEII Jubilee",
+      "id": "sky_sports-6",
+      "topic": "Video",
+      "headline": "Wakefield ease past Hull FC to move up to fourth",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555691/today-at-royal-ascot-australias-joliestar-leads-raiders-in-queen-elizabeth-ii-jubilee-stakes",
+      "url": "https://www.skysports.com/watch/video/13555976/hull-fc-10-36-wakefield-trinity-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Why are so many World Cup goals being scored late?",
       "source": "BBC Sport",
@@ -136,7 +156,27 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Today at Royal Ascot: Australia’s Joliestar leads raiders in QEII Jubilee",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13555691/today-at-royal-ascot-australias-joliestar-leads-raiders-in-queen-elizabeth-ii-jubilee-stakes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "World Cup first sees Almiron sent off for covering mouth",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Clark holds big US Open lead as McIlroy makes back-nine stumble",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "World Cup first sees Almiron sent off for covering mouth",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Penalty controversy as Scotland punished by early Morocco strike",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 13",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c87q5gg111no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Boyd: Scotland can’t concede early against Brazil",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556075/scotland-cannot-concede-early-again-against-brazil-says-kris-boyd",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "What next for McAtee amid Anderson uncertainty?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c20yxg90yv2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Scorecard: England vs New Zealand, second Test, The Kia Oval",
+      "topic": "Report",
+      "headline": "Penalty controversy as Scotland punished by early Morocco strike",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/england-v-new-zealand/scorecard/d08512c4-51bd-5660-b51d-53ba78f7e948",
+      "url": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
       "isFeatured": false,
       "hasAiSummary": false
     }
