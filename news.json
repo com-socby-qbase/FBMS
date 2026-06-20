@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T18:47:02.178Z",
+    "generatedAt": "2026-06-20T19:34:08.649Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Saka trains alone as England prepare for Ghana game",
     "source": "BBC Sport",
-    "timeAgo": "44m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Thunder beat Pulse in epic Netball Super League Grand Final",
+      "topic": "News Story",
+      "headline": "Almeraq bounces back to win Royal Ascot sprint spectacular",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
+      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,23 +30,43 @@
       "topic": "News",
       "headline": "Why Kane is different at this World Cup - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "England hope rests on Root with NZ closing on Oval victory",
+      "topic": "Report",
+      "headline": "Lift-off for Netherlands with thumping win over Sweden",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556056/england-hopes-rest-on-joe-root-with-new-zealand-five-wickets-from-victory-in-oval-test",
+      "url": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Real Madrid deny contact with Bayern's Olise",
+      "source": "BBC Sport",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Milestone man Root gives England 'smidgeon' with NZ '99 per cent' likely to win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13556203/england-vs-new-zealand-joe-root-wont-give-up-but-black-caps-99-per-cent-likely-to-level-test-series-at-the-oval",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Referee told McGinn penalty denied as ball going out of play",
       "source": "BBC Sport",
@@ -56,17 +76,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
+      "headline": "Ireland's Grehan 'buzzing' after earning major spots with dramatic Amateur win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
+      "url": "https://www.skysports.com/golf/news/12040/13556196/the-amateur-championship-irelands-stuart-grehan-snatches-dramatic-win-to-earn-invites-to-the-open-the-masters-us-open",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Curacao's trailblazer doctor on football's big stage",
       "source": "BBC Sport",
@@ -76,7 +96,67 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Thunder beat Pulse in epic Netball Super League Grand Final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "How does qualification for the World Cup knockout stage work?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "England hope rests on Root with New Zealand closing on Oval victory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13556056/england-hopes-rest-on-joe-root-with-new-zealand-five-wickets-from-victory-in-oval-test",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Gakpo fires home the 100th goal of this World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Who should Scotland fans be cheering on in next few days?",
+      "source": "BBC Sport",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Manchester Thunder triumph in Netball Super League Grand Final thriller!",
       "source": "Sky Sports",
@@ -86,67 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "How does qualification for the World Cup knockout stage work?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Northampton come from behind to beat Exeter and seal Prem Rugby title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/northampton-vs-exeter/report/111316",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Brobbey scores twice against Sweden",
-      "source": "BBC Sport",
-      "timeAgo": "49m",
-      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Root gives England 'smidgeon of hope', says Atherton",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Who should Scotland fans be cheering on in next few days?",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Australia extend winning World Cup start in big Netherlands win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Boston bounce sends Scotland to Miami with hope and no fear",
       "source": "BBC Sport",
@@ -156,52 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "US Open: McIlroy, Scheffler chase Clark at windy Shinnecock LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13555828/us-open-golf-2026-third-round-live-latest-updates-highlights-scores-as-rory-mcilroy-scottie-scheffler-chase-wyndham-clark",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Pollock: 'Pressure is a privilege - Prem title a dream with my boyhood club'",
+      "topic": "Report",
+      "headline": "Northampton come from behind to beat Exeter and seal Prem Rugby title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13556092/prem-rugby-final-live-northampton-saints-vs-exeter-chiefs-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+      "url": "https://www.skysports.com/rugby-union/northampton-vs-exeter/report/111316",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
+      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Who did it better? Rew recreates iconic Jones catch!",
+      "topic": "Liveblog",
+      "headline": "Root gives England 'smidgeon of hope', says Atherton",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556077/who-did-it-better-jason-rew-recreates-iconic-geraint-jones-catch",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
       "isFeatured": false,
       "hasAiSummary": false
     }
