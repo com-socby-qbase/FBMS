@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T22:29:12.776Z",
+    "generatedAt": "2026-06-20T22:55:36.075Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Report",
-      "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
+      "topic": "News Story",
+      "headline": "Wigan score 13 tries in York thrashing as Catalans and Castleford also win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13556197/super-league-wigan-warriors-score-13-tries-in-72-20-york-knights-thrashing-as-catalans-and-castleford-also-win",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
       "source": "BBC Sport",
-      "timeAgo": "49m",
+      "timeAgo": "24m",
       "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Ireland captain Doris ruled out of Nations Championship",
+      "topic": "Report",
+      "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13556230/ireland-captain-caelan-doris-ruled-out-of-nations-championship-with-uncapped-duo-called-up",
+      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Greaves targets PDC top 64 after dominant Women's Series titles",
+      "headline": "Ireland captain Doris ruled out of Nations Championship",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13556215/pdc-womens-series-beau-greaves-wins-back-to-back-titles-with-dominant-wins",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13556230/ireland-captain-caelan-doris-ruled-out-of-nations-championship-with-uncapped-duo-called-up",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
       "source": "BBC Sport",
-      "timeAgo": "18m",
+      "timeAgo": "44m",
       "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
+      "topic": "News Story",
+      "headline": "Greaves targets PDC top 64 after dominant Women's Series titles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "url": "https://www.skysports.com/darts/news/12040/13556215/pdc-womens-series-beau-greaves-wins-back-to-back-titles-with-dominant-wins",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,11 +97,11 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Stand-in skipper Dean guides England to T20 World Cup win over Scotland",
+      "topic": "Liveblog",
+      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556126/womens-t20-world-cup-sophia-dunkley-and-sophie-ecclestone-help-england-to-win-against-scotland-at-headingley",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Referee told McGinn penalty denied as ball going out of play",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Newcastle reject £80m Spurs bid for Tonali",
+      "headline": "Stand-in skipper Dean guides England to T20 World Cup win over Scotland",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
+      "url": "https://www.skysports.com/cricket/news/12040/13556126/womens-t20-world-cup-sophia-dunkley-and-sophie-ecclestone-help-england-to-win-against-scotland-at-headingley",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Undav strikes late to give Germany win over Ivory Coast LIVE!",
+      "topic": "News Story",
+      "headline": "Newcastle reject £80m Spurs bid for Tonali",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
+      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Almeraq bounces back to win Royal Ascot sprint spectacular",
+      "topic": "Liveblog",
+      "headline": "Key moments and rate the players as Germany beat Ivory Coast",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
+      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Lift-off for Netherlands with thumping win over Sweden",
+      "topic": "News Story",
+      "headline": "Papers: Former Newcastle co-owners consider West Ham takeover",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
+      "url": "https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Gakpo fires home the 100th goal of this World Cup",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Milestone man Root gives England 'smidgeon' with NZ '99 per cent' likely to win",
+      "headline": "Almeraq bounces back to win Royal Ascot sprint spectacular",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556203/england-vs-new-zealand-joe-root-wont-give-up-but-black-caps-99-per-cent-likely-to-level-test-series-at-the-oval",
+      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     }
