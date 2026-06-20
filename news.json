@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T20:44:55.306Z",
+    "generatedAt": "2026-06-20T21:17:03.770Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Saka trains alone as England prepare for Ghana game",
+    "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,15 +18,35 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Newcastle reject £80m Spurs bid for Tonali",
+      "headline": "Greaves targets PDC top 64 after dominant Women's Series titles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
+      "url": "https://www.skysports.com/darts/news/12040/13556215/pdc-womens-series-beau-greaves-wins-back-to-back-titles-with-dominant-wins",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Saka trains alone as England prepare for Ghana game",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Why Kane is different at this World Cup - Shearer",
       "source": "BBC Sport",
@@ -36,9 +56,49 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Stand-in skipper Dean guides England to T20 World Cup win over Scotland",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13556126/womens-t20-world-cup-sophia-dunkley-and-sophie-ecclestone-help-england-to-win-against-scotland-at-headingley",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Real Madrid deny contact with Bayern's Olise",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Newcastle reject £80m Spurs bid for Tonali",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Referee told McGinn penalty denied as ball going out of play",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Ivory Coast take shock lead over Germany LIVE!",
+      "headline": "Diomande impresses as Ivory Coast take shock lead over Germany LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Real Madrid deny contact with Bayern's Olise",
+      "headline": "Cooling hoodies help England staff combat World Cup heat",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "59m",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Almeraq bounces back to win Royal Ascot sprint spectacular",
       "source": "Sky Sports",
@@ -66,47 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Referee told McGinn penalty denied as ball going out of play",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Report",
-      "headline": "Lift-off for Netherlands with thumping win over Sweden",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Cooling hoodies help England staff combat World Cup heat",
-      "source": "BBC Sport",
-      "timeAgo": "27m",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Milestone man Root gives England 'smidgeon' with NZ '99 per cent' likely to win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556203/england-vs-new-zealand-joe-root-wont-give-up-but-black-caps-99-per-cent-likely-to-level-test-series-at-the-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Curacao's trailblazer doctor on football's big stage",
       "source": "BBC Sport",
@@ -116,17 +136,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Ireland's Grehan 'buzzing' after earning major spots with dramatic Amateur win",
+      "id": "sky_sports-6",
+      "topic": "Report",
+      "headline": "Lift-off for Netherlands with thumping win over Sweden",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13556196/the-amateur-championship-irelands-stuart-grehan-snatches-dramatic-win-to-earn-invites-to-the-open-the-masters-us-open",
+      "url": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "How does qualification for the World Cup knockout stage work?",
       "source": "BBC Sport",
@@ -136,37 +156,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Thunder beat Pulse in epic Netball Super League Grand Final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Gakpo fires home the 100th goal of this World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "England hope rests on Root with New Zealand closing on Oval victory",
+      "headline": "Milestone man Root gives England 'smidgeon' with NZ '99 per cent' likely to win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556056/england-hopes-rest-on-joe-root-with-new-zealand-five-wickets-from-victory-in-oval-test",
+      "url": "https://www.skysports.com/cricket/news/12040/13556203/england-vs-new-zealand-joe-root-wont-give-up-but-black-caps-99-per-cent-likely-to-level-test-series-at-the-oval",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Gakpo fires home the 100th goal of this World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
+      "topic": "News Story",
+      "headline": "Ireland's Grehan 'buzzing' after earning major spots with dramatic Amateur win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13556196/the-amateur-championship-irelands-stuart-grehan-snatches-dramatic-win-to-earn-invites-to-the-open-the-masters-us-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Who should Scotland fans be cheering on in next few days?",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Boston bounce sends Scotland to Miami with hope and no fear",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "THREE IN A ROW! McIlroy's birdie barrage shoots him up leaderboard",
+      "topic": "Liveblog",
+      "headline": "Thunder beat Pulse in epic Netball Super League Grand Final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556214/us-open-three-in-a-row-rory-mcilroys-birdie-barrage-shoots-him-up-the-leaderboard",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
       "isFeatured": false,
       "hasAiSummary": false
     }
