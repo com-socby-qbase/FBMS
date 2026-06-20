@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T15:23:03.763Z",
+    "generatedAt": "2026-06-20T16:00:50.295Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Why Kane is different at this World Cup",
+    "headline": "Why Kane is different at this World Cup - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "US Open: Tough conditions for round three as McIlroy prepares to chase LIVE!",
+      "topic": "News Story",
+      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13555828/us-open-golf-2026-third-round-live-latest-updates-highlights-scores-as-rory-mcilroy-scottie-scheffler-chase-wyndham-clark",
+      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Curacao's trailblazer doctor on football's big stage",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "England tumble to 40-3 after being set record 463 to win by NZ LIVE!",
+      "headline": "Brook with 33-ball fifty as England chase 463; Stokes hits 95 for Durham LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Flawed but relentless Scotland show themselves as men of substance",
+      "headline": "Boston bounce sends Scotland to Miami with hope and no fear",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "US Open: Tough conditions for round three as McIlroy prepares to chase LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13555828/us-open-golf-2026-third-round-live-latest-updates-highlights-scores-as-rory-mcilroy-scottie-scheffler-chase-wyndham-clark",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Australia extend winning World Cup start in big Netherlands win",
       "source": "Sky Sports",
@@ -66,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
+      "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Prem Rugby final LIVE! Exeter turn things around to lead after harsh Saints sin-bin",
+      "headline": "Prem Rugby final LIVE! Hendy scores double as Saints fight back to beat Exeter",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13556092/prem-rugby-final-live-northampton-saints-vs-exeter-chiefs-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
+      "headline": "Who should Scotland fans be cheering on in next few days?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Who did it better? Rew recreates iconic Jones catch!",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "'Star in the making' - What is Man City's plan for forgotten man Reis?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/ce3eqz1x9rpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Mercedes find reasons for ‘very painful’ failures",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Almiron first player sent off for covering mouth",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Latest tennis scores: Queen's, Eastbourne, Berlin and Halle semi-finals",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "World Cup still waits for real Brazil to show up",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Wakefield ease past Hull FC to move up to fourth",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Why are so many World Cup goals being scored late?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Today at Royal Ascot: Australia’s Joliestar leads raiders in QEII Jubilee",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13555691/today-at-royal-ascot-australias-joliestar-leads-raiders-in-queen-elizabeth-ii-jubilee-stakes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "World Cup first sees Almiron sent off for covering mouth",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Clark holds big US Open lead as McIlroy makes back-nine stumble",
+      "headline": "Today at Royal Ascot: Australia’s Joliestar leads raiders in QEII Jubilee",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13555847/us-open-golf-wyndham-clark-holds-halfway-lead-as-rory-mcilroy-slips-back-after-rollercoaster-round-at-shinnecock-hills",
+      "url": "https://www.skysports.com/racing/news/12040/13555691/today-at-royal-ascot-australias-joliestar-leads-raiders-in-queen-elizabeth-ii-jubilee-stakes",
       "isFeatured": false,
       "hasAiSummary": false
     }
