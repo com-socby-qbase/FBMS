@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T03:12:23.279Z",
+    "generatedAt": "2026-06-20T04:46:13.052Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Flawed but relentless Scotland show themselves as men of substance",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The Super Bowl winner's son stepping into spotlight with USA",
+      "headline": "Almiron first player sent off for covering mouth",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "0m",
+      "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,17 +48,37 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Should Scotland have had two penalties & been playing against 10 men?",
+      "headline": "The Super Bowl winner's son stepping into spotlight with USA",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c3vydkrd5dvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Paraguay off to a flyer! Galarza strikes to lead Turkey LIVE!",
+      "headline": "Scotland vs Morocco: The key moments & rate the players!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Should Scotland have had two penalties & been playing against 10 men?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c3vydkrd5dvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Paraguay down to 10 after Almiron red but lead Turkey LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/turkey-vs-paraguay/live/549796",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "England winger Saka unlikely to start against Ghana",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Slovak Darts Open schedule: MVG, Price, Van Veen and Bunting headline",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Scotland fall to narrow defeat against Morocco",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Hull KR battle past Leigh as Wakefield rout Hull FC",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Fifa alters how World Cup tables work - it changes everything",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Papers: Rashford an injury worry for England",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Uzbeks to beat DR Congo? The reality of Scotland's qualification mental gymnastics",
       "source": "BBC Sport",
-      "timeAgo": "52m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "How presenter's Messi error caused outrage in Argentina",
+      "headline": "Spurs to enter Wharton chase - Saturday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy03yzw2y3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Brighton make improved offer for Spurs' Vuskovic",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Spurs to enter Wharton chase - Saturday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "McIlroy hits huge 393-yard drive to set-up early second round birdie!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555935/us-open-rory-mcilroy-kickstarts-second-round-with-birdie-after-huge-393-yard-drive",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Cunha scores twice as Brazil beat Haiti",
       "source": "BBC Sport",
-      "timeAgo": "6m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Cunha strikes twice as Brazil earn comfortable win over Haiti",
+      "topic": "Video",
+      "headline": "McIlroy hits huge 393-yard drive to set-up early second round birdie!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/brazil-vs-haiti/report/549794",
+      "url": "https://www.skysports.com/watch/video/13555935/us-open-rory-mcilroy-kickstarts-second-round-with-birdie-after-huge-393-yard-drive",
       "isFeatured": false,
       "hasAiSummary": false
     }
