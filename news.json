@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T22:55:36.075Z",
+    "generatedAt": "2026-06-20T23:31:16.154Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "The Thames Boatman and Correspondence face off at Brighton",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13555737/today-on-sky-sports-racing-the-thames-boatman-and-correspondence-face-off-at-brighton",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Wigan score 13 tries in York thrashing as Catalans and Castleford also win",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
+      "headline": "Saka trains alone as England prepare for Ghana game",
       "source": "BBC Sport",
-      "timeAgo": "24m",
-      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Report",
       "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Saka trains alone as England prepare for Ghana game",
+      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Ireland captain Doris ruled out of Nations Championship",
       "source": "Sky Sports",
@@ -66,42 +86,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
-      "source": "BBC Sport",
-      "timeAgo": "44m",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Greaves targets PDC top 64 after dominant Women's Series titles",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13556215/pdc-womens-series-beau-greaves-wins-back-to-back-titles-with-dominant-wins",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Real Madrid deny contact with Bayern's Olise",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
+      "topic": "News Story",
+      "headline": "Greaves targets PDC top 64 after dominant Women's Series titles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "url": "https://www.skysports.com/darts/news/12040/13556215/pdc-womens-series-beau-greaves-wins-back-to-back-titles-with-dominant-wins",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,6 +117,26 @@
     },
     {
       "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Why Kane is different at this World Cup - Shearer",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Stand-in skipper Dean guides England to T20 World Cup win over Scotland",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Why Kane is different at this World Cup - Shearer",
+      "headline": "Doku criticised over plan to return home for birth",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Newcastle reject £80m Spurs bid for Tonali",
       "source": "Sky Sports",
@@ -146,47 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Cooling hoodies help England staff combat World Cup heat",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Key moments and rate the players as Germany beat Ivory Coast",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "How does qualification for the World Cup knockout stage work?",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Papers: Former Newcastle co-owners consider West Ham takeover",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Gakpo fires home the 100th goal of this World Cup",
       "source": "BBC Sport",
@@ -196,12 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Almeraq bounces back to win Royal Ascot sprint spectacular",
+      "id": "sky_sports-8",
+      "topic": "Liveblog",
+      "headline": "Key moments and rate the players as Germany beat Ivory Coast",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
+      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
+      "topic": "News",
+      "headline": "Brobbey scores twice against Sweden",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-9",
+      "topic": "News Story",
+      "headline": "Papers: Former Newcastle co-owners consider West Ham takeover",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover",
       "isFeatured": false,
       "hasAiSummary": false
     }
