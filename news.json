@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T20:11:33.642Z",
+    "generatedAt": "2026-06-20T20:44:55.306Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Why Kane is different at this World Cup - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Germany vs Ivory Coast LIVE!",
+      "headline": "Ivory Coast take shock lead over Germany LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Curacao's trailblazer doctor on football's big stage",
+      "headline": "Cooling hoodies help England staff combat World Cup heat",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "27m",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "How does qualification for the World Cup knockout stage work?",
+      "headline": "Curacao's trailblazer doctor on football's big stage",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Gakpo fires home the 100th goal of this World Cup",
+      "headline": "How does qualification for the World Cup knockout stage work?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who should Scotland fans be cheering on in next few days?",
+      "headline": "Gakpo fires home the 100th goal of this World Cup",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Boston bounce sends Scotland to Miami with hope and no fear",
+      "headline": "Who should Scotland fans be cheering on in next few days?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
+      "headline": "Boston bounce sends Scotland to Miami with hope and no fear",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Manchester Thunder triumph in Netball Super League Grand Final thriller!",
+      "headline": "THREE IN A ROW! McIlroy's birdie barrage shoots him up leaderboard",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556150/manchester-thunder-54-51-london-pulse-netball-super-league-grand-final",
+      "url": "https://www.skysports.com/watch/video/13556214/us-open-three-in-a-row-rory-mcilroys-birdie-barrage-shoots-him-up-the-leaderboard",
       "isFeatured": false,
       "hasAiSummary": false
     }
