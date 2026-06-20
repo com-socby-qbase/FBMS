@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T16:48:31.032Z",
+    "generatedAt": "2026-06-20T17:33:28.610Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why Kane is different at this World Cup - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
+      "topic": "Liveblog",
+      "headline": "Thunder beat Pulse in epic Netball Super League Grand Final!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Manchester Thunder triumph in Netball Super League Grand Final thriller!",
+      "topic": "News Story",
+      "headline": "Sabalenka's Wimbledon preparations take a knock as Pegula makes Berlin final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556150/manchester-thunder-54-51-london-pulse-netball-super-league-grand-final",
+      "url": "https://www.skysports.com/tennis/news/12040/13556127/aryna-sabalenka-top-seed-stunned-by-jessica-pegula-in-deciding-set-as-american-reaches-berlin-open-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "Report",
-      "headline": "Northampton come from behind to beat Exeter and seal Prem Rugby title",
+      "topic": "Video",
+      "headline": "Manchester Thunder triumph in Netball Super League Grand Final thriller!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/northampton-vs-exeter/report/111316",
+      "url": "https://www.skysports.com/watch/video/13556150/manchester-thunder-54-51-london-pulse-netball-super-league-grand-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "How does qualification for the World Cup knockout stage work?",
       "source": "BBC Sport",
-      "timeAgo": "24m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Brook falls after quick-fire fifty as England four down chasing record 463 LIVE!",
+      "topic": "Report",
+      "headline": "Northampton come from behind to beat Exeter and seal Prem Rugby title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
+      "url": "https://www.skysports.com/rugby-union/northampton-vs-exeter/report/111316",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "US Open: Tough conditions for round three as McIlroy prepares to chase LIVE!",
+      "headline": "England reduced to 180-5 in record chase of 463 as Rew falls late in day LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13555828/us-open-golf-2026-third-round-live-latest-updates-highlights-scores-as-rory-mcilroy-scottie-scheffler-chase-wyndham-clark",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13555962/england-vs-new-zealand-second-test-day-four-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Who should Scotland fans be cheering on in next few days?",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Oh, brother! The sibling rivals lining up for different World Cup teams",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Prem Rugby final reaction LIVE! Hendy scores double as Saints fight back to beat Exeter",
+      "headline": "US Open: Fleetwood chases fast start to third round at windy Shinnecock LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13556092/prem-rugby-final-live-northampton-saints-vs-exeter-chiefs-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13555828/us-open-golf-2026-third-round-live-latest-updates-highlights-scores-as-rory-mcilroy-scottie-scheffler-chase-wyndham-clark",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "'Everything I do is for you' - how tragedy is driving Diomande",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Who did it better? Rew recreates iconic Jones catch!",
+      "topic": "Liveblog",
+      "headline": "Pollock: 'Pressure is a privilege - Prem title a dream with my boyhood club'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556077/who-did-it-better-jason-rew-recreates-iconic-geraint-jones-catch",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13556092/prem-rugby-final-live-northampton-saints-vs-exeter-chiefs-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Mercedes find reasons for ‘very painful’ failures",
+      "topic": "Video",
+      "headline": "Who did it better? Rew recreates iconic Jones catch!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13556037/mercedes-reveal-reasons-for-very-painful-reliability-problems-after-george-russell-kimi-antonelli-costly-retirements",
+      "url": "https://www.skysports.com/watch/video/13556077/who-did-it-better-jason-rew-recreates-iconic-geraint-jones-catch",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Latest tennis scores: Queen's, Eastbourne, Berlin and Halle semi-finals",
+      "headline": "Mercedes find reasons for ‘very painful’ failures",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/scores-schedule",
+      "url": "https://www.skysports.com/f1/news/12040/13556037/mercedes-reveal-reasons-for-very-painful-reliability-problems-after-george-russell-kimi-antonelli-costly-retirements",
       "isFeatured": false,
       "hasAiSummary": false
     }
