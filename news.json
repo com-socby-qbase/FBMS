@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T15:14:43.300Z",
+    "generatedAt": "2026-06-21T16:00:17.504Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The beauty of sharing the first World Cup with your child",
+    "headline": "The beauty of sharing your child's first World Cup",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Article/Blog",
-      "headline": "Stokes to captain England in final Test as Atkinson also returns",
+      "headline": "Stokes and Atkinson back for final Test as nightclub incident findings revealed",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/news/12040/13556416/england-vs-new-zealand-ben-stokes-and-gus-atkinson-return-for-deciding-test-at-trent-bridge-after-nightclub-incident",
@@ -28,17 +28,17 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "All three England keepers played there - Carlisle's role in trio's rise",
+      "headline": "The World Cup records that look set to be broken",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Lamine Yamal and Olmo start as Spain ring changes vs Saudi Arabia LIVE!",
+      "headline": "World Cup: Spain vs Saudi Arabia LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/live/549804",
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "The World Cup records that look set to be broken",
+      "headline": "All three England keepers played there - Carlisle's role in trio's rise",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Doku criticised over plan to return home for birth",
+      "headline": "Meet the record-equalling keeper who helped Curacao make history",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,15 +88,35 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Meet the record-equalling keeper who helped Curacao make history",
+      "headline": "What have we learned from Scotland's World Cup so far?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "England vs NZ player ratings: Root's class endures as debutants struggle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13556448/england-vs-new-zealand-second-test-player-ratings-joe-roots-class-endures-as-debutants-struggle-at-oval",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Doku criticised over plan to return home for birth",
+      "source": "BBC Sport",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "West Indies stay unbeaten ahead of England T20 World Cup clash",
       "source": "Sky Sports",
@@ -106,31 +126,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "What have we learned from Scotland's World Cup so far?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Has Bellingham's brilliance ended the No 10 debate for England?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555646/world-cup-2026-jude-bellinghams-brilliance-against-croatia-ends-no-10-discussion-for-england-ahead-of-ghana-game",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
       "topic": "News",
       "headline": "From factory floor to World Cup star - Germany's super-sub Undav",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Stokes to return as England captain for deciding New Zealand Test",
+      "headline": "Has Bellingham's brilliance ended the No 10 debate for England?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556370/ben-stokes-brendon-mccullum-planning-for-england-captains-return-for-deciding-third-new-zealand-test",
+      "url": "https://www.skysports.com/football/news/12040/13555646/world-cup-2026-jude-bellinghams-brilliance-against-croatia-ends-no-10-discussion-for-england-ahead-of-ghana-game",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Clark seeks second US Open win after taking commanding lead as Scheffler chases",
+      "topic": "News Story",
+      "headline": "Stokes to return as England captain for deciding New Zealand Test",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13556274/us-open-golf-2026-final-round-live-updates-scores-highlights-as-scottie-scheffler-chases-wyndham-clark-while-rory-mcilroy-looks-to-bounce-back",
+      "url": "https://www.skysports.com/cricket/news/12040/13556370/ben-stokes-brendon-mccullum-planning-for-england-captains-return-for-deciding-third-new-zealand-test",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "Broad: England's Oval hammering shows how much they need Stokes",
+      "topic": "Liveblog",
+      "headline": "Clark seeks second US Open win after taking commanding lead as Scheffler chases",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556391/ben-stokes-stuart-broad-says-englands-thrashing-shows-how-much-team-need-captain-and-that-defeat-will-hurt-him",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13556274/us-open-golf-2026-final-round-live-updates-scores-highlights-as-scottie-scheffler-chases-wyndham-clark-while-rory-mcilroy-looks-to-bounce-back",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Mark Hughes' son Alex dies aged 38",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/cm2j0x3zgego?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Loughnane reflects on a successful week at Royal Ascot",
+      "topic": "Article/Blog",
+      "headline": "Broad: England's Oval hammering shows how much they need Stokes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556390/billy-loughnane-his-will-to-win-was-like-no-other-horse-ive-ridden-before",
+      "url": "https://www.skysports.com/cricket/news/12040/13556391/ben-stokes-stuart-broad-says-englands-thrashing-shows-how-much-team-need-captain-and-that-defeat-will-hurt-him",
       "isFeatured": false,
       "hasAiSummary": false
     }
