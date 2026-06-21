@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T19:34:20.322Z",
+    "generatedAt": "2026-06-21T20:16:40.388Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Yamal shows why this could be his World Cup",
+    "headline": "Lamine Yamal shows why this could be his World Cup",
     "source": "BBC Sport",
-    "timeAgo": "7m",
+    "timeAgo": "49m",
     "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Wimbledon build-up LIVE! Will Serena win another Grand Slam title at 44?",
+      "topic": "News Story",
+      "headline": "Women's World Matchplay field confirmed with Greaves, Ashton, Sherrock in contention",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
+      "url": "https://www.skysports.com/darts/news/12040/13556487/womens-world-matchplay-field-confirmed-with-beau-greaves-lisa-ashton-and-fallon-sherrock-leading-the-way-at-blackpools-winter-gardens",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Serena Williams receives final Wimbledon women's singles wild card",
+      "topic": "Video",
+      "headline": "From potential eagle to bogey! | Clark blows US Open wide open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556436/serena-williams-american-23-time-grand-slam-winner-receives-wimbledon-womens-singles-wild-card",
+      "url": "https://www.skysports.com/watch/video/13556519/us-open-wyndham-clark-falters-with-sloppy-bogey-after-poor-club-selection",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "The World Cup records that look set to be broken",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Report",
-      "headline": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
+      "topic": "Liveblog",
+      "headline": "Wimbledon build-up LIVE! Will Serena win another Grand Slam title at 44?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "What have we learned from Scotland's World Cup so far?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Notts knock Essex off County Championship top spot",
+      "headline": "Bergvall asks to leave Tottenham",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556495/county-championship-notts-knock-essex-off-top-spot-as-leicestershire-claim-first-division-one-win-in-23-years-vs-yorkshire",
+      "url": "https://www.skysports.com/football/news/12040/13556507/lucas-bergvall-transfer-news-tottenham-midfielder-asks-to-leave-premier-league-club-in-search-for-first-team-football",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "All three England keepers played there - Carlisle's role in trio's rise",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Iran opener ruled out for offside vs Belgium LIVE!",
+      "topic": "News Story",
+      "headline": "Serena Williams receives final Wimbledon women's singles wild card",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
+      "url": "https://www.skysports.com/tennis/news/12040/13556436/serena-williams-american-23-time-grand-slam-winner-receives-wimbledon-womens-singles-wild-card",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Draper's boost ahead of Wimbledon: 'Murray believes in me and my tennis'",
+      "topic": "Report",
+      "headline": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556433/jack-draper-boosted-by-coach-andy-murray-ahead-of-wimbledon-he-believes-in-me-and-my-tennis",
+      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,38 +130,38 @@
       "topic": "News",
       "headline": "VAR official who made hand gesture returns to World Cup duty",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cr5jv508qd7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "'Just go home, Rory!' | Angry McIlroy vents his frustration at US Open",
+      "topic": "News Story",
+      "headline": "Notts knock Essex off County Championship top spot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556473/us-open-just-go-home-rory-frustrated-rory-mcilroy-drops-expletive-at-shinnecock-hills",
+      "url": "https://www.skysports.com/cricket/news/12040/13556495/county-championship-notts-knock-essex-off-top-spot-as-leicestershire-claim-first-division-one-win-in-23-years-vs-yorkshire",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Yamal on target as Spain put four past Saudi Arabia",
+      "headline": "Lamine Yamal on target as Spain put four past Saudi Arabia",
       "source": "BBC Sport",
-      "timeAgo": "42m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Yamal inspires sharper Spain to statement World Cup win",
+      "topic": "Liveblog",
+      "headline": "Belgium struggling to break down Iran LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556484/world-cup-2026-spain-show-why-they-are-favourites-as-lamine-yamal-inspires-statement-win-over-saudi-arabia",
+      "url": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,30 +178,30 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "West Indies win again in Women's T20 World Cup, Kapp powers SA past India",
+      "headline": "Draper's boost ahead of Wimbledon: 'Murray believes in me and my tennis'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556291/womens-t20-world-cup-west-indies-defeat-sri-lanka-by-five-wickets-to-stay-unbeaten-ahead-of-crunch-england-match",
+      "url": "https://www.skysports.com/tennis/news/12040/13556433/jack-draper-boosted-by-coach-andy-murray-ahead-of-wimbledon-he-believes-in-me-and-my-tennis",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Yamal is Spain's main man - Rooney analysis",
+      "headline": "Lamine Yamal is Spain's main man - Rooney analysis",
       "source": "BBC Sport",
-      "timeAgo": "10m",
+      "timeAgo": "52m",
       "url": "https://www.bbc.com/sport/football/videos/clye4lmd3zzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Saints overpower Giants to get back on track",
+      "topic": "News Story",
+      "headline": "Woad suffers play-off heartbreak as Yamashita snatches LPGA Tour win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556475/st-helens-38-6-huddersfield-giants-super-league-highlights",
+      "url": "https://www.skysports.com/golf/news/12040/13556483/lpga-tour-englands-lottie-woad-suffers-play-off-heartbreak-at-meijer-lpga-classic-as-miyu-yamashita-snatches-victory",
       "isFeatured": false,
       "hasAiSummary": false
     }
