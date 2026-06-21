@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T09:19:53.745Z",
+    "generatedAt": "2026-06-21T10:42:11.236Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Meet the record-equalling keeper who helped Curacao make history",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "New Zealand need five wickets to beat England in second Test LIVE!",
+      "topic": "News Story",
+      "headline": "Stokes, Atkinson withdrawn from county matches as England returns loom",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13556297/england-vs-new-zealand-second-test-day-five-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
+      "url": "https://www.skysports.com/cricket/news/12040/13556326/ben-stokes-withdrawn-from-remainder-of-durhams-county-championship-match-at-ecb-request-in-strong-hint-of-england-test-return",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "From factory floor to World Cup star - Germany's super-sub Undav",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Stokes withdrawn from Durham match as England return looms",
+      "topic": "Liveblog",
+      "headline": "New Zealand need ONE wicket to beat England in second Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556326/ben-stokes-withdrawn-from-remainder-of-durhams-county-championship-match-at-ecb-request",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13556297/england-vs-new-zealand-second-test-day-five-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-for-ben-stokes-at-the-oval",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Rice feels like he will get an assist at every corner",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
+      "headline": "World Cup quiz: Name every Golden Boot winner",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Goalline technology denies Japan goal by fractions",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 14",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/c3e2wj9ppy4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
+      "topic": "News Story",
+      "headline": "Mark Hughes' son Alex dies aged 38",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
+      "url": "https://www.skysports.com/football/news/12040/13556341/mark-hughes-pays-tribute-to-son-alex-hughes-after-tragic-passing-aged-38",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Japan run riot as Tunisia eliminated in Renard's first game",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/videos/cx260v333plo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Ireland captain Doris ruled out of Nations Championship",
+      "topic": "Report",
+      "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13556230/ireland-captain-caelan-doris-ruled-out-of-nations-championship-with-uncapped-duo-called-up",
+      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
       "isFeatured": false,
       "hasAiSummary": false
     }
