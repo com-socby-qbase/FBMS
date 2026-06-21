@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T01:30:33.273Z",
+    "generatedAt": "2026-06-21T02:41:49.992Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From factory floor to World Cup star - Germany's super-sub Undav",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Rice feels like he will get an assist at every corner",
       "source": "BBC Sport",
-      "timeAgo": "26m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
+      "headline": "Undav scores twice as Germany fight back to beat Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/ced40yzdy4eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
+      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Doku criticised over plan to return home for birth",
+      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Undav scores twice as Germany fight back to beat Ivory Coast",
+      "headline": "Doku criticised over plan to return home for birth",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/ced40yzdy4eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,40 +168,40 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Gakpo fires home the 100th goal of this World Cup",
+      "headline": "Chelsea weigh up Wirtz move - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Newcastle reject £80m Spurs bid for Tonali",
+      "topic": "Report",
+      "headline": "Curacao earn first point as incredible Room makes history in Ecuador draw",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
+      "url": "https://www.skysports.com/football/ecuador-vs-curacao/report/549799",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Brobbey scores twice against Sweden",
+      "headline": "Gakpo fires home the 100th goal of this World Cup",
       "source": "BBC Sport",
       "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Key moments and rate the players as Germany beat Ivory Coast",
+      "topic": "News Story",
+      "headline": "Newcastle reject £80m Spurs bid for Tonali",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
+      "url": "https://www.skysports.com/football/news/12040/13556200/sandro-tonali-transfer-news-tottenhams-80m-bid-rejected-by-newcastle-for-italy-midfielder",
       "isFeatured": false,
       "hasAiSummary": false
     }
