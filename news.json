@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T18:12:45.583Z",
+    "generatedAt": "2026-06-21T18:50:53.902Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "The beauty of sharing your child's first World Cup",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Draper's boost ahead of Wimbledon: 'Murray believes in me and my tennis'",
+      "headline": "Notts knock Essex off County Championship top spot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556433/jack-draper-boosted-by-coach-andy-murray-ahead-of-wimbledon-he-believes-in-me-and-my-tennis",
+      "url": "https://www.skysports.com/cricket/news/12040/13556495/county-championship-notts-knock-essex-off-top-spot-as-leicestershire-claim-first-division-one-win-in-23-years-vs-yorkshire",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "'Just go home, Rory!' | Angry McIlroy vents his frustration at US Open",
+      "topic": "Liveblog",
+      "headline": "Lukaku starts for Belgium vs Iran despite lack of fitness LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556473/us-open-just-go-home-rory-frustrated-rory-mcilroy-drops-expletive-at-shinnecock-hills",
+      "url": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "What have we learned from Scotland's World Cup so far?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "West Indies win again in Women's T20 World Cup, Kapp powers SA past India",
+      "topic": "Report",
+      "headline": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556291/womens-t20-world-cup-west-indies-defeat-sri-lanka-by-five-wickets-to-stay-unbeaten-ahead-of-crunch-england-match",
+      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "All three England keepers played there - Carlisle's role in trio's rise",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Saints overpower Giants to get back on track",
+      "topic": "News Story",
+      "headline": "Draper's boost ahead of Wimbledon: 'Murray believes in me and my tennis'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556475/st-helens-38-6-huddersfield-giants-super-league-highlights",
+      "url": "https://www.skysports.com/tennis/news/12040/13556433/jack-draper-boosted-by-coach-andy-murray-ahead-of-wimbledon-he-believes-in-me-and-my-tennis",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,18 +90,18 @@
       "topic": "News",
       "headline": "Meet the record-equalling keeper who helped Curacao make history",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Spain send World Cup statement with big win LIVE!",
+      "topic": "News Story",
+      "headline": "Yamal inspires sharper Spain to statement World Cup win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/live/549804",
+      "url": "https://www.skysports.com/football/news/12040/13556484/world-cup-2026-spain-show-why-they-are-favourites-as-lamine-yamal-inspires-statement-win-over-saudi-arabia",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,36 +117,16 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Hodgkinson 'fine' after emotional UK Athletics 400m final withdrawal",
+      "topic": "Video",
+      "headline": "'Just go home, Rory!' | Angry McIlroy vents his frustration at US Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/athletics/news/12040/13556459/keely-hodgkinson-olympic-gold-medalist-pulls-out-of-uk-athletics-championships-400m-final",
+      "url": "https://www.skysports.com/watch/video/13556473/us-open-just-go-home-rory-frustrated-rory-mcilroy-drops-expletive-at-shinnecock-hills",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Doku criticised over plan to return home for birth",
-      "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Cerundolo beats Paul to win Queen's title in longest-ever final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556434/queens-club-francisco-cerundolo-beats-tommy-paul-to-win-tournament-in-longest-ever-final-at-hsbc-championships",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Rice feels like he will get an assist at every corner",
       "source": "BBC Sport",
@@ -156,32 +136,52 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Article/Blog",
-      "headline": "Stokes and Atkinson back for final Test as nightclub incident findings revealed",
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "West Indies win again in Women's T20 World Cup, Kapp powers SA past India",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556416/england-vs-new-zealand-ben-stokes-and-gus-atkinson-return-for-deciding-test-at-trent-bridge-after-nightclub-incident",
+      "url": "https://www.skysports.com/cricket/news/12040/13556291/womens-t20-world-cup-west-indies-defeat-sri-lanka-by-five-wickets-to-stay-unbeaten-ahead-of-crunch-england-match",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "'He's arrived' - Yamal scores the opener for Spain",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "Video",
+      "headline": "Saints overpower Giants to get back on track",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13556475/st-helens-38-6-huddersfield-giants-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'He's arrived' - Yamal scores the opener for Spain",
+      "headline": "World Cup quiz: Name every Golden Boot winner",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "World Cup news: Doku to leave tournament for birth of his child",
+      "headline": "Key moments and rate the players as Spain smash Saudi Arabia",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/live/549804",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Sooryavanshi left out of India ODI squad vs England despite 11-ball 50",
+      "headline": "Hodgkinson 'fine' after emotional UK Athletics 400m final withdrawal",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556478/england-vs-india-odi-vaibhav-sooryavanshi-left-out-of-international-squad-despite-29-ball-94-against-sri-lanka",
+      "url": "https://www.skysports.com/athletics/news/12040/13556459/keely-hodgkinson-olympic-gold-medalist-pulls-out-of-uk-athletics-championships-400m-final",
       "isFeatured": false,
       "hasAiSummary": false
     }
