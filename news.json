@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T22:41:01.819Z",
+    "generatedAt": "2026-06-21T23:11:25.265Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "The World Cup records that look set to be broken",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Ten-man Belgium remain winless after draw with Iran",
+      "headline": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
       "source": "BBC Sport",
-      "timeAgo": "45m",
-      "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "WOW! Cape Verde score long-range free-kick to lead Uruguay LIVE!",
+      "headline": "Uruguay complete comeback on stroke of half-time vs Cape Verde LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/uruguay-vs-cape-verde/live/549805",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Tuchel not afraid to shout at players - Watkins",
       "source": "BBC Sport",
-      "timeAgo": "36m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Liverpool reject £21.7m Inter Milan offer for Jones",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Lamine Yamal on target as Spain put four past Saudi Arabia",
+      "headline": "Ten-man Belgium remain winless after draw with Iran",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Burns pumped after birdie to get within one of Clark!",
+      "topic": "News Story",
+      "headline": "Clark survives huge scare to edge out Burns in US Open thriller",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556534/us-open-sam-burns-pumped-after-birdie-to-get-within-one-of-wyndham-clark",
+      "url": "https://www.skysports.com/golf/news/12040/13556469/us-open-wyndham-clark-edges-out-sam-burns-to-claim-major-win-at-shinnecock-hills-as-scottie-scheffler-falls-short-in-grand-slam-bid",
       "isFeatured": false,
       "hasAiSummary": false
     }
