@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T17:34:10.715Z",
+    "generatedAt": "2026-06-21T18:12:45.583Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "The World Cup records that look set to be broken",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "All three England keepers played there - Carlisle's role in trio's rise",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,7 +98,7 @@
     {
       "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Saudi OG extends Spain lead with Lamine Yamal, Oyarzabal off at HT LIVE!",
+      "headline": "Spain send World Cup statement with big win LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/live/549804",
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "VAR official who made hand gesture returns to World Cup duty",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cr5jv508qd7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Rice feels like he will get an assist at every corner",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Goalline technology denies Japan goal by fractions",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'We share same vision' - McCullum says Stokes has not tarnished relationship",
+      "headline": "Sooryavanshi left out of India ODI squad vs England despite 11-ball 50",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556375/brendon-mccullum-insists-england-captain-ben-stokes-has-not-tarnished-their-relationship-with-nightclub-incident",
+      "url": "https://www.skysports.com/cricket/news/12040/13556478/england-vs-india-odi-vaibhav-sooryavanshi-left-out-of-international-squad-despite-29-ball-94-against-sri-lanka",
       "isFeatured": false,
       "hasAiSummary": false
     }
