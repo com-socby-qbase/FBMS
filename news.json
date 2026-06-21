@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T20:16:40.388Z",
+    "generatedAt": "2026-06-21T20:56:33.648Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Lamine Yamal shows why this could be his World Cup",
     "source": "BBC Sport",
-    "timeAgo": "49m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The beauty of sharing your child's first World Cup",
+      "headline": "The World Cup records that look set to be broken",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "The World Cup records that look set to be broken",
+      "headline": "The beauty of sharing your child's first World Cup",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "All three England keepers played there - Carlisle's role in trio's rise",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,7 +98,7 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Serena Williams receives final Wimbledon women's singles wild card",
+      "headline": "This is not a drill! Serena to play Wimbledon singles",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/news/12040/13556436/serena-williams-american-23-time-grand-slam-winner-receives-wimbledon-womens-singles-wild-card",
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Meet the record-equalling keeper who helped Curacao make history",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Lamine Yamal on target as Spain put four past Saudi Arabia",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,7 +158,7 @@
     {
       "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Belgium struggling to break down Iran LIVE!",
+      "headline": "Belgium down to 10 and goalless vs Iran LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "World Cup quiz: Name every Golden Boot winner",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Lamine Yamal is Spain's main man - Rooney analysis",
       "source": "BBC Sport",
-      "timeAgo": "52m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.com/sport/football/videos/clye4lmd3zzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
