@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T23:31:16.154Z",
+    "generatedAt": "2026-06-21T00:09:22.627Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
+    "headline": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "22m",
+    "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
+      "headline": "Scotland expects: What is behind McTominay's understated World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Saka trains alone as England prepare for Ghana game",
+      "headline": "Newcastle reject Spurs bid of about £80m for Tonali",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
+      "headline": "Saka trains alone as England prepare for Ghana game",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Real Madrid deny contact with Bayern's Olise",
+      "headline": "Country music fan Kane leaves Ella Langley gig early to make curfew",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Referee told McGinn penalty denied as ball going out of play",
+      "headline": "Real Madrid deny contact with Bayern's Olise",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Why Kane is different at this World Cup - Shearer",
+      "headline": "Doku criticised over plan to return home for birth",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Doku criticised over plan to return home for birth",
+      "headline": "Undav scores twice as Germany fight back to beat Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "9m",
-      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/ced40yzdy4eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Gakpo fires home the 100th goal of this World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Brobbey scores twice against Sweden",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Papers: Former Newcastle co-owners consider West Ham takeover",
+      "headline": "England's Woad stays in LPGA Tour title hunt | 'I need to make less bogeys!'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover",
+      "url": "https://www.skysports.com/golf/news/12040/13556173/lpga-tour-englands-lottie-woad-one-off-meijer-lpga-classic-lead-and-chasing-victory-ahead-of-next-womens-major",
       "isFeatured": false,
       "hasAiSummary": false
     }
