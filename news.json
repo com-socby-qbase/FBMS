@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T15:32:44.918Z",
+    "generatedAt": "2026-06-22T17:18:13.525Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "The key differences between Tuchel and Southgate's England teams",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.com/sport/football/articles/cr5jv5vd1dro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Box office battles, O'Brien dominance & draw bias | Royal Ascot reflections",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13556802/royal-ascot-kevin-blake-reflects-on-box-office-battles-aidan-obrien-dominance-and-draw-bias-debate",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Iran leave note asking for peace after Belgium draw",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Draper wins opening match at Eastbourne under new coach Murray",
       "source": "Sky Sports",
@@ -26,17 +46,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Iran leave note asking for peace after Belgium draw",
+      "headline": "How football united behind Doku after childbirth criticism",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Warren: No venue for Fury-AJ yet, but no danger of collapse",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13556806/tyson-fury-vs-anthony-joshua-no-confirmed-venue-for-heavyweight-super-fight-but-no-danger-of-collapse-says-frank-warren",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Salah scores to help Egypt to first World Cup win",
+      "source": "BBC Sport",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.com/sport/videos/c74ydzpe274o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Ex-Wimbledon champ given four-year ban for refusing anti-doping test",
       "source": "Sky Sports",
@@ -46,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "How football united behind Doku after childbirth criticism",
+      "headline": "Madueke's remarkable season - from petition to World Cup starter",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Maresca set to travel to Manchester to complete City move",
+      "headline": "City close in on £17m deal for Maresca",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13545794/enzo-maresca-to-man-city-pep-guardiolas-successor-lined-up-as-former-chelsea-boss-agrees-to-take-over-at-etihad-stadium",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Madueke's remarkable season - from petition to World Cup starter",
+      "headline": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Norris: Ferrari would 'embarrass' everyone with better engine",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
+      "headline": "Man Utd agree land deal for 100,000-seater stadium",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cewqy49vq0no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Spygate reunion, derbies & the biggest mismatch ever?! 10 EFL games to get excited about",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "West Ham sign defender Riesen on three-year deal",
+      "headline": "Cape Verde continue to surprise with entertaining Uruguay draw",
       "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.com/sport/football/articles/c982lnzrzjvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.com/sport/football/videos/c4gy5rkg0ddo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Is VAR being used differently at the World Cup vs the Premier League?",
       "source": "BBC Sport",
-      "timeAgo": "53m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.com/sport/football/articles/cy06881596wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Cape Verde are the story of this World Cup - are they everyone's second team?",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "A defender's view on how to stop the World Cup's best strikers",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Could Eubank Jr launch comeback in Nigeria?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13556069/chris-eubank-jr-british-boxer-in-nigeria-as-he-considers-options-for-return-to-ring-for-first-fight-since-conor-benn-defeat",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Goalkeeper Keating turns down new Man City deal",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "51m",
       "url": "https://www.bbc.com/sport/football/articles/c75y4v4kl2yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "WOW! That's the first punch | Boxing's FASTEST Knockouts",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13554664/wow-thats-the-first-punch-boxings-fastest-knockouts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Does it matter if Scotland lose and still make history?",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Go for Guehi? Tuchel's centre-back dilemma",
+      "topic": "Video",
+      "headline": "Itauma: He's a 'perfect' fighter | Hrgovic 'not impressed' by Moses",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia",
+      "url": "https://www.skysports.com/watch/video/13556829/boxing-moses-itauma-and-filip-hrgovic-preview-their-upcoming-fight-in-august",
       "isFeatured": false,
       "hasAiSummary": false
     }
