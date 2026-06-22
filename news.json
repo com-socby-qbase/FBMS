@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T09:31:12.001Z",
+    "generatedAt": "2026-06-22T11:41:11.888Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Salah's World Cup pain ends as he fires Egypt to historic win",
+    "headline": "Madueke's remarkable season - from petition to World Cup starter",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "53m",
+    "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,27 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Cape Verde are the story of this World Cup - they are everyone's second team",
+      "headline": "Spygate reunion, derbies & the biggest mismatch ever?! 10 EFL games to get excited about",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13550733/efl-2026-27-spygate-reunion-derbies-galore-the-biggest-mismatch-ever-10-games-to-get-excited-about-this-season",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Iran leave note asking for peace after Belgium draw",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Cape Verde are the story of this World Cup - are they everyone's second team?",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13556552/cape-verde-at-the-world-cup-african-nation-have-gained-the-hearts-of-the-world-as-everyones-second-team-after-brave-draw-with-uruguay",
@@ -26,17 +46,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "How do you stop Messi, Mbappe, Haaland and Kane?",
+      "headline": "How football united behind Doku after childbirth criticism",
       "source": "BBC Sport",
       "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Could Eubank Jr launch comeback in Nigeria?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13556069/chris-eubank-jr-british-boxer-in-nigeria-as-he-considers-options-for-return-to-ring-for-first-fight-since-conor-benn-defeat",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "A defender's view on how to stop the World Cup's best strikers",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "WOW! That's the first punch | Boxing's FASTEST Knockouts",
       "source": "Sky Sports",
@@ -46,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "One of World Cup's great stories - can Cape Verde become legends?",
+      "headline": "Salah's World Cup pain ends as he fires Egypt to historic win",
       "source": "BBC Sport",
       "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Go for Guehi? Tuchel's centre-back dilemma after Croatia concerns",
+      "headline": "Go for Guehi? Tuchel's centre-back dilemma",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Salah scores to help Egypt to first World Cup win",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.com/sport/videos/c74ydzpe274o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "England's unsurprising defeat sets up tantalising decider with all eyes on Stokes",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Lamine Yamal shows why this could be his World Cup",
+      "headline": "Does it matter if Scotland lose and still make history?",
       "source": "BBC Sport",
       "timeAgo": "14h",
-      "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'Not where it needed to be' - Scheffler rues errors in failed Grand Slam bid",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 15",
+      "headline": "One of World Cup's great stories - can Cape Verde become legends?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/c0k21483m76o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Mercedes to discuss Antonelli-Russell battles amid Hamilton title threat",
       "source": "Sky Sports",
@@ -126,82 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Does it matter if Scotland lose and still make history?",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Report",
-      "headline": "Salah inspires Egypt to first-ever World Cup win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-egypt/report/549803",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Saka trains with England squad before Ghana match",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'New York didn’t like me' - Did US Open crowd go too far with Clark?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13556476/us-open-winner-wyndham-clark-admits-crowd-didnt-like-him-after-being-subjected-to-heckling-during-final-round",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Liverpool reject £21.7m Inter Milan offer for Jones",
+      "headline": "Who am I? Guess World Cup star No 15",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c0k21483m76o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "New Zealand vs Egypt: All the key moments and rate the players",
+      "topic": "News Story",
+      "headline": "England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-egypt/live/549803",
+      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Cape Verde continue to surprise with entertaining Uruguay draw",
+      "headline": "Lamine Yamal shows why this could be his World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy5rkg0ddo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Hull KR claim dominant win over Leigh Leopards",
+      "topic": "Report",
+      "headline": "Salah inspires Egypt to first-ever World Cup win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13555955/hull-kr-22-8-leigh-leopards-super-league-highlights",
+      "url": "https://www.skysports.com/football/new-zealand-vs-egypt/report/549803",
       "isFeatured": false,
       "hasAiSummary": false
     }
