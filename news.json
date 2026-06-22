@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T22:53:42.917Z",
+    "generatedAt": "2026-06-22T23:33:13.564Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "'Simply stunning' - Mbappe opens the scoring against Iraq",
+      "headline": "All the angles of Messi's record-breaking goal",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.com/sport/football/videos/c17ynvkjkjwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Messi makes World Cup history as Argentina reach last 32",
+      "headline": "'Simply stunning' - Mbappe opens the scoring against Iraq",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Iran leave note asking for peace after Belgium draw",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Doku returning to World Cup after birth of first child",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Rogers keen on Arsenal move - Tuesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/articles/ckg84mz08d8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Fans delayed entry as bad weather affects France-Iraq tie",
+      "headline": "Messi makes World Cup history as Argentina reach last 32",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d7g5xxw8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
