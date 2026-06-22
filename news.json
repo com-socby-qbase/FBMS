@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T13:40:27.816Z",
+    "generatedAt": "2026-06-22T15:32:44.918Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Madueke's remarkable season - from petition to World Cup starter",
+    "headline": "The key differences between Tuchel and Southgate's England teams",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.com/sport/football/articles/cr5jv5vd1dro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Draper wins opening match at Eastbourne under new coach Murray",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13556677/eastbourne-open-britains-jack-draper-defeats-marcos-giron-in-first-match-under-new-coach-andy-murray",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Iran leave note asking for peace after Belgium draw",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Ex-Wimbledon champ given four-year ban for refusing anti-doping test",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13556775/former-wimbledon-champion-marketa-vondrousova-banned-for-four-years-for-refusing-anti-doping-test-last-year",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "How football united behind Doku after childbirth criticism",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Maresca set to travel to Manchester to complete City move",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13545794/enzo-maresca-to-man-city-pep-guardiolas-successor-lined-up-as-former-chelsea-boss-agrees-to-take-over-at-etihad-stadium",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Madueke's remarkable season - from petition to World Cup starter",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Norris: Ferrari would 'embarrass' everyone with better engine",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13554290/lando-norris-mclaren-driver-says-ferrari-would-embarrass-everyone-with-better-f1-engine-after-barcelona-win",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Spygate reunion, derbies & the biggest mismatch ever?! 10 EFL games to get excited about",
       "source": "Sky Sports",
@@ -26,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Iran leave note asking for peace after Belgium draw",
+      "headline": "West Ham sign defender Riesen on three-year deal",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "32m",
+      "url": "https://www.bbc.com/sport/football/articles/c982lnzrzjvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13556733/england-world-cup-latest-jamie-carragher-says-thomas-tuchel-cant-afford-to-drop-declan-rice-against-ghana-despite-fitness-concerns",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Is VAR being used differently at the World Cup vs the Premier League?",
+      "source": "BBC Sport",
+      "timeAgo": "53m",
+      "url": "https://www.bbc.com/sport/football/articles/cy06881596wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Cape Verde are the story of this World Cup - are they everyone's second team?",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How football united behind Doku after childbirth criticism",
+      "headline": "A defender's view on how to stop the World Cup's best strikers",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Could Eubank Jr launch comeback in Nigeria?",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
+      "headline": "Goalkeeper Keating turns down new Man City deal",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c75y4v4kl2yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "WOW! That's the first punch | Boxing's FASTEST Knockouts",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "A defender's view on how to stop the World Cup's best strikers",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Go for Guehi? Tuchel's centre-back dilemma",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Does it matter if Scotland lose and still make history?",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "England's unsurprising defeat sets up tantalising decider with all eyes on Stokes",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13556506/england-predictably-beaten-at-the-oval-after-two-weeks-of-chaos-with-ben-stokes-now-back-for-series-decider-vs-new-zealand-at-trent-bridge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Germany defender Schlotterbeck out of World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "53m",
-      "url": "https://www.bbc.com/sport/football/articles/cgk6rzd5g58o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "'Not where it needed to be' - Scheffler rues errors in failed Grand Slam bid",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13556481/us-open-scottie-scheffler-rues-slow-start-to-major-after-missing-out-on-grand-slam-and-praises-wyndham-clarks-win",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Salah scores to help Egypt to first World Cup win",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/videos/c74ydzpe274o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Mercedes to discuss Antonelli-Russell battles amid Hamilton title threat",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13554590/mercedes-to-discuss-kimi-antonelli-george-russell-racing-rules-as-lewis-hamilton-ferrari-title-threat-grows-ahead-of-austrian-gp",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Salah's World Cup pain ends as he fires Egypt to historic win",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "One of World Cup's great stories - can Cape Verde become legends?",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Salah inspires Egypt to first-ever World Cup win",
+      "topic": "News Story",
+      "headline": "Go for Guehi? Tuchel's centre-back dilemma",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-egypt/report/549803",
+      "url": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia",
       "isFeatured": false,
       "hasAiSummary": false
     }
