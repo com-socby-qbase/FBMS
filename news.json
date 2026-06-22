@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T23:46:59.829Z",
+    "generatedAt": "2026-06-22T01:00:18.025Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Lamine Yamal shows why this could be his World Cup",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,86 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "'New York didn’t like me' - Did US Open crowd go too far with Clark?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13556476/us-open-winner-wyndham-clark-admits-crowd-didnt-like-him-after-being-subjected-to-heckling-during-final-round",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Saka trains with England squad before Ghana match",
+      "source": "BBC Sport",
+      "timeAgo": "46m",
+      "url": "https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "New Zealand vs Egypt LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/new-zealand-vs-egypt/live/549803",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Does it matter if Scotland lose and still make history?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "They've done it again! Cape Verde claim another draw with Uruguay",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/uruguay-vs-cape-verde/report/549805",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "The World Cup records that look set to be broken",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Uruguay 2-2 Cape Verde THRILLER - the key moments and rate the players!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/uruguay-vs-cape-verde/live/549805",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Mesaafi and Glamorous Breeze clash at Windsor",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Does it matter if Scotland lose and still make history?",
+      "headline": "Unbeaten Iran will go down in history - Ghalenoei",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "35m",
+      "url": "https://www.bbc.com/sport/football/articles/cx237pe074go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Iran go top of group with battling draw vs frustrated 10-man Belgium",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "The World Cup records that look set to be broken",
+      "headline": "Tuchel not afraid to shout at players - Watkins",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Papers: Liverpool knock back Inter's Jones offer",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
+      "headline": "Rashford might still join Barca - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.com/sport/football/articles/cddlz15pqyqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "England latest: Watkins raises hopes over Saka fitness ahead of Ghana game",
       "source": "Sky Sports",
@@ -86,37 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Tuchel not afraid to shout at players - Watkins",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "WOW AGAIN! Cape Verde level after horror Uruguay defending LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/uruguay-vs-cape-verde/live/549805",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Liverpool reject £21.7m Inter Milan offer for Jones",
+      "headline": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Women's World Matchplay field confirmed with Greaves, Ashton, Sherrock in contention",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "What have we learned from Scotland's World Cup so far?",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "From potential eagle to bogey! | Clark blows US Open wide open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556519/us-open-wyndham-clark-falters-with-sloppy-bogey-after-poor-club-selection",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "The beauty of sharing your child's first World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Wimbledon build-up LIVE! Will Serena win another Grand Slam title at 44?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Rashford might still join Barca - Monday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.com/sport/football/articles/cddlz15pqyqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Bergvall asks to leave Tottenham",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556507/lucas-bergvall-transfer-news-tottenham-midfielder-asks-to-leave-premier-league-club-in-search-for-first-team-football",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Ten-man Belgium remain winless after draw with Iran",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "This is not a drill! Serena to play Wimbledon singles",
+      "topic": "Video",
+      "headline": "Clark hangs on to win dramatic US Open!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556436/serena-williams-american-23-time-grand-slam-winner-receives-wimbledon-womens-singles-wild-card",
+      "url": "https://www.skysports.com/watch/video/13556549/us-open-round-four-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
