@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T22:13:19.629Z",
+    "generatedAt": "2026-06-22T22:53:42.917Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From retirement to records - another immortal Messi moment",
     "source": "BBC Sport",
-    "timeAgo": "29m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Messi makes World Cup history as Argentina reach last 32",
+      "headline": "'Simply stunning' - Mbappe opens the scoring against Iraq",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Man City close in on appointing Maresca as manager",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.com/sport/football/articles/cn59kxz44wgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "The key differences between Tuchel and Southgate's England teams",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/cr5jv5vd1dro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Fans delayed entry as bad weather affects France-Iraq tie",
+      "headline": "Messi makes World Cup history as Argentina reach last 32",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d7g5xxw8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Brilliant finish' - Messi becomes all-time leading World Cup scorer",
+      "headline": "Iran leave note asking for peace after Belgium draw",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/videos/c70y7kdjd8do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Iran leave note asking for peace after Belgium draw",
+      "headline": "Doku returning to World Cup after birth of first child",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Doku returning to World Cup after birth of first child",
+      "headline": "How Ferguson became Scotland's most influential World Cup player",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "How Ferguson became Scotland's most influential World Cup player",
+      "headline": "Rogers keen on Arsenal move - Tuesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/ckg84mz08d8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rogers keen on Arsenal move - Tuesday's gossip",
+      "headline": "Fans delayed entry as bad weather affects France-Iraq tie",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/ckg84mz08d8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/cn4d7g5xxw8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
