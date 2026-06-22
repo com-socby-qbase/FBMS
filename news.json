@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T18:47:20.333Z",
+    "generatedAt": "2026-06-22T20:04:13.258Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'Brilliant finish' - Messi becomes all-time leading World Cup scorer",
     "source": "BBC Sport",
-    "timeAgo": "46m",
+    "timeAgo": "2h",
     "url": "https://www.bbc.com/sport/football/videos/c70y7kdjd8do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Saliba fit to start for France vs Iraq LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/france-vs-iraq/live/549806",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Messi becomes World Cup all-time leading scorer - how has he stayed at the top?",
+      "source": "BBC Sport",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.com/sport/football/articles/cvg7nx477pvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Report",
+      "headline": "Messi makes scoring history with double to send Argentina through",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/argentina-vs-austria/report/549808",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Man City close in on appointing Maresca as manager",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cn59kxz44wgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Dubois: 'Baumgardner fight will be unavoidable, unmissable and undeniable'",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Messi becomes World Cup all-time leading scorer - how has he stayed at the top?",
+      "headline": "The key differences between Tuchel and Southgate's England teams",
       "source": "BBC Sport",
-      "timeAgo": "14m",
-      "url": "https://www.bbc.com/sport/football/articles/cvg7nx477pvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.com/sport/football/articles/cr5jv5vd1dro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Draper 'wins ugly' in Eastbourne opener under new coach Murray",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Man City close in on appointing Maresca as manager",
+      "headline": "Gates open after bad weather affects France-Iraq tie",
       "source": "BBC Sport",
-      "timeAgo": "4m",
-      "url": "https://www.bbc.com/sport/football/articles/cn59kxz44wgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/articles/cn4d7g5xxw8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Can 'familiar face' Maresca carry on Guardiola's work at Man City?",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The key differences between Tuchel and Southgate's England teams",
+      "headline": "All of Messi's record-breaking 18 World Cup goals",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.com/sport/football/articles/cr5jv5vd1dro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.com/sport/football/videos/czj8m1zgrzvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Article/Blog",
       "headline": "Why Tuchel will leave it late to name England team vs Ghana",
       "source": "Sky Sports",
@@ -86,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Fans told not to travel to France-Iraq tie due to bad weather",
+      "headline": "Iran leave note asking for peace after Belgium draw",
       "source": "BBC Sport",
-      "timeAgo": "26m",
-      "url": "https://www.bbc.com/sport/football/articles/cn4d7g5xxw8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Messi breaks World Cup scoring record with goal vs Austria",
+      "headline": "Messi breaks World Cup scoring record with goals vs Austria",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13556817/lionel-messi-argentina-star-breaks-world-cup-scoring-record-with-goal-against-austria-at-2026-world-cup",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Iran leave note asking for peace after Belgium draw",
+      "headline": "Doku returning to World Cup after birth of first child",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Box office battles, O'Brien dominance & draw bias | Royal Ascot reflections",
       "source": "Sky Sports",
@@ -126,37 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "All of Messi's record-breaking 17 World Cup goals",
+      "headline": "How Ferguson became Scotland's most influential World Cup player",
       "source": "BBC Sport",
-      "timeAgo": "35m",
-      "url": "https://www.bbc.com/sport/football/videos/czj8m1zgrzvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Warren: No venue for Fury-AJ yet, but no danger of collapse",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13556806/tyson-fury-vs-anthony-joshua-no-confirmed-venue-for-heavyweight-super-fight-but-no-danger-of-collapse-says-frank-warren",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Doku returning to World Cup after birth of first child",
-      "source": "BBC Sport",
-      "timeAgo": "47m",
-      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Ex-Wimbledon champ given four-year ban for refusing anti-doping test",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "How Ferguson became Scotland's most influential World Cup player",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "City close in on £17m deal for Maresca",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13545794/enzo-maresca-to-man-city-pep-guardiolas-successor-lined-up-as-former-chelsea-boss-agrees-to-take-over-at-etihad-stadium",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Madueke's remarkable season - from petition to World Cup starter",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Norris: Ferrari would 'embarrass' everyone with better engine",
+      "headline": "Warren: No venue for Fury-AJ yet, but no danger of collapse",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13554290/lando-norris-mclaren-driver-says-ferrari-would-embarrass-everyone-with-better-f1-engine-after-barcelona-win",
+      "url": "https://www.skysports.com/boxing/news/12040/13556806/tyson-fury-vs-anthony-joshua-no-confirmed-venue-for-heavyweight-super-fight-but-no-danger-of-collapse-says-frank-warren",
       "isFeatured": false,
       "hasAiSummary": false
     }
