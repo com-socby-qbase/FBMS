@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T17:25:15.378Z",
+    "generatedAt": "2026-06-23T18:11:43.465Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Will England fans in Boston follow Scotland's lead?",
+    "headline": "Trump to attend World Cup final and present trophy",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "24m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Have World Cup changes made final group stage games unfair?",
+      "headline": "Will England fans in Boston follow Scotland's lead?",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "PGA Tour's radical new changes explained",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13557146/explained-pga-tour-introduces-promotion-and-relegation-in-big-shake-up",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The trial that saved Antoine Semenyo's career",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621qjnvrrzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "O'Neil appointed new Ipswich manager",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "From non-league to the World Cup - the Semenyo story",
+      "headline": "Have World Cup changes made final group stage games unfair?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "'He drove fours hours to see me fight' | McKenna's friendship with Kendrick Lamar",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "The World Cup stars being targeted by Premier League clubs",
+      "headline": "From non-league to the World Cup - the Semenyo story",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "PGA Tour introduces promotion and relegation from 2028 in big shake-up",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "How do you solve a problem like Ronaldo?",
+      "headline": "Norway win five-goal thriller against Senegal to make last 32",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Johansson confident Motherwell can build on success",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Anderson's journey to England star and potential British record",
+      "headline": "The World Cup stars being targeted by Premier League clubs",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "'It's unplayable' | Tsitsipas fumes with umpire over 'soft balls'",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "O'Neil signs three-year deal as new Ipswich boss",
+      "headline": "Anderson's journey to England star and potential British record",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg41ewngvwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Arc in line to be open to geldings in 2027",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
+      "headline": "O'Neil signs three-year deal as new Ipswich boss",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg41ewngvwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "New Zealand eliminate Scotland with six-wicket victory",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Ramsey appointed Oxford United head coach",
       "source": "BBC Sport",
-      "timeAgo": "35m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg43gnlyzxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hickey returns to fight Axe on August 8 Dublin show live on Sky Sports",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13557062/sam-hickey-returns-to-fight-brad-axe-on-august-8-dublin-show-live-on-sky-sports-after-stunning-knockout-victory",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "What are Clarke's big calls for Brazil? And who would you pick?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyn77622xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "McCullum denies Stokes rift as he praises 'outstanding' England captain",
+      "headline": "Hickey returns to fight Axe on August 8 Dublin show live on Sky Sports",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557006/ben-stokes-england-head-coach-brendon-mccullum-denies-rift-as-he-praises-returning-captain-ahead-of-third-test-vs-new-zealand",
+      "url": "https://www.skysports.com/boxing/news/12040/13557062/sam-hickey-returns-to-fight-brad-axe-on-august-8-dublin-show-live-on-sky-sports-after-stunning-knockout-victory",
       "isFeatured": false,
       "hasAiSummary": false
     }
