@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T12:02:41.910Z",
+    "generatedAt": "2026-06-23T13:16:39.350Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From non-league to the World Cup - the Semenyo story",
     "source": "BBC Sport",
-    "timeAgo": "21m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "A Golden Boot race for the ages - but who will come out on top?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "From retirement to records - another immortal Messi moment",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,27 +58,27 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Itauma on track for title shot after Hrgovic, expects Dubois next year",
+      "headline": "Wilshere: Tuchel factor can help England win the World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13557009/moses-itauma-on-track-for-world-heavyweight-title-fight-after-filip-hrgovic-expects-daniel-dubois-showdown-next-year",
+      "url": "https://www.skysports.com/football/news/12040/13556939/jack-wilshere-interview-england-can-win-world-cup-with-thomas-tuchel-factor-harry-kane-goals-and-physical-dominance-in-midfield",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "How do you solve a problem like Ronaldo?",
+      "headline": "The World Cup stars being targeted by Premier League clubs",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Who will win the World Cup Golden Boot? Have your say...",
+      "headline": "World Cup news: English ref Oliver to take charge of Norway vs France",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
@@ -88,15 +88,35 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Anderson's journey to England star and potential British record",
+      "headline": "How do you solve a problem like Ronaldo?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Itauma on track for title shot after Hrgovic, expects Dubois next year",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13557009/moses-itauma-on-track-for-world-heavyweight-title-fight-after-filip-hrgovic-expects-daniel-dubois-showdown-next-year",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Anderson's journey to England star and potential British record",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Messi, Mbappe and Haaland set blistering pace - will Kane join Golden Boot party?",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
+      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51860v8zyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "How far can great British hope Raducanu go at Wimbledon?",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
+      "headline": "What are Clarke's big calls for Brazil? And who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyn77622xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Batsman dropped first ball... then makes record score for club!",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Norway win five-goal thriller against Senegal to make last 32",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Report",
       "headline": "'On fire' Haaland sees Norway edge Senegal as Odegaard leads 'Viking row'",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "What France & Iraq did during 'mentally draining' two-hour weather delay",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Why Red Bull face big Austrian GP amid Verstappen uncertainty",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13556628/austrian-gp-why-red-bull-face-a-big-home-race-weekend-with-car-upgrades-for-max-verstappen-isack-hadjar-expected",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "France weather storm to beat Iraq and sail into knockouts",
+      "headline": "Who are the Ghana players England should look out for?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdr4jg87z71o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Antetokounmpo traded to Heat in blockbuster NBA deal",
+      "headline": "Why Red Bull face big Austrian GP amid Verstappen uncertainty",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13556936/nba-giannis-antetokounmpo-traded-to-miami-heat-from-milwaukee-bucks-in-blockbuster-deal-involving-player-and-draft-picks-haul",
+      "url": "https://www.skysports.com/f1/news/12040/13556628/austrian-gp-why-red-bull-face-a-big-home-race-weekend-with-car-upgrades-for-max-verstappen-isack-hadjar-expected",
       "isFeatured": false,
       "hasAiSummary": false
     }
