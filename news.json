@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T13:16:39.350Z",
+    "generatedAt": "2026-06-23T14:19:43.295Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "From non-league to the World Cup - the Semenyo story",
+    "headline": "Will England fans in Boston follow Scotland's lead?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "27m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "PGA Tour to feature promotion and relegation from 2028",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13557077/pga-tour-format-shake-up-featuring-promotion-and-relegation-in-two-series-structure-revealed-for-2028-season",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "From non-league to the World Cup - the Semenyo story",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Arc in line to be open to geldings in 2027",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13557083/prix-de-larc-de-triomphe-parislongchamp-showpiece-in-line-to-be-open-to-geldings-in-2027",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The World Cup stars being targeted by Premier League clubs",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "New Zealand eliminate Scotland with six-wicket victory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "How do you solve a problem like Ronaldo?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "McCullum denies Stokes rift as he praises 'outstanding' England captain",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13557006/ben-stokes-england-head-coach-brendon-mccullum-denies-rift-as-he-praises-returning-captain-ahead-of-third-test-vs-new-zealand",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Anderson's journey to England star and potential British record",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Cayless announced as new Hull KR coach for 2027 on three-year deal",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "A Golden Boot race for the ages - but who will come out on top?",
+      "headline": "Man Utd will not enter EFL Trophy next season",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg02v1yvx1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Creative Queen chasing back-to-back wins at Newbury",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "From retirement to records - another immortal Messi moment",
+      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Wilshere: Tuchel factor can help England win the World Cup",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "The World Cup stars being targeted by Premier League clubs",
+      "headline": "What are Clarke's big calls for Brazil? And who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyn77622xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "World Cup news: English ref Oliver to take charge of Norway vs France",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "How do you solve a problem like Ronaldo?",
+      "headline": "A Golden Boot race for the ages - but who will come out on top?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Itauma on track for title shot after Hrgovic, expects Dubois next year",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Anderson's journey to England star and potential British record",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Messi, Mbappe and Haaland set blistering pace - will Kane join Golden Boot party?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "How far can great British hope Raducanu go at Wimbledon?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13556774/emma-raducanu-how-far-can-british-no-1-go-at-wimbledon-after-a-successful-run-to-hsbc-championships-final-at-queens-club",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What are Clarke's big calls for Brazil? And who would you pick?",
-      "source": "BBC Sport",
-      "timeAgo": "23m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyn77622xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Batsman dropped first ball... then makes record score for club!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13556874/cricket-batsman-dropped-first-ball-then-makes-record-score-for-club",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Norway win five-goal thriller against Senegal to make last 32",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "'On fire' Haaland sees Norway edge Senegal as Odegaard leads 'Viking row'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-senegal/report/549807",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Who are the Ghana players England should look out for?",
+      "headline": "The trial that saved Antoine Semenyo's career",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621qjnvrrzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Why Red Bull face big Austrian GP amid Verstappen uncertainty",
+      "headline": "Messi, Mbappe and Haaland set blistering pace - will Kane join Golden Boot party?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13556628/austrian-gp-why-red-bull-face-a-big-home-race-weekend-with-car-upgrades-for-max-verstappen-isack-hadjar-expected",
+      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
       "isFeatured": false,
       "hasAiSummary": false
     }
