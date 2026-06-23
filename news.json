@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T09:32:09.648Z",
+    "generatedAt": "2026-06-23T10:49:01.655Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "A Golden Boot race for the ages - but who will come out on top?",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "From retirement to records - another immortal Messi moment",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Norway win five-goal thriller against Senegal to make last 32",
+      "headline": "How do you solve a problem like Ronaldo?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 16",
+      "headline": "Anderson's journey to England star and potential British record",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvp6y3yg0yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "What France & Iraq did during 'mentally draining' two-hour weather delay",
+      "headline": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq51860v8zyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
+      "headline": "Relive every World Cup match with BBC Sport's 3D Experience",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51860v8zyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "England boss Tuchel not a fan of hydration breaks",
+      "headline": "Norway win five-goal thriller against Senegal to make last 32",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,15 +148,35 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "France weather storm to beat Iraq and sail into knockouts",
+      "headline": "What France & Iraq did during 'mentally draining' two-hour weather delay",
       "source": "BBC Sport",
       "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdr4jg87z71o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Why Red Bull face big Austrian GP amid Verstappen uncertainty",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13556628/austrian-gp-why-red-bull-face-a-big-home-race-weekend-with-car-upgrades-for-max-verstappen-isack-hadjar-expected",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Who am I? Guess World Cup star No 16",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvp6y3yg0yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Antetokounmpo traded to Heat in blockbuster NBA deal",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Messi makes World Cup history as Argentina reach last 32",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Algeria earn turnaround win to knock out World Cup debutants Jordan",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Algeria complete late turnaround to send Jordan home",
+      "headline": "France weather storm to beat Iraq and sail into knockouts",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyw72k34nwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdr4jg87z71o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Why Red Bull face big home Austrian GP",
+      "topic": "Report",
+      "headline": "Algeria earn turnaround win to knock out World Cup debutants Jordan",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13556628/austrian-gp-why-red-bull-face-a-big-home-race-weekend-with-car-upgrades-for-max-verstappen-isack-hadjar-expected",
+      "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
       "isFeatured": false,
       "hasAiSummary": false
     }
