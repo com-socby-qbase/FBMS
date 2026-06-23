@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T20:31:31.719Z",
+    "generatedAt": "2026-06-23T21:20:53.484Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Trump to attend World Cup final and present trophy",
+    "headline": "Deschamps returns to France after death of his mother",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "47m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Will England fans in Boston follow Scotland's lead?",
+      "headline": "Chelsea close in on Palestra as Alonso's first signing",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Real sign Schroeder in 'most expensive' women's transfer",
+      "headline": "Rate the players in England v Ghana",
       "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyk13989ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Portugal thrash Uzbekistan as Ronaldo scores twice to make history",
+      "headline": "Trump to attend World Cup final and present trophy",
       "source": "BBC Sport",
-      "timeAgo": "43m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c932y4rrw02o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Have World Cup changes made final group stage games unfair?",
+      "headline": "Real sign Schroeder in 'most expensive' women's transfer",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyk13989ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "From non-league to the World Cup - the Semenyo story",
+      "headline": "Portugal thrash Uzbekistan as Ronaldo scores twice to make history",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c932y4rrw02o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Quiz: Name every England World Cup goalscorer since 2014",
+      "headline": "Have World Cup changes made final group stage games unfair?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Iran's US entry terms changed for final group game",
+      "headline": "From non-league to the World Cup - the Semenyo story",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4y0kz56o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Mendes scores 'brilliant' second goal for Portugal",
+      "headline": "Quiz: Name every England World Cup goalscorer since 2014",
       "source": "BBC Sport",
-      "timeAgo": "29m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Ramsey appointed Oxford United head coach",
+      "headline": "Man Utd & Arsenal track Scott - Wednesday gossip",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg43gnlyzxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "He has arrived! Ronaldo scores two as Portugal thrash Uzbekistan",
+      "topic": "News Story",
+      "headline": "Spence appears to snub Partey pre-match handshake",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/portugal-vs-uzbekistan/report/549810",
+      "url": "https://www.skysports.com/football/news/12040/13557221/thomas-partey-and-djed-spence-spurs-full-back-appears-to-snub-handshake-with-former-arsenal-midfielder",
       "isFeatured": false,
       "hasAiSummary": false
     }
