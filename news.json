@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T01:13:58.905Z",
+    "generatedAt": "2026-06-24T02:02:20.250Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "No need to panic for England - but this was a reality check",
     "source": "BBC Sport",
-    "timeAgo": "20m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Colombia vs DR Congo LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/colombia-vs-dr-congo/live/549811",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+      "source": "BBC Sport",
+      "timeAgo": "46m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Should Ghana have been awarded a penalty against England?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Video",
       "headline": "PGA Tour's radical new changes explained",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "'I'm back' - record-breaking Ronaldo answers critics",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "O'Neil appointed new Ipswich manager",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Spence appears not to shake hands with Partey",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "'He drove four hours to see me fight' | McKenna's friendship with Kendrick Lamar",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "England held to goalless draw by Ghana",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Croatia bounce back as Budimir strike eliminates Panama",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Deschamps returns to France after death of his mother",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "PGA Tour introduces promotion and relegation from 2028 in big shake-up",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Who failed to make an impact? England player ratings",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Johansson confident Motherwell can build on success",
       "source": "Sky Sports",
@@ -146,42 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Chelsea close in on Palestra as Alonso's first signing",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'It's unplayable!' | Tsitsipas fumes in biazarre row with umpire over 'soft balls'",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13557092/vanda-pharmaceuticals-mallorca-championships-stefanos-tsitsipas-argues-with-umpire-over-soft-balls",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Have World Cup changes made final group stage games unfair?",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Arc in line to be open to geldings in 2027",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13557083/prix-de-larc-de-triomphe-parislongchamp-showpiece-in-line-to-be-open-to-geldings-in-2027",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "New Zealand eliminate Scotland with six-wicket victory",
+      "topic": "Report",
+      "headline": "Uninspiring England held by Ghana",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
+      "url": "https://www.skysports.com/football/england-vs-ghana/report/549812",
       "isFeatured": false,
       "hasAiSummary": false
     }
