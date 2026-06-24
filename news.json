@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T21:46:45.451Z",
+    "generatedAt": "2026-06-24T22:30:59.490Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "England's James and Rice to have fitness assessed",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Madibo given five-game ban for causing Kone leg break",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "England to face Scotland? World Cup knockout stage as it stands",
       "source": "BBC Sport",
-      "timeAgo": "42m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "All the big moments from Group B finale as teams learn knockout fate!",
+      "topic": "Report",
+      "headline": "Switzerland fight off late Canada barrage to claim Group B top spot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
+      "url": "https://www.skysports.com/football/switzerland-vs-canada/report/549817",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
+      "headline": "All the big moments from Group B finale as teams learn knockout fate!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,21 +97,21 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Switzerland fight off late Canada barrage to claim Group B top spot",
+      "topic": "Liveblog",
+      "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/switzerland-vs-canada/report/549817",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "What are Scotland's chances of progressing as third-place finishers?",
+      "headline": "Chelsea eye Lacroix as part of defensive rebuild",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqvxxqveo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "41m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15ykjn4l81o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Leeds agree contract with Fulham forward Wilson",
+      "headline": "What are Scotland's chances of progressing as third-place finishers?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqvxxqveo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
+      "headline": "Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "David scores with first touch for Canada",
+      "headline": "Bosnia boost last-32 hopes after win over Qatar",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0qy7kg7927o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyw7znzjwro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
+      "headline": "Switzerland beat Canada but both through to last 32",
       "source": "BBC Sport",
-      "timeAgo": "48m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "32m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c98219e7vdqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Stokes ‘frustrated and disappointed’– but will curfew saga free him again?",
+      "headline": "Hearn open to Fury vs Joshua America venue switch if ‘beneficial’",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557463/ben-stokes-england-captain-frustrated-and-disappointed-about-chaotic-few-weeks-but-will-curfew-saga-free-him-again",
+      "url": "https://www.skysports.com/boxing/news/12040/13557508/tyson-fury-vs-anthony-joshua-eddie-hearn-open-to-venue-switch-to-america-if-beneficial-despite-uk-clause",
       "isFeatured": false,
       "hasAiSummary": false
     }
