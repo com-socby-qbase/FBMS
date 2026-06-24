@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T02:02:20.250Z",
+    "generatedAt": "2026-06-24T03:25:10.573Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "No need to panic for England - but this was a reality check",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Colombia vs DR Congo LIVE!",
+      "headline": "Munoz goal ruled out as Colombia push for opener vs DR Congo LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/colombia-vs-dr-congo/live/549811",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
       "source": "BBC Sport",
-      "timeAgo": "46m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Should Ghana have been awarded a penalty against England?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "'I'm back' - record-breaking Ronaldo answers critics",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Spence appears not to shake hands with Partey",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "England held to goalless draw by Ghana",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Deschamps returns to France after death of his mother",
+      "headline": "No extra revenue for Fifa from hydration breaks - Infantino",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "58m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1ly8emz4n1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who failed to make an impact? England player ratings",
+      "headline": "Quiz: How well do you know birthday boy Messi at World Cups?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdejv5z320o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Chelsea close in on Palestra as Alonso's first signing",
+      "headline": "Deschamps returns to France after death of his mother",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Anxious moment for England' - should this have been Ghana penalty?",
+      "headline": "Who failed to make an impact? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
