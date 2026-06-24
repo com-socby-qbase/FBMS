@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T14:18:41.629Z",
+    "generatedAt": "2026-06-24T15:24:55.814Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
+    "headline": "Scotland primed for game of their lives against fallible Brazil",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "9h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Scotland primed for game of their lives against fallible Brazil",
+      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Wales boss Bellamy in talks over Burnley job",
+      "headline": "As Messi turns 39, how he and Ronaldo keep breaking records",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/articles/c74y97k5jqpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Why Bellingham was not sent off for covering his mouth",
+      "headline": "Wales boss Bellamy in talks over Burnley job",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "headline": "Why Bellingham was not sent off for covering his mouth",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Leeds agree contract with Fulham forward Wilson",
+      "headline": "England to face Scotland? World Cup knockout stage as it stands",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Spurs' Tonali hunt shows chasm Newcastle must bridge",
+      "headline": "Leeds agree contract with Fulham forward Wilson",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8177l2wplo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Defender Gusto considering Chelsea future",
+      "headline": "Spurs' Tonali hunt shows chasm Newcastle must bridge",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8177l2wplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,40 +168,40 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Ramsey ready for challenge as new Oxford head coach",
+      "headline": "Defender Gusto considering Chelsea future",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c992g5n1edjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "Merson: Back to reality for England but we need to trust Tuchel",
+      "topic": "News Story",
+      "headline": "McInnes: I belong at Rangers",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557309/world-cup-2026-ghana-draw-a-reality-check-for-england-but-we-need-to-trust-thomas-tuchel-says-paul-merson",
+      "url": "https://www.skysports.com/football/news/12040/13557307/rangers-derek-mcinnes-says-he-belongs-at-ibrox-as-he-vows-to-win-scottish-premiership-as-quickly-as-possible",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Man Utd & Arsenal track Scott - Wednesday gossip",
+      "headline": "Ramsey ready for challenge as new Oxford head coach",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c992g5n1edjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Tiger Woods introduces PGA Tour shake-up in rare appearance since DUI arrest",
+      "topic": "Article/Blog",
+      "headline": "Merson: Back to reality for England but we need to trust Tuchel",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13557123/golf-tiger-woods-introduces-pga-tour-shake-up-in-rare-appearance-since-arrest",
+      "url": "https://www.skysports.com/football/news/12040/13557309/world-cup-2026-ghana-draw-a-reality-check-for-england-but-we-need-to-trust-thomas-tuchel-says-paul-merson",
       "isFeatured": false,
       "hasAiSummary": false
     }
