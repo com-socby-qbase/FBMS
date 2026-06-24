@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T19:35:29.877Z",
+    "generatedAt": "2026-06-24T20:21:01.731Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Scotland primed for game of their lives against fallible Brazil",
     "source": "BBC Sport",
-    "timeAgo": "13h",
+    "timeAgo": "14h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Group B finale as Bosnia lead Qatar in third place battle & Switzerland and Canada deadlocked LIVE!",
+      "headline": "Switzerland ahead vs Canada and taking top spot in Group B, Bosnia lead Qatar LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "England's James and Rice to have fitness assessed",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Madibo given five-game ban for causing Kone leg break",
       "source": "BBC Sport",
-      "timeAgo": "11m",
+      "timeAgo": "56m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "West Indies chasing 187 vs England with semi-final spot on the line LIVE!",
+      "headline": "England dominating West Indies after controversial wicket of Matthews LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13557303/england-vs-west-indies-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-lords-with-winners-to-reach-semi-finals",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
       "source": "BBC Sport",
-      "timeAgo": "53m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "England held to goalless draw by Ghana",
       "source": "BBC Sport",
-      "timeAgo": "20h",
+      "timeAgo": "21h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
