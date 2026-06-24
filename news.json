@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T23:37:20.990Z",
+    "generatedAt": "2026-06-24T00:06:32.158Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "'I'm back' - record-breaking Ronaldo answers critics",
+    "headline": "Should Ghana have been awarded a penalty against England?",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "20m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Spence appears not to shake hands with Partey",
+      "headline": "'I'm back' - record-breaking Ronaldo answers critics",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Deschamps returns to France after death of his mother",
+      "headline": "Spence appears not to shake hands with Partey",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Chelsea close in on Palestra as Alonso's first signing",
+      "headline": "Deschamps returns to France after death of his mother",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Which players failed to make an impact? England player ratings",
+      "headline": "England held to goalless draw by Ghana",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England held to goalless draw by Ghana",
+      "headline": "Who failed to make an impact? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "55m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Have World Cup changes made final group stage games unfair?",
+      "headline": "Chelsea close in on Palestra as Alonso's first signing",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Man Utd & Arsenal track Scott - Wednesday gossip",
+      "headline": "Have World Cup changes made final group stage games unfair?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'Anxious moment for England' - should this have been Ghana penalty?",
+      "headline": "Man Utd & Arsenal track Scott - Wednesday gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,17 +188,17 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Tuchel credits 'committed' Ghana defending after England draw",
+      "headline": "'Anxious moment for England' - should this have been Ghana penalty?",
       "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Report",
-      "headline": "Uninspiring England held by Ghana as difficult second game strikes again",
+      "headline": "Uninspiring England held by Ghana",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/england-vs-ghana/report/549812",
