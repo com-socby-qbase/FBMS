@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T11:27:18.160Z",
+    "generatedAt": "2026-06-24T12:20:15.527Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Tuchel's England is opposite to Southgate's - and is built to beat top teams",
+    "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
     "source": "BBC Sport",
-    "timeAgo": "11m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "headline": "Scotland primed for game of their lives against fallible Brazil",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Why Bellingham was not sent off for covering his mouth",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "'Give Brendon a break' - Stokes faces media ahead of England return LIVE!",
+      "headline": "'Give Brendon a break' - Stokes breaks silence and apologises ahead of England return",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13557306/ben-stokes-faces-media-ahead-of-england-test-return-live-captain-speaks-for-first-time-since-curfew-incident-ahead-of-new-zealand-series-decider",
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Scotland primed for game of their lives against fallible Brazil",
+      "headline": "England to face Scotland? World Cup knockout stage as it stands",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Leeds agree contract with Fulham forward Wilson",
       "source": "BBC Sport",
-      "timeAgo": "3m",
+      "timeAgo": "56m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Spurs' Tonali hunt shows chasm Newcastle must bridge",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq8177l2wplo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Lazio to pay compensation in pregnancy dispute case",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyewx9l7j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "'VAR went for a coffee' - should Ghana have had penalty against England?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 17",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g70vjd1n8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Ronaldo hits back after being 'retired' - but shuts down Messi question",
+      "headline": "Molinari reappointed as vice captain for Ryder Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557313/cristiano-ronaldo-hits-back-at-critics-who-retired-him-and-shuts-down-lionel-messi-question-after-starring-in-portugal-win",
+      "url": "https://www.skysports.com/golf/news/12040/13557329/ryder-cup-former-open-champion-francesco-molinari-appointed-as-vice-captain-for-team-europe-for-third-time",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Man Utd & Arsenal track Scott - Wednesday gossip",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
+      "headline": "'PlayStation' Palestra runs like a panther and can help Chelsea",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
+      "url": "https://www.skysports.com/football/news/12040/13557345/marco-palestra-to-chelsea-why-atalanta-wing-backs-dribbling-and-running-power-makes-him-a-fit-for-the-premier-league",
       "isFeatured": false,
       "hasAiSummary": false
     }
