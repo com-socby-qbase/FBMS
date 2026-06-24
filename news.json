@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T20:21:01.731Z",
+    "generatedAt": "2026-06-24T21:04:32.123Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Scotland primed for game of their lives against fallible Brazil",
+    "headline": "England's James and Rice to have fitness assessed",
     "source": "BBC Sport",
-    "timeAgo": "14h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "5h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Switzerland ahead vs Canada and taking top spot in Group B, Bosnia lead Qatar LIVE!",
+      "headline": "Switzerland hold on to take top spot in Group B from Canada, Bosnia lead Qatar LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England's James and Rice to have fitness assessed",
+      "headline": "Madibo given five-game ban for causing Kone leg break",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Madibo given five-game ban for causing Kone leg break",
+      "headline": "England to face Scotland? World Cup knockout stage as it stands",
       "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "0m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "headline": "Spurs want West Ham's Fernandes after Tonali bid rejected",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4ejzz5jneo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "England dominating West Indies after controversial wicket of Matthews LIVE!",
+      "headline": "England beat West Indies by 38 runs to make World Cup knockouts LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13557303/england-vs-west-indies-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-lords-with-winners-to-reach-semi-finals",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Spurs sign Dubravka on free transfer amid doubts over Vicario future",
+      "headline": "What are Scotland's chances of progressing as third-place finishers?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2de7gnj9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqvxxqveo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "What are Scotland's chances of progressing as third-place finishers?",
+      "headline": "Leeds agree contract with Fulham forward Wilson",
       "source": "BBC Sport",
       "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqvxxqveo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,15 +148,35 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Leeds agree contract with Fulham forward Wilson",
+      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Players will continue prize fund protests at Wimbledon",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13557501/wimbledon-2026-all-england-club-surprised-and-disappointed-as-leading-players-will-continue-prize-money-protests",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "What we learned from McInnes' Rangers unveiling",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly79pv5d6do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Crocker loses world title and unbeaten record to Paro in Australia",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Man Utd and Spurs battling for Fernandes and Arsenal target Scott",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England held to goalless draw by Ghana",
+      "headline": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
       "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Give Brendon a break' - Stokes denies rift with 'friend' McCullum",
+      "headline": "Man Utd and Spurs battling for Fernandes and Arsenal target Scott",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557336/ben-stokes-england-captain-says-misconception-about-relationship-with-brendon-mccullum-were-close-give-him-a-break",
+      "url": "https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott",
       "isFeatured": false,
       "hasAiSummary": false
     }
