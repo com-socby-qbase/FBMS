@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T23:08:45.709Z",
+    "generatedAt": "2026-06-24T23:40:31.410Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Vinicius Jr pounces on Scotland mistake to give Brazil early lead",
     "source": "BBC Sport",
-    "timeAgo": "29m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/videos/c77yd2r6pj4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Rate the players as Scotland face Brazil",
       "source": "BBC Sport",
-      "timeAgo": "22m",
+      "timeAgo": "54m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yen4pvmrvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Madibo given five-game ban for causing Kone leg break",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
