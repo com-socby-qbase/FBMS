@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T17:59:33.426Z",
+    "generatedAt": "2026-06-24T18:46:13.318Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Scotland primed for game of their lives against fallible Brazil",
     "source": "BBC Sport",
-    "timeAgo": "11h",
+    "timeAgo": "12h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cwyewnxnx11o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Group B finale as Switzerland battle Canada for top spot & Bosnia vs Qatar LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "England's James and Rice to have fitness assessed",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
       "source": "Sky Sports",
@@ -26,19 +46,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "England's James and Rice to have fitness assessed",
+      "headline": "England to face Scotland? World Cup knockout stage as it stands",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "England lose two early wickets vs West Indies at T20 World Cup LIVE!",
+      "headline": "Wyatt-Hodge fifty fuels England vs West Indies at T20 World Cup LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13557303/england-vs-west-indies-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-lords-with-winners-to-reach-semi-finals",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "headline": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Wales boss Bellamy in talks with Burnley over head coach role",
       "source": "Sky Sports",
@@ -66,17 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Spurs sign Dubravka on free transfer amid doubts over Vicario future",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9w2de7gnj9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Qatar's Madibo given five-match ban for leg-breaking tackle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "What are Scotland's chances of progressing as third-place finishers?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqvxxqveo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Stokes ‘frustrated and disappointed’– but will curfew saga free him again?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13557463/ben-stokes-england-captain-frustrated-and-disappointed-about-chaotic-few-weeks-but-will-curfew-saga-free-him-again",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Leeds agree contract with Fulham forward Wilson",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Crocker loses world title and unbeaten record to Paro in Australia",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Leeds agree contract with Fulham forward Wilson",
+      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c892dk5dnz8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Man Utd and Spurs battling for Fernandes and Arsenal target Scott",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
+      "headline": "Wales boss Bellamy in talks over Burnley job",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Give Brendon a break' - Stokes denies rift with 'friend' McCullum",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Wales boss Bellamy in talks over Burnley job",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Leeds reach agreement to sign Wilson on a free",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Gusto considering Chelsea future as club apply £75m price tag",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Did you consider stepping down? Stokes quizzed on breaking curfew",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13557330/ben-stokes-england-captain-quizzed-on-breaking-curfew",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "What we learned from McInnes' Rangers unveiling",
       "source": "BBC Sport",
-      "timeAgo": "45m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly79pv5d6do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Stokes breaks silence and apologises to team-mates ahead of England return",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13557306/ben-stokes-faces-media-ahead-of-england-test-return-live-captain-speaks-for-first-time-since-curfew-incident-ahead-of-new-zealand-series-decider",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "As Messi turns 39, how he and Ronaldo keep breaking records",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/articles/c74y97k5jqpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Will Hull and Woad stop Korda's major dominance? What to expect at Women's PGA",
+      "headline": "Leeds reach agreement to sign Wilson on a free",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13556714/kpmg-womens-pga-championship-storylines-will-charley-hull-and-lottie-woad-stop-world-no-1-nelly-kordas-major-dominance",
+      "url": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
       "isFeatured": false,
       "hasAiSummary": false
     }
