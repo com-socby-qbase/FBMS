@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T23:40:31.410Z",
+    "generatedAt": "2026-06-25T00:10:36.142Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,30 +18,30 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Golf leaderboards: US Open, LPGA Tour, Ladies European Tour and more",
+      "headline": "Who could play who in the last 32: Every potential knockout stage fixture!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Rate the players as Scotland face Brazil",
+      "headline": "Who was the pick of Scotland's players again?",
       "source": "BBC Sport",
-      "timeAgo": "54m",
+      "timeAgo": "5m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yen4pvmrvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Report",
-      "headline": "Bosnia keep hopes of maiden knockouts appearance alive with win over Qatar",
+      "topic": "News Story",
+      "headline": "Golf leaderboards: US Open, LPGA Tour, Ladies European Tour and more",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/bosnia-and-herzegovina-vs-qatar/report/549816",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,6 +57,26 @@
     },
     {
       "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "Bosnia keep hopes of maiden knockouts appearance alive with win over Qatar",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/bosnia-and-herzegovina-vs-qatar/report/549816",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "England reach T20 World Cup semi-finals after easing past West Indies",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "England to face Scotland? World Cup knockout stage as it stands",
+      "headline": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Switzerland fight off late Canada barrage to claim Group B top spot",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "headline": "England's James and Rice to have fitness assessed",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "All the big moments from Group B finale as teams learn knockout fate!",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "England's James and Rice to have fitness assessed",
+      "headline": "Spurs want West Ham's Fernandes after Tonali bid rejected",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4ejzz5jneo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Spurs want West Ham's Fernandes after Tonali bid rejected",
+      "headline": "Chelsea eye Lacroix as part of defensive rebuild",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4ejzz5jneo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15ykjn4l81o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Tuchel: England cannot rely on Saka for goals - but we need him desperately",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Chelsea eye Lacroix as part of defensive rebuild",
+      "headline": "Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15ykjn4l81o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "WI captain Mathews on controversial dismissal: 'I did not hit the ball'",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Wales boss Bellamy in talks with Burnley over head coach role",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Bosnia boost last-32 hopes after win over Qatar",
+      "headline": "'A phenomenal goal!' Isidor hits incredible second for Haiti",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyw7znzjwro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "32m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj6gxly40l6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "Qatar's Madibo given five-match ban for leg-breaking tackle",
+      "headline": "Wales boss Bellamy in talks with Burnley over head coach role",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
       "isFeatured": false,
       "hasAiSummary": false
     }
