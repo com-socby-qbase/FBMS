@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T18:16:42.623Z",
+    "generatedAt": "2026-06-25T19:13:23.457Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "The games that show the flaws in a 48-team World Cup",
+    "headline": "What each team need to reach World Cup knockouts",
     "source": "BBC Sport",
-    "timeAgo": "4h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "19h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Team news for Ecuador vs Germany & Curacao vs Ivory Coast LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "The games that show the flaws in a 48-team World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Hearts appoint Vrancken as McInnes' replacement",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Why it's time for Saka and Rashford - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "England stage mini fightback after draining first day at Trent Bridge",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Double Ballon d'Or winner Putellas to join London City Lionesses",
       "source": "BBC Sport",
-      "timeAgo": "16m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Tennis great Evert undergoes surgery as cancer returns",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Putellas decides to join London City Lionesses",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Bellamy to stay with Wales as Burnley move off",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Mercedes duo to 'race each other differently' amid Hamilton threat",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "What Scotland need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Article/Blog",
       "headline": "Neville: Rogers should replace Gordon against Panama",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Hincapie completes permanent £34.5m Arsenal move",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Hornets trade Ball and Green to Timberwolves for Reid and draft picks",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Burnley and West Ham to meet on first Championship weekend",
+      "headline": "Scotland on the brink after defeat by Brazil",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Cordina charged with assault after incident at petrol station",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "World Cup makes more than enough money - New York mayor Mamdani",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7wrgy037vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Thunder's Fawns a joy to watch - huge pressure on Australians in Super League'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13557666/tamsin-greenway-manchester-thunders-sophie-fawns-a-joy-to-watch-huge-pressure-on-australians-who-come-to-play-in-super-league",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "New Hearts boss Vrancken ready to challenge Old Firm",
+      "headline": "Burnley and West Ham to meet on first Championship weekend",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyp0ynvyeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "West Ham and Leicester discover Carabao Cup first-round opponents",
+      "headline": "'Thunder's Fawns a joy to watch - huge pressure on Australians in Super League'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550702/carabao-cup-2026-27-first-round-draw-championship-league-one-and-league-two-teams-discover-opponents",
+      "url": "https://www.skysports.com/netball/news/12040/13557666/tamsin-greenway-manchester-thunders-sophie-fawns-a-joy-to-watch-huge-pressure-on-australians-who-come-to-play-in-super-league",
       "isFeatured": false,
       "hasAiSummary": false
     }
