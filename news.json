@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T22:12:43.314Z",
+    "generatedAt": "2026-06-25T22:48:54.104Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Man City agree record fee with Forest for Anderson",
+    "headline": "Anderson's journey to England star and  potential British record signing",
     "source": "BBC Sport",
-    "timeAgo": "29m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "22m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Japan vs Sweden, Tunisia vs Netherlands LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/japan-vs-sweden/live/549824",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man City agree record fee with Forest for Anderson",
+      "source": "BBC Sport",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "English stars and Scheffler start well at Travelers as Clark checked by triple bogey",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13557871/travelers-championship-scottie-scheffler-matthew-fitzpatrick-start-well-as-us-open-champion-wyndham-clark-suffers-triple-bogey",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "James and Rice miss training in preparation for Panama",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "Pepe double sends Ivory Coast through as Curacao's historic WC campaign ends",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/curacao-vs-ivory-coast/report/549822",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Ivory Coast defeat Curacao to progress to knockout stages for first time",
+      "source": "BBC Sport",
+      "timeAgo": "2m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2dyp5znl85o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Injury-hit Warrington edge Catalans to move level on points with Leeds",
       "source": "Sky Sports",
@@ -26,82 +86,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "James and Rice miss training in preparation for Panama",
-      "source": "BBC Sport",
-      "timeAgo": "53m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Man City agree deal with Forest to sign Anderson",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13550595/elliot-anderson-transfer-news-man-city-agree-deal-to-sign-nottingham-forest-midfielder",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-      "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Lions player Arnold charged with leading kidnap plot and armed robbery",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/nfl/news/12040/13557845/nfl-detroit-lions-player-terrion-arnold-charged-with-leading-plot-to-kidnap-and-pistol-whip-three-people",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "What each team need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "22h",
+      "timeAgo": "23m",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "McIlroy gives Birkdale verdict after catching up with Faldo at Open venue",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13557821/rory-mcilroy-gives-royal-birkdale-verdict-after-preparing-at-venue-for-this-years-open-championship-live-on-sky-sports",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "The games that show the flaws in a 48-team World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Ecuador stun Germany to reach knockouts and dent Scotland's hopes LIVE!",
+      "topic": "Report",
+      "headline": "Ecuador stun Germany to reach knockouts and dent Scotland's hopes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
+      "url": "https://www.skysports.com/football/ecuador-vs-germany/report/549823",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,90 +118,90 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "India and South Africa win as battle for semi-final spots goes to last games",
+      "headline": "Man City agree deal to sign Anderson",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557727/womens-t20-world-cup-india-and-south-africa-win-to-maintain-push-for-semi-final-spots-from-group-2",
+      "url": "https://www.skysports.com/football/news/12040/13550595/elliot-anderson-transfer-news-man-city-agree-deal-to-sign-nottingham-forest-midfielder",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Double Ballon d'Or winner Putellas to join London City Lionesses",
+      "headline": "Man Utd's Onana set for Trabzonspor loan",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Hearts appoint Vrancken as McInnes' replacement",
+      "headline": "Lions player Arnold charged with leading kidnap plot and armed robbery",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
+      "url": "https://www.skysports.com/nfl/news/12040/13557845/nfl-detroit-lions-player-terrion-arnold-charged-with-leading-plot-to-kidnap-and-pistol-whip-three-people",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
+      "headline": "What Scotland need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Saracens player avoids punishment for England cricket nightclub incident",
+      "headline": "McIlroy gives Birkdale verdict after catching up with Faldo at Open venue",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13557830/saracens-academy-player-avoids-punishment-for-incident-at-nightclub-where-england-cricketers-ben-stokes-and-gus-atkinson-were-present",
+      "url": "https://www.skysports.com/golf/news/12040/13557821/rory-mcilroy-gives-royal-birkdale-verdict-after-preparing-at-venue-for-this-years-open-championship-live-on-sky-sports",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Bellamy to stay with Wales as Burnley move off",
+      "headline": "Plata's 'touch of gold' gives Ecuador lead against Germany",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England stage mini fightback after draining first day at Trent Bridge",
+      "topic": "Liveblog",
+      "headline": "Ecuador 2-1 Germany & Curacao 0-2 Ivory Coast - key moments and rate the players",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557780/england-vs-new-zealand-ben-stokes-side-stage-mini-fightback-deep-into-draining-first-day-of-series-decider-at-trent-bridge",
+      "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "What Scotland need to reach World Cup knockouts",
+      "headline": "Germany goal should have been ruled out for 'endangering opponent'",
       "source": "BBC Sport",
-      "timeAgo": "7m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx1wqx9n27o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Tennis great Evert undergoes surgery as cancer returns",
+      "headline": "India and South Africa win as battle for semi-final spots goes to last games",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557803/chris-evert-tennis-legend-undergoes-surgery-after-ovarian-cancer-returns-and-will-not-attend-wimbledon-this-year",
+      "url": "https://www.skysports.com/cricket/news/12040/13557727/womens-t20-world-cup-india-and-south-africa-win-to-maintain-push-for-semi-final-spots-from-group-2",
       "isFeatured": false,
       "hasAiSummary": false
     }
