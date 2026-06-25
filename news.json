@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T20:49:19.437Z",
+    "generatedAt": "2026-06-25T21:35:24.038Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "What each team need to reach World Cup knockouts",
+    "headline": "Man City agree record fee with Forest for Anderson",
     "source": "BBC Sport",
-    "timeAgo": "20h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "4m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "The games that show the flaws in a 48-team World Cup",
+      "headline": "James and Rice miss training in preparation for Panama",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,17 +48,17 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Why it's time for Saka and Rashford - Shearer",
+      "headline": "What each team need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "21h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Ecuador level against Germany with Ivory Coast in front vs Curacao LIVE!",
+      "headline": "Ecuador and Germany level as Ivory Coast double lead vs Curacao LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
@@ -68,15 +68,35 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Double Ballon d'Or winner Putellas to join London City Lionesses",
+      "headline": "The games that show the flaws in a 48-team World Cup",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "India and South Africa win as battle for semi-final spots goes to last games",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13557727/womens-t20-world-cup-india-and-south-africa-win-to-maintain-push-for-semi-final-spots-from-group-2",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Why it's time for Saka and Rashford - Shearer",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Hearts appoint Vrancken as McInnes' replacement",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
+      "headline": "Double Ballon d'Or winner Putellas to join London City Lionesses",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Saracens player avoids punishment for England cricket nightclub incident",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Bellamy to stay with Wales as Burnley move off",
+      "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "England stage mini fightback after draining first day at Trent Bridge",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "What Scotland need to reach World Cup knockouts",
+      "headline": "Bellamy to stay with Wales as Burnley move off",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Tennis great Evert undergoes surgery as cancer returns",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Hincapie completes permanent £34.5m Arsenal move",
+      "headline": "What Scotland need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Putellas decides to join London City Lionesses",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Sane gives Germany lead as Ecuador calls for foul waived away",
-      "source": "BBC Sport",
-      "timeAgo": "18m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1dypzd45dvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Mercedes duo to 'race each other differently' amid Hamilton threat",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13557407/mercedes-pair-kimi-antonelli-and-george-russell-to-race-each-other-differently-amid-f1-title-threat-from-lewis-hamilton",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Scotland on the brink after defeat by Brazil",
+      "headline": "Germany goal should have been ruled out for 'endangering opponent'",
       "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx1wqx9n27o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "Neville: Rogers should replace Gordon against Panama",
+      "topic": "News Story",
+      "headline": "Mercedes duo to 'race each other differently' amid Hamilton threat",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557683/morgan-rogers-can-replace-anthony-gordon-for-england-says-gary-neville-ahead-of-world-cup-clash-with-panama",
+      "url": "https://www.skysports.com/f1/news/12040/13557407/mercedes-pair-kimi-antonelli-and-george-russell-to-race-each-other-differently-amid-f1-title-threat-from-lewis-hamilton",
       "isFeatured": false,
       "hasAiSummary": false
     }
