@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T22:48:54.104Z",
+    "generatedAt": "2026-06-25T23:31:47.974Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Anderson's journey to England star and  potential British record signing",
+    "headline": "Man City agree record fee with Forest for Anderson",
     "source": "BBC Sport",
-    "timeAgo": "22m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Japan vs Sweden, Tunisia vs Netherlands LIVE!",
+      "headline": "Netherlands double lead over Tunisia with Japan-Sweden level LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/japan-vs-sweden/live/549824",
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Man City agree record fee with Forest for Anderson",
+      "headline": "James and Rice miss training in preparation for Panama",
       "source": "BBC Sport",
-      "timeAgo": "25m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,17 +48,17 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "James and Rice miss training in preparation for Panama",
+      "headline": "Anderson's journey to England star and  potential record signing",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Report",
-      "headline": "Pepe double sends Ivory Coast through as Curacao's historic WC campaign ends",
+      "headline": "Pepe double vs Curacao sends Ivory Coast through",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/curacao-vs-ivory-coast/report/549822",
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Ivory Coast defeat Curacao to progress to knockout stages for first time",
+      "headline": "Ecuador stun Germany to qualify for knockout stages",
       "source": "BBC Sport",
-      "timeAgo": "2m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2dyp5znl85o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "What each team need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "23m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,7 +98,7 @@
     {
       "id": "sky_sports-4",
       "topic": "Report",
-      "headline": "Ecuador stun Germany to reach knockouts and dent Scotland's hopes",
+      "headline": "Ecuador stun Germany to reach knockouts",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/ecuador-vs-germany/report/549823",
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Why it's time for Saka and Rashford - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Man Utd's Onana set for Trabzonspor loan",
       "source": "BBC Sport",
-      "timeAgo": "15m",
+      "timeAgo": "57m",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "What Scotland need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "43m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+      "headline": "Ivory Coast defeat Curacao to progress to knockout stages for first time",
       "source": "BBC Sport",
-      "timeAgo": "48m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2dyp5znl85o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Germany goal should have been ruled out for 'endangering opponent'",
+      "headline": "Plata's 'touch of gold' gives Ecuador lead against Germany",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx1wqx9n27o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
