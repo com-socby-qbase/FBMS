@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T19:13:23.457Z",
+    "generatedAt": "2026-06-25T19:59:34.682Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Team news for Ecuador vs Germany & Curacao vs Ivory Coast LIVE!",
+      "topic": "News Story",
+      "headline": "McIlroy gives Birkdale verdict after catching up with Faldo at Open venue",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
+      "url": "https://www.skysports.com/golf/news/12040/13557821/rory-mcilroy-gives-royal-birkdale-verdict-after-preparing-at-venue-for-this-years-open-championship-live-on-sky-sports",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "The games that show the flaws in a 48-team World Cup",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Hearts appoint Vrancken as McInnes' replacement",
+      "topic": "Liveblog",
+      "headline": "Ecuador, Ivory Coast and Curacao bid to join Germany in knockouts LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
+      "url": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Why it's time for Saka and Rashford - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "England stage mini fightback after draining first day at Trent Bridge",
+      "headline": "Hearts appoint Vrancken as McInnes' replacement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13557780/england-vs-new-zealand-ben-stokes-side-stage-mini-fightback-deep-into-draining-first-day-of-series-decider-at-trent-bridge",
+      "url": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Tennis great Evert undergoes surgery as cancer returns",
+      "headline": "England stage mini fightback after draining first day at Trent Bridge",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557803/chris-evert-tennis-legend-undergoes-surgery-after-ovarian-cancer-returns-and-will-not-attend-wimbledon-this-year",
+      "url": "https://www.skysports.com/cricket/news/12040/13557780/england-vs-new-zealand-ben-stokes-side-stage-mini-fightback-deep-into-draining-first-day-of-series-decider-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Putellas decides to join London City Lionesses",
+      "headline": "Tennis great Evert undergoes surgery as cancer returns",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557772/alexia-putellas-former-barcelona-midfielder-decides-to-join-london-city-lionesses-on-a-free-transfer",
+      "url": "https://www.skysports.com/tennis/news/12040/13557803/chris-evert-tennis-legend-undergoes-surgery-after-ovarian-cancer-returns-and-will-not-attend-wimbledon-this-year",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Bellamy to stay with Wales as Burnley move off",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Mercedes duo to 'race each other differently' amid Hamilton threat",
+      "headline": "Putellas decides to join London City Lionesses",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13557407/mercedes-pair-kimi-antonelli-and-george-russell-to-race-each-other-differently-amid-f1-title-threat-from-lewis-hamilton",
+      "url": "https://www.skysports.com/football/news/12040/13557772/alexia-putellas-former-barcelona-midfielder-decides-to-join-london-city-lionesses-on-a-free-transfer",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,6 +137,26 @@
     },
     {
       "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Mercedes duo to 'race each other differently' amid Hamilton threat",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13557407/mercedes-pair-kimi-antonelli-and-george-russell-to-race-each-other-differently-amid-f1-title-threat-from-lewis-hamilton",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Hincapie completes permanent £34.5m Arsenal move",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Article/Blog",
       "headline": "Neville: Rogers should replace Gordon against Panama",
       "source": "Sky Sports",
@@ -146,31 +166,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Hincapie completes permanent £34.5m Arsenal move",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Hornets trade Ball and Green to Timberwolves for Reid and draft picks",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13557754/nba-charlotte-hornets-trade-lamelo-ball-josh-green-to-minnesota-timberwolves-for-naz-reid-and-a-series-of-draft-picks",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Scotland on the brink after defeat by Brazil",
       "source": "BBC Sport",
-      "timeAgo": "18h",
+      "timeAgo": "19h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Cordina charged with assault after incident at petrol station",
+      "headline": "Hornets trade Ball and Green to Timberwolves for Reid and draft picks",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13557741/joe-cordina-charged-with-assault-and-threatening-person-with-offensive-weapon-says-he-has-been-denied-us-visa-for-fight-with-abdullah-mason",
+      "url": "https://www.skysports.com/nba/news/12040/13557754/nba-charlotte-hornets-trade-lamelo-ball-josh-green-to-minnesota-timberwolves-for-naz-reid-and-a-series-of-draft-picks",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Thunder's Fawns a joy to watch - huge pressure on Australians in Super League'",
+      "headline": "Cordina charged with assault after incident at petrol station",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/netball/news/12040/13557666/tamsin-greenway-manchester-thunders-sophie-fawns-a-joy-to-watch-huge-pressure-on-australians-who-come-to-play-in-super-league",
+      "url": "https://www.skysports.com/boxing/news/12040/13557741/joe-cordina-charged-with-assault-and-threatening-person-with-offensive-weapon-says-he-has-been-denied-us-visa-for-fight-with-abdullah-mason",
       "isFeatured": false,
       "hasAiSummary": false
     }
