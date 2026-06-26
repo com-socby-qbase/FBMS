@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T18:41:18.962Z",
+    "generatedAt": "2026-06-26T19:21:49.379Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Rice back in England training but James misses out again",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Arsenal explore moves for Newcastle's Guimaraes & Tonali",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,7 +98,7 @@
     {
       "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Haaland on Norway bench but Mbappe starts, plus Senegal vs Iraq LIVE!",
+      "headline": "Dembele fires France ahead against Norway; Senegal lead Iraq LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "The 0-0 draw that highlighted flaw in World Cup format",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Mekies admits uncertainty over Red Bull keeping Verstappen",
+      "headline": "Papers: Arsenal preparing second approach for Guimaraes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13557956/max-verstappen-red-bull-boss-laurent-mekies-admits-uncertainty-over-dutch-drivers-future-with-team",
+      "url": "https://www.skysports.com/football/news/12040/13558113/bruno-guimaraes-transfer-news-arsenal-preparing-second-approach-for-newcastle-captain-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
