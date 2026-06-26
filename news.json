@@ -1,24 +1,44 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T12:30:34.916Z",
+    "generatedAt": "2026-06-26T13:26:30.435Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+    "headline": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
     "source": "BBC Sport",
-    "timeAgo": "32m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "2h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Antonelli tops Austria first practice as Red Bull, Norris suffer issues",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13557943/austrian-gp-kimi-antonelli-tops-first-practice-as-max-verstappen-isack-hadjar-lando-norris-suffer-unreliability-issues",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Has VAR become a lottery at the World Cup?",
+      "source": "BBC Sport",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Antonelli fastest with Hamilton off pace in first practice LIVE!",
+      "headline": "Austrian GP: Antonelli fastest as Red Bulls, Norris lose track time in first practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13557410/f1-austrian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-red-bull-ring",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Why are World Cup underdogs doing so well?",
+      "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Article/Blog",
       "headline": "Hollie Doyle blog: Thunder can storm to Plate success",
       "source": "Sky Sports",
@@ -46,19 +66,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "The 0-0 draw that highlighted flaw in World Cup format",
+      "headline": "What do numbers tell us about Scotland's World Cup attacking intent?",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdere26vzro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "New Zealand seven down at lunch in deciding Test at Trent Bridge LIVE!",
+      "headline": "New Zealand nine down as Bashir strikes twice in over LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13557808/england-vs-new-zealand-third-test-day-two-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
+      "headline": "Brentford in talks to hold Shakhtar's Champions League matches",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Tough Wimbledon draws for Raducanu and Draper, Serena learns opponent",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Mbappe v Haaland: Who is more important for their country?",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "The knock-on effect Anderson deal could have on midfielder market this summer",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
+      "headline": "Why are World Cup underdogs doing so well?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Wimbledon 2026: Men's singles first-round draw",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Wales boss Bellamy has 'burned bridges' - Roberts",
+      "headline": "The 0-0 draw that highlighted flaw in World Cup format",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gywygqlgdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Wimbledon 2026: Women's singles first-round draw",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Man City agree record fee with Forest for Anderson",
+      "headline": "How Oyarzabal shows Spain are more than just Yamal - Azpilicueta",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "58m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Russell '100 per cent' sure he will drive for Mercedes in 2027",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Turkey end World Cup on high with last-gasp win over USA",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Wimbledon build-up: Draper, Raducanu, Serena Williams, Sinner discover opponents",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Japan and Sweden draw takes both into last 32",
+      "headline": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwy0lvr0wego?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Mbappe vs Haaland - new Messi-Ronaldo rivalry graces World Cup",
+      "topic": "Video",
+      "headline": "'Brilliant from the Brazilian!' | Bruno G's best goals for Newcastle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557028/kylian-mbappe-vs-erling-haaland-new-lionel-messi-cristiano-ronaldo-rivalry-on-show-as-norway-face-france-in-world-cup",
+      "url": "https://www.skysports.com/watch/video/13558025/premier-league-bruno-guimaraes-best-goals-for-newcastle",
       "isFeatured": false,
       "hasAiSummary": false
     }
