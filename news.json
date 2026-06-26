@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T15:19:30.163Z",
+    "generatedAt": "2026-06-26T16:17:19.281Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why has Trump stayed away from the World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "44m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Mercedes' rivals look to hit back in second practice LIVE!",
+      "headline": "Austrian GP: Antonelli sets ominous pace in second practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13557410/f1-austrian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-red-bull-ring",
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Afternoon session: Duckett flies to 50 after NZ lose quick wickets",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558068/england-vs-new-zealand-afternoon-session-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Arsenal explore moves for Newcastle's Guimaraes & Tonali",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Mekies admits uncertainty over Red Bull keeping Verstappen",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Arsenal explore moves for Newcastle's Guimaraes & Tonali",
+      "headline": "Has VAR become a lottery at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Synergism backed to lift Northumberland Plate at Newcastle",
       "source": "Sky Sports",
@@ -66,17 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Has VAR become a lottery at the World Cup?",
+      "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "'Sputtering its way down' | Verstappen stops not once but TWICE in pit lane during P1!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558004/formula-one-max-verstappen-stops-in-pit-lane-during-p1",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Why there's more to Spain than Lamine Yamal - Azpilicueta",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Explained: Why have Mercedes been forced to remove upgrades to car?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13557999/austrian-gp-why-have-mercedes-been-forced-to-removed-upgrades-to-car",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Antonelli tops Austria first practice as Red Bull, Norris suffer issues",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+      "headline": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "Article/Blog",
       "headline": "Hollie Doyle blog: Thunder can storm to Plate success",
       "source": "Sky Sports",
@@ -106,82 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Why there's more to Spain than Lamine Yamal - Azpilicueta",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Duckett makes quick fifty after England bowl New Zealand out for 438 LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13557808/england-vs-new-zealand-third-test-day-two-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-      "source": "BBC Sport",
-      "timeAgo": "47m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Tough Wimbledon draws for Raducanu and Draper, Serena learns opponent",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557946/wimbledon-emma-raducanu-and-jack-draper-receive-tough-wimbledon-draws-as-serena-williams-learns-comeback-opponent",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "The knock-on effect Anderson deal could have on midfielder market this summer",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557952/arsenal-liverpool-man-utd-spurs-transfers-how-elliot-anderson-deal-could-affect-midfielder-market-this-summer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Mbappe v Haaland: Who is more important for their country?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Wimbledon 2026: Men's singles first-round draw",
+      "topic": "Liveblog",
+      "headline": "Duckett hits 88-ball century for England after New Zealand out for 438 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557566/wimbledon-2026-mens-draw-schedule-results-including-jack-draper-jannik-sinner-and-novak-djokovic",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13557808/england-vs-new-zealand-third-test-day-two-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Brentford in talks to hold Shakhtar's Champions League matches",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Wimbledon 2026: Women's singles first-round draw",
+      "headline": "Tough Wimbledon draws for Raducanu and Draper, Serena learns opponent",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557572/wimbledon-2026-womens-draw-schedule-results-including-emma-raducanu-serena-williams-aryna-sabalenka-and-iga-swiatek",
+      "url": "https://www.skysports.com/tennis/news/12040/13557946/wimbledon-emma-raducanu-and-jack-draper-receive-tough-wimbledon-draws-as-serena-williams-learns-comeback-opponent",
       "isFeatured": false,
       "hasAiSummary": false
     }
