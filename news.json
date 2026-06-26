@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T22:41:27.279Z",
+    "generatedAt": "2026-06-26T23:10:50.291Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "James injury concerns grow but Rice back in training",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Senegal thrash 10-man Iraq to boost hopes of reaching last 32",
       "source": "BBC Sport",
-      "timeAgo": "55m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/crel3jzn5j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
