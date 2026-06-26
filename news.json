@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T20:51:16.772Z",
+    "generatedAt": "2026-06-26T21:32:37.324Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Rice back in England training but James misses out again",
+    "headline": "James injury concerns grow but Rice returns",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "28m",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,50 +18,50 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Capsey urges England to continue winning momentum at T20 World Cup",
+      "headline": "Golden Boot race: Dembele joins Mbappe in Messi chase after hat-trick",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558106/t20-world-cup-alice-capsey-wants-to-see-england-continue-winning-momentum-against-new-zealand-ahead-of-semi-finals",
+      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Why has Trump stayed away from the World Cup?",
+      "headline": "Is a former England striker right about reasons for Scottish football's ills?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
+      "topic": "Report",
+      "headline": "Dembele's first-half hat-trick sees France beat Norway's reserves",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
+      "url": "https://www.skysports.com/football/norway-vs-france/report/549831",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Is a former England striker right about reasons for Scottish football's ills?",
+      "headline": "What each team need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
+      "headline": "Tottenham latest: Striker exit confirmed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Duckett and Stokes wrestle Trent Bridge Test back England's way",
+      "topic": "Liveblog",
+      "headline": "England latest: 'James to miss next two games due to injury'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558114/england-vs-new-zealand-ben-duckett-and-ben-stokes-carry-hosts-continued-fightback-in-series-decider-at-trent-bridge",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,31 +97,31 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Dembele scores hat-trick against Norway; Senegal thrashing Iraq LIVE!",
+      "topic": "Report",
+      "headline": "Senegal thrash Iraq to close on World Cup knockout stages",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
+      "url": "https://www.skysports.com/football/senegal-vs-iraq/report/549830",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Has VAR become a lottery at the World Cup?",
+      "headline": "Why has Trump stayed away from the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
+      "topic": "News Story",
+      "headline": "Capsey urges England to continue winning momentum at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "url": "https://www.skysports.com/cricket/news/12040/13558106/t20-world-cup-alice-capsey-wants-to-see-england-continue-winning-momentum-against-new-zealand-ahead-of-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,35 +138,15 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Usyk vacates world titles",
+      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13558107/oleksandr-usyk-vacates-world-titles-but-says-his-last-dance-is-still-to-come",
+      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Why there's more to Spain than Lamine Yamal - Azpilicueta",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Antonelli completes Austria Friday double as Russell struggles",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13557944/austrian-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-team-mate-george-russell-struggles",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "The 0-0 draw that highlighted flaw in World Cup format",
       "source": "BBC Sport",
@@ -176,32 +156,52 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Hadjar 'surprised' by struggles in upgraded Red Bull",
+      "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557410/f1-austrian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-red-bull-ring",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
+      "topic": "News Story",
+      "headline": "Duckett and Stokes wrestle Trent Bridge Test back England's way",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558114/england-vs-new-zealand-ben-duckett-and-ben-stokes-carry-hosts-continued-fightback-in-series-decider-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
+      "headline": "Wales boss Bellamy has 'burnt bridges' - Roberts",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gywygqlgdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Broad: ‘Magical’ Stokes delivers moments that gain respect",
+      "topic": "Liveblog",
+      "headline": "All the key moments & rate the players in France vs Norway & Senegal vs Iraq",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558152/ben-stokes-england-captain-delivers-magical-moments-that-gain-respect-says-stuart-broad",
+      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
       "isFeatured": false,
       "hasAiSummary": false
     }
