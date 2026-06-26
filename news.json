@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T23:31:47.974Z",
+    "generatedAt": "2026-06-26T00:09:38.223Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Netherlands double lead over Tunisia with Japan-Sweden level LIVE!",
+      "headline": "Netherlands, Japan and Sweden all going through as things stand LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/japan-vs-sweden/live/549824",
@@ -68,9 +68,9 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Ecuador stun Germany to qualify for knockout stages",
+      "headline": "Ecuador fight back to upset Germany",
       "source": "BBC Sport",
-      "timeAgo": "34m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Why it's time for Saka and Rashford - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Man Utd's Onana set for Trabzonspor loan",
       "source": "BBC Sport",
-      "timeAgo": "57m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "What Scotland need to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Ivory Coast defeat Curacao to progress to knockout stages for first time",
       "source": "BBC Sport",
-      "timeAgo": "45m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c2dyp5znl85o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Plata's 'touch of gold' gives Ecuador lead against Germany",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
