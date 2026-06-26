@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T21:32:37.324Z",
+    "generatedAt": "2026-06-26T22:10:17.941Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "James injury concerns grow but Rice returns",
+    "headline": "James injury concerns grow but Rice back in training",
     "source": "BBC Sport",
-    "timeAgo": "28m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Golden Boot race: Dembele joins Mbappe in Messi chase after hat-trick",
+      "headline": "Sri Lanka keep Women's T20 World Cup semi-finals hopes alive with Scotland win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
+      "url": "https://www.skysports.com/cricket/news/12040/13558169/sri-lanka-keep-alive-womens-t20-world-cup-semi-finals-hopes-after-beating-scotland-at-old-trafford",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,35 +38,55 @@
     {
       "id": "sky_sports-1",
       "topic": "Report",
-      "headline": "Dembele's first-half hat-trick sees France beat Norway's reserves",
+      "headline": "Connor shines as leaders Leeds produce statement victory against Hull KR",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-france/report/549831",
+      "url": "https://www.skysports.com/rugby-league/leeds-vs-hull-k-r/report/63262",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "What each team need to reach World Cup knockouts",
+      "headline": "Brilliant Dembele hat-trick helps France see off Norway to top group",
       "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "35m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Tottenham latest: Striker exit confirmed",
+      "topic": "News Story",
+      "headline": "Scheffler misses out on another sub-60 round for early Travelers target",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/golf/news/12040/13558162/travelers-championship-scottie-scheffler-misses-out-on-chance-to-join-jim-furyk-as-only-players-in-pga-tour-history-with-two-sub-60-rounds",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "What each team need to reach World Cup knockouts",
+      "source": "BBC Sport",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Golden Boot race: Dembele joins Mbappe in Messi chase after hat-trick",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "source": "BBC Sport",
@@ -76,9 +96,9 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "England latest: 'James to miss next two games due to injury'",
+      "headline": "England latest: 'Anderson could miss Panama game'",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
@@ -86,82 +106,62 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Arsenal poised to make Guimaraes offer after talks",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Senegal thrash Iraq to close on World Cup knockout stages",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/senegal-vs-iraq/report/549830",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Why has Trump stayed away from the World Cup?",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Capsey urges England to continue winning momentum at T20 World Cup",
+      "topic": "Report",
+      "headline": "Dembele's first-half hat-trick sees France beat Norway's reserves",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558106/t20-world-cup-alice-capsey-wants-to-see-england-continue-winning-momentum-against-new-zealand-ahead-of-semi-finals",
+      "url": "https://www.skysports.com/football/norway-vs-france/report/549831",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+      "headline": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crel3jzn5j0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
+      "topic": "Liveblog",
+      "headline": "Tottenham latest: Striker exit confirmed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "The 0-0 draw that highlighted flaw in World Cup format",
+      "headline": "Why has Trump stayed away from the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
+      "topic": "Report",
+      "headline": "Senegal thrash Iraq to close on WC knockout stages - and potential meeting with England",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "url": "https://www.skysports.com/football/senegal-vs-iraq/report/549830",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Duckett and Stokes wrestle Trent Bridge Test back England's way",
+      "headline": "Capsey urges England to continue winning momentum at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558114/england-vs-new-zealand-ben-duckett-and-ben-stokes-carry-hosts-continued-fightback-in-series-decider-at-trent-bridge",
+      "url": "https://www.skysports.com/cricket/news/12040/13558106/t20-world-cup-alice-capsey-wants-to-see-england-continue-winning-momentum-against-new-zealand-ahead-of-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "All the key moments & rate the players in France vs Norway & Senegal vs Iraq",
+      "topic": "News Story",
+      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
+      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
       "isFeatured": false,
       "hasAiSummary": false
     }
