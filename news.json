@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T19:21:49.379Z",
+    "generatedAt": "2026-06-26T20:09:51.358Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Rice back in England training but James misses out again",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Why has Trump stayed away from the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Is a former England striker right about reasons for Scottish football's ills?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,6 +78,26 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
+      "headline": "Dembele scores 30-minute hat-trick against Norway; Senegal lead Iraq LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Arsenal poised to make Guimaraes offer after talks",
+      "source": "BBC Sport",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
       "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -86,31 +106,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Arsenal explore moves for Newcastle's Guimaraes & Tonali",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Dembele fires France ahead against Norway; Senegal lead Iraq LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Has VAR become a lottery at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Why there's more to Spain than Lamine Yamal - Azpilicueta",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "The 0-0 draw that highlighted flaw in World Cup format",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
