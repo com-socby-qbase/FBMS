@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T06:54:47.252Z",
+    "generatedAt": "2026-06-26T08:15:06.345Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Mbappe vs Haaland - new Messi-Ronaldo rivalry graces World Cup",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13557028/kylian-mbappe-vs-erling-haaland-new-lionel-messi-cristiano-ronaldo-rivalry-on-show-as-norway-face-france-in-world-cup",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Mbappe v Haaland: Who is more important for their country?",
+      "source": "BBC Sport",
+      "timeAgo": "47m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Is Serena brave to make Wimbledon singles bid at the age of 44?",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "What is SkyJo? The card game being played in the England camp",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Yoon opens Women's PGA Championship with record 63 as Hull, Woad sit well back",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Beccacece goes from brink to World Cup history with Ecuador",
+      "headline": "Turkey end World Cup on high with last-gasp win over USA",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Hearn: AJ will topple Fury - 'I've never been more confident!'",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Man City agree record fee with Forest for Anderson",
+      "headline": "Beccacece goes from brink to World Cup history with Ecuador",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Littler safely through at US Darts Masters as Rock crashes out",
       "source": "Sky Sports",
@@ -86,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Man City agree record fee with Forest for Anderson",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "That's bat AFTER pad! Did Jamie Smith cost England crucial wicket?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13557701/thats-bat-after-pad-did-jamie-smith-cost-england-crucial-wicket",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "'We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Diamond Rain bids for Newcastle double",
       "source": "Sky Sports",
@@ -106,62 +146,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Turkey end World Cup on high with last-gasp win over USA",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Report",
-      "headline": "Group winners USA beaten as Turkey restore pride with thrilling victory",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/turkey-vs-united-states-of-america/report/549821",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 19",
-      "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjp9lv5j5qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Report",
-      "headline": "Elanga earns Sweden spot in World Cup knockouts with Japan draw",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/japan-vs-sweden/report/549824",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Japan and Sweden draw takes both into last 32",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwy0lvr0wego?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "All the key moments & rate the players in Paraguay vs Australia & Turkey vs USA",
+      "topic": "Video",
+      "headline": "Molinari shoots course record 63 to lead Italian Open on day one",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/turkey-vs-united-states-of-america/live/549821",
+      "url": "https://www.skysports.com/watch/video/13557795/italian-open-day-one-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Brobbey on target again as Netherlands beat Tunisia to win group",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cql1v24e4q1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Australia progress with bore draw which looks set to also suit Paraguay",
+      "topic": "Video",
+      "headline": "India make unwanted history by dropping FOUR catches in first five overs",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/paraguay-vs-australia/report/549820",
+      "url": "https://www.skysports.com/watch/video/13557705/india-make-unwanted-history-against-bangladesh-by-dropping-four-catches-in-first-five-overs",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Ecuador fight back to upset Germany",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Netherlands, Japan and Sweden all go through - key moments and rate players!",
+      "topic": "Report",
+      "headline": "Group winners USA beaten as Turkey restore pride with thrilling victory",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/japan-vs-sweden/live/549824",
+      "url": "https://www.skysports.com/football/turkey-vs-united-states-of-america/report/549821",
       "isFeatured": false,
       "hasAiSummary": false
     }
