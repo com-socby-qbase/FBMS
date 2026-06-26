@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T20:09:51.358Z",
+    "generatedAt": "2026-06-26T20:51:16.772Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
+      "headline": "Capsey urges England to continue winning momentum at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
+      "url": "https://www.skysports.com/cricket/news/12040/13558106/t20-world-cup-alice-capsey-wants-to-see-england-continue-winning-momentum-against-new-zealand-ahead-of-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Why has Trump stayed away from the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Draper’s Eastbourne run ends in semi-final at hands of Humbert",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13558095/jack-drapers-eastbourne-run-ends-in-semi-final-at-hands-of-ugo-humbert-as-briton-prepares-for-daunting-wimbledon-draw",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Is a former England striker right about reasons for Scottish football's ills?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Is a former England striker right about reasons for Scottish football's ills?",
+      "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Duckett and Stokes wrestle Trent Bridge Test back England's way",
       "source": "Sky Sports",
@@ -66,31 +86,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Dembele scores 30-minute hat-trick against Norway; Senegal lead Iraq LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Arsenal poised to make Guimaraes offer after talks",
       "source": "BBC Sport",
-      "timeAgo": "37m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly71eqgej8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
+      "headline": "Dembele scores hat-trick against Norway; Senegal thrashing Iraq LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "url": "https://www.skysports.com/football/norway-vs-france/live/549831",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,18 +110,18 @@
       "topic": "News",
       "headline": "Has VAR become a lottery at the World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Usyk vacates world titles",
+      "topic": "Liveblog",
+      "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13558107/oleksandr-usyk-vacates-world-titles-but-says-his-last-dance-is-still-to-come",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Antonelli completes Austria Friday double as Russell struggles",
+      "headline": "Usyk vacates world titles",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13557944/austrian-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-team-mate-george-russell-struggles",
+      "url": "https://www.skysports.com/boxing/news/12040/13558107/oleksandr-usyk-vacates-world-titles-but-says-his-last-dance-is-still-to-come",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,13 +150,33 @@
       "topic": "News",
       "headline": "Why there's more to Spain than Lamine Yamal - Azpilicueta",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Antonelli completes Austria Friday double as Russell struggles",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13557944/austrian-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-team-mate-george-russell-struggles",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "The 0-0 draw that highlighted flaw in World Cup format",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Hadjar 'surprised' by struggles in upgraded Red Bull",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "The 0-0 draw that highlighted flaw in World Cup format",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Afternoon session: Duckett flies to 50 after NZ lose quick wickets",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558068/england-vs-new-zealand-afternoon-session-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Where has it gone wrong for Bielsa's struggling Uruguay?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Papers: Arsenal preparing second approach for Guimaraes",
+      "headline": "Broad: ‘Magical’ Stokes delivers moments that gain respect",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558113/bruno-guimaraes-transfer-news-arsenal-preparing-second-approach-for-newcastle-captain-paper-talk",
+      "url": "https://www.skysports.com/cricket/news/12040/13558152/ben-stokes-england-captain-delivers-magical-moments-that-gain-respect-says-stuart-broad",
       "isFeatured": false,
       "hasAiSummary": false
     }
