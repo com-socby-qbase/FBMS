@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T11:46:39.574Z",
+    "generatedAt": "2026-06-27T12:32:37.726Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "8h",
+    "timeAgo": "9h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Austrian GP: Russell finds late pace to top final practice LIVE!",
+      "topic": "News Story",
+      "headline": "Russell finds late pace to top Antonelli, Hamilton in final Austria practice",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
+      "url": "https://www.skysports.com/f1/news/12040/13558224/austrian-gp-george-russell-tops-practice-three-from-kimi-antonelli-and-lewis-hamilton-to-set-up-thrilling-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
+      "topic": "Liveblog",
+      "headline": "Austrian GP: Russell finds late pace to top final practice LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "Scouting report on Panama - why England should be wary",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Stokes falls as England lose four in desperate morning session vs NZ LIVE!",
+      "topic": "News Story",
+      "headline": "Osaka retires from Bad Homburg final with foot issue prompting Wimbledon concern",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "url": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Leeds thrash Hull KR in statement win",
+      "topic": "News Story",
+      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
+      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,11 +97,11 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Why England's backline remains Tuchel's biggest conundrum",
+      "topic": "Liveblog",
+      "headline": "Brook hits fifty but England stumble from 223-2 to 314-6 at lunch LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Korda chases Women's PGA Championship leader Yoon as Hull and Woad miss cut",
+      "topic": "Video",
+      "headline": "Leeds thrash Hull KR in statement win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13558210/kpmg-womens-pga-championship-ina-yoon-widens-lead-to-five-strokes-with-nelly-korda-in-chase-charley-hull-and-lottie-woad-miss-cut",
+      "url": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,18 +130,18 @@
       "topic": "News",
       "headline": "We have been treated unfairly by USA - Iran",
       "source": "BBC Sport",
-      "timeAgo": "32m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Report",
-      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
+      "topic": "News Story",
+      "headline": "Why England's backline remains Tuchel's biggest conundrum",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
+      "url": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
+      "headline": "Korda chases Women's PGA Championship leader Yoon as Hull and Woad miss cut",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens",
+      "url": "https://www.skysports.com/golf/news/12040/13558210/kpmg-womens-pga-championship-ina-yoon-widens-lead-to-five-strokes-with-nelly-korda-in-chase-charley-hull-and-lottie-woad-miss-cut",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Spirit Mixer bids to defend Northumberland Plate crown at Newcastle",
+      "topic": "Report",
+      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday",
+      "url": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Belgium thrash New Zealand to win Group G",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6215810pw7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "Key moments & rate the players in New Zealand vs Belgium and Egypt vs Iran",
+      "topic": "News Story",
+      "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-belgium/live/549827",
+      "url": "https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens",
       "isFeatured": false,
       "hasAiSummary": false
     }
