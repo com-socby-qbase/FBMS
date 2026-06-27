@@ -1,22 +1,122 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T22:50:07.519Z",
+    "generatedAt": "2026-06-27T23:25:13.141Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Who could England face in last 32 after qualifying for next round?",
+    "headline": "Scotland's elimination from World Cup confirmed",
     "source": "BBC Sport",
-    "timeAgo": "20h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "26m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "'Superstar' Bellingham inspires England to victory over Panama and top spot in group",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/panama-vs-england/report/549837",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Who had the X-factor and who had a tough game? England player ratings",
+      "source": "BBC Sport",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Ryu takes one-shot lead into final round of Women's PGA Championship",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13558434/kpmg-womens-pga-championship-haeran-ryu-takes-one-shot-lead-into-final-round-with-nelly-korda-chasing-third-straight-major",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Who could England face in last 32 after qualifying for next round?",
+      "source": "BBC Sport",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Colombia vs Portugal & DR Congo vs Uzbekistan in final Group K games LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13557085/colombia-vs-portugal-dr-congo-vs-uzbekistan-live-world-cup-2026-group-k-fixtures-scores-live-updates-and-team-news",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'Huge relief' - Bellingham puts England ahead against Panama",
+      "source": "BBC Sport",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Scotland knocked out of World Cup after arduous wait",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13557622/scotland-knocked-out-of-world-cup-after-failing-to-make-it-out-of-group-stage-again",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Where does Scotland's World Cup campaign leave Clarke?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "England latest: Right-back curse? Quansah forced off injured...",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Gakpo asks for privacy after loss of unborn son",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Wigan seize late win over Hull FC as St Helens overwhelm Bradford Bulls",
       "source": "Sky Sports",
@@ -26,67 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Rate the players in Panama v England",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Where does Scotland's World Cup campaign leave Clarke?",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Kane doubles England lead vs Panama with Croatia leading Ghana LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Gakpo asks for privacy after loss of unborn son",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Ireland take shock win but West Indies still progress to semi-finals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
@@ -96,112 +136,72 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Two wickets in three deliveries for England's Bell!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "One night in Miami: The Scotsmen of the apocalypse",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Series slipping away from England as New Zealand strengthen position",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558354/england-vs-new-zealand-ben-stokes-side-stumble-on-day-three-at-trent-bridge-and-drift-towards-series-defeat",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Chelsea latest: Palestra undergoes medical",
+      "headline": "England top group with win over Panama as Croatia beat Ghana LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Chelsea in talks to sign Sunderland's Xhaka",
+      "headline": "What each team needs to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Gakpo to stay with Netherlands squad after loss of unborn son",
+      "topic": "Report",
+      "headline": "Croatia overcome Ghana to finish as runners-up to England",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
+      "url": "https://www.skysports.com/football/croatia-vs-ghana/report/549836",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "What each team needs to reach World Cup knockouts",
+      "headline": "Como bid for Chelsea's Chalobah - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp364e4n1y5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Scot Prem latest: Godfrey completes Rangers medical",
+      "topic": "News Story",
+      "headline": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "World Cup quiz: Name the team from England v Panama 2018",
+      "headline": "Kane breaks England World Cup goals record to double lead against Panama",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj6pw405k91o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Chelsea interested in signing Xhaka",
+      "headline": "Ireland take shock win but West Indies still progress to semi-finals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
+      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     }
