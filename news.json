@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T14:35:19.031Z",
+    "generatedAt": "2026-06-27T15:11:01.286Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "11h",
+    "timeAgo": "12h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Austrian GP: Antonelli favourite for pole as battle to reach Q3 begins LIVE!",
+      "topic": "News Story",
+      "headline": "Raducanu ends Wimbledon practice session early to add to injury fears",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
+      "url": "https://www.skysports.com/tennis/news/12040/13558318/emma-raducanu-wimbledon-fitness-concerns-grow-as-british-no-1-cuts-short-practice-session",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Austrian GP: DRAMA as Verstappen crashes with Russell on pole but under investigation LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Who are the Panama players England need to look out for?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Russell finds late pace to top Antonelli, Hamilton in final Austria practice",
       "source": "Sky Sports",
@@ -46,31 +66,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Who are the Panama players England need to look out for?",
-      "source": "BBC Sport",
-      "timeAgo": "57m",
-      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Osaka retires from Bad Homburg final to spark Wimbledon concern",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
       "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
+      "headline": "Osaka retires from Bad Homburg final to spark Wimbledon concern",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "url": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,8 +97,28 @@
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "World Cup quiz: Name the team from England v Panama 2018",
+      "source": "BBC Sport",
+      "timeAgo": "20m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj6pw405k91o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "England post 354 all out, trail New Zealand by 84 LIVE!",
+      "headline": "Archer makes early breakthrough after NZ build lead over England LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz923kk3po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Leeds thrash Hull KR in statement win",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "'No one could see it coming' - Tuchel defends selection after James injury",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Why England's backline remains Tuchel's biggest conundrum",
       "source": "Sky Sports",
@@ -146,7 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "We have been treated unfairly by USA - Iran",
       "source": "BBC Sport",
@@ -156,7 +176,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Korda chases Women's PGA Championship leader Yoon as Hull and Woad miss cut",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Are Celtic reacting quickly enough to last season's 'wake-up call'?",
-      "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jye43v30no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
+      "topic": "Report",
+      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens",
+      "url": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
       "isFeatured": false,
       "hasAiSummary": false
     }
