@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T09:34:45.486Z",
+    "generatedAt": "2026-06-27T10:28:26.775Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "One night in Miami: The Scotsmen of the apocalypse",
+    "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "7h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,47 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England look to surpass NZ first-innings total on day three LIVE!",
+      "headline": "Austrian GP: Antonelli looks to continue flying form in final practice LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Scouting report on Panama - why England should be wary",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "New Zealand take two quick wickets as England wobble on day three LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Scouting report on Panama - why England should be wary",
+      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "Leeds thrash Hull KR in statement win",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
+      "headline": "One night in Miami: The Scotsmen of the apocalypse",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Why England's backline remains Tuchel's biggest conundrum",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
+      "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Yoon widens Women's PGA Championship lead to five strokes with Korda in chase",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+      "headline": "Who am I? Guess World Cup star No 20",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjpzvlnd4wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 20",
+      "headline": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjpzvlnd4wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
       "source": "Sky Sports",
@@ -126,62 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Spirit Mixer bids to defend Northumberland Plate crown at Newcastle",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Belgium thrash New Zealand to win Group G",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6215810pw7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Key moments & rate the players in New Zealand vs Belgium and Egypt vs Iran",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-belgium/live/549827",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "England qualify for World Cup knockout stage",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Trossard hits double as Belgium thrash New Zealand to reach knockouts",
+      "topic": "News Story",
+      "headline": "Spirit Mixer bids to defend Northumberland Plate crown at Newcastle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/new-zealand-vs-belgium/report/549827",
+      "url": "https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Bielsa's Uruguay out following defeat to Spain",
+      "topic": "Liveblog",
+      "headline": "Key moments & rate the players in New Zealand vs Belgium and Egypt vs Iran",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/uruguay-vs-spain/report/549829",
+      "url": "https://www.skysports.com/football/new-zealand-vs-belgium/live/549827",
       "isFeatured": false,
       "hasAiSummary": false
     }
