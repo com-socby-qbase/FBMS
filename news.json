@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T16:41:16.318Z",
+    "generatedAt": "2026-06-27T17:11:12.043Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "13h",
+    "timeAgo": "14h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Russell snatches Austrian GP pole amid confusion after Verstappen crash",
+      "topic": "Liveblog",
+      "headline": "Scot Prem latest: Rangers in talks over ex-Everton defender",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558227/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Where does Scotland's World Cup campaign leave Clarke?",
       "source": "BBC Sport",
-      "timeAgo": "50m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Raducanu ends Wimbledon practice session early to add to injury fears",
+      "headline": "Align The Stars wins Northumberland Plate at Newcastle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558318/emma-raducanu-wimbledon-fitness-concerns-grow-as-british-no-1-cuts-short-practice-session",
+      "url": "https://www.skysports.com/racing/news/12040/13558365/align-the-stars-wins-northumberland-plate-at-newcastle-for-trainer-charlie-johnston",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Austrian GP: Reaction to dramatic Russell pole after Verstappen's big crash LIVE!",
+      "topic": "News Story",
+      "headline": "Russell snatches Austrian GP pole after Verstappen crash",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
+      "url": "https://www.skysports.com/f1/news/12040/13558227/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Huge Verstappen crash causes CHAOS at end of qualifying",
+      "topic": "News Story",
+      "headline": "Estrange beats Oaks winner Thundering On in Pretty Polly Stakes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558337/austrian-grand-prix-qualifying-highlights",
+      "url": "https://www.skysports.com/racing/news/12040/13558367/curraghs-pretty-polly-stakes-estrange-puts-oaks-winner-thundering-on-in-shade-with-win-for-danny-tudhope-and-david-omeara",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Russell finds late pace to top Antonelli, Hamilton in final Austria practice",
+      "headline": "Raducanu ends Wimbledon practice session early to add to injury fears",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558224/austrian-gp-george-russell-tops-practice-three-from-kimi-antonelli-and-lewis-hamilton-to-set-up-thrilling-qualifying",
+      "url": "https://www.skysports.com/tennis/news/12040/13558318/emma-raducanu-wimbledon-fitness-concerns-grow-as-british-no-1-cuts-short-practice-session",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,11 +117,11 @@
     },
     {
       "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "New Zealand three down after England's fast second innings start LIVE!",
+      "topic": "News Story",
+      "headline": "Usyk quit world title belts to decide ‘final chapter’ himself",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "url": "https://www.skysports.com/boxing/news/12040/13558356/oleksandr-usyks-choice-to-vacate-his-championship-titles-explained-so-he-can-decide-final-chapter-for-himself",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "World Cup quiz: Name the team from England v Panama 2018",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj6pw405k91o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Osaka retires from Bad Homburg final to spark Wimbledon concern",
+      "headline": "Austrian GP: UK schedule and how to watch Sunday's race on Sky Sports",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern",
+      "url": "https://www.skysports.com/f1/news/12040/13554922/austrian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-red-bull-ring-live-on-sky-sports",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Raducanu first up on No 1 Court on Wimbledon opening day",
+      "topic": "Liveblog",
+      "headline": "Verstappen perplexed by 'odd' qualifying crash in Austria",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "Video",
-      "headline": "Leeds thrash Hull KR in statement win",
+      "headline": "Huge Verstappen crash causes CHAOS at end of qualifying",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
+      "url": "https://www.skysports.com/watch/video/13558337/austrian-grand-prix-qualifying-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "North scores two tries against Wales in final match before retirement",
+      "headline": "Russell finds late pace to top Antonelli, Hamilton in final Austria practice",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13558348/george-north-scores-two-tries-for-the-barbarians-against-wales-in-his-final-match-before-retiring",
+      "url": "https://www.skysports.com/f1/news/12040/13558224/austrian-gp-george-russell-tops-practice-three-from-kimi-antonelli-and-lewis-hamilton-to-set-up-thrilling-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     }
