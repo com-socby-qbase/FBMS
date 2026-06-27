@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T21:51:17.722Z",
+    "generatedAt": "2026-06-27T22:25:35.215Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Rate the players in Panama v England",
       "source": "BBC Sport",
-      "timeAgo": "2m",
+      "timeAgo": "36m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "England must beat Panama to top group with Croatia leading Ghana LIVE!",
+      "headline": "Kane has big England chance saved vs Panama with Croatia leading Ghana LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Gakpo asks for privacy after loss of unborn son",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Chelsea in talks to sign Sunderland's Xhaka",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "What each team needs to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
