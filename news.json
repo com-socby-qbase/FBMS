@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T12:32:37.726Z",
+    "generatedAt": "2026-06-27T13:11:26.567Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "9h",
+    "timeAgo": "10h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Russell finds late pace to top final practice LIVE!",
+      "headline": "Austrian GP: Hamilton looks to spoil Antonelli, Russell battle in Qualifying LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
@@ -58,7 +58,7 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Osaka retires from Bad Homburg final with foot issue prompting Wimbledon concern",
+      "headline": "Osaka retires from Bad Homburg final to spark Wimbledon concern",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern",
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "One night in Miami: The Scotsmen of the apocalypse",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,7 +98,7 @@
     {
       "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "Brook hits fifty but England stumble from 223-2 to 314-6 at lunch LIVE!",
+      "headline": "Brook bowled by Foulkes as England seven down vs New Zealand LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz923kk3po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
