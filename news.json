@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T19:12:23.190Z",
+    "generatedAt": "2026-06-27T19:47:41.394Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Quansah 'set to start' for England vs Panama LIVE!",
+      "headline": "Quansah and Rogers start for England vs Panama LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Series slipping away from England as New Zealand strengthen position",
+      "topic": "Video",
+      "headline": "Two wickets in three deliveries for England's Bell!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558354/england-vs-new-zealand-ben-stokes-side-stumble-on-day-three-at-trent-bridge-and-drift-towards-series-defeat",
+      "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,6 +57,26 @@
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Series slipping away from England as New Zealand strengthen position",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558354/england-vs-new-zealand-ben-stokes-side-stumble-on-day-three-at-trent-bridge-and-drift-towards-series-defeat",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Who are the Panama players England need to look out for?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Palestra undergoes medical",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Who are the Panama players England need to look out for?",
+      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Scot Prem latest: Rangers in talks over ex-Everton defender",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
+      "headline": "One night in Miami: The Scotsmen of the apocalypse",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Chelsea interested in signing Xhaka",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "One night in Miami: The Scotsmen of the apocalypse",
+      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Align The Stars wins Northumberland Plate at Newcastle",
       "source": "Sky Sports",
@@ -126,31 +146,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Hamilton hopeful of finding strategy to beat Mercedes in Austrian GP",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558233/austrian-grand-prix-lewis-hamilton-hopes-strategy-can-help-ferrari-beat-mercedes-at-red-bull-ring-on-sunday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Chelsea in talks to sign Sunderland's Xhaka",
       "source": "BBC Sport",
-      "timeAgo": "55m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Russell snatches Austrian GP pole after Verstappen crash",
+      "headline": "Hamilton hopeful of finding strategy to beat Mercedes in Austrian GP",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558227/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying",
+      "url": "https://www.skysports.com/f1/news/12040/13558233/austrian-grand-prix-lewis-hamilton-hopes-strategy-can-help-ferrari-beat-mercedes-at-red-bull-ring-on-sunday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Why did Russell's pole after Verstappen crash cause so much confusion?",
+      "headline": "Russell snatches Austrian GP pole after Verstappen crash",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558232/austrian-gp-how-yellow-flag-drama-and-george-russells-sudden-surge-of-speed-created-chaotic-pole-moment-after-max-verstappen-crash",
+      "url": "https://www.skysports.com/f1/news/12040/13558227/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz923kk3po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Estrange beats Oaks winner Thundering On in Pretty Polly Stakes",
+      "headline": "Why did Russell's pole after Verstappen crash cause so much confusion?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558367/curraghs-pretty-polly-stakes-estrange-puts-oaks-winner-thundering-on-in-shade-with-win-for-danny-tudhope-and-david-omeara",
+      "url": "https://www.skysports.com/f1/news/12040/13558232/austrian-gp-how-yellow-flag-drama-and-george-russells-sudden-surge-of-speed-created-chaotic-pole-moment-after-max-verstappen-crash",
       "isFeatured": false,
       "hasAiSummary": false
     }
