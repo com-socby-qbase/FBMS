@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T22:25:35.215Z",
+    "generatedAt": "2026-06-27T22:50:07.519Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Who could England face in last 32 after qualifying for next round?",
     "source": "BBC Sport",
-    "timeAgo": "19h",
+    "timeAgo": "20h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
+      "headline": "Wigan seize late win over Hull FC as St Helens overwhelm Bradford Bulls",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13558378/betfred-super-league-wigan-warriors-seize-late-win-over-hull-fc-as-st-helens-overwhelm-bradford-bulls",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Rate the players in Panama v England",
       "source": "BBC Sport",
-      "timeAgo": "36m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Kane has big England chance saved vs Panama with Croatia leading Ghana LIVE!",
+      "topic": "News Story",
+      "headline": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
+      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Ireland take shock win but West Indies still progress to semi-finals",
+      "topic": "Liveblog",
+      "headline": "Kane doubles England lead vs Panama with Croatia leading Ghana LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
+      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,6 +77,26 @@
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Ireland take shock win but West Indies still progress to semi-finals",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
+      "source": "BBC Sport",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Two wickets in three deliveries for England's Bell!",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Who are the Panama players England need to look out for?",
+      "headline": "One night in Miami: The Scotsmen of the apocalypse",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Series slipping away from England as New Zealand strengthen position",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
+      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Palestra undergoes medical",
       "source": "Sky Sports",
@@ -126,47 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "One night in Miami: The Scotsmen of the apocalypse",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Gakpo to stay with Netherlands squad after loss of unborn son",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Scot Prem latest: Godfrey completes Rangers medical",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Chelsea in talks to sign Sunderland's Xhaka",
       "source": "BBC Sport",
@@ -176,17 +156,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Chelsea interested in signing Xhaka",
+      "headline": "Gakpo to stay with Netherlands squad after loss of unborn son",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
+      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-9",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "What each team needs to reach World Cup knockouts",
       "source": "BBC Sport",
@@ -196,12 +176,32 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Align The Stars wins Northumberland Plate at Newcastle",
+      "id": "sky_sports-8",
+      "topic": "Liveblog",
+      "headline": "Scot Prem latest: Godfrey completes Rangers medical",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558365/align-the-stars-wins-northumberland-plate-at-newcastle-for-trainer-charlie-johnston",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-9",
+      "topic": "News",
+      "headline": "World Cup quiz: Name the team from England v Panama 2018",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj6pw405k91o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-9",
+      "topic": "News Story",
+      "headline": "Chelsea interested in signing Xhaka",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
       "isFeatured": false,
       "hasAiSummary": false
     }
