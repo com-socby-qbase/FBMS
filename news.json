@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T07:42:05.926Z",
+    "generatedAt": "2026-06-27T08:41:45.379Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "How Cape Verde stunned World Cup to set up Argentina tie",
+    "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
     "source": "BBC Sport",
     "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,53 +50,13 @@
       "topic": "News",
       "headline": "England qualify for World Cup knockout stage",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 20",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjpzvlnd4wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Spirit Mixer bids to defend Northumberland Plate crown at Newcastle",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
       "source": "Sky Sports",
@@ -106,11 +66,51 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Who am I? Guess World Cup star No 20",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjpzvlnd4wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Humphries claims back-to-back US Darts Masters titles after beating Littler",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Spirit Mixer bids to defend Northumberland Plate crown at Newcastle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13557636/today-on-sky-sports-racing-spirit-mixer-bids-to-defend-northumberland-plate-crown-at-newcastle-live-on-saturday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Belgium thrash New Zealand to win Group G",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6215810pw7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Messi to start final Argentina group match on bench",
       "source": "BBC Sport",
-      "timeAgo": "38m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd95zlv7jz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Rest your best or go strong? Norway face questions as Haaland left out",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3xd37np9po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Egypt through but late drama denies Iran guaranteed last 32 spot",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cx2vlxjnxrro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
