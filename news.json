@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T20:51:51.977Z",
+    "generatedAt": "2026-06-27T21:26:27.687Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Quansah and Rogers start for England vs Panama LIVE!",
+      "topic": "News Story",
+      "headline": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
+      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Two wickets in three deliveries for England's Bell!",
+      "topic": "Liveblog",
+      "headline": "England searching for opener vs Panama as Croatia face Ghana LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
+      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Gakpo asks for privacy after loss of unborn son",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Series slipping away from England as New Zealand strengthen position",
+      "headline": "Ireland take shock win but West Indies still progress to semi-finals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558354/england-vs-new-zealand-ben-stokes-side-stumble-on-day-three-at-trent-bridge-and-drift-towards-series-defeat",
+      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Chelsea latest: Palestra undergoes medical",
+      "topic": "Video",
+      "headline": "Two wickets in three deliveries for England's Bell!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Gakpo to stay with Netherlands squad after loss of unborn son",
+      "headline": "Series slipping away from England as New Zealand strengthen position",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
+      "url": "https://www.skysports.com/cricket/news/12040/13558354/england-vs-new-zealand-ben-stokes-side-stumble-on-day-three-at-trent-bridge-and-drift-towards-series-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Scot Prem latest: Godfrey completes Rangers medical",
+      "headline": "Chelsea latest: Palestra undergoes medical",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Chelsea interested in signing Xhaka",
+      "headline": "Gakpo to stay with Netherlands squad after loss of unborn son",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
+      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "Chelsea in talks to sign Sunderland's Xhaka",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Align The Stars wins Northumberland Plate at Newcastle",
+      "topic": "Liveblog",
+      "headline": "Scot Prem latest: Godfrey completes Rangers medical",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558365/align-the-stars-wins-northumberland-plate-at-newcastle-for-trainer-charlie-johnston",
+      "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "What each team needs to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,10 +178,10 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Hamilton hopeful of finding strategy to beat Mercedes in Austrian GP",
+      "headline": "Chelsea interested in signing Xhaka",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558233/austrian-grand-prix-lewis-hamilton-hopes-strategy-can-help-ferrari-beat-mercedes-at-red-bull-ring-on-sunday",
+      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "England on brink of defeat, says Broad - but never write off Stokes in chase",
+      "topic": "News Story",
+      "headline": "Align The Stars wins Northumberland Plate at Newcastle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558350/england-vs-new-zealand-stuart-broad-believes-black-caps-can-put-series-to-bed-with-strong-day-four-performance-in-series-deciding-test",
+      "url": "https://www.skysports.com/racing/news/12040/13558365/align-the-stars-wins-northumberland-plate-at-newcastle-for-trainer-charlie-johnston",
       "isFeatured": false,
       "hasAiSummary": false
     }
