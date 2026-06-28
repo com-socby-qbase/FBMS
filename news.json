@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T11:53:18.713Z",
+    "generatedAt": "2026-06-28T12:33:19.056Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Russell on pole from Leclerc, Hamilton with heat set to be an issue LIVE!",
+      "headline": "Bashir makes breakthrough for England as NZ lead by 264 at lunch LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,6 +37,26 @@
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Austrian GP: Russell on pole from Leclerc, Hamilton with heat set to be an issue LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Are Iran the unluckiest side in World Cup history?",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
@@ -46,32 +66,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "New Zealand frustrate England's bowlers as lead passes 250 LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Are Iran the unluckiest side in World Cup history?",
+      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
+      "headline": "What you need to know about England's opponents DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England last-32 tie on BBC - see full schedule",
+      "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
+      "headline": "England last-32 tie on BBC - see full schedule",
       "source": "BBC Sport",
-      "timeAgo": "24m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "What you need to know about England's opponents DR Congo",
+      "headline": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Will Clarke successor be big-name overseas coach or Scotland icon?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx26dmgmdlpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
