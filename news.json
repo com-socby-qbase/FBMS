@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T15:11:26.522Z",
+    "generatedAt": "2026-06-28T15:44:40.252Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Stokes takes incredible wicket after announcing retirement LIVE!",
+      "headline": "NZ extend lead after Stokes announces England retirement mid-match LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -57,6 +57,26 @@
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Raducanu reveals injury concern but plans to play at Wimbledon",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13558618/wimbledon-emma-raducanu-reveals-injury-concern-but-plans-to-play-in-womens-singles-first-round-on-monday",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Knockouts are here - what is England's path to the final?",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "Hull FC 16-20 Wigan Warriors",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Knockouts are here - what is England's path to the final?",
+      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Bashir makes late breakthrough for England",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
+      "headline": "Rice set for England start against DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
       "source": "Sky Sports",
@@ -106,31 +126,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Rice set for England start against DR Congo",
-      "source": "BBC Sport",
-      "timeAgo": "56m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13558429/jose-valenzuela-targets-shakur-stevenson-after-revenge-rematch-with-edwin-de-los-santos-in-las-vegas",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
       "topic": "News",
       "headline": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
+      "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
+      "url": "https://www.skysports.com/boxing/news/12040/13558429/jose-valenzuela-targets-shakur-stevenson-after-revenge-rematch-with-edwin-de-los-santos-in-las-vegas",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
+      "topic": "News Story",
+      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
+      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
+      "topic": "Video",
+      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
+      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "15h",
+      "timeAgo": "16h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
+      "topic": "Article/Blog",
+      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
+      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
       "isFeatured": false,
       "hasAiSummary": false
     }
