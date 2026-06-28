@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T16:15:36.025Z",
+    "generatedAt": "2026-06-28T16:51:07.108Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Knockouts are here - what is England's path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
+      "topic": "Video",
+      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
+      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "16h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
+      "topic": "Article/Blog",
+      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
+      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
       "isFeatured": false,
       "hasAiSummary": false
     }
