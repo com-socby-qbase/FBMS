@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T13:56:13.819Z",
+    "generatedAt": "2026-06-28T14:39:33.994Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England take three quick wickets after lunch, NZ seven down LIVE!",
+      "headline": "Stokes takes incredible wicket after announcing retirement LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "How Bellingham became Tuchel's most important player",
       "source": "BBC Sport",
-      "timeAgo": "4m",
+      "timeAgo": "48m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -78,7 +78,7 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Verstappen closing on Russell in battle for lead LIVE!",
+      "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "What you need to know about England's opponents DR Congo",
+      "headline": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "England last-32 tie on BBC - see full schedule",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
+      "headline": "What you need to know about England's opponents DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
+      "headline": "Stokes steps down as England captain and announces international retirement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
+      "url": "https://www.skysports.com/cricket/news/12040/13558599/ben-stokes-england-captain-to-retire-from-international-cricket-after-new-zealand-series",
       "isFeatured": false,
       "hasAiSummary": false
     }
