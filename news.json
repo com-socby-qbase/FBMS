@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T13:11:43.722Z",
+    "generatedAt": "2026-06-28T13:56:13.819Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Bashir makes breakthrough but NZ extend lead over England LIVE!",
+      "headline": "England take three quick wickets after lunch, NZ seven down LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Knockouts are here - what is England's path to the final?",
+      "headline": "How Bellingham became Tuchel's most important player",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Hull FC 16-20 Wigan Warriors",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558564/hull-fc-16-20-wigan-warriors-super-league-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Are Iran the unluckiest side in World Cup history?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Video",
       "headline": "Bashir makes late breakthrough for England",
       "source": "Sky Sports",
@@ -46,19 +66,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Are Iran the unluckiest side in World Cup history?",
+      "headline": "Knockouts are here - what is England's path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Austrian GP: Russell keeps lead as Hamilton moves up to second at start LIVE!",
+      "headline": "Austrian GP: Verstappen closing on Russell in battle for lead LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "What you need to know about England's opponents DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
@@ -126,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "England last-32 tie on BBC - see full schedule",
       "source": "BBC Sport",
@@ -136,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Article/Blog",
       "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Report",
       "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Will Clarke successor be big-name overseas coach or Scotland icon?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx26dmgmdlpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
+      "headline": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558044/world-cup-2026-knockout-rounds-predictor-have-your-say-and-plot-englands-route-to-the-final",
+      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
       "isFeatured": false,
       "hasAiSummary": false
     }
