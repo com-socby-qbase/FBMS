@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T22:08:15.525Z",
+    "generatedAt": "2026-06-28T22:37:24.886Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Canada into last 16 with late winner against South Africa",
     "source": "BBC Sport",
-    "timeAgo": "18m",
+    "timeAgo": "48m",
     "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Who do Scotland fans want as the next head coach?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
       "source": "BBC Sport",
-      "timeAgo": "51m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
