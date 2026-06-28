@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T23:49:36.953Z",
+    "generatedAt": "2026-06-28T00:54:49.148Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Clarke steps down as Scotland manager after World Cup exit",
+    "headline": "Clarke steps down as Scotland boss after World Cup exit",
     "source": "BBC Sport",
-    "timeAgo": "12m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Who had the X-factor and who had a tough game? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "52m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Who could England face in last 32 after qualifying for next round?",
+      "headline": "Scotland's ill-fated World Cup story finally at a sorry end",
       "source": "BBC Sport",
-      "timeAgo": "46m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Tuchel vows 'the bigger the game, the bigger England will be'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Who could England face in last 32 after qualifying for next round?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "'Superstar' Bellingham inspires England to victory over Panama and top spot in group",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "14m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Ryu takes one-shot lead into final round of Women's PGA Championship",
       "source": "Sky Sports",
@@ -86,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Scotland's elimination from World Cup confirmed",
+      "headline": "Gakpo asks for privacy after loss of unborn son",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Lively start between Colombia and Portugal as Uzbekistan lead DR Congo LIVE!",
+      "headline": "Fernandes denied Portugal opener as DR Congo equaliser ruled out vs Uzbekistan LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/colombia-vs-portugal/live/549835",
@@ -106,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Gakpo asks for privacy after loss of unborn son",
+      "headline": "What each team needs to reach World Cup knockouts",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "England player ratings: Bellingham shines but duo fail to take chance",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13558404/panama-0-2-england-player-ratings-jude-bellingham-shines-again-but-jarell-quansah-and-morgan-rogers-disappoint",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Como bid for Chelsea's Chalobah - Sunday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp364e4n1y5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Clarke steps down after Scotland's World Cup exit confirmed",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'Nothing is impossible' - Cape Verde make history to set up Argentina tie",
+      "headline": "'Huge relief' - Bellingham puts England ahead against Panama",
       "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "England latest: Right-back curse? Quansah forced off injured...",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What each team needs to reach World Cup knockouts",
-      "source": "BBC Sport",
-      "timeAgo": "38m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Wigan seize late win over Hull FC as St Helens overwhelm Bradford Bulls",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13558378/betfred-super-league-wigan-warriors-seize-late-win-over-hull-fc-as-st-helens-overwhelm-bradford-bulls",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Como bid for Chelsea's Chalobah - Sunday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp364e4n1y5o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England top group with win over Panama as Croatia beat Ghana LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/panama-vs-england/live/549837",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Huge relief' - Bellingham puts England ahead against Panama",
+      "headline": "Kane breaks England World Cup goals record to double lead against Panama",
       "source": "BBC Sport",
-      "timeAgo": "53m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Croatia overcome Ghana to finish as runners-up to England",
+      "topic": "News Story",
+      "headline": "Wigan seize late win over Hull FC as St Helens overwhelm Bradford Bulls",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/croatia-vs-ghana/report/549836",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13558378/betfred-super-league-wigan-warriors-seize-late-win-over-hull-fc-as-st-helens-overwhelm-bradford-bulls",
       "isFeatured": false,
       "hasAiSummary": false
     }
