@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T14:39:33.994Z",
+    "generatedAt": "2026-06-28T15:11:26.522Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Russell holds off Verstappen to win Austrian GP",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "How Bellingham became Tuchel's most important player",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
       "headline": "Stokes takes incredible wicket after announcing retirement LIVE!",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "How Bellingham became Tuchel's most important player",
+      "headline": "Are Iran the unluckiest side in World Cup history?",
       "source": "BBC Sport",
-      "timeAgo": "48m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Video",
       "headline": "Hull FC 16-20 Wigan Warriors",
       "source": "Sky Sports",
@@ -46,42 +66,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Are Iran the unluckiest side in World Cup history?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "Bashir makes late breakthrough for England",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558576/england-vs-new-zealand-day-four-morning-session-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Knockouts are here - what is England's path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
+      "topic": "Video",
+      "headline": "Bashir makes late breakthrough for England",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "url": "https://www.skysports.com/watch/video/13558576/england-vs-new-zealand-day-four-morning-session-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,6 +97,26 @@
     },
     {
       "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Rice set for England start against DR Congo",
+      "source": "BBC Sport",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "England last-32 tie on BBC - see full schedule",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Article/Blog",
       "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "Report",
       "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "What you need to know about England's opponents DR Congo",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Stokes steps down as England captain and announces international retirement",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558599/ben-stokes-england-captain-to-retire-from-international-cricket-after-new-zealand-series",
       "isFeatured": false,
       "hasAiSummary": false
     }
