@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T18:29:27.128Z",
+    "generatedAt": "2026-06-28T18:56:40.538Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Nothing off table in picking Clarke successor - SFA",
     "source": "BBC Sport",
-    "timeAgo": "30m",
+    "timeAgo": "57m",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7vy03gln8lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "How Bellingham became Tuchel's most important player",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Russell admits to being at 'low point' before F1 title resurgence",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13558497/austrian-gp-george-russell-admits-to-being-at-low-point-before-reducing-kimi-antonellis-championship-lead",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Ugarte has 'most serious injury footballer can face'",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "Austrian Grand Prix | Race Highlights",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Ugarte has 'most serious injury footballer can face'",
+      "headline": "Are Iran the unluckiest side in World Cup history?",
       "source": "BBC Sport",
-      "timeAgo": "47m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Hovland and Scheffler battling for PGA Tour victory at Travelers Championship LIVE!",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Are Iran the unluckiest side in World Cup history?",
+      "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "'He should have backed out' - Hamilton dismisses Verstappen's call for penalty",
       "source": "Sky Sports",
@@ -106,42 +126,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "England labour past Panama to qualify for last 32 as group winners",
-      "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Australia knock India out of Women's T20 World Cup",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558644/womens-t20-world-cup-australia-knock-india-out-of-tournament-with-six-wicket-win-to-set-up-semi-final-vs-west-indies",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Knockouts are here - what is England's path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "WC knockouts begin! South Africa vs Canada team news LIVE!",
+      "topic": "News Story",
+      "headline": "Australia knock India out of Women's T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/south-africa-vs-canada/live/549838",
+      "url": "https://www.skysports.com/cricket/news/12040/13558644/womens-t20-world-cup-australia-knock-india-out-of-tournament-with-six-wicket-win-to-set-up-semi-final-vs-west-indies",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'I could have kept Russell behind' - Verstappen says strategy denied him chance of win",
+      "topic": "Liveblog",
+      "headline": "WC knockouts begin! South Africa vs Canada LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558495/max-verstappen-red-bull-driver-says-strategy-denied-him-chance-of-austrian-gp-win-against-george-russell",
+      "url": "https://www.skysports.com/football/south-africa-vs-canada/live/549838",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "YOUR VIEWS after England slip to 103-4 in Stokes' last international LIVE!",
+      "topic": "News Story",
+      "headline": "'I could have kept Russell behind' - Verstappen says strategy denied him chance of win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "url": "https://www.skysports.com/f1/news/12040/13558495/max-verstappen-red-bull-driver-says-strategy-denied-him-chance-of-austrian-gp-win-against-george-russell",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Redemption for Benvenuto Cellini in the Irish Derby",
+      "topic": "Liveblog",
+      "headline": "YOUR VIEWS after England slip to 103-4 in Stokes' last international LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558639/irish-derby-redemption-for-benvenuto-cellini-as-he-wins-at-the-curragh-for-aidan-obrien-and-ryan-moore",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     }
