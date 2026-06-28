@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T15:44:40.252Z",
+    "generatedAt": "2026-06-28T16:15:36.025Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Russell holds off Verstappen to win Austrian GP",
+      "headline": "Redemption for Benvenuto Cellini in the Irish Derby",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid",
+      "url": "https://www.skysports.com/racing/news/12040/13558639/irish-derby-redemption-for-benvenuto-cellini-as-he-wins-at-the-curragh-for-aidan-obrien-and-ryan-moore",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "How Bellingham became Tuchel's most important player",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "NZ extend lead after Stokes announces England retirement mid-match LIVE!",
+      "headline": "Stokes opens after mid-match retirement as England set 373 to win LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Are Iran the unluckiest side in World Cup history?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Raducanu reveals injury concern but plans to play at Wimbledon",
+      "headline": "Russell holds off Verstappen to win Austrian GP",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558618/wimbledon-emma-raducanu-reveals-injury-concern-but-plans-to-play-in-womens-singles-first-round-on-monday",
+      "url": "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Hull FC 16-20 Wigan Warriors",
+      "topic": "News Story",
+      "headline": "Raducanu reveals injury concern but plans to play at Wimbledon",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558564/hull-fc-16-20-wigan-warriors-super-league-highlights",
+      "url": "https://www.skysports.com/tennis/news/12040/13558618/wimbledon-emma-raducanu-reveals-injury-concern-but-plans-to-play-in-womens-singles-first-round-on-monday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "Video",
-      "headline": "Bashir makes late breakthrough for England",
+      "headline": "Hull FC 16-20 Wigan Warriors",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558576/england-vs-new-zealand-day-four-morning-session-highlights",
+      "url": "https://www.skysports.com/watch/video/13558564/hull-fc-16-20-wigan-warriors-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,18 +110,18 @@
       "topic": "News",
       "headline": "Rice set for England start against DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
+      "topic": "Video",
+      "headline": "Bashir makes late breakthrough for England",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "url": "https://www.skysports.com/watch/video/13558576/england-vs-new-zealand-day-four-morning-session-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,6 +137,26 @@
     },
     {
       "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "Austrian GP: Russell wins as Verstappen holds off Antonelli for second LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
@@ -146,42 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "England last-32 tie on BBC - see full schedule",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy1ynv34ko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
+      "topic": "News Story",
+      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
+      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
+      "topic": "Video",
+      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
+      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
