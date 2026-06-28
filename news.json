@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T11:01:54.733Z",
+    "generatedAt": "2026-06-28T11:53:18.713Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "New Zealand's lead continues to grow vs England on tricky pitch LIVE!",
+      "headline": "Austrian GP: Russell on pole from Leclerc, Hamilton with heat set to be an issue LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13557414/f1-austrian-gp-live-race-updates-results-stream-highlights-from-eighth-round-of-2026-formula-1-season-at-red-bull-ring",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Knockouts are here - what is England's path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
+      "headline": "Valenzuela targets Stevenson after revenge rematch with De Los Santos",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
+      "url": "https://www.skysports.com/boxing/news/12040/13558429/jose-valenzuela-targets-shakur-stevenson-after-revenge-rematch-with-edwin-de-los-santos-in-las-vegas",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -50,18 +50,18 @@
       "topic": "News",
       "headline": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
+      "topic": "Liveblog",
+      "headline": "New Zealand frustrate England's bowlers as lead passes 250 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "Are Iran the unluckiest side in World Cup history?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Article/Blog",
-      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
+      "topic": "News Story",
+      "headline": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
+      "url": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,11 +97,11 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
+      "topic": "Video",
+      "headline": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
+      "url": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -117,6 +117,46 @@
     },
     {
       "id": "sky_sports-5",
+      "topic": "Article/Blog",
+      "headline": "Draper's tough draw, 21 Brits and Serena's comeback - Gigi previews Wimbledon",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13558322/jack-draper-wimbledon-draw-could-have-been-kinder-says-sky-sports-tennis-presenter-gigi-salmon-as-she-gives-her-predictions-for-the-tournament",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
+      "source": "BBC Sport",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Report",
+      "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "England labour past Panama to qualify for last 32 as group winners",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "England labour past Panama to qualify for last 32 as group winners",
+      "headline": "What you need to know about England's opponents DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What you need to know about England's opponents DR Congo",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Hovland into Travelers lead to the delight of Norwegian football fans!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Will Clarke successor be big-name overseas coach or Scotland icon?",
       "source": "BBC Sport",
-      "timeAgo": "28m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx26dmgmdlpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Tuchel vows 'the bigger the game, the bigger England will be'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Job done - but England will not win World Cup unless they improve",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Messi makes more history as Argentina beat Jordan",
+      "topic": "Video",
+      "headline": "Hovland into Travelers lead to the delight of Norwegian football fans!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/jordan-vs-argentina/report/549833",
+      "url": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
