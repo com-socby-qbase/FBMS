@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T18:56:40.538Z",
+    "generatedAt": "2026-06-28T19:36:12.944Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Nothing off table in picking Clarke successor - SFA",
     "source": "BBC Sport",
-    "timeAgo": "57m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7vy03gln8lo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Who do Scotland fans want as the next head coach?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -58,10 +58,10 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
-      "headline": "Russell admits to being at 'low point' before F1 title resurgence",
+      "headline": "Tuchel praises Bellingham buy-in after another match-winning showing",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558497/austrian-gp-george-russell-admits-to-being-at-low-point-before-reducing-kimi-antonellis-championship-lead",
+      "url": "https://www.skysports.com/football/news/12040/13558646/jude-bellingham-thomas-tuchel-praises-england-midfielders-buy-in-at-world-cup-after-back-to-back-man-of-the-match-performances",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -77,11 +77,11 @@
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Austrian Grand Prix | Race Highlights",
+      "topic": "News Story",
+      "headline": "Russell admits to being at 'low point' before F1 title resurgence",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558606/austrian-grand-prix-race-highlights",
+      "url": "https://www.skysports.com/f1/news/12040/13558497/austrian-gp-george-russell-admits-to-being-at-low-point-before-reducing-kimi-antonellis-championship-lead",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -97,11 +97,11 @@
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Hovland and Scheffler battling for PGA Tour victory at Travelers Championship LIVE!",
+      "topic": "Video",
+      "headline": "Austrian Grand Prix | Race Highlights",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13558622/pga-tour-travelers-championship-live-leaderboard-scores-highlights-as-viktor-hovland-and-scottie-scheffler-battle-for-victory",
+      "url": "https://www.skysports.com/watch/video/13558606/austrian-grand-prix-race-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,18 +110,18 @@
       "topic": "News",
       "headline": "England labour past Panama to qualify for last 32 as group winners",
       "source": "BBC Sport",
-      "timeAgo": "19h",
+      "timeAgo": "20h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "'He should have backed out' - Hamilton dismisses Verstappen's call for penalty",
+      "topic": "Liveblog",
+      "headline": "Hovland and Scheffler battling for PGA Tour victory at Travelers Championship LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558499/austrian-gp-lewis-hamilton-dismisses-max-verstappen-call-for-penalty-after-epic-battle-between-old-rivals",
+      "url": "https://www.skysports.com/golf/live-blog/12040/13558622/pga-tour-travelers-championship-live-leaderboard-scores-highlights-as-viktor-hovland-and-scottie-scheffler-battle-for-victory",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,6 +138,26 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
+      "headline": "'He should have backed out' - Hamilton dismisses Verstappen's call for penalty",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13558499/austrian-gp-lewis-hamilton-dismisses-max-verstappen-call-for-penalty-after-epic-battle-between-old-rivals",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+      "source": "BBC Sport",
+      "timeAgo": "21m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "News Story",
       "headline": "Australia knock India out of Women's T20 World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -146,42 +166,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Derided by Leeds, snubbed by USA - but Marsch becoming Canada hero",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95071lvvqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "WC knockouts begin! South Africa vs Canada LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/south-africa-vs-canada/live/549838",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Rice set for England start against DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'I could have kept Russell behind' - Verstappen says strategy denied him chance of win",
+      "topic": "Liveblog",
+      "headline": "Both sides probing for opener in South Africa vs Canada LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558495/max-verstappen-red-bull-driver-says-strategy-denied-him-chance-of-austrian-gp-win-against-george-russell",
+      "url": "https://www.skysports.com/football/south-africa-vs-canada/live/549838",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "YOUR VIEWS after England slip to 103-4 in Stokes' last international LIVE!",
+      "topic": "News Story",
+      "headline": "'Best thing for me' - Stokes reveals decisions behind dramatic retirement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-four-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "url": "https://www.skysports.com/cricket/news/12040/13558674/ben-stokes-england-captain-reveals-tough-decisions-behind-international-retirement-and-why-it-is-best-thing-for-him",
       "isFeatured": false,
       "hasAiSummary": false
     }
