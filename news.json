@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T10:55:19.685Z",
+    "generatedAt": "2026-06-29T12:32:48.056Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "How the new Brazil is taking shape and why Cunha is key",
+    "headline": "How Tuchel is still searching for solutions out wide - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Sanchez expects to fight Itauma for IBF heavyweight title",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13558713/frank-sanchez-eyes-moses-itauma-next-for-vacant-ibf-world-heavyweight-title-fight-sanchez-probably-a-hair-too-soon-for-him",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Clarke says standing down 'easy' decision after World Cup exit",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Liverpool consider Barcola as PSG advance with move for Diomande",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Clarke says standing down 'easy' decision after World Cup exit",
+      "headline": "A new Brazil is taking shape - and Cunha is key",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Wimbledon Day One LIVE! Sinner, Sabalenka, Djokovic and Norrie in action",
       "source": "Sky Sports",
@@ -46,19 +66,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Why Netherlands v Morocco is more than just a match",
       "source": "BBC Sport",
-      "timeAgo": "39m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Stokes send-off unravelling as NZ take early wickets to close on series victory LIVE!",
+      "headline": "England three wickets from series defeat as NZ close on victory LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13558691/england-vs-new-zealand-third-test-day-five-live-score-updates-video-and-analysis-as-ben-stokes-retires-from-international-cricket",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Move over Messi and Ronaldo - the new generation shining at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "21m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy9yd8lgwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Article/Blog",
       "headline": "Boyd: Clarke criticism an absolute disgrace",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+      "headline": "Could a heatwave make World Cup matches 'unsafe' this week?",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/weather/articles/c1lyz4jy425o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Regal Envoy chases Windsor double",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Pampered, protected & primed - so why didn't Scotland players perform?",
+      "headline": "'Big brother' Van Dijk key to Dutch World Cup dreams",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9927m2jlx0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Last-leg decider! Humphries retains US Darts Masters against Littler",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Great stories, little jeopardy - does the new World Cup format work?",
+      "headline": "Sackings, death threats and fury – World Cup exit leaves South Korean football in crisis",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1rwp5e3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy049pen9q5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Hovland and Scheffler set for play off after thrilling final round",
       "source": "Sky Sports",
@@ -146,62 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Toulouse Olympique 16-40 Leigh Leopards",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558686/toulouse-olympique-16-40-leigh-leopards-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "World Cup quiz: How well do you know the group stage in numbers?",
+      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
       "source": "BBC Sport",
-      "timeAgo": "17m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8wvqp4w2wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Wakefield Trinity 29-23 Huddersfield Giants",
+      "topic": "News Story",
+      "headline": "Qualification and format confirmed for cricket's return at 2028 Olympics in LA",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558695/wakefield-trinity-29-23-huddersfield-giants-super-league-highlights",
+      "url": "https://www.skysports.com/cricket/news/12040/13558869/cricket-at-2028-olympics-in-los-angeles-qualification-and-format-confirmed-with-great-britain-qualified-in-womens-event",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "headline": "Pampered, protected & primed - so why didn't Scotland players perform?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "'I have all the info!' | Dana White teases AJ-Fury location",
+      "headline": "Toulouse Olympique 16-40 Leigh Leopards",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558753/will-usyk-v-wilder-end-up-on-zuffa-anything-is-possible",
+      "url": "https://www.skysports.com/watch/video/13558686/toulouse-olympique-16-40-leigh-leopards-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
