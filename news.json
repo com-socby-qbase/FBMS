@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T22:38:07.273Z",
+    "generatedAt": "2026-06-29T23:07:57.809Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
     "source": "BBC Sport",
-    "timeAgo": "23m",
+    "timeAgo": "53m",
     "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Liverpool target Diomande would prefer to join PSG",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Maresca to pay Chelsea compensation - but why?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "'They needed that' - Havertz levels for Germany with header",
       "source": "BBC Sport",
-      "timeAgo": "24m",
+      "timeAgo": "54m",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvgdpyeejjlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
