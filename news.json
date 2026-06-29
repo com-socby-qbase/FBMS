@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T15:27:12.568Z",
+    "generatedAt": "2026-06-29T16:42:29.814Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "New Man City boss Maresca to pay compensation to Chelsea",
+    "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "22m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "McCullum: England commitment has 'never wavered' despite NZ series defeat",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "How Tuchel is still searching for solutions out wide - Shearer",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Q&A: What next for Scotland in Clarke successor search?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Harsh reality behind Scotland fans' calls for Moyes & Postecoglou",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
       "source": "Sky Sports",
@@ -26,17 +66,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "How Tuchel is still searching for solutions out wide - Shearer",
+      "headline": "Africa's World Cup success leaves Asia looking for answers",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
+      "topic": "Article/Blog",
+      "headline": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Middlesbrough's Hackney set for Everton move",
+      "source": "BBC Sport",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmd4ld079po?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'Remarkable Raducanu deserves celebration not cynicism'",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Harsh reality behind Scotland fans' calls for Moyes & Postecoglou",
+      "headline": "A new Brazil is taking shape - and Cunha is key",
       "source": "BBC Sport",
-      "timeAgo": "55m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "England limp to series defeat to New Zealand in anti-climactic finish for Stokes",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Africa's World Cup success leaves Asia looking for answers",
+      "headline": "New Man City boss Maresca to pay compensation to Chelsea",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "52m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Barcelona interested in England captain Kane",
       "source": "Sky Sports",
@@ -86,37 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "A new Brazil is taking shape - and Cunha is key",
+      "headline": "Canada into last 16 with late winner against South Africa",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Hovland wins Travelers Championship in play-off as Scheffler botches short putt",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13558913/travelers-championship-viktor-hovland-beats-scottie-scheffler-in-play-off-as-world-no-1-botches-short-birdie-putt",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Why Netherlands v Morocco is more than just a match",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Draper out of Wimbledon in nightmare 24 hours for British tennis",
       "source": "Sky Sports",
@@ -126,82 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Burnley fail with Edwards approach",
-      "source": "BBC Sport",
-      "timeAgo": "43m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jx1wlyj2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Bigger than Botham? English cricket 'less interesting' as Stokes bows out",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558900/ben-stokes-englands-serious-entertainer-bows-out-as-cricket-becomes-less-interesting-and-far-worse",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Kerr joins NWSL side Gotham FC",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5n027vrgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Highlights: England lose by 160 runs after incredible New Zealand fielding",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558930/england-vs-new-zealand-3rd-test-day-five-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Welsh football bosses reveal £150m cost to improve facilities",
+      "headline": "Why Netherlands v Morocco is more than just a match",
       "source": "BBC Sport",
-      "timeAgo": "25m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Scheffler misses short putt in play-off as Hovland claims Travelers Championship",
+      "topic": "News Story",
+      "headline": "Hovland wins Travelers Championship in play-off as Scheffler botches short putt",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558927/viktor-hovland-beats-scottie-scheffler-in-travelers-championship-play-off",
+      "url": "https://www.skysports.com/golf/news/12040/13558913/travelers-championship-viktor-hovland-beats-scottie-scheffler-in-play-off-as-world-no-1-botches-short-birdie-putt",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Move over Messi and Ronaldo - the new generation shining at World Cup",
+      "headline": "Burnley fail with Edwards approach",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy9yd8lgwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jx1wlyj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "How Haeran Ryu won her first major title at the KPMG Women's PGA Championship",
+      "topic": "News Story",
+      "headline": "Bigger than Botham? English cricket 'less interesting' and 'far worse' as Stokes bows out",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13558766/the-moments-that-defined-haeran-ryu-first-major-title",
+      "url": "https://www.skysports.com/cricket/news/12040/13558900/ben-stokes-englands-serious-entertainer-bows-out-as-cricket-becomes-less-interesting-and-far-worse",
       "isFeatured": false,
       "hasAiSummary": false
     }
