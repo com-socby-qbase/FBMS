@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T20:54:45.548Z",
+    "generatedAt": "2026-06-29T21:33:15.422Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "How Tuchel is still searching for solutions out wide - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Harsh reality behind Scotland fans' calls for Moyes & Postecoglou",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Bournemouth reject Arsenal interest in Scott",
       "source": "BBC Sport",
-      "timeAgo": "35m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8mgmr732do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Africa's World Cup success leaves Asia looking for answers",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Middlesbrough's Hackney set for Everton move",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmd4ld079po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Martinelli scores stoppage-time winner to send Brazil through to last 16",
       "source": "BBC Sport",
-      "timeAgo": "59m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
