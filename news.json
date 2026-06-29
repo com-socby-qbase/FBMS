@@ -1,42 +1,22 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T05:39:20.363Z",
+    "generatedAt": "2026-06-29T07:16:07.193Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+    "headline": "How the new Brazil is taking shape and why Cunha is key",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "12m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Pressure on England for tough SA, Pumas Tests | Depleted Ireland seek history",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "Great stories, little jeopardy - does the new World Cup format work?",
-      "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1rwp5e3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Today on Sky Sports Racing: Regal Envoy chases Windsor double",
       "source": "Sky Sports",
@@ -46,17 +26,117 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Canada into last 16 with late winner against South Africa",
+      "headline": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
       "source": "BBC Sport",
       "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Hovland and Scheffler set for play off after thrilling final round",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558739/travelers-championship-day-four-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Great stories, little jeopardy - does the new World Cup format work?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyr1rwp5e3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "'I have all the info!' | Dana White teases AJ-Fury location",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558753/will-usyk-v-wilder-end-up-on-zuffa-anything-is-possible",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Canada into last 16 with late winner against South Africa",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "SEPTUPLE-BOGEY?! JT Poston loses it on disastrous 13th",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558747/jt-poston-loses-his-cool-on-the-13th-after-septuble-bogey",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Who am I? Guess World Cup star No 22",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1d2677d495o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Heavyweight Zokirov drops and stops opponent in just two rounds!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13558711/heavyweight-jakhongir-zokirov-drops-and-stops-opponent-in-just-two-rounds",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Pampered, protected & primed - so why didn't Scotland players perform?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Pressure on England for tough SA, Pumas Tests | Depleted Ireland seek history",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Scheffler's clutch putt sets up Monday play-off vs Hovland at Travelers Championship",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Who do Scotland fans want as the next head coach?",
+      "headline": "How Bellingham became Tuchel's most important player",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "British GP: Schedule and how to watch for free on Sky",
       "source": "Sky Sports",
@@ -86,122 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Papers: James optimistic he can feature again at World Cup",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558706/reece-james-england-defender-confident-of-playing-again-at-world-cup-paper-talk",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "How Bellingham became Tuchel's most important player",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Report",
-      "headline": "Canada secure last-16 place after dramatic late winner vs South Africa",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/south-africa-vs-canada/report/549838",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Podcast: Pundits react as Stokes announces retirement and NZ close on win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Nothing off table in Clarke successor search - SFA",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy03gln8lo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Did 'crazy' cricket deny Stokes 'extraordinary' end to England career?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558678/ben-stokes-england-captain-delivers-drama-but-did-crazy-cricket-deny-him-dream-end-to-extraordinary-test-career",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Ugarte has 'most serious injury footballer can face'",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Wakefield claim last-gasp victory over Huddersfield",
+      "topic": "News Story",
+      "headline": "Papers: Barcelona explore deal to sign Kane",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/wakefield-vs-huddersfield/report/63267",
+      "url": "https://www.skysports.com/football/news/12040/13558706/harry-kane-barcelona-explore-deal-to-sign-bayern-munich-striker-after-world-cup-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Knockouts are here - what is England's path to the final?",
+      "headline": "Nothing off table in Clarke successor search - SFA",
       "source": "BBC Sport",
-      "timeAgo": "23h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy03gln8lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Raducanu pulls out of Wimbledon due to injury",
+      "topic": "Report",
+      "headline": "Canada secure last-16 place after dramatic late winner vs South Africa",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558321/emma-raducanu-out-of-wimbledon-british-no-1-withdraws-following-foot-injury-as-frustrating-season-continues",
+      "url": "https://www.skysports.com/football/south-africa-vs-canada/report/549838",
       "isFeatured": false,
       "hasAiSummary": false
     }
