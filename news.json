@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T18:28:49.324Z",
+    "generatedAt": "2026-06-29T19:15:17.034Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Hastings avoids sanction for making contact with injured Bradford player",
+      "topic": "Report",
+      "headline": "90+6! Martinelli sends Brazil through after comeback win vs Japan",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13559018/super-league-st-helens-jackson-hastings-avoids-charge-for-making-contact-with-injured-bradford-player-ahead-of-magic-weekend",
+      "url": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -38,6 +38,26 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
+      "headline": "Hastings avoids sanction for making contact with injured Bradford player",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13559018/super-league-st-helens-jackson-hastings-avoids-charge-for-making-contact-with-injured-bradford-player-ahead-of-magic-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "How to win a World Cup penalty shootout",
+      "source": "BBC Sport",
+      "timeAgo": "1d",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
       "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Harsh reality behind Scotland fans' calls for Moyes & Postecoglou",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8kew413jjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Stokes backs Brook - but who should be England's next captain?",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Liverpool target Diomande would prefer to join PSG",
       "source": "BBC Sport",
-      "timeAgo": "47m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Former NFL running back Johnson reveals MND/ALS diagnosis",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Africa's World Cup success leaves Asia looking for answers",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "McCullum: England commitment 'never wavered' despite NZ series defeat",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Middlesbrough's Hackney set for Everton move",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgmd4ld079po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Q&A: What next for Scotland in Clarke successor search?",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "A new Brazil is taking shape - and Cunha is key",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Maresca to pay Chelsea compensation - but why?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Article/Blog",
       "headline": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Canada into last 16 with late winner against South Africa",
-      "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Remarkable Raducanu deserves celebration not cynicism'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558852/emma-raducanu-briton-deserves-celebration-not-cynicism-after-wimbledon-withdrawal-says-jonathan-overend",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Why Netherlands v Morocco is more than just a match",
+      "headline": "'Brilliant finish' - but should Sano have been on the pitch?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30y12v9g0qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "England limp to series defeat to New Zealand in anti-climactic finish for Stokes",
+      "topic": "Liveblog",
+      "headline": "Undav handed start for Germany vs Paraguay LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558845/england-vs-new-zealand-ben-stokes-finish-with-series-defeat-as-hosts-limp-to-third-test-loss-in-captains-final-game",
+      "url": "https://www.skysports.com/football/germany-vs-paraguay/live/549840",
       "isFeatured": false,
       "hasAiSummary": false
     }
