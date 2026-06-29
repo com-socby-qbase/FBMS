@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T17:42:22.661Z",
+    "generatedAt": "2026-06-29T18:28:49.324Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
+      "headline": "Hastings avoids sanction for making contact with injured Bradford player",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13559018/super-league-st-helens-jackson-hastings-avoids-charge-for-making-contact-with-injured-bradford-player-ahead-of-magic-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "How Tuchel is still searching for solutions out wide - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "Stokes backs Brook - but who should be England's next captain?",
+      "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558978/ben-stokes-backs-harry-brook-but-who-should-be-englands-next-test-captain",
+      "url": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -58,6 +58,26 @@
     {
       "id": "sky_sports-2",
       "topic": "News Story",
+      "headline": "Stokes backs Brook - but who should be England's next captain?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13558978/ben-stokes-backs-harry-brook-but-who-should-be-englands-next-test-captain",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Liverpool target Diomande would prefer to join PSG",
+      "source": "BBC Sport",
+      "timeAgo": "47m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
       "headline": "Former NFL running back Johnson reveals MND/ALS diagnosis",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Africa's World Cup success leaves Asia looking for answers",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "McCullum: England commitment 'never wavered' despite NZ series defeat",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Middlesbrough's Hackney set for Everton move",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Q&A: What next for Scotland in Clarke successor search?",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "A new Brazil is taking shape - and Cunha is key",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "New Man City boss Maresca to pay compensation to Chelsea",
+      "headline": "Maresca to pay Chelsea compensation - but why?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Article/Blog",
       "headline": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Canada into last 16 with late winner against South Africa",
       "source": "BBC Sport",
-      "timeAgo": "19h",
+      "timeAgo": "20h",
       "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Remarkable Raducanu deserves celebration not cynicism'",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Why Netherlands v Morocco is more than just a match",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England limp to series defeat to New Zealand in anti-climactic finish for Stokes",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558845/england-vs-new-zealand-ben-stokes-finish-with-series-defeat-as-hosts-limp-to-third-test-loss-in-captains-final-game",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Burnley fail with Edwards approach",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jx1wlyj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Draper out of Wimbledon in nightmare 24 hours for British tennis",
+      "headline": "England limp to series defeat to New Zealand in anti-climactic finish for Stokes",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13558853/wimbledon-british-star-jack-draper-out-of-grand-slam-due-to-recurrence-of-arm-injury",
+      "url": "https://www.skysports.com/cricket/news/12040/13558845/england-vs-new-zealand-ben-stokes-finish-with-series-defeat-as-hosts-limp-to-third-test-loss-in-captains-final-game",
       "isFeatured": false,
       "hasAiSummary": false
     }
