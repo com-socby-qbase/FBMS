@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T21:33:15.422Z",
+    "generatedAt": "2026-06-29T22:09:27.802Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Gardner: Australia must be wary of Matthews in T20 World Cup semi-final",
+      "headline": "Djokovic and Sinner survive first-round scares to progress at Wimbledon",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13559035/icc-womens-t20-world-cup-ashleigh-gardner-says-australia-must-be-wary-of-west-indies-captain-hayley-matthews-firepower-in-semi-final",
+      "url": "https://www.skysports.com/tennis/news/12040/13558903/wimbledon-novak-djokovic-and-jannik-sinner-survive-scares-while-aryna-sabalenka-strolls-into-second-round",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -37,11 +37,11 @@
     },
     {
       "id": "sky_sports-1",
-      "topic": "Report",
-      "headline": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
+      "topic": "News Story",
+      "headline": "Gardner: Australia must be wary of Matthews in T20 World Cup semi-final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
+      "url": "https://www.skysports.com/cricket/news/12040/13559035/icc-womens-t20-world-cup-ashleigh-gardner-says-australia-must-be-wary-of-west-indies-captain-hayley-matthews-firepower-in-semi-final",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Hastings avoids sanction for making contact with injured Bradford player",
+      "topic": "Report",
+      "headline": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13559018/super-league-st-helens-jackson-hastings-avoids-charge-for-making-contact-with-injured-bradford-player-ahead-of-magic-weekend",
+      "url": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
+      "headline": "Hastings avoids sanction for making contact with injured Bradford player",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13559018/super-league-st-helens-jackson-hastings-avoids-charge-for-making-contact-with-injured-bradford-player-ahead-of-magic-weekend",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Stokes backs Brook - but who should be England's next captain?",
+      "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558978/ben-stokes-backs-harry-brook-but-who-should-be-englands-next-test-captain",
+      "url": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Liverpool target Diomande would prefer to join PSG",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Former NFL running back Johnson reveals MND/ALS diagnosis",
+      "headline": "Stokes backs Brook - but who should be England's next captain?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nfl/news/12040/13558982/chris-johnson-former-tennessee-titans-running-back-reveals-mnd-als-diagnosis",
+      "url": "https://www.skysports.com/cricket/news/12040/13558978/ben-stokes-backs-harry-brook-but-who-should-be-englands-next-test-captain",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "McCullum: England commitment 'never wavered' despite NZ series defeat",
+      "headline": "Former NFL running back Johnson reveals MND/ALS diagnosis",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
+      "url": "https://www.skysports.com/nfl/news/12040/13558982/chris-johnson-former-tennessee-titans-running-back-reveals-mnd-als-diagnosis",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -158,10 +158,10 @@
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Q&A: What next for Scotland in Clarke successor search?",
+      "headline": "McCullum: England commitment 'never wavered' despite NZ series defeat",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
+      "url": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Maresca to pay Chelsea compensation - but why?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -178,30 +178,30 @@
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
+      "headline": "Q&A: What next for Scotland in Clarke successor search?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
+      "url": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Martinelli scores stoppage-time winner to send Brazil through to last 16",
+      "headline": "'That might just wake Germany up' - Paraguay take shock lead through Enciso",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "29m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0kyemyzzdzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "topic": "News Story",
+      "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "url": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
       "isFeatured": false,
       "hasAiSummary": false
     }
