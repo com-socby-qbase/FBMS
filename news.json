@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T10:45:01.535Z",
+    "generatedAt": "2026-06-30T11:46:24.559Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Pick Mainoo over Anderson against DR Congo - Rooney",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,8 +17,28 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "'It's been a difficult period’ – Newey speaks on health issues",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13559149/adrian-newey-aston-martin-chief-speaks-on-his-health-issues-and-confirms-f1-team-set-for-for-big-hungarian-gp-car-upgrade",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Arsenal poised - can Newcastle convince Guimaraes for a second time?",
+      "source": "BBC Sport",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Two LIVE! Boulter, Swiatek and Serena Williams in action",
+      "headline": "Wimbledon Day Two LIVE! Swan becomes first British winner, Swiatek, Serena to come",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13558179/wimbledon-day-two-live-scores-updates-news-results-with-serena-williams-katie-boulter-and-iga-swiatek-in-action",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Germany beaten on penalties as Paraguay reach last 16",
+      "headline": "US security chief 'danced happy dance' after Iran exit",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Article/Blog",
       "headline": "Merson: Bellingham's deeper role has given Tuchel midfield headache",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'Germany no longer first-class team ' - is this the end for Nagelsmann?",
+      "headline": "Germany fans in need of hope as prospect of Klopp looms",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Wilder next for Usyk? 'Fury chapter is closed'",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "US security chief 'danced happy dance' after Iran exit",
+      "headline": "France superstars thriving thanks to bravery of Deschamps",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Why Tuchel should be worried about DR Congo's 'anti-England' formula",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Emotional Gakpo scores days after loss of unborn son",
+      "headline": "The Paraguay hero who sold his kit when his son was born",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "World Cup latest: Klopp responds to Germany links as Nagelsmann says 'I won't quit'",
       "source": "Sky Sports",
@@ -106,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
+      "headline": "Germany beaten on penalties as Paraguay reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "France vs Sweden preview - predict the score!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Emotional Gakpo scores days after loss of unborn son",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "England vs NZ player ratings: Archer impresses in Stokes' farewell Test",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Paraguay's tears of joy over World Cup shock",
+      "headline": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Boxing's fastest fighters! BLINK and you will miss knockouts",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "'A joke' - how a 'terrible' VAR disallowed goal cost Germany",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Button: Why Hamilton should be confident of Silverstone victory chances",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558996/lewis-hamilton-will-be-confident-of-challenging-for-victory-at-british-gp-says-his-former-team-mate-jenson-button",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 23",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g85gg5128o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Brighton and Ffos Las host live action",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558535/today-on-sky-sports-racing-brighton-and-ffos-las-host-live-action",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
+      "headline": "Paraguay's tears of joy over World Cup shock",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Explained:  What can England expect from DR Congo?",
+      "topic": "News Story",
+      "headline": "Button: Why Hamilton should be confident of Silverstone victory chances",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13559024/world-cup-what-can-england-expect-from-dr-congo",
+      "url": "https://www.skysports.com/f1/news/12040/13558996/lewis-hamilton-will-be-confident-of-challenging-for-victory-at-british-gp-says-his-former-team-mate-jenson-button",
       "isFeatured": false,
       "hasAiSummary": false
     }
