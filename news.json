@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T14:37:33.848Z",
+    "generatedAt": "2026-06-30T15:37:33.314Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "France superstars thriving thanks to Deschamps' bold changes",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Australia in control vs West Indies in T20 World Cup semi-final LIVE!",
+      "headline": "Ivory Coast vs Norway team news LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13559186/womens-t20-world-cup-semi-final-australia-vs-west-indies-live-latest-cricket-score-updates-video-and-analysis-from-the-oval",
+      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/live/549843",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,93 @@
       "topic": "News",
       "headline": "Germany fans in need of hope as prospect of Klopp looms",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Brook: England Test captaincy would be 'great honour'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13559258/harry-brook-says-england-test-captaincy-would-be-great-honour-after-ben-stokes-retirement-its-something-ive-always-wanted-to-do",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Pick Mainoo over Anderson against DR Congo - Rooney",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Australia make fast start chasing 126 to beat West Indies LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13559186/womens-t20-world-cup-semi-final-australia-vs-west-indies-live-latest-cricket-score-updates-video-and-analysis-from-the-oval",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Tottenham goalkeeper Kinsky signs new deal",
+      "source": "BBC Sport",
+      "timeAgo": "30m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r21kp8xvdo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Wimbledon order of play: Djokovic, Sinner, Sabalenka, Osaka in Wednesday action",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Arsenal poised - can Newcastle convince Guimaraes for a second time?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "What will happen to Usyk's heavyweight world titles?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13559207/heavyweight-boxing-what-will-happen-to-oleksandr-usyks-world-titles-and-will-moses-itauma-take-over-the-division",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Fuchs blows kiss to bowler after smashing six into river on cricket debut",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Cusack's Sheff Utd coach called her a 'psycho', inquest hears",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Pick Mainoo over Anderson against DR Congo - Rooney",
+      "headline": "The Paraguay hero who sold his kit when his son was born",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'It's been a difficult period’ – Newey speaks on health issues",
       "source": "Sky Sports",
@@ -66,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Arsenal poised - can Newcastle convince Guimaraes for a second time?",
+      "headline": "Coach played mind games with Cusack before death, inquest told",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy529xwdro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Two LIVE! Swiatek into decider with Serena to come on Centre",
+      "headline": "Wimbledon Day Two LIVE! Tearful Swiatek wins with Serena to come on Centre",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13558179/wimbledon-day-two-live-scores-updates-news-results-with-serena-williams-katie-boulter-and-iga-swiatek-in-action",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Fuchs blows kiss to bowler after smashing six into river on cricket debut",
+      "headline": "Germany beaten on penalties as Paraguay reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "Article/Blog",
       "headline": "Merson: Bellingham's deeper role has given Tuchel midfield headache",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "The Paraguay hero who sold his kit when his son was born",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Wilder next for Usyk? 'Fury chapter is closed'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13559125/oleksandr-usyk-weighs-final-fight-options-as-promoter-rules-out-tyson-fury-trilogy-i-believe-that-chapter-is-closed",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Coach played mind games with Cusack before death, inquest told",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy529xwdro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Why Tuchel should be worried about DR Congo's 'anti-England' formula",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558773/world-cup-2026-why-england-and-thomas-tuchel-should-be-worried-about-dr-congo-ahead-of-their-last-32-clash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Germany beaten on penalties as Paraguay reach last 16",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "World Cup latest: Klopp responds to Germany links as Nagelsmann says 'I won't quit'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "US security chief 'danced happy dance' after Iran exit",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Who starts at RB and how to beat low block? England vs DR Congo talking points",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Emotional Gakpo scores days after loss of unborn son",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "France vs Sweden preview - predict the score!",
+      "topic": "News Story",
+      "headline": "Wilder next for Usyk? 'Fury chapter is closed'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
+      "url": "https://www.skysports.com/boxing/news/12040/13559125/oleksandr-usyk-weighs-final-fight-options-as-promoter-rules-out-tyson-fury-trilogy-i-believe-that-chapter-is-closed",
       "isFeatured": false,
       "hasAiSummary": false
     }
