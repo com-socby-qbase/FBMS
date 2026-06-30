@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T09:31:22.397Z",
+    "generatedAt": "2026-06-30T10:45:01.535Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Pick Mainoo over Anderson against DR Congo - Rooney",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Germany beaten on penalties as Paraguay reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "'Germany no longer first-class team ' - is this the end for Nagelsmann?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "US security chief 'danced happy dance' after Iran exit",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Emotional Gakpo scores days after loss of unborn son",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Paraguay's tears of joy over World Cup shock",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "'A joke' - how a 'terrible' VAR disallowed goal cost Germany",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 23",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g85gg5128o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
       "source": "BBC Sport",
-      "timeAgo": "17h",
+      "timeAgo": "18h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Leeds quell Connor concerns ahead of Magic Weekend clash with Bradford",
+      "topic": "Video",
+      "headline": "Explained:  What can England expect from DR Congo?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13559139/leeds-rhinos-quell-jake-connor-concerns-ahead-of-magic-weekend-clash-with-rivals-bradford-bulls",
+      "url": "https://www.skysports.com/watch/video/13559024/world-cup-what-can-england-expect-from-dr-congo",
       "isFeatured": false,
       "hasAiSummary": false
     }
