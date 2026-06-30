@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T20:26:14.529Z",
+    "generatedAt": "2026-06-30T21:11:57.644Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Quansah and James miss England training as right-back problems mount",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Haaland the late hero as Norway knock out resilient Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "45m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Battling Serena suffers Wimbledon defeat on much-anticipated return",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13559134/wimbledon-serena-williams-suffers-first-round-defeat-to-maya-joint-in-much-anticipated-first-singles-match-since-2022",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Spurs agree £85m deal for West Ham's Fernandes",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Garcia rues lasagne after missing out at Final Qualifying - who progressed?",
       "source": "Sky Sports",
@@ -46,42 +66,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Spurs agree £85m deal for West Ham's Fernandes",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Saliba back for France as Bergvall starts for Sweden in last-32 clash LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-3",
       "topic": "News",
       "headline": "England fans' behaviour 'excellent' at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "24m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
+      "topic": "Liveblog",
+      "headline": "France vs Sweden LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
+      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,6 +98,26 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
+      "headline": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "PSG set Barcola price - Wednesday's gossip",
+      "source": "BBC Sport",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
       "headline": "Four Premier League sides fined by UEFA for breaches of financial rules",
       "source": "Sky Sports",
       "timeAgo": "",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "France superstars thriving thanks to Deschamps' bold changes",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "McLaren reveal VERY different British GP livery in 60-year tribute",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "35m",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Lampard signs new Coventry deal after summer interest",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "'Goal of the tournament' - Amad's brilliant equaliser for Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c621g6lg4plo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Summerville a top winger target for Man Utd but Rashford holds key",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Arsenal consider Barcola as alternative to Rogers",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "World Cup penalty misses - is this the end of the stutter?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Brighton sign Leeds defender Struijk for about £20m",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzg27xp00o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "McLaren 'three months behind' rivals - Norris",
+      "headline": "World Cup penalty misses - is this the end of the stutter?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559190/lando-norris-mclaren-driver-says-team-three-months-behind-f1-rivals-in-bid-to-get-back-to-winning-races",
+      "url": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
       "isFeatured": false,
       "hasAiSummary": false
     }
