@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T19:40:30.668Z",
+    "generatedAt": "2026-06-30T20:26:14.529Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Quansah and James miss England training as right-back problems mount",
     "source": "BBC Sport",
-    "timeAgo": "47m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,15 +28,55 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "'Goal of the tournament' - Amad's brilliant equaliser for Ivory Coast",
+      "headline": "Haaland the late hero as Norway knock out resilient Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "42m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c621g6lg4plo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Garcia rues lasagne after missing out at Final Qualifying - who progressed?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13559174/the-open-final-qualifying-sergio-garcia-danny-willett-among-major-winners-to-miss-out-but-who-qualified-for-royal-birkdale",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Spurs agree £85m deal for West Ham's Fernandes",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Saliba back for France as Bergvall starts for Sweden in last-32 clash LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "England fans' behaviour 'excellent' at World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "24m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Spurs agree £85m deal for West Ham's Fernandes",
+      "headline": "Coventry boss Lampard signs new contract to 2029",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Four Premier League sides fined by UEFA for breaches of financial rules",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Coventry boss Lampard signs new contract to 2029",
+      "headline": "France superstars thriving thanks to Deschamps' bold changes",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "McLaren reveal VERY different British GP livery in 60-year tribute",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "France superstars thriving thanks to Deschamps' bold changes",
+      "headline": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Lampard signs new Coventry deal after summer interest",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
+      "headline": "'Goal of the tournament' - Amad's brilliant equaliser for Ivory Coast",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621g6lg4plo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Summerville a top winger target for Man Utd but Rashford holds key",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'A moment of real quality' - Nusa's sensational strike puts Norway ahead",
+      "headline": "Arsenal consider Barcola as alternative to Rogers",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj0gd9q322zo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "World Cup penalty misses - is this the end of the stutter?",
       "source": "Sky Sports",
@@ -146,27 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Arsenal consider Barcola as alternative to Rogers",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "McLaren 'three months behind' rivals - Norris",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559190/lando-norris-mclaren-driver-says-team-three-months-behind-f1-rivals-in-bid-to-get-back-to-winning-races",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Brighton sign Leeds defender Struijk for about £20m",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "'She's Ellyse Perry!' - Australia confident star will be fit for World Cup final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13559186/womens-t20-world-cup-semi-final-australia-vs-west-indies-live-latest-cricket-score-updates-video-and-analysis-from-the-oval",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Germany fans in need of hope as prospect of Klopp looms",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Brook: England Test captaincy would be 'great honour'",
+      "headline": "McLaren 'three months behind' rivals - Norris",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13559258/harry-brook-says-england-test-captaincy-would-be-great-honour-after-ben-stokes-retirement-its-something-ive-always-wanted-to-do",
+      "url": "https://www.skysports.com/f1/news/12040/13559190/lando-norris-mclaren-driver-says-team-three-months-behind-f1-rivals-in-bid-to-get-back-to-winning-races",
       "isFeatured": false,
       "hasAiSummary": false
     }
