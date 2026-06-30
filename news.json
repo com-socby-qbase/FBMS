@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T23:10:03.496Z",
+    "generatedAt": "2026-06-30T23:41:46.414Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Defying logic - how Haaland could end up with 260 international goals",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "2h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "News Story",
-      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
+      "topic": "Report",
+      "headline": "Ruthless Mbappe sets tone as France breeze past Sweden",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
+      "url": "https://www.skysports.com/football/france-vs-sweden/report/549844",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,18 +30,18 @@
       "topic": "News",
       "headline": "Koeman resigns, while Netherlands report racist abuse",
       "source": "BBC Sport",
-      "timeAgo": "39m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Garcia fails to qualify for Open; Nicholas leads Burnham & Berrow",
+      "topic": "News Story",
+      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13559365/golf-sergio-garcia-fails-to-qualify-for-154th-golf-open-james-nicholas-finishes-top-in-burnham-berrow",
+      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "Report",
-      "headline": "Haaland scores late winner to set up Norway vs Brazil",
+      "topic": "Video",
+      "headline": "Garcia fails to qualify for Open; Nicholas leads Burnham & Berrow",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
+      "url": "https://www.skysports.com/watch/video/13559365/golf-sergio-garcia-fails-to-qualify-for-154th-golf-open-james-nicholas-finishes-top-in-burnham-berrow",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "Mbappe scores twice as France beat Sweden",
       "source": "BBC Sport",
-      "timeAgo": "14m",
+      "timeAgo": "46m",
       "url": "https://www.bbc.co.uk/sport/football/videos/c892k0de2j3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Battling Serena suffers Wimbledon defeat on much-anticipated return",
+      "topic": "Report",
+      "headline": "Haaland scores late winner to set up Norway vs Brazil",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13559134/wimbledon-serena-williams-suffers-first-round-defeat-to-maya-joint-in-much-anticipated-first-singles-match-since-2022",
+      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Garcia rues lasagne after missing out at Final Qualifying - who progressed?",
+      "headline": "Battling Serena suffers Wimbledon defeat on much-anticipated return",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13559174/the-open-final-qualifying-sergio-garcia-danny-willett-among-major-winners-to-miss-out-but-who-qualified-for-royal-birkdale",
+      "url": "https://www.skysports.com/tennis/news/12040/13559134/wimbledon-serena-williams-suffers-first-round-defeat-to-maya-joint-in-much-anticipated-first-singles-match-since-2022",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "LeBron confirms Lakers exit with search for new club for 24th season under way",
+      "headline": "Garcia rues lasagne after missing out at Final Qualifying - who progressed?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
+      "url": "https://www.skysports.com/golf/news/12040/13559174/the-open-final-qualifying-sergio-garcia-danny-willett-among-major-winners-to-miss-out-but-who-qualified-for-royal-birkdale",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Haaland the late hero as Norway knock out resilient Ivory Coast",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -138,10 +138,10 @@
     {
       "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Koeman parts ways with Netherlands after World Cup exit",
+      "headline": "LeBron confirms Lakers exit with search for new club for 24th season under way",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
+      "url": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -157,11 +157,11 @@
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "France dismiss Sweden to set up last 16 tie with Paraguay LIVE!",
+      "topic": "News Story",
+      "headline": "Koeman parts ways with Netherlands after World Cup exit",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
+      "url": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -170,18 +170,18 @@
       "topic": "News",
       "headline": "Coventry boss Lampard signs new contract to 2029",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Papers: Klopp frontrunner for Germany job if Nagelsmann sacked",
+      "topic": "Liveblog",
+      "headline": "Key moments and rate the players as France dismiss Sweden",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559341/jurgen-klopp-frontrunner-for-germany-job-if-julian-nagelsmann-is-sacked-paper-talk",
+      "url": "https://www.skysports.com/football/france-vs-sweden/live/549844",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,18 +190,18 @@
       "topic": "News",
       "headline": "PSG set Barcola price - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Tuchel: We're facing a very compact, physical and well-drilled team",
+      "topic": "News Story",
+      "headline": "Papers: Klopp frontrunner for Germany job if Nagelsmann sacked",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13559376/world-cup-england-vs-dr-congo-thomas-tuchel-says-his-side-are-facing-a-very-compact-physical-and-well-drilled-team",
+      "url": "https://www.skysports.com/football/news/12040/13559341/jurgen-klopp-frontrunner-for-germany-job-if-julian-nagelsmann-is-sacked-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
