@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T11:46:24.559Z",
+    "generatedAt": "2026-06-30T12:46:06.218Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Pick Mainoo over Anderson against DR Congo - Rooney",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "Arsenal poised - can Newcastle convince Guimaraes for a second time?",
       "source": "BBC Sport",
-      "timeAgo": "43m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2d1zj2eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,7 +38,7 @@
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Two LIVE! Swan becomes first British winner, Swiatek, Serena to come",
+      "headline": "Wimbledon Day Two LIVE! Swiatek and Serena on Centre after Swan heroics",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13558179/wimbledon-day-two-live-scores-updates-news-results-with-serena-williams-katie-boulter-and-iga-swiatek-in-action",
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "US security chief 'danced happy dance' after Iran exit",
+      "headline": "France superstars thriving thanks to Deschamps' bold changes",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,7 +70,7 @@
       "topic": "News",
       "headline": "Germany fans in need of hope as prospect of Klopp looms",
       "source": "BBC Sport",
-      "timeAgo": "10m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "France superstars thriving thanks to bravery of Deschamps",
+      "headline": "US security chief 'danced happy dance' after Iran exit",
       "source": "BBC Sport",
-      "timeAgo": "28m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "The Paraguay hero who sold his kit when his son was born",
       "source": "BBC Sport",
-      "timeAgo": "17m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "Germany beaten on penalties as Paraguay reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Emotional Gakpo scores days after loss of unborn son",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
       "source": "BBC Sport",
-      "timeAgo": "13h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Paraguay's tears of joy over World Cup shock",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Button: Why Hamilton should be confident of Silverstone victory chances",
+      "headline": "Germany were once World Cup kings - but now they're simply not that good",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13558996/lewis-hamilton-will-be-confident-of-challenging-for-victory-at-british-gp-says-his-former-team-mate-jenson-button",
+      "url": "https://www.skysports.com/football/news/12040/13559197/germany-were-once-world-cup-kings-now-theyre-simply-not-that-good",
       "isFeatured": false,
       "hasAiSummary": false
     }
