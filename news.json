@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T20:27:40.181Z",
+    "generatedAt": "2026-07-01T21:06:03.008Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Kane scores twice as England come from behind to reach last 16",
+    "headline": "Genuine superstar Kane produces his biggest England moment",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "24m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Harry Kane: Special, savour, England's greatest and Ballon D'Or contender",
+      "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
+      "headline": "Kane scores twice as England come from behind to reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "England sneak through - but who had a nightmare start? Player ratings",
+      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,6 +68,26 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
+      "headline": "England sneak through - but who had a nightmare start? Player ratings",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Is Rice the solution to England's right-back problem?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
       "headline": "'That was a rocket' - Kane scores winner for England",
       "source": "BBC Sport",
       "timeAgo": "2h",
@@ -76,7 +96,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
       "source": "Sky Sports",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "England into last 16 - what is their path to the final?",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Should England have had a penalty for challenge on Kane?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg53nlder6zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Diarra turns home rebound to put Senegal ahead vs Belgium LIVE!",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Nottingham Forest set to replace Pereira with Glasner",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "England's first T20I vs India abandoned due to rain",
       "source": "Sky Sports",
@@ -146,7 +166,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "No signings, no sales - what is happening at Manchester United?",
       "source": "BBC Sport",
@@ -156,7 +176,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Dan Evans hits out at 'shambolic' LTA after Wimbledon wild card snub",
       "source": "Sky Sports",
@@ -166,7 +186,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Brighton agree club record £46m Vuskovic deal",
       "source": "BBC Sport",
@@ -176,32 +196,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "News Story",
       "headline": "Pereira confirms 'surprise' Forest exit with Glasner in talks to replace him",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13559590/oliver-glasner-nottingham-forest-in-talks-to-replace-vitor-pereira-as-head-coach-with-ex-crystal-palace-boss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Chelsea sign Italy defender Palestra for £47m",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Sciver-Brunt confirms England return for South Africa semi-final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
       "isFeatured": false,
       "hasAiSummary": false
     }
