@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T16:20:40.179Z",
+    "generatedAt": "2026-07-01T17:17:05.323Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Time for Tuchel to show hand as England enter World Cup danger zone",
+    "headline": "Should England have been awarded a penalty?",
     "source": "BBC Sport",
-    "timeAgo": "7h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "8m",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx23dzznk0go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "India bat first in T20I vs England as Sooryavanshi is left out LIVE!",
+      "headline": "Abhishek falls after firing 20-ball fifty for India in first T20I vs England LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13559491/england-vs-india-first-t20i-live-score-updates-video-and-analysis-from-first-of-five-match-series-in-durham",
@@ -28,15 +28,55 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Nottingham Forest to replace Pereira with Glasner",
+      "headline": "Rate the players as England face DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "28m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "'A shambles': Dan Evans launches scathing attack on LTA after Wimbledon wild card snub",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13559559/dan-evans-labels-lta-a-shambles-after-missing-out-on-wimbledon-retirement-wild-card",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Wonderful finish' - Cipenga gives DR Congo shock lead against England",
+      "source": "BBC Sport",
+      "timeAgo": "46m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjdg9vp3m1po?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Scorecard: England vs India, first T20I",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/6df23c8a-7e9e-56e5-9378-935e3ab3f857",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Nottingham Forest set to replace Pereira with Glasner",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Ex-Palace boss Glasner in talks to replace Pereira at Forest",
       "source": "Sky Sports",
@@ -46,7 +86,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "No signings, no sales - what is happening at Manchester United?",
       "source": "BBC Sport",
@@ -56,7 +96,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Sciver-Brunt confirms England return for South Africa semi-final",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Brighton agree club record £46m Vuskovic deal",
       "source": "BBC Sport",
-      "timeAgo": "13m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqve0w5jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "F1 Sprint format: How does it work in 2026?",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Chelsea sign Italy defender Palestra for £47m",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "England latest: Don't expect glamorous performances, says Tuchel",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Scouting DR Congo - where England can win the game",
+      "headline": "Hull avoid points deduction by selling  players",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dgz454dgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Chelsea sign Palestra from Atalanta",
       "source": "Sky Sports",
@@ -126,19 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Mexico set up potential England tie with win over 10-man Ecuador",
+      "headline": "Scouting DR Congo - where England can win the game",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dgz454dgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Vuskovic set to join Brighton as Spurs accept improved bid",
+      "headline": "Spurs' Vuskovic set to join Brighton in club record deal",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13559569/luka-vuskovic-transfer-news-tottenham-defender-set-to-join-brighton-after-improved-bid-accepted",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Concern over rise in online racist abuse at World Cup",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1dy61921kko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "What's next for unpredictable Serena?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13559478/serena-williams-comeback-whats-next-for-23-time-grand-slam-champion-after-wimbledon-singles-defeat-will-she-play-us-open",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Three die in Mexico City World Cup celebrations",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Verstappen leaving Red Bull would cause F1 driver market chaos'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559456/max-verstappen-red-bull-driver-switching-teams-for-2027-formula-1-season-would-cause-chaos-in-f1-driver-market",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Has football fever taken hold in the US?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "topic": "Video",
+      "headline": "Peet stands by St Helens 'identity' comments: 'I have to own it'",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "url": "https://www.skysports.com/watch/video/13559597/magic-weekend-2026-nick-peet-stands-by-st-helens-lost-identity-comments",
       "isFeatured": false,
       "hasAiSummary": false
     }
