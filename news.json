@@ -1,22 +1,142 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T08:37:28.811Z",
+    "generatedAt": "2026-07-01T10:07:14.626Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Mexico rampant at fortress Azteca - and England could be next",
+    "headline": "Time for Tuchel to show hand as England enter World Cup danger zone",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "56m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Mexico rampant at fortress Azteca - and England could be next",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Jacquet completes £60m move to Liverpool",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "United, free and brilliant - can anyone stop France masterclass?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Rangers beat Saints to Neil signing following Sunderland exit",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559448/dan-neil-rangers-sign-ex-sunderland-captain-despite-southampton-talks-as-midfielder-pens-three-year-deal",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Defying logic - how Haaland could end up with 260 international goals",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day Three LIVE! Sinner, Djokovic, Sabalenka, Gauff, Osaka in action",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13559251/wimbledon-day-three-live-scores-updates-news-results-with-jannik-sinner-novak-djokovic-aryna-sabalenka-coco-gauff-naomi-osaka-in-action",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Mexico set up potential England tie with win over 10-man Ecuador",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Could Hamilton claim victory at Silverstone? | How to win the British GP",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13391405/could-hamilton-claim-victory-at-silverstone-how-to-win-the-british-grand-prix",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Mbappe scores twice as France dominate Sweden",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "All NINE of Hamilton's record-breaking British GP wins",
+      "source": "Sky Sports",
+      "timeAgo": "175d",
+      "url": "https://www.skysports.com/watch/video/12639797/lewis-hamiltons-8-record-breaking-british-gp-wins-at-silverstone",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Midfielder Neil joins Rangers from Sunderland",
+      "source": "BBC Sport",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyrw20n80o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Who could rival Warriors to sign LeBron?",
       "source": "Sky Sports",
@@ -26,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Tuchel will stick to Southgate's penalty plan",
+      "headline": "Hincapie becomes second player sent off for covering mouth",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Everton latest: Club in talks over return for former loan player",
       "source": "Sky Sports",
@@ -46,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "United, free and brilliant - can anyone stop France masterclass?",
+      "headline": "PSG set Barcola price - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "38m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'I'd love to do it' - Molinari eyes European captaincy after next Ryder Cup role",
       "source": "Sky Sports",
@@ -66,142 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Defying logic - how Haaland could end up with 260 international goals",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Kabayel offers Fury, AJ and Itauma the chance to fight for world title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13559342/agit-kabayel-offers-tyson-fury-anthony-joshua-and-moses-itauma-the-chance-to-fight-for-wbc-heavyweight-title",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Mexico set up potential England tie with win over 10-man Ecuador",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Today on Sky Sports Racing: Swiped looks to double up at Bath",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13558950/today-on-sky-sports-racing-bath-and-worcester-feature-live-on-wednesday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Mbappe scores twice as France dominate Sweden",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Transfers, Palmer and Fernandez: The big Chelsea problems Alonso must solve",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559199/chelsea-transfers-cole-palmer-and-enzo-fernandez-the-big-problems-xabi-alonso-must-solve-at-stamford-bridge",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Hincapie becomes second player sent off for covering mouth",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "‘They need to be running out of money soon' – Wolff questions Ferrari upgrade rate",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559276/mercedes-boss-toto-wolff-questions-ferraris-rate-of-car-upgrades-amid-rapid-f1-2026-development-race",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "England right-backs Quansah and James out of DR Congo game",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Time for Super League to put on an extraordinary Magic Weekend show",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13558481/magic-weekend-2026-time-for-super-league-to-take-over-everton-and-put-on-extraordinary-show",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "PSG set Barcola price - Wednesday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Mexico storm into World Cup last 16 to book potential England clash",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/mexico-vs-ecuador/report/549842",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Who am I? Guess World Cup star No 24",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj4pl4rvr8jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "France breeze past Sweden as Mbappe matches Messi",
+      "topic": "News Story",
+      "headline": "Kabayel offers Fury, AJ and Itauma the chance to fight for world title",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/france-vs-sweden/report/549844",
+      "url": "https://www.skysports.com/boxing/news/12040/13559342/agit-kabayel-offers-tyson-fury-anthony-joshua-and-moses-itauma-the-chance-to-fight-for-wbc-heavyweight-title",
       "isFeatured": false,
       "hasAiSummary": false
     }
