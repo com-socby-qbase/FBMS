@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T18:58:18.543Z",
+    "generatedAt": "2026-07-01T19:38:54.866Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Kane scores twice as England come from behind to reach last 16",
     "source": "BBC Sport",
-    "timeAgo": "27m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England sneak through - but who had a nightmare start? Player ratings",
+      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "'That was a rocket' - Kane scores winner for England",
+      "headline": "England sneak through - but who had a nightmare start? Player ratings",
       "source": "BBC Sport",
-      "timeAgo": "48m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'That was a rocket' - Kane scores winner for England",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
       "source": "Sky Sports",
@@ -66,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "England into last 16 - what is their path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "41m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
-      "headline": "India set England 190 to win in first T20I LIVE!",
+      "headline": "England's first T20I vs India abandoned due to rain LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13559491/england-vs-india-first-t20i-live-score-updates-video-and-analysis-from-first-of-five-match-series-in-durham",
@@ -86,7 +106,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Should England have had a penalty for challenge on Kane?",
       "source": "BBC Sport",
@@ -96,7 +116,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Dan Evans hits out at 'shambolic' LTA after Wimbledon wild card snub",
       "source": "Sky Sports",
@@ -106,7 +126,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Nottingham Forest set to replace Pereira with Glasner",
       "source": "BBC Sport",
@@ -116,7 +136,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Scorecard: England vs India, first T20I",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "No signings, no sales - what is happening at Manchester United?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2d4drnr70o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Pereira confirms 'surprise' Forest exit with Glasner in talks to replace him",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Brighton agree club record £46m Vuskovic deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqve0w5jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Sciver-Brunt confirms England return for South Africa semi-final",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Chelsea sign Italy defender Palestra for £47m",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "F1 Sprint format: How does it work in 2026?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13518235/f1-sprint-schedule-points-results-format-explained-qualifying-race-and-venues-for-2026-season",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Hull avoid points deduction by selling  players",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "England latest: VOTE! How far will England go after DR Congo win?",
+      "topic": "News Story",
+      "headline": "Rain robs England of run chase as India series opener washed out",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "url": "https://www.skysports.com/cricket/news/12040/13559573/england-vs-india-first-t20-international-abandoned-after-rain-in-durham",
       "isFeatured": false,
       "hasAiSummary": false
     }
