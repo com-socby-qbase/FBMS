@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T05:37:02.852Z",
+    "generatedAt": "2026-07-01T07:10:17.053Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Hincapie becomes second player sent off for covering mouth",
+    "headline": "Mexico rampant at fortress Azteca - and England could be next",
     "source": "BBC Sport",
-    "timeAgo": "19m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,25 +18,45 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Time for Super League to put on an extraordinary Magic Weekend show",
+      "headline": "Who could rival Warriors to sign LeBron?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13558481/magic-weekend-2026-time-for-super-league-to-take-over-everton-and-put-on-extraordinary-show",
+      "url": "https://www.skysports.com/nba/news/12040/13559419/lebron-james-which-teams-will-rival-golden-state-warriors-to-sign-nba-superstar-following-los-angeles-lakers-exit",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "United, free and brilliant - can anyone stop France masterclass?",
+      "headline": "Tuchel will stick to Southgate's penalty plan",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "'I'd love to do it' - Molinari eyes European captaincy after next Ryder Cup role",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13558314/francesco-molinari-exclusive-on-ryder-cup-vice-captaincy-supporting-luke-donald-and-his-future-team-europe-captaincy-hopes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "United, free and brilliant - can anyone stop France masterclass?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Kabayel offers Fury, AJ and Itauma the chance to fight for world title",
       "source": "Sky Sports",
@@ -46,32 +66,12 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Defying logic - how Haaland could end up with 260 international goals",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "‘They need to be running out of money soon' – Wolff questions Ferrari upgrades",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559276/mercedes-boss-toto-wolff-questions-ferraris-rate-of-car-upgrades-amid-rapid-f1-2026-development-race",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Mexico set up potential England last-16 tie after win over 10-man Ecuador",
-      "source": "BBC Sport",
-      "timeAgo": "44m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,15 +88,55 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "England right-backs Quansah and James out of DR Congo game",
+      "headline": "Mexico set up potential England last-16 tie after win over 10-man Ecuador",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "‘They need to be running out of money soon' – Wolff questions Ferrari upgrade rate",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13559276/mercedes-boss-toto-wolff-questions-ferraris-rate-of-car-upgrades-amid-rapid-f1-2026-development-race",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Mbappe scores twice as France dominate Sweden",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Time for Super League to put on an extraordinary Magic Weekend show",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13558481/magic-weekend-2026-time-for-super-league-to-take-over-everton-and-put-on-extraordinary-show",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Hincapie becomes second player sent off for covering mouth",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Mexico storm into World Cup last 16 to book potential England clash",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Tuchel will stick to Southgate's penalty plan",
+      "headline": "England right-backs Quansah and James out of DR Congo game",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "France breeze past Sweden as Mbappe matches Messi",
       "source": "Sky Sports",
@@ -126,19 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Koeman resigns, while Netherlands report racist abuse",
+      "headline": "PSG set Barcola price - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Neville: France ‘a level above’ and Mbappe ‘on verge of greatness’",
+      "headline": "Neville: France 'a level above' and Mbappe 'on verge of greatness'",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13559386/france-3-0-sweden-les-bleus-a-level-above-other-world-cup-teams-with-kylian-mbappe-on-verge-of-greatness-says-gary-neville",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Mbappe scores twice as France dominate Sweden",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Spurs agree £85m deal for West Ham's Fernandes",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Garcia fails to qualify for Open; Nicholas leads Burnham & Berrow",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13559365/golf-sergio-garcia-fails-to-qualify-for-154th-golf-open-james-nicholas-finishes-top-in-burnham-berrow",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "headline": "Who am I? Guess World Cup star No 24",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4pl4rvr8jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Haaland scores late winner to set up Norway vs Brazil",
+      "topic": "News Story",
+      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
+      "url": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
       "isFeatured": false,
       "hasAiSummary": false
     }
