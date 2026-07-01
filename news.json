@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T15:26:32.961Z",
+    "generatedAt": "2026-07-01T16:20:40.179Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Time for Tuchel to show hand as England enter World Cup danger zone",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "India bat first in T20I vs England as Sooryavanshi is left out LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13559491/england-vs-india-first-t20i-live-score-updates-video-and-analysis-from-first-of-five-match-series-in-durham",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Nottingham Forest to replace Pereira with Glasner",
+      "source": "BBC Sport",
+      "timeAgo": "28m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Ex-Palace boss Glasner in talks to replace Pereira at Forest",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559590/oliver-glasner-nottingham-forest-in-talks-to-replace-vitor-pereira-as-head-coach-with-ex-crystal-palace-boss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "No signings, no sales - what is happening at Manchester United?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d4drnr70o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Sciver-Brunt confirms England return for South Africa semi-final",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "No signings, no sales - what is happening at Manchester United?",
+      "headline": "Brighton agree club record £46m Vuskovic deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d4drnr70o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyqve0w5jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "F1 Sprint format: How does it work in 2026?",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Chelsea sign Italy defender Palestra for £47m",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "England latest: Don't expect glamorous performances, says Tuchel",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Pick your England XI to face DR Congo at World Cup",
+      "headline": "Scouting DR Congo - where England can win the game",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy060e312no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dgz454dgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Chelsea sign Palestra from Atalanta",
       "source": "Sky Sports",
@@ -86,17 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Scouting DR Congo - where England can win the game",
+      "headline": "Mexico set up potential England tie with win over 10-man Ecuador",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dgz454dgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Vuskovic set to join Brighton as Spurs accept improved bid",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559569/luka-vuskovic-transfer-news-tottenham-defender-set-to-join-brighton-after-improved-bid-accepted",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Concern over rise in online racist abuse at World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dy61921kko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "What's next for unpredictable Serena?",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Mexico set up potential England tie with win over 10-man Ecuador",
+      "headline": "Three die in Mexico City World Cup celebrations",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Verstappen leaving Red Bull would cause F1 driver market chaos'",
       "source": "Sky Sports",
@@ -126,71 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Concern over rise in online racist abuse at World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "10m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1dy61921kko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Three die in Mexico City World Cup celebrations",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Jacquet completes £60m move to Liverpool",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Hull avoid points deduction by selling  players",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Rangers beat Saints to Neil signing following Sunderland exit",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559448/dan-neil-rangers-sign-ex-sunderland-captain-despite-southampton-talks-as-midfielder-pens-three-year-deal",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Has football fever taken hold in the US?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Three LIVE! Gauff into third set after Sinner, Osaka impress",
+      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13559251/wimbledon-day-three-live-scores-updates-news-results-with-jannik-sinner-novak-djokovic-aryna-sabalenka-coco-gauff-naomi-osaka-in-action",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
       "isFeatured": false,
       "hasAiSummary": false
     }
