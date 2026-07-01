@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T23:10:25.996Z",
+    "generatedAt": "2026-07-01T23:45:58.794Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Genuine superstar Kane produces his biggest England moment",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Belgium produce stunning comeback win against Senegal to reach last 16",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Kane scores twice as England come from behind to reach last 16",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "What next for England Test team? | 'Why the lack of leaders?'",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Kane scores twice as England come from behind to reach last 16",
+      "headline": "No time for England to adapt to altitude - Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "No time for England to adapt to altitude - Tuchel",
+      "headline": "'Why not take advantage?' - did hydration breaks spark England comeback?",
       "source": "BBC Sport",
-      "timeAgo": "58m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "Kane keeps England's World Cup dream alive as DR Congo beaten",
       "source": "Sky Sports",
@@ -66,31 +86,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "'Why not take advantage?' - did hydration breaks spark England comeback?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Is Rice the solution to England's right-back problem?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -98,10 +98,10 @@
     {
       "id": "sky_sports-4",
       "topic": "News Story",
-      "headline": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
+      "headline": "Is Rice the solution to England's right-back problem?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13559611/wimbledon-jannik-sinner-and-aryna-sabalenka-overcome-tough-tests-as-novak-djokovic-cruises-through",
+      "url": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -118,10 +118,10 @@
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
+      "headline": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
+      "url": "https://www.skysports.com/tennis/news/12040/13559611/wimbledon-jannik-sinner-and-aryna-sabalenka-overcome-tough-tests-as-novak-djokovic-cruises-through",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -137,11 +137,11 @@
     },
     {
       "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
+      "topic": "Liveblog",
+      "headline": "USA vs Bosnia-Herzegovina team news LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,18 +150,18 @@
       "topic": "News",
       "headline": "England into last 16 - what is their path to the final?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "INCREDIBLE! Tielemans scores last-gasp extra-time winner for Belgium vs Senegal LIVE!",
+      "topic": "News Story",
+      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/belgium-vs-senegal/live/549846",
+      "url": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -177,11 +177,11 @@
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "England's first T20I vs India abandoned due to rain",
+      "topic": "News Story",
+      "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13559491/england-vs-india-first-t20i-live-score-updates-video-and-analysis-from-first-of-five-match-series-in-durham",
+      "url": "https://www.skysports.com/football/news/12040/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -197,11 +197,11 @@
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Dan Evans hits out at 'shambolic' LTA after Wimbledon wild card snub",
+      "topic": "Liveblog",
+      "headline": "VOTE: Was decision to award Belgium penalty against Senegal right?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13559559/dan-evans-labels-lta-a-shambles-after-missing-out-on-wimbledon-retirement-wild-card",
+      "url": "https://www.skysports.com/football/belgium-vs-senegal/live/549846",
       "isFeatured": false,
       "hasAiSummary": false
     }
