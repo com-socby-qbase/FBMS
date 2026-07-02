@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T01:45:09.202Z",
+    "generatedAt": "2026-07-02T05:43:47.566Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+    "headline": "Genuine superstar Kane produces his biggest England moment",
     "source": "BBC Sport",
-    "timeAgo": "16m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "9h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "England out to end semi-final hoodoo against bogey side South Africa",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "USA march on but will Balogun red card prove costly?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "British GP storylines to look out for as Sprint weekend returns",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13559495/british-gp-silverstone-storylines-to-look-out-for-as-kimi-antonelli-vs-george-russell-battle-continues-on-sprint-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "USA reach last 16 as Balogun scores but then sees red",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Kane scores twice as England come from behind to reach last 16",
+      "source": "BBC Sport",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "Belgium produce stunning comeback win against Senegal to reach last 16",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Genuine superstar Kane produces his biggest England moment",
+      "headline": "No time for England to adapt to altitude - Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "What next for England Test team? | 'Why the lack of leaders?'",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Kane scores twice as England come from behind to reach last 16",
+      "headline": "Why did England struggle against DR Congo - and what can they learn?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
       "source": "Sky Sports",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "No time for England to adapt to altitude - Tuchel",
+      "headline": "'Why not take advantage?' - did hydration breaks spark England comeback?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Kane keeps England's World Cup dream alive as DR Congo beaten",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Why did England struggle against DR Congo - and what can they learn?",
+      "headline": "All the angles of Kane's brilliant winner",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Is Rice the solution to England's right-back problem?",
       "source": "Sky Sports",
@@ -106,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'Why not take advantage?' - did hydration breaks spark England comeback?",
+      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
       "source": "Sky Sports",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Balogun scores then is sent-off for USA vs Bosnia LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "All the angles of Kane's brilliant winner",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "England sneak through - but who had a nightmare start? Player ratings",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Tielemans & Trossard go from heated row to rescuing Belgium",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvg512g38g4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Liveblog",
-      "headline": "VOTE: Was decision to award Belgium penalty against Senegal right?",
+      "headline": "USA beat Bosnia to face Belgium - All the key moments!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/belgium-vs-senegal/live/549846",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
       "isFeatured": false,
       "hasAiSummary": false
     }
