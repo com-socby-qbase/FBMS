@@ -1,24 +1,44 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T18:57:22.680Z",
+    "generatedAt": "2026-07-02T20:22:25.175Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+    "headline": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
     "source": "BBC Sport",
-    "timeAgo": "8h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "56m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Fery last Brit standing at Wimbledon as three more players bow out",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13559889/wimbledon-arthur-fery-becomes-last-british-player-standing-as-katie-swan-jacob-fearnley-and-jan-choinski-bow-out",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "England charging with big fightback in World Cup semi vs South Africa LIVE!",
+      "headline": "England on course to reach final as South Africa stutter chasing 170 LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13559863/womens-t20-world-cup-semi-final-england-vs-south-africa-live-latest-cricket-score-updates-video-and-analysis-from-the-oval",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Why are Man City breaking the bank for Anderson?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "'I won't stop until we get there!' - Hamilton makes eighth title promise to fans",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Antonelli: I still have momentum in title battle with Russell",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Why Spurs' statement spending appears set to continue",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Norris: A good thing if Verstappen wants to join McLaren",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Glasner poised for Forest job as Pereira exits",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Pubs allowed to stay open until 5am for England's World Cup clash vs Mexico",
       "source": "Sky Sports",
@@ -106,39 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "16.3m tune in to watch England beat DR Congo",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg40883026o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Mickelson's representatives refute allegations of inappropriate behaviour",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13559896/phil-mickelson-refutes-allegations-of-inappropriate-behaviour-in-statement-released-by-his-representatives",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Pubs allowed to stay open until 5am for England Mexico match",
-      "source": "BBC Sport",
-      "timeAgo": "11m",
-      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Spain vs Austria LIVE!",
+      "headline": "Oyarzabal opens scoring for Spain against Austria LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/spain-vs-austria/live/549849",
@@ -148,15 +148,35 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Spurs sign Fernandes for club record £85m",
+      "headline": "Pubs allowed to stay open until 5am for England Mexico match",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
+      "topic": "News Story",
+      "headline": "Mickelson's representatives refute allegations of inappropriate behaviour",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13559896/phil-mickelson-refutes-allegations-of-inappropriate-behaviour-in-statement-released-by-his-representatives",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "'Spain are furious' - Cucurella has goal ruled out",
+      "source": "BBC Sport",
+      "timeAgo": "5m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yzx952jy3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
+      "id": "sky_sports-9",
       "topic": "Liveblog",
       "headline": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules?",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23d1k6p77o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-9",
-      "topic": "Article/Blog",
-      "headline": "Hollie Doyle blog: Ballydoyle to dominate the Coral Eclipse",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13559873/hollie-doyle-blog-constitution-river-can-enhance-his-reputation-in-the-eclipse",
       "isFeatured": false,
       "hasAiSummary": false
     }
