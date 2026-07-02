@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T05:43:47.566Z",
+    "generatedAt": "2026-07-02T08:35:12.634Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Genuine superstar Kane produces his biggest England moment",
     "source": "BBC Sport",
-    "timeAgo": "9h",
+    "timeAgo": "11h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "England out to end semi-final hoodoo against bogey side South Africa",
+      "headline": "Musical Times looks to make it two from two at Yarmouth",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
+      "url": "https://www.skysports.com/racing/news/12040/13559438/today-on-sky-sports-racing-newbury-and-yarmouth",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "USA march on but will Balogun red card prove costly?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -50,13 +50,33 @@
       "topic": "News",
       "headline": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "England out to end semi-final hoodoo against bogey side South Africa",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'You can't catch your breath' - how will Azteca altitude impact England?",
+      "source": "BBC Sport",
+      "timeAgo": "13m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "USA reach last 16 as Balogun scores but then sees red",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Kane scores twice as England come from behind to reach last 16",
+      "headline": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Belgium produce stunning comeback win against Senegal to reach last 16",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "No time for England to adapt to altitude - Tuchel",
+      "headline": "Kane scores twice as England come from behind to reach last 16",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "What next for England Test team? | 'Why the lack of leaders?'",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Why did England struggle against DR Congo - and what can they learn?",
+      "headline": "Tuchel urges parents to let kids stay up for England game",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "'Why not take advantage?' - did hydration breaks spark England comeback?",
+      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "Kane keeps England's World Cup dream alive as DR Congo beaten",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "All the angles of Kane's brilliant winner",
+      "headline": "Nottingham Forest set to replace Pereira with Glasner",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Is Rice the solution to England's right-back problem?",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13559611/wimbledon-jannik-sinner-and-aryna-sabalenka-overcome-tough-tests-as-novak-djokovic-cruises-through",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England sneak through - but who had a nightmare start? Player ratings",
+      "headline": "Spurs target West Ham's Summerville - Thursday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2krd2yzwxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Liveblog",
-      "headline": "USA beat Bosnia to face Belgium - All the key moments!",
+      "topic": "Video",
+      "headline": "'I still can't understand why it wasn't given' | Should Kane have been awarded penalty?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
+      "url": "https://www.skysports.com/watch/video/13559734/world-cup-should-harry-kane-have-been-awarded-penalty-vs-dr-congo",
       "isFeatured": false,
       "hasAiSummary": false
     }
