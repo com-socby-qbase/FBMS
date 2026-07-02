@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T13:16:36.802Z",
+    "generatedAt": "2026-07-02T15:40:12.935Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "England were 15 minutes from humiliation - the issues Tuchel must solve",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,86 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559827/rangers-transfer-news-derek-mcinnes-talks-new-signings-possible-departures-lewis-ferguson-links-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Why are Man City breaking the bank for Anderson?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Liverpool latest: Jacquet has joined, but do Reds have enough options at the back?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Spurs sign Fernandes for club record £85m",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Article/Blog",
+      "headline": "Hollie Doyle blog: Ballydoyle to dominate the Coral Eclipse",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13559873/hollie-doyle-blog-constitution-river-can-enhance-his-reputation-in-the-eclipse",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "16.3m tune in to watch England beat DR Congo",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg40883026o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Soumillon ruled to aided Gstaad at Royal Ascot but ban reduced on appeal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13559860/royal-ascot-christophe-soumillon-ban-reduced-on-appeal-but-panel-finds-he-did-benefit-gstaad-in-st-jamess-palace-stakes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Gueye quits Senegal until coaching staff replaced",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj18d7q2vwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Anderson's record-breaking £116m Man City move announced",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Spurs sign Fernandes for club record £85m",
+      "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Pollock remains on bench as Furbank makes England XV to face South Africa",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "16.3m tune in to watch England beat DR Congo",
+      "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg40883026o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Hull City latest: Butland completes £3m move from Rangers",
       "source": "Sky Sports",
@@ -66,17 +146,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Gueye quits Senegal until coaching staff replaced",
+      "headline": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj18d7q2vwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23d1k6p77o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
+      "topic": "Liveblog",
+      "headline": "Everton latest: It was always going to be Toffees, says new boy Hackney",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "McInnes biggest factor in McCrorie's Rangers return",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdjk7xdzyevo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Rahm announces Irish Open return alongside Ryder Cup team-mates",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
-      "source": "BBC Sport",
-      "timeAgo": "16m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Chaos ahead?! F1 stars to drive Lego cars at Silverstone before British GP!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13559722/british-gp-f1-drivers-to-drive-lego-minicars-before-silverstone-race-on-spectacular-track-parade",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory",
-      "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Shearer at £237m? Where Anderson transfer ranks in adjusted rankings",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules?",
-      "source": "BBC Sport",
-      "timeAgo": "43m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23d1k6p77o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Spurs' record spending spree not done - but how are they pulling this off?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559531/tottenham-transfer-spending-not-over-with-mateus-fernandes-and-sandro-tonali-signings-as-roberto-de-zerbi-influence-takes-hold",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "England fans face resale prices of at least £2,600 for Mexico tickets",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Dettori injured in Newmarket car crash",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13559752/frankie-dettori-former-champion-jockey-suffers-broken-ribs-and-thumb-in-newmarket-car-crash-on-wednesday",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "'You can't catch your breath' - how will Azteca altitude impact England?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "The qualities 'elite' Tonali can bring to Spurs",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559772/sandro-tonali-to-spurs-italy-midfielders-speed-dynamism-and-technical-quality-could-be-key-for-roberto-de-zerbi",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
+      "headline": "Government may now allow pubs to extend hours for 1am England clash",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Tonali: De Zerbi played huge role in Tottenham move",
+      "headline": "Chaos ahead?! F1 stars to drive Lego cars at Silverstone before British GP!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559789/sandro-tonali-roberto-de-zerbi-played-huge-role-in-tottenham-transfer-says-midfielder-ahead-of-100m-newcastle-switch",
+      "url": "https://www.skysports.com/f1/news/12040/13559722/british-gp-f1-drivers-to-drive-lego-minicars-before-silverstone-race-on-spectacular-track-parade",
       "isFeatured": false,
       "hasAiSummary": false
     }
