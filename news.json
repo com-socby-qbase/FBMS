@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T16:14:31.557Z",
+    "generatedAt": "2026-07-03T17:51:21.145Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
     "source": "BBC Sport",
-    "timeAgo": "5h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,66 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "'Some things aren’t making sense' - Russell left perplexed after qualy struggle",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13559563/f1-british-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-silverstone-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Germany want Klopp talks as Nagelsmann resigns",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Hamilton storms to Silverstone Sprint pole in flying start at British GP",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560060/british-gp-sprint-qualifying-lewis-hamilton-storms-to-silverstone-pole-to-beat-kimi-antonelli-as-george-russell-struggles",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England fan tickets for Mexico on resale for up to £26K",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Hamilton eyes Silverstone Sprint win after 'amazing surprise' pole",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560062/lewis-hamilton-eyes-british-grand-prix-sprint-victory-after-taking-amazing-surprise-pole-at-silverstone-for-ferrari",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Mexico's unlikely hero who England could fear most",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Berrettini's outfit banned by Wimbledon bosses for not being white enough",
       "source": "Sky Sports",
@@ -26,37 +86,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Germany want Klopp talks as Nagelsmann resigns",
+      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "British GP: Flying Hamilton favourite for Sprint pole into final shootout LIVE!",
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Postecoglou to coach Ronaldo after being named new Al Nassr boss",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13559563/f1-british-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-silverstone-race-weekend",
+      "url": "https://www.skysports.com/football/news/12040/13560228/cristiano-ronaldo-to-be-coached-by-ange-postecoglou-after-australian-appointed-by-al-nassr",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England fan tickets for Mexico on resale for up to £26K",
+      "headline": "Slot, Nuno and Kelleher pay heartfelt tributes to 'wonderful' Jota",
       "source": "BBC Sport",
       "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2j8lzg2wjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Hamilton beats Antonelli to claim Sprint pole at Silverstone!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560206/british-gp-lewis-hamilton-pips-antonelli-to-claim-sprint-pole-at-silverstone",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Xhaka staying at Sunderland despite Chelsea bid",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Mexico's unlikely hero who England could fear most",
+      "headline": "'You can't breathe' - what is it like playing at altitude?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "'Better we don't speak' - Vasseur unhappy with Wolff over 'cheating' accusation",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "headline": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Flying Hamilton fastest at Silverstone ahead of Sprint Qualifying",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "'Everyone loved Diogo' - Jota remembered one year on",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2j8lzg2wjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Crowd erupts as Hamilton goes fastest in P1 at Silverstone!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560123/british-gp-lewis-hamilton-goes-fastest-in-p1-at-silverstone",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "A Boy Named Susie fancied to upset Constitution River at Sandown",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13560078/sandown-tips-a-boy-named-susie-fancied-to-upset-constitution-river-in-eclipse-clash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Huge 'Snicko' VAR call prolongs Ronaldo's last dance but ends Modric's",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Music acts, start times announced for ICC Women's T20 World Cup final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Real Madrid have 'no intention' of signing Fernandez",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Transfer Centre LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Man Utd's Onana rejoins Trabzonspor on loan",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Audi Flying Lap: Silverstone | Karun takes to the track in the RS5",
+      "headline": "Crowd erupts as Hamilton goes fastest in P1 at Silverstone!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560177/audi-flying-lap-silverstone",
+      "url": "https://www.skysports.com/watch/video/13560123/british-gp-lewis-hamilton-goes-fastest-in-p1-at-silverstone",
       "isFeatured": false,
       "hasAiSummary": false
     }
