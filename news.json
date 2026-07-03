@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T17:51:21.145Z",
+    "generatedAt": "2026-07-03T19:21:46.328Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+    "headline": "England v Mexico set to move to earlier kick-off time",
     "source": "BBC Sport",
-    "timeAgo": "6h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "11m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "YouTuber Brad Dalke in contention for title on DP World Tour debut",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13560227/brad-dalke-youtuber-challenging-on-dp-world-tour-debut-as-he-sits-two-shots-off-lead-at-bmw-international-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
       "headline": "'Some things aren’t making sense' - Russell left perplexed after qualy struggle",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Germany want Klopp talks as Nagelsmann resigns",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Hamilton storms to Silverstone Sprint pole in flying start at British GP",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "England fan tickets for Mexico on resale for up to £26K",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Hamilton eyes Silverstone Sprint win after 'amazing surprise' pole",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Mexico's unlikely hero who England could fear most",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Berrettini's outfit banned by Wimbledon bosses for not being white enough",
       "source": "Sky Sports",
@@ -86,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "headline": "Slot, Nuno and Kelleher pay heartfelt tributes to 'wonderful' Jota",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2j8lzg2wjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Wild card Battig becomes youngest F1 Academy pole-sitter",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Postecoglou to coach Ronaldo after being named new Al Nassr boss",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Slot, Nuno and Kelleher pay heartfelt tributes to 'wonderful' Jota",
+      "headline": "Ashour heads Egypt into lead against Australia",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2j8lzg2wjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Hamilton beats Antonelli to claim Sprint pole at Silverstone!",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
+      "headline": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Xhaka staying at Sunderland despite Chelsea bid",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "'You can't breathe' - what is it like playing at altitude?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "'Better we don't speak' - Vasseur unhappy with Wolff over 'cheating' accusation",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560061/frederic-vasseur-ferrari-team-principal-unhappy-with-toto-wolff-over-cheating-accusation-at-british-grand-prix",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
-      "source": "BBC Sport",
-      "timeAgo": "13m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Flying Hamilton fastest at Silverstone ahead of Sprint Qualifying",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560057/british-gp-lewis-hamilton-fastest-from-kimi-antonelli-at-silverstone-ahead-of-sprint-qualifying",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Real Madrid have 'no intention' of signing Fernandez",
+      "headline": "Xhaka set to stay at Sunderland despite Chelsea interest",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz8jj0g50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Crowd erupts as Hamilton goes fastest in P1 at Silverstone!",
+      "topic": "News Story",
+      "headline": "'Better we don't speak' - Vasseur unhappy with Wolff over 'cheating' accusation",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560123/british-gp-lewis-hamilton-goes-fastest-in-p1-at-silverstone",
+      "url": "https://www.skysports.com/f1/news/12040/13560061/frederic-vasseur-ferrari-team-principal-unhappy-with-toto-wolff-over-cheating-accusation-at-british-grand-prix",
       "isFeatured": false,
       "hasAiSummary": false
     }
