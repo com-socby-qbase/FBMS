@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T22:48:10.377Z",
+    "generatedAt": "2026-07-03T00:04:53.980Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
+    "headline": "The one club man who is Spain's under-the-radar hero",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England-Mexico one of four last-16 ties live on BBC TV",
+      "headline": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
       "source": "BBC Sport",
-      "timeAgo": "32m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+      "headline": "England-Mexico one of four last-16 ties live on BBC TV",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Oyarzabal scores twice as Spain cruise past Austria",
+      "headline": "England were 15 minutes from humiliation - the issues Tuchel must solve",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crel13y4825o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "Ronaldo and Modric meet in potential World Cup farewell as Portugal face Croatia LIVE!",
+      "headline": "Portugal pushing to find opener vs Croatia LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/portugal-vs-croatia/live/549850",
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+      "headline": "Oyarzabal scores twice as Spain cruise past Austria",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crel13y4825o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,10 +108,10 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Why are Man City breaking the bank for Anderson?",
+      "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
+      "headline": "Why are Man City breaking the bank for Anderson?",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Why Spurs' statement spending appears set to continue",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Man Utd ready for Baleba move - Friday gossip",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx23644x506o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "16.3m tune in to watch England beat DR Congo",
+      "headline": "'Premier League goalkeepers will be throwing food at TV'",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg40883026o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgm419701no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Mickelson's representatives refute allegations of inappropriate behaviour",
+      "headline": "'Nervous' Sciver-Brunt revels as 'close to complete' England reach home final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13559896/phil-mickelson-refutes-allegations-of-inappropriate-behaviour-in-statement-released-by-his-representatives",
+      "url": "https://www.skysports.com/cricket/news/12040/13559887/womens-t20-world-cup-nat-sciver-brunt-overcomes-nerves-as-close-to-complete-england-book-final-against-australia",
       "isFeatured": false,
       "hasAiSummary": false
     }
