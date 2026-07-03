@@ -1,24 +1,104 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T10:18:08.178Z",
+    "generatedAt": "2026-07-03T12:25:23.134Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+    "headline": "Germany want Klopp talks as Nagelsmann resigns",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "2h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "A Boy Named Susie fancied to upset Constitution River at Sandown",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13560078/sandown-tips-a-boy-named-susie-fancied-to-upset-constitution-river-in-eclipse-clash",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "England fan tickets for Mexico on resale for up to £26k",
+      "source": "BBC Sport",
+      "timeAgo": "49m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Music acts, start times announced for ICC Women's T20 World Cup final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Five LIVE! Djokovic, Osaka, Sabalenka, Sinner in action today",
+      "headline": "Transfer Centre LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Mexico's unlikely hero who England could fear most",
+      "source": "BBC Sport",
+      "timeAgo": "22m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Tchouameni and Scott high on Man Utd midfield shortlist",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559979/man-utd-transfer-news-aurelien-tchouameni-and-alex-scott-high-on-midfield-shortlist-with-ayyoub-bouaddi-also-of-interest",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day Five LIVE! Osaka in action after Fonseca suffers early exit",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13559913/wimbledon-day-five-live-scores-updates-news-results-with-novak-djokovic-aryna-sabalenka-jannik-sinner-naomi-osaka-coco-gauff-playing",
@@ -26,17 +106,57 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "The one club man who is Spain's under-the-radar hero",
+      "headline": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Stones to start? Rice to right-back? England XIs to face Mexico",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "British GP: Hamilton fastest but Red Bull look strong in sole practice LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13559563/f1-british-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-silverstone-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Real Madrid have 'no intention' of signing Fernandez",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Man Utd latest: Talks held with West Ham over Summerville",
       "source": "Sky Sports",
@@ -46,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid have 'no intention' of signing Fernandez",
+      "headline": "'You can't breathe' - What is it like playing at altitude?",
       "source": "BBC Sport",
-      "timeAgo": "45m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Chelsea latest: Real Madrid comment on Fernandez transfer links",
       "source": "Sky Sports",
@@ -66,142 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "Sunderland latest: Rennes in talks over Mayenda",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Victorious Portugal pay emotional tribute to Jota",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Hull City latest: New bid submitted for Emersonn",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Mahrez retires from Algeria duty after World Cup exit",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0vwn78n8do?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Stanway joins Arsenal after Bayern exit",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Aston Villa sign Norway midfielder Kielland",
-      "source": "BBC Sport",
-      "timeAgo": "15m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "'I knew it was over' - Froome retires almost a year after near-fatal crash",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cycling/news/12040/13560042/chris-froome-four-time-tour-de-france-champion-retires-from-cycling-almost-a-year-on-from-near-fatal-crash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Portugal through to last 16 after dramatic victory over Croatia",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Arsenal sign Lioness Stanway from Bayern",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9r153pe31o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Egypt boss unsure if Salah will start vs Australia",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/australia-vs-egypt/live/549851",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Late VAR drama as Croatia denied equaliser",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckg7eerdx6go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "'A dream come true' - F1 Academy making history at Silverstone",
+      "topic": "Liveblog",
+      "headline": "Sunderland latest: Rennes agree deal for Mayenda",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560034/f1-academy-makes-history-with-first-races-at-silverstone-with-home-drivers-in-field-on-bumper-british-gp-weekend",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "isFeatured": false,
       "hasAiSummary": false
     }
