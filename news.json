@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T21:27:35.256Z",
+    "generatedAt": "2026-07-04T22:29:59.227Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Why England won't fear Mexico or the Azteca - Shearer",
+    "headline": "James doubtful for Mexico tie but Quansah fit again",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "16m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "France pushing for opener against Paraguay in 38C Philadelphia heat LIVE!",
+      "topic": "Report",
+      "headline": "Scotland make impressive start in statement away win over Argentina",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13560416/nations-championship-rugby-scotland-score-seven-tries-in-47-38-away-victory-over-argentina-to-make-winning-start",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
       "source": "BBC Sport",
-      "timeAgo": "7m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "France struggling to break down Paraguay in 38C Philadelphia heat LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "How 15-year-old Sooryavanshi made history for India against England",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Lightning, hotel security and spying - issues England face in Mexico",
+      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "Morocco knock out World Cup co-hosts Canada to reach last eight",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
+      "headline": "Lightning, hotel security and spying - issues England face in Mexico",
       "source": "BBC Sport",
-      "timeAgo": "2d",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "F1 chief reveals hope of restoring cancelled race to 2026 schedule",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
+      "headline": "England have 'big concerns' - so who would you pick to face Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2d",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Leopards leave Wolves licking their wounds",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
       "source": "BBC Sport",
       "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Report",
       "headline": "Leigh enhance play-offs bid with thumping victory over Warrington",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Everton agree £25m deal for Chelsea winger George",
+      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
       "source": "BBC Sport",
-      "timeAgo": "28m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7pvqde72o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "Hull KR wrap up derby victory over Hull FC at Magic Weekend",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Fenerbahce complete deal to sign Ake from Man City",
+      "headline": "Everton agree £24m deal for Chelsea winger George",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7pvqde72o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Bethell blasts England to victory to spoil Sooryavanshi's historic debut",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Five and a half hours that left England's World Cup tie in chaos",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Britain's Fery wins five-set thriller after nose-bleed delays",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13560349/wimbledon-britains-arthur-fery-overcomes-nose-bleed-delays-to-beat-zizou-bergs-in-five-set-thriller-and-reach-fourth-round",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Farewell Cape Verde - the underdogs the World Cup will never forget",
+      "headline": "Premier League quartet want Scott - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "18h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "37m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Hamilton plots Ferrari teamwork to 'topple' Antonelli in British GP",
+      "headline": "Britain's Fery wins five-set thriller after nose-bleed delays",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560322/british-gp-lewis-hamilton-plots-ferrari-teamwork-with-charles-leclerc-to-topple-kimi-antonelli-at-silverstone",
+      "url": "https://www.skysports.com/tennis/news/12040/13560349/wimbledon-britains-arthur-fery-overcomes-nose-bleed-delays-to-beat-zizou-bergs-in-five-set-thriller-and-reach-fourth-round",
       "isFeatured": false,
       "hasAiSummary": false
     }
