@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T14:08:54.968Z",
+    "generatedAt": "2026-07-04T15:30:35.534Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Lightning, hotel security and spying - issues England face in Mexico",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,8 +17,108 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Constitution River oozes class in Eclipse stroll",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13560420/sandowns-coral-eclipse-aidan-obriens-constitution-river-oozes-class-in-victory-stroll-under-ryan-moore",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Williams sisters out of Wimbledon doubles after 'heartbroken' Serena injury",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13560350/wimbledon-serena-williams-pulls-out-of-her-doubles-8204campaign-alongside-sister-venus-after-sustaining-a-knee-injury-in-singles-defeat",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c802jp3lz13o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Defending champion Swiatek knocked out of Wimbledon",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13560408/wimbledon-iga-swiatek-suffers-third-round-exit-as-defending-womens-champion-beaten-by-alexandra-eala-in-huge-shock",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Report",
+      "headline": "Giants suffer again as Knights win Magic Weekend opener",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/huddersfield-vs-york/report/63269",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Five and a half hours that left England's World Cup tie in chaos",
+      "source": "BBC Sport",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "EVERY ball Sooryavanshi faced on India debut!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560409/england-vs-india-every-ball-india-wonderkid-vaibhav-sooryavanshi-faced-on-inida-debut",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Fenerbahce complete deal to sign Ake from Man City",
+      "source": "BBC Sport",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "India two down after 15-year-old star Sooryavanshi stumped vs England LIVE!",
+      "headline": "England chase 191 vs India after 15-year-old Sooryavanshi makes history LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13560214/england-vs-india-second-t20i-live-score-updates-video-and-analysis-from-old-trafford-in-manchester",
@@ -26,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "headline": "From one to 16 - ranking every team left in the World Cup",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6elwx7eepo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Sciver-Brunt hoping for 2017 Lord's repeat - minus Saving Private Ryan",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Five and a half hours that left England's World Cup tie in chaos",
+      "headline": "Farewell Cape Verde - the underdogs the World Cup will never forget",
       "source": "BBC Sport",
       "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Huddersfield Giants 24-36 York Knights",
       "source": "Sky Sports",
@@ -66,59 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
+      "headline": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "British Grand Prix | Sprint Highlights",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560374/british-grand-prix-sprint-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "From one to 16 - ranking every team left in the World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd6elwx7eepo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "'It's gone a LONG way!' | Teen star Sooryavanshi smashes his first SIX for India!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560401/england-vs-india-2nd-t20i-vaibhav-sooryavanshis-first-ever-six-in-international-cricket",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Farewell Cape Verde - the underdogs the World Cup will never forget",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "British GP: Hamilton, Antonelli to resume Silverstone battle in qualifying LIVE!",
+      "headline": "British GP: Russell through to Q2 despite damaging car against barriers LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13559567/f1-british-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-silverstone-race-weekend",
@@ -126,82 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Scorecard: England vs India, second T20I",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/d0711f3a-990b-56ae-bb1e-dc68f31d8355",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Argentina overcome Cape Verde in extra-time thriller",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/videos/cj6gp70g967o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Antonelli beats Hamilton to victory in British GP Sprint",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560318/british-gp-sprint-kimi-antonelli-beats-lewis-hamilton-to-victory-at-silverstone-to-extend-world-championship-lead",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Oxlade-Chamberlain signs new one-year Celtic deal",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77y5zvjd8zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Article/Blog",
-      "headline": "Carra: Tuchel's created right-back problem with 'bizarre decision'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Eight of the 10 most populous countries are not in the World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Injury-hit Ireland secure madcap comeback victory vs Australia in Sydney",
+      "topic": "Video",
+      "headline": "British Grand Prix | Sprint Highlights",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/australia-vs-ireland/report/111667",
+      "url": "https://www.skysports.com/watch/video/13560374/british-grand-prix-sprint-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
