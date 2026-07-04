@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T09:32:26.164Z",
+    "generatedAt": "2026-07-04T11:10:58.148Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England team booed on arrival at Mexico City hotel",
+    "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
     "source": "BBC Sport",
-    "timeAgo": "59m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,25 +18,85 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Nations Championship: Australia vs Ireland before South Africa vs England LIVE!",
+      "headline": "Wimbledon Day Six LIVE! Can last Brit standing Fery reach the fourth round?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13560197/nations-championship-live-australia-vs-ireland-south-africa-vs-england-updates-latest-score-team-news-commentary",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13560237/wimbledon-day-six-live-scores-updates-news-results-with-serena-and-venus-williams-arthur-fery-iga-swiatek-and-taylor-fritz-playing",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Farewell Cape Verde - the underdogs the World Cup will never forget",
+      "headline": "England team booed on arrival at Mexico City hotel",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "England arrive in Mexico under heavy security",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560344/world-cup-england-arrive-in-mexico-under-heavy-security",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Five and a half hours that left England's World Cup tie in chaos",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Report",
+      "headline": "New Zealand edge France in thrilling Nations Championship opener",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13560343/nations-championship-rugby-new-zealand-edge-france-34-32-in-thrilling-tournament-opener-as-will-jordan-closes-in-on-all-blacks-try-record",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
+      "source": "BBC Sport",
+      "timeAgo": "8m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "British GP Sprint: Hamilton holds off Antonelli to keep lead at start LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13559567/f1-british-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-silverstone-race-weekend",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "From one to 16 - ranking every team left in the World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6elwx7eepo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Wimbledon Day 5 wrap: Djokovic, Sinner advance and Sabalenka sets up Osaka showdown",
       "source": "Sky Sports",
@@ -46,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Five and a half hours that left England's World Cup tie in chaos",
+      "headline": "Farewell Cape Verde - the underdogs the World Cup will never forget",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Nations Championship LIVE! Australia leading Ireland in seven-try thriller",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13560197/nations-championship-live-australia-vs-ireland-south-africa-vs-england-updates-latest-score-team-news-commentary",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Guehi says Mexico favourites against England with 'Rice likely to start'",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+      "headline": "Argentina overcome Cape Verde in extra-time thriller",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj6gp70g967o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Swift and Kelce get married in star-studded ceremony at MSG",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Argentina overcome Cape Verde in extra-time thriller",
+      "headline": "Eight of the 10 most populous countries are not in the World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj6gp70g967o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Elmonjed seeks Deauville riches",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Eight of the 10 most populous countries are not in the World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "23m",
-      "url": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Explained: Why weather could STILL affect kick-off for Mexico and England",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560309/explained-how-the-weather-could-still-affect-kick-off-between-mexico-and-england",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Liverpool open to Van Dijk offers - Saturday's gossip",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czx59xrgnppo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Glover takes two-shot lead into weekend at John Deere Classic",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560314/john-deere-classic-second-round-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 27",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrk3l4d90o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Arias strike sends Colombia past Ghana and into World Cup last 16",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/colombia-vs-ghana/report/549853",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "'Sensational' Messi finish gives Argentina the lead",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5yz02je4n9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Colombia 1-0 Ghana: All the key moments and rate the players",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/colombia-vs-ghana/live/549853",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
+      "topic": "Liveblog",
+      "headline": "Magic Weekend 2026 LIVE! Build-up to day one at Hill Dickinson Stadium",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13558511/magic-weekend-2026-live-commentary-videos-analysis-updates-scores-results-with-hull-kr-vs-hull-fc-leeds-rhinos-vs-bradford-bulls",
       "isFeatured": false,
       "hasAiSummary": false
     }
