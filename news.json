@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T20:59:21.316Z",
+    "generatedAt": "2026-07-05T22:08:38.986Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Quansah set to start at right-back for England",
+    "headline": "Shelter-in-place order at Azteca before Mexico-England because of weather",
     "source": "BBC Sport",
-    "timeAgo": "27m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "16m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "'Future's really bright' - England upbeat despite being 'outplayed' in T20 final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13560603/womens-t20-world-cup-final-england-outplayed-by-australia-but-find-positives-from-strong-campaign-on-home-soil",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Quansah set to start at right-back for England",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "Harrington defends US Senior Open title with debutant Poulter fourth",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
       "headline": "Trump thanks Fifa after USA striker Balogun's ban suspended",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Rowley bemused by decisions in Saints' loss to Wigan",
       "source": "Sky Sports",
@@ -46,19 +66,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
-      "headline": "'It stinks!' Neville, Trump and Belgium speak out after FIFA allow banned Balogun to play",
+      "headline": "'It stinks!' Neville, Trump and Belgium speak out after FIFA allows banned Balogun to play",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13560770/world-cup-2026-fifa-step-in-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie-a-move-praised-by-president-donald-trump",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "England battling history as well as Mexican nation in Azteca cauldron",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Wigan win ferocious derby battle against Saints at Magic Weekend",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Mexico fans fail in bid to wake up England players",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Verstappen 'fed up' with 'dangerous' Red Bull car after crash",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Newcastle sign Toure for £43m - what will he bring to club?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'It's on us' - Mercedes accept blame for Antonelli damage",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Chelsea's Santos considered as Man Utd look to solve midfield issues",
+      "headline": "Real Madrid plot £188m Olise deal - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "52m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjxx6ngdggo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Australia romp past England to secure seventh Women's T20 World Cup title",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Mexico return luxury watches gifted by YouTuber",
+      "headline": "'Disgusting' Paraguay went 'way too far' against France",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "FIA explains why British GP not restarted on final lap",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "'Disgusting' Paraguay went 'way too far' against France",
-      "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Chacarra claims maiden LET title at Hulencourt Women's Open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13560705/ladies-european-tour-carolina-chacarra-wins-hulencourt-womens-open-as-bronte-law-hannah-screen-record-top-10-finishes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "England have struggled against low block - could they use it to beat Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Ecclestone FURIOUS after being denied Australian wicket!",
+      "topic": "News Story",
+      "headline": "Chacarra claims maiden LET title at Hulencourt Women's Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560745/sophie-ecclestone-furious-after-being-denied-australian-wicket",
+      "url": "https://www.skysports.com/golf/news/12040/13560705/ladies-european-tour-carolina-chacarra-wins-hulencourt-womens-open-as-bronte-law-hannah-screen-record-top-10-finishes",
       "isFeatured": false,
       "hasAiSummary": false
     }
