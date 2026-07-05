@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T15:46:24.423Z",
+    "generatedAt": "2026-07-05T17:10:00.723Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Mexico fans fail in bid to wake up England players",
+    "headline": "England battling history as well as Mexican nation in Azteca cauldron",
     "source": "BBC Sport",
-    "timeAgo": "58m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "5h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/leeds-vs-bradford/report/63273",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Mexico fans fail in bid to wake up England players",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Calandagan bounces back in style at Saint-Cloud",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Newcastle sign Toure for £43m - what will he bring to club?",
+      "source": "BBC Sport",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Leclerc wins chaotic British GP as Antonelli suffers late failure",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560559/british-gp-charles-leclerc-wins-chaotic-race-as-championship-leader-kimi-antonelli-finishes-outside-points-after-late-failure",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Stay humble - the Premier League feud about to hit world stage",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Video",
+      "headline": "Leeds Rhinos continue winning ways with 50-16 victory over Bradford Bulls",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560704/leeds-rhinos-50-16-bradford-bulls-super-league-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Chelsea's Santos considered as Man Utd look to solve midfield issues",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Hollick wins BMW International Open as YouTube star Dalke fades",
       "source": "Sky Sports",
@@ -26,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England battling history as well as Mexican nation in Azteca cauldron",
+      "headline": "Mexico return luxury watches gifted by YouTuber",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "England slip to 70-4 against Australia in T20 World Cup final LIVE!",
+      "headline": "Australia make strong start to run chase vs England in T20 World Cup final  LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Stay humble - the Premier League feud about to hit world stage",
+      "headline": "'Disgusting' Paraguay went 'way too far' against France",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Absolute CHAOS! Best bits from a hilarious F1 Lego race",
       "source": "Sky Sports",
@@ -66,59 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Chelsea's Santos considered as Man Utd look to solve midfield issues",
-      "source": "BBC Sport",
-      "timeAgo": "7m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Liveblog",
-      "headline": "British GP: Leclerc wins after Verstappen crashes in wild finale LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13559571/f1-british-gp-live-race-updates-results-stream-highlights-video-from-ninth-round-of-2026-formula-1-season-at-silverstone",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Mexico return luxury watches gifted by YouTuber",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Horner makes first return to F1 paddock and reveals what would tempt new role",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13560560/christian-horner-former-red-bull-team-principal-makes-f1-paddock-return-at-british-grand-prix",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "England have struggled against low block - could they use it to beat Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Seven LIVE! Djokovic into fourth set, Osaka vs Sabalenka next",
+      "headline": "Wimbledon Day Seven LIVE! Osaka a double break up in huge Sabalenka contest",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
@@ -126,82 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Real Madrid sign defender Dumfries from Inter Milan",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Brazil vs Norway preview: 'No anti-Haaland plan', says Ancelotti",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/brazil-vs-norway/live/549856",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Glover & Hodges share lead as John Deere Classic heads into final day",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
-      "source": "BBC Sport",
-      "timeAgo": "20h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Walsh vows 'career best performance' with Denny knockout",
+      "topic": "Liveblog",
+      "headline": "British GP: Hamilton at risk of losing podium amid investigation LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13560511/callum-walsh-gunning-for-career-best-performance-with-tyler-denny-knockout-on-big-august-8-in-dublin-live-on-sky",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13559571/f1-british-gp-live-race-updates-results-stream-highlights-video-from-ninth-round-of-2026-formula-1-season-at-silverstone",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "England enter the Azteca - where football kings are crowned",
+      "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Explained: Who will play at right-back after Spence blow?",
+      "headline": "Tchouameni, Bouaddi and Santos being eyed by Man Utd",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560692/england-djed-spence-unlikely-to-face-mexico-injuries-woes-trouble-thomas-tuchels-team-selection",
+      "url": "https://www.skysports.com/watch/video/13560731/transfer-talk-chelseas-andrey-santos-emerges-on-man-united-radar-as-they-look-to-bolster-midfield-options",
       "isFeatured": false,
       "hasAiSummary": false
     }
