@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T14:15:42.094Z",
+    "generatedAt": "2026-07-05T15:46:24.423Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England fighting history as well as Mexican nation in Azteca cauldron",
+    "headline": "Mexico fans fail in bid to wake up England players",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "58m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,17 +28,17 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "How England's nemesis low block could be secret weapon against Mexico",
+      "headline": "England battling history as well as Mexican nation in Azteca cauldron",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "England to bat first against Australia in Women's T20 World Cup final LIVE!",
+      "headline": "England slip to 70-4 against Australia in T20 World Cup final LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
@@ -50,7 +50,7 @@
       "topic": "News",
       "headline": "Stay humble - the Premier League feud about to hit world stage",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
+      "headline": "Chelsea's Santos considered as Man Utd look to solve midfield issues",
       "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "British GP: Leclerc leads Hamilton as Ferraris pass Antonelli at start LIVE!",
+      "headline": "British GP: Leclerc wins after Verstappen crashes in wild finale LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/f1/live-blog/12040/13559571/f1-british-gp-live-race-updates-results-stream-highlights-video-from-ninth-round-of-2026-formula-1-season-at-silverstone",
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Mexico return luxury watches gifted by YouTuber",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,17 +108,17 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Real Madrid sign defender Dumfries from Inter Milan",
+      "headline": "England have struggled against low block - could they use it to beat Mexico?",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Seven LIVE! Djokovic battles to win opening set vs world No 132",
+      "headline": "Wimbledon Day Seven LIVE! Djokovic into fourth set, Osaka vs Sabalenka next",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "headline": "Real Madrid sign defender Dumfries from Inter Milan",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "England enter the Azteca - where football kings are crowned",
+      "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Tuchel praises respectful Mexico fans amid increased security",
+      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "France overcome resolute Paraguay to reach quarter-final",
+      "headline": "England enter the Azteca - where football kings are crowned",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Calandagan looks to defend Grand Prix de Saint-Cloud crown",
+      "topic": "Video",
+      "headline": "Explained: Who will play at right-back after Spence blow?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13560174/today-on-sky-sports-racing-calandagan-looks-to-defend-grand-prix-de-saint-cloud-crown",
+      "url": "https://www.skysports.com/watch/video/13560692/england-djed-spence-unlikely-to-face-mexico-injuries-woes-trouble-thomas-tuchels-team-selection",
       "isFeatured": false,
       "hasAiSummary": false
     }
