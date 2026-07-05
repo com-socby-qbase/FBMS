@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T23:35:22.007Z",
+    "generatedAt": "2026-07-05T01:24:21.063Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "James doubtful for Mexico tie but Quansah fit again",
+    "headline": "Why England won't fear Mexico or the Azteca - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "6h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "All the key moments and rate the players as France beat Paraguay",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "France overcome resolute Paraguay to reach quarter-final",
+      "source": "BBC Sport",
+      "timeAgo": "57m",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Toulouse thrash Catalans in all-French clash to dent Dragons' play-off hopes",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Mbappe coolly fires France into lead from penalty spot",
+      "headline": "James doubtful for Mexico tie but Quansah fit again",
       "source": "BBC Sport",
-      "timeAgo": "28m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle amid transfer interest",
       "source": "Sky Sports",
@@ -66,42 +86,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Report",
-      "headline": "Scotland make impressive start in statement away win over Argentina",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13560416/nations-championship-rugby-scotland-score-seven-tries-in-47-38-away-victory-over-argentina-to-make-winning-start",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-4",
       "topic": "News",
       "headline": "Lightning, hotel security and spying - issues England face in Mexico",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
-      "topic": "Liveblog",
-      "headline": "Mbappe's penalty sends France through after fiery clash with Paraguay LIVE!",
+      "topic": "Report",
+      "headline": "Scotland make impressive start in statement away win over Argentina",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13560416/nations-championship-rugby-scotland-score-seven-tries-in-47-38-away-victory-over-argentina-to-make-winning-start",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -130,7 +130,7 @@
       "topic": "News",
       "headline": "In spotlight but shunning limelight - Olise's unique rise to top",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "14h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -150,7 +150,7 @@
       "topic": "News",
       "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "15h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -170,7 +170,7 @@
       "topic": "News",
       "headline": "Everton agree £24m deal for Chelsea winger George",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly7pvqde72o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Premier League quartet want Scott - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
