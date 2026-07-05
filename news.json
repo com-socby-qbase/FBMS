@@ -1,22 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T17:10:00.723Z",
+    "generatedAt": "2026-07-05T18:16:11.118Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England battling history as well as Mexican nation in Azteca cauldron",
+    "headline": "Trump thanks Fifa after USA striker Balogun's ban suspended",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Australia romp past England to secure seventh Women's T20 World Cup title",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13560599/womens-t20-world-cup-final-england-overpowered-by-australia-at-lords-as-southern-stars-win-record-extending-seventh-title",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "source": "BBC Sport",
+      "timeAgo": "13m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Chacarra claims maiden LET title at Hulencourt Women's Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13560705/ladies-european-tour-carolina-chacarra-wins-hulencourt-womens-open-as-bronte-law-hannah-screen-record-top-10-finishes",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England battling history as well as Mexican nation in Azteca cauldron",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Report",
       "headline": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
       "source": "Sky Sports",
@@ -26,37 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Mexico fans fail in bid to wake up England players",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Calandagan bounces back in style at Saint-Cloud",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Newcastle sign Toure for £43m - what will he bring to club?",
-      "source": "BBC Sport",
-      "timeAgo": "36m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Leclerc wins chaotic British GP as Antonelli suffers late failure",
       "source": "Sky Sports",
@@ -66,17 +86,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Newcastle sign Toure for £43m - what will he bring to club?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Calandagan bounces back in style at Saint-Cloud",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Stay humble - the Premier League feud about to hit world stage",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Leeds Rhinos continue winning ways with 50-16 victory over Bradford Bulls",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Chelsea's Santos considered as Man Utd look to solve midfield issues",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Hollick wins BMW International Open as YouTube star Dalke fades",
       "source": "Sky Sports",
@@ -106,37 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Mexico return luxury watches gifted by YouTuber",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Australia make strong start to run chase vs England in T20 World Cup final  LIVE!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "'Disgusting' Paraguay went 'way too far' against France",
-      "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Absolute CHAOS! Best bits from a hilarious F1 Lego race",
       "source": "Sky Sports",
@@ -146,62 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "England have struggled against low block - could they use it to beat Mexico?",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Wimbledon Day Seven LIVE! Osaka a double break up in huge Sabalenka contest",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Real Madrid sign defender Dumfries from Inter Milan",
+      "headline": "'Disgusting' Paraguay went 'way too far' against France",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "18h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "British GP: Hamilton at risk of losing podium amid investigation LIVE!",
+      "headline": "Australia beat England by seven wickets in T20 World Cup final LIVE",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13559571/f1-british-gp-live-race-updates-results-stream-highlights-video-from-ninth-round-of-2026-formula-1-season-at-silverstone",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "headline": "England have struggled against low block - could they use it to beat Mexico?",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Tchouameni, Bouaddi and Santos being eyed by Man Utd",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day Seven LIVE! Osaka knocks out Sabalenka",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560731/transfer-talk-chelseas-andrey-santos-emerges-on-man-united-radar-as-they-look-to-bolster-midfield-options",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
       "isFeatured": false,
       "hasAiSummary": false
     }
