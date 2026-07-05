@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T08:30:37.742Z",
+    "generatedAt": "2026-07-05T10:51:13.804Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Why England won't fear Mexico or the Azteca - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "13h",
+    "timeAgo": "15h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Video",
-      "headline": "Highlights: Glover & Hodges share lead as John Deere Classic heads into final day",
+      "topic": "Liveblog",
+      "headline": "Brazil vs Norway preview: 'No anti-Haaland plan', says Ancelotti",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights",
+      "url": "https://www.skysports.com/football/brazil-vs-norway/live/549856",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,33 @@
       "topic": "News",
       "headline": "England enter the Azteca - where football kings are crowned",
       "source": "BBC Sport",
-      "timeAgo": "3m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Glover & Hodges share lead as John Deere Classic heads into final day",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Stay humble - the Premier League feud about to hit world stage",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Walsh vows 'career best performance' with Denny knockout",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Tuchel praises respectful Mexico fans amid increased security",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Calandagan looks to defend Grand Prix de Saint-Cloud crown",
       "source": "Sky Sports",
@@ -66,19 +86,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Video",
-      "headline": "Wimbledon Day 6 wrap: Defending champ Swiatek crashes out, whilst Fritz, Tiafoe & Dimitrov advance",
+      "headline": "Wimbledon Day 6 wrap: Swiatek crashes out, as Fritz, Keys & Dimitrov advance",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/watch/video/13560549/wimbledon-day-6-wrap-defending-champ-swiatek-crashes-out-whilst-fritz-tiafoe-dimitrov-advance",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+      "headline": "Mexico return luxury watches gifted by YouTuber",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Mbappe scores again to send France past stubborn Paraguay",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "France overcome resolute Paraguay to reach quarter-final",
+      "headline": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "All the key moments and rate the players as France beat Paraguay",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "James doubtful for Mexico tie but Quansah fit again",
+      "headline": "France overcome resolute Paraguay to reach quarter-final",
       "source": "BBC Sport",
       "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "Toulouse thrash Catalans in all-French Magic Weekend clash in Castres",
       "source": "Sky Sports",
@@ -146,62 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 28",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx21k039r7qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "headline": "James doubtful for Mexico tie but Quansah fit again",
       "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Report",
-      "headline": "Scotland make impressive start in statement away win over Argentina",
+      "topic": "Liveblog",
+      "headline": "Magic Weekend 2026 LIVE! Build-up to day two at Hill Dickinson Stadium",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13560416/nations-championship-rugby-scotland-score-seven-tries-in-47-38-away-victory-over-argentina-to-make-winning-start",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13558512/magic-weekend-2026-live-commentary-videos-analysis-updates-scores-results-with-wigan-warriors-vs-st-helens-leeds-rhinos-vs-bradford-bulls",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Mexico return luxury watches gifted by YouTuber",
+      "headline": "Premier League quartet want Scott - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "33m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Will storms delay England vs Mexico? | Tuchel 'confused' by kick-off reports",
+      "topic": "News Story",
+      "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560553/england-vs-mexico-tuchel-not-concerned-about-expected-stormy-weather-in-mexico",
+      "url": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
