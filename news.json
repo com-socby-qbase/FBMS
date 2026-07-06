@@ -1,22 +1,122 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T09:43:41.245Z",
+    "generatedAt": "2026-07-06T13:33:14.267Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "An incredible night when England heroes were made",
+    "headline": "Integrity of game at stake over Fifa Balogun decision - Uefa",
     "source": "BBC Sport",
-    "timeAgo": "3h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "4h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Lingfield, Wolverhampton and Ripon feature today",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13560958/today-on-sky-sports-racing-lingfield-wolverhampton-and-ripon-feature",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tottenham seal £100m move for Newcastle's Tonali",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jel145g5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day Eight LIVE! Swiatek conqueror Eala in action before GB's Fery",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13560664/wimbledon-day-eight-live-scores-updates-news-results-with-arthur-fery-facing-grigor-dimitrov-second-on-centre-court-as-part-of-the-last-16",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "An incredible night when England heroes were made",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "'**** unbelievable!' | NEW ANGLE of Verstappen's race-ending crash",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13560954/pov-of-max-verstappens-race-impacting-crash-at-british-gp",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7523l9rdvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "'All the magic just disappeared' - Hamilton reveals Silverstone regrets",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560917/lewis-hamilton-ferrari-driver-says-his-magic-disappeared-at-british-gp-after-sprint-pole-after-set-up-miscue",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Henderson injures wrist in England celebrations",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Spurs smash transfer record again to sign Tonali in £100m deal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13559730/sandro-tonali-tottenham-sign-italy-midfielder-in-club-record-100m-deal-from-newcastle",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "How England's epic night at the Azteca unfolded",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "'Crossed a red line': UEFA hits out at FIFA call to allow banned Balogun to play",
       "source": "Sky Sports",
@@ -26,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Henderson injures wrist in England celebrations",
+      "headline": "Who produced another iconic performance? England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Ref Watch: Mexico vs England special LIVE!",
+      "headline": "Ref Watch: Quansah's red card and penalty against Kane analysed",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/live-blog/12040/13560892/ref-watch-live-world-cup-2026-incidents-analysed-by-former-premier-league-referee-dermot-gallagher",
@@ -46,162 +146,62 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Tuchel criticises Fifa over Balogun - where does this end?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Why England should take the positives as road to Ashes begins",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13560872/england-should-take-positives-from-t20-world-cup-final-defeat-to-australia-but-have-big-decisions-to-make-before-ashes",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Glasner becomes Forest's fifth head coach in a year",
       "source": "BBC Sport",
-      "timeAgo": "10m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c23y9xv7ddlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Gotterup wins by ONE shot after Kohles mishap at John Deere Classic",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560891/john-deere-classic-day-one-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "England win epic tie against Mexico to reach quarter-finals",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Report",
-      "headline": "Three Lions roar at alti-Jude! Bellingham and Kane send 10-man England to QFs after thriller",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/mexico-vs-england/report/549857",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Who produced another iconic performance? England player ratings",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "FOUR wickets in FOUR balls! Absolute scenes as bowler strikes in final over!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560870/four-wickets-in-four-balls-absolute-scenes-as-dasun-shanaka-stars-in-major-league-cricket",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Where does Mexico win rank among England's best results?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgevv1r30w1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Report",
-      "headline": "Brazil stunned as Haaland's masterclass sends Norway into last eight",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/brazil-vs-norway/report/549856",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "The man England will fear most - Haaland fires Norway to history",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "'Not good enough!' Tuchel fumes at refs after 'heroic' England win",
+      "headline": "Tonali out but Bruno to stay? Inside Newcastle's transfer plans",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560838/england-beat-mexico-in-world-cup-thomas-tuchel-hits-out-at-referees-after-three-lions-thrilling-win",
+      "url": "https://www.skysports.com/football/news/12040/13559175/inside-newcastles-transfer-plans-as-sandro-tonali-leaves-for-tottenham-and-magpies-eye-transformational-summer",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Neymar says Brazil career over after Norway defeat",
+      "headline": "How England used five mini games to beat Mexico",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Gotterup wins John Deere Classic title after thrilling final round",
+      "headline": "Hall calls for more recognition for new mums returning to professional sport",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13560777/pga-tour-chris-gotterup-wins-john-deere-classic-with-stunning-nine-birdie-final-round-as-ben-kohles-misses-out",
+      "url": "https://www.skysports.com/golf/news/12040/13558057/aig-womens-open-georgia-hall-says-female-athletes-who-return-to-professional-sport-after-becoming-parents-deserve-more-recognition",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "How Mexico's World Cup run brought joy after a year of fear",
+      "headline": "The numbers behind Spain defence chasing World Cup history",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wwdn6n15o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Jude's attitude can never be questioned again after colossal Mexico display",
+      "headline": "England unchanged as they look to increase T20 series lead over India",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560865/mexico-2-3-england-jude-bellinghams-world-cup-heroics-silence-remaining-doubters-of-superstars-commitment-to-thomas-tuchels-cause",
+      "url": "https://www.skysports.com/cricket/news/12040/13560941/england-unchanged-for-third-t20-vs-india-at-trent-bridge-on-tuesday-as-they-look-to-take-2-0-lead-in-five-match-series",
       "isFeatured": false,
       "hasAiSummary": false
     }
