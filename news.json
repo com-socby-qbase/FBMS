@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T23:18:25.903Z",
+    "generatedAt": "2026-07-06T01:15:06.279Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England's match with Mexico delayed by an hour",
+    "headline": "The man no-one wants to face - Haaland fires Norway to history",
     "source": "BBC Sport",
-    "timeAgo": "6m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c78yy4x7n5jo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "17m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Shelter-in-place order amid storm at Azteca before Mexico-England",
+      "headline": "Ageing Brazil need major surgery - but is Ancelotti the man to do it?",
       "source": "BBC Sport",
-      "timeAgo": "18m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "23m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Haaland sends Norway into quarter-finals as Brazil crash out",
+      "headline": "Red card system in disarray over Trump, Fifa and Balogun decision",
       "source": "BBC Sport",
-      "timeAgo": "30m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e226j15rpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Need to stay awake for England v Mexico? Try this quiz",
+      "headline": "Haaland sends Norway into quarter-finals as Brazil crash out",
       "source": "BBC Sport",
-      "timeAgo": "34m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e226j15rpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Queiroz leaves Ghana following World Cup exit",
       "source": "BBC Sport",
-      "timeAgo": "22m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyxx288yr6o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -108,17 +108,17 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Trump thanks Fifa after USA striker Balogun's ban suspended",
+      "headline": "Haaland double fires Norway into World Cup quarter-finals",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "'It stinks!' Neville, Trump and Belgium speak out after FIFA allows banned Balogun to play",
+      "headline": "Balogun ban overturned amid reports White House contacted FIFA",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13560770/world-cup-2026-fifa-step-in-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie-a-move-praised-by-president-donald-trump",
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "headline": "Trump thanks Fifa after USA striker Balogun's ban suspended",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Mexico fans fail in bid to wake up England players",
+      "headline": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Newcastle sign Toure for £43m - what will he bring to club?",
+      "headline": "Mexico fans fail in bid to wake up England players",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -190,7 +190,7 @@
       "topic": "News",
       "headline": "Real Madrid plot £188m Olise deal - Monday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cgjxx6ngdggo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Australia romp past England to secure seventh Women's T20 World Cup title",
+      "headline": "Papers: Man Utd ponder surprise Santos move",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13560599/womens-t20-world-cup-final-england-overpowered-by-australia-at-lords-as-southern-stars-win-record-extending-seventh-title",
+      "url": "https://www.skysports.com/football/news/12040/13560800/manchester-united-ponder-surprise-move-for-chelseas-andrey-santos-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     }
