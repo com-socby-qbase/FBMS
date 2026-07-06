@@ -1,22 +1,102 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T13:33:14.267Z",
+    "generatedAt": "2026-07-06T16:44:48.493Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Integrity of game at stake over Fifa Balogun decision - Uefa",
+    "headline": "Trump confirms he asked Fifa to review Balogun ban",
     "source": "BBC Sport",
-    "timeAgo": "4h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Wimbledon order of play: Gauff, Djokovic, Sinner and Osaka all in action Tuesday",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Tottenham seal £100m move for Newcastle's Tonali",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jel145g5o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Eleven players fined by Wimbledon - but Kyrgios isn't one of them!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "How England used five mini games to beat Mexico",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Article/Blog",
+      "headline": "Brundle's verdict on 'immense' British GP - but the F1 rule he'd change",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13560978/british-gp-martin-brundle-on-immense-silverstone-2026-charles-leclercs-win-and-a-safety-car-rule-hed-change",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "An incredible night when England heroes were made",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Everton latest: George completes permanent move from Chelsea",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Henderson expected to have surgery on injured wrist",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Lingfield, Wolverhampton and Ripon feature today",
       "source": "Sky Sports",
@@ -26,19 +106,39 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Tottenham seal £100m move for Newcastle's Tonali",
+      "headline": "Who am I? Guess World Cup star No 29",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jel145g5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "56m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4je2erl0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Wimbledon Day Eight LIVE! Swiatek conqueror Eala in action before GB's Fery",
+      "headline": "USA vs Belgium preview: I'm the one that got Balogun's ban suspended, says Trump",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Where does Mexico win rank among England's best results?",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgevv1r30w1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day Eight LIVE! British wild card Fery wins first set vs Dimitrov",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13560664/wimbledon-day-eight-live-scores-updates-news-results-with-arthur-fery-facing-grigor-dimitrov-second-on-centre-court-as-part-of-the-last-16",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "An incredible night when England heroes were made",
+      "headline": "How England's epic night at the Azteca unfolded",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "'**** unbelievable!' | NEW ANGLE of Verstappen's race-ending crash",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz7523l9rdvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'All the magic just disappeared' - Hamilton reveals Silverstone regrets",
       "source": "Sky Sports",
@@ -86,111 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Henderson injures wrist in England celebrations",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Spurs smash transfer record again to sign Tonali in £100m deal",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559730/sandro-tonali-tottenham-sign-italy-midfielder-in-club-record-100m-deal-from-newcastle",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "How England's epic night at the Azteca unfolded",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "'Crossed a red line': UEFA hits out at FIFA call to allow banned Balogun to play",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Who produced another iconic performance? England player ratings",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Ref Watch: Quansah's red card and penalty against Kane analysed",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13560892/ref-watch-live-world-cup-2026-incidents-analysed-by-former-premier-league-referee-dermot-gallagher",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Glasner becomes Forest's fifth head coach in a year",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23y9xv7ddlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Tonali out but Bruno to stay? Inside Newcastle's transfer plans",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13559175/inside-newcastles-transfer-plans-as-sandro-tonali-leaves-for-tottenham-and-magpies-eye-transformational-summer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "How England used five mini games to beat Mexico",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Hall calls for more recognition for new mums returning to professional sport",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13558057/aig-womens-open-georgia-hall-says-female-athletes-who-return-to-professional-sport-after-becoming-parents-deserve-more-recognition",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "The numbers behind Spain defence chasing World Cup history",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "5h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "England unchanged as they look to increase T20 series lead over India",
+      "headline": "'Crossed a red line': UEFA hits out at FIFA call to allow banned Balogun to play",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13560941/england-unchanged-for-third-t20-vs-india-at-trent-bridge-on-tuesday-as-they-look-to-take-2-0-lead-in-five-match-series",
+      "url": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
       "isFeatured": false,
       "hasAiSummary": false
     }
