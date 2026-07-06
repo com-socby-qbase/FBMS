@@ -1,42 +1,22 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T22:02:57.764Z",
+    "generatedAt": "2026-07-06T23:31:58.467Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Trump confirms he asked Fifa to review Balogun ban",
+    "headline": "Spain's World Cup challenge built on historic defence",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "15m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Report",
-      "headline": "Spain dump Ronaldo's Portugal out of World Cup with stoppage-time win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "FA considering appeal after Quansah red card",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "'I thought I was done!' - Menzies bounces back with title",
       "source": "Sky Sports",
@@ -46,17 +26,57 @@
       "hasAiSummary": false
     },
     {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Why European backlash over Trump intervention won't worry Infantino",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Report",
+      "headline": "Ronaldo bows out and Martinez steps down as Spain beat Portugal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "James expected to return for Norway quarter-final",
+      "headline": "FA considering appeal after Quansah red card",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Ronaldo: I won't make any rash decisions on Portugal future",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "James expected to return for Norway quarter-final",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Mbappe condemns racist posts from Paraguay senator",
+      "headline": "Spain into quarter-finals after Merino's late winner against Portugal",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Ipswich latest: Deal agreed for Brazil striker",
       "source": "Sky Sports",
@@ -86,17 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Mbappe condemns racist posts from Paraguay senator",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "Balogun starts for USA as De Bruyne, Doku benched for Belgium LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Tottenham seal £100m move for Newcastle's Tonali",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2jel145g5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Fery's fairy-tale Wimbledon run continues as Brit reaches quarter-finals",
       "source": "Sky Sports",
@@ -106,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "How England used five mini games to beat Mexico",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "Reaction as Ronaldo exits World Cup for final time LIVE!",
+      "headline": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Starmer intervened in row over Mexico-England kick-off time",
       "source": "BBC Sport",
-      "timeAgo": "54m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Brentford latest: Bees close to signing Wilson on free transfer",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Henderson expected to have surgery on injured wrist",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Fury vs AJ could be at Wembley with later start time",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13561091/tyson-fury-vs-anthony-joshua-fight-can-take-place-at-wembley-stadium-if-authorities-agree-to-later-start-time-says-turki-alalshikh",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "An incredible night when England heroes were made",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Joyce misses out on heavyweight title shot as Gassiev opponent confirmed",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13561073/joe-joyce-misses-out-on-wba-heavyweight-title-shot-as-murat-gassiev-gets-new-opponent-for-first-defence",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Spain into quarter-finals after Merino's late winner against Portugal",
-      "source": "BBC Sport",
-      "timeAgo": "16m",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Wimbledon order of play: Gauff, Djokovic, Sinner and Osaka all in action Tuesday",
+      "headline": "Fury vs AJ could be at Wembley with later start time",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "url": "https://www.skysports.com/boxing/news/12040/13561091/tyson-fury-vs-anthony-joshua-fight-can-take-place-at-wembley-stadium-if-authorities-agree-to-later-start-time-says-turki-alalshikh",
       "isFeatured": false,
       "hasAiSummary": false
     }
