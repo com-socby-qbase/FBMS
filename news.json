@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T20:58:11.048Z",
+    "generatedAt": "2026-07-07T22:17:20.079Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tears of relief? Messi adds another incredible chapter to World Cup career",
     "source": "BBC Sport",
-    "timeAgo": "29m",
+    "timeAgo": "1h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+      "headline": "The fury and heartbreak of Egypt's stunning World Cup collapse",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,15 +48,35 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Villa and Belgium midfielder Onana ruptures ACL",
+      "headline": "Shades of Keane and Gerrard in Bellingham display - Rooney",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Ed Sheeran plays gig for England squad as he backs team for World Cup glory",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Villa and Belgium midfielder Onana ruptures ACL",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
       "headline": "Duran set to become Celtic’s first summer signing",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "England players to get hoarding warning after freak Henderson injury",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Argentina come from two down to beat Egypt in World Cup classic",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "The superstar double act that became England's Wonderwall",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "How Messi defied time and his own struggles to conjure epic comeback",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Fifa investigating alleged racist abuse of IShowSpeed",
       "source": "BBC Sport",
-      "timeAgo": "1h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1my1pr18jmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Aston Villa latest: Onana's ACL rupture confirmed",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Inside Liverpool's pre-season plans as Iraola starts work",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3g5pmzyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "F1 Show: Where will Verstappen end up in 2027?",
       "source": "Sky Sports",
@@ -146,39 +166,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Arsenal set to sign Meslier on free transfer after Leeds exit",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvge7wen5g9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Scorecard: England vs India, third T20 international",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/ca9f28fc-bc09-50e2-bb98-0b728cad51b9",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Can Scotland learn from history-making Norway?",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "'Atrocious' - India left seething after record T20I defeat to England",
+      "headline": "Brook hails England's 'perfect' communication in India hammering",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13561292/england-vs-india-third-t20i-live-score-updates-video-and-analysis-from-trent-bridge",
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Qarabag's Duran poised for Celtic medical",
+      "headline": "Can Scotland learn from history-making Norway?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
