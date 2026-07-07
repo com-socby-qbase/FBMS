@@ -1,22 +1,42 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T01:23:50.628Z",
+    "generatedAt": "2026-07-07T05:37:08.617Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
+    "headline": "A shambolic end for the American dream - did Balogun saga play a part?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "36m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "News Story",
       "headline": "'I thought I was done!' - Menzies bounces back with title",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Spain's World Cup challenge built on record-breaking historic defence",
+      "headline": "'Overturn this' – Belgium taunt US and say Trump move fired them up",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "19m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Report",
       "headline": "Ronaldo bows out and Martinez steps down as Spain beat Portugal",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
       "headline": "Why European backlash over Trump intervention won't worry Infantino",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Ronaldo: I won't make any rash decisions on Portugal future",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "FA considering appeal after Quansah red card",
+      "headline": "Spain's World Cup challenge built on record-breaking historic defence",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "James expected to return for Norway quarter-final",
+      "headline": "FA considering appeal after Quansah red card",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Ipswich latest: Deal agreed for Brazil striker",
       "source": "Sky Sports",
@@ -106,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Spain into quarter-finals after Merino's late winner against Portugal",
+      "headline": "Who am I? Guess World Cup star No 30",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l2y4p59n9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "De Ketelaere restores Belgium lead in lively start vs USA LIVE!",
+      "headline": "All the key moments and rate the players as Belgium eliminate USA",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Mbappe condemns racist posts from Paraguay senator",
+      "headline": "James expected to return for Norway quarter-final",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Fery's fairy-tale Wimbledon run continues as Brit reaches quarter-finals",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Tottenham seal £100m move for Newcastle's Tonali",
+      "headline": "Belgium make light work of US to set up quarter-final tie with Spain",
       "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jel145g5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Liveblog",
       "headline": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "How England used five mini games to beat Mexico",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Starmer intervened in row over Mexico-England kick-off time",
+      "headline": "Mbappe condemns racist posts from Paraguay senator",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Fury vs AJ could be at Wembley with later start time",
+      "topic": "Liveblog",
+      "headline": "Brentford latest: Bees close to signing Wilson on free transfer",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13561091/tyson-fury-vs-anthony-joshua-fight-can-take-place-at-wembley-stadium-if-authorities-agree-to-later-start-time-says-turki-alalshikh",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
