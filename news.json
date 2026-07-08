@@ -1,22 +1,142 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T15:41:00.709Z",
+    "generatedAt": "2026-07-08T17:09:27.208Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "London City sign Ballon d'Or winner Putellas",
+    "headline": "Are Argentina being treated favourably at World Cup?",
     "source": "BBC Sport",
     "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Leeds United sign free agent Wilson",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "England players granted day off after Mexico win",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "The key players walking disciplinary tightrope",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "Wimbledon LIVE! Britain's Fery into semi-finals after incredible win over Cobolli",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "London City sign Ballon d'Or winner Putellas",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "A Golden Boot race for the ages - but who will come out on top?",
+      "source": "BBC Sport",
+      "timeAgo": "38m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Fury vs AJ must start at 1am if fight is staged at Wembley",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-1am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Egypt want officials kicked out of World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Superstars, politics & hydration breaks: Themes of the World Cup so far",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Henderson has surgery in USA after breaking arm",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Feature Story",
       "headline": "Putellas has power to change the WSL - why is she joining London City?",
       "source": "Sky Sports",
@@ -26,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Egypt want officials kicked out of World Cup",
+      "headline": "Amorim apologises for silence towards Man Utd fans",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly5d57wkeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "London City Lionesses complete landmark signing of Putellas",
       "source": "Sky Sports",
@@ -46,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "The key players walking disciplinary tightrope",
+      "headline": "Portugal confirm departure of coach Martinez",
       "source": "BBC Sport",
-      "timeAgo": "33m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78ygpede52o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Button: Verstappen has to be ruthless over 2027 decision",
       "source": "Sky Sports",
@@ -66,142 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Henderson has surgery in USA after breaking arm",
-      "source": "BBC Sport",
-      "timeAgo": "12m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Report",
-      "headline": "Cleary stars as New South Wales win State of Origin decider",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/queensland-vs-nsw/report/62577",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Portugal confirm departure of coach Martinez",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78ygpede52o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Why Kane is safe from missing World Cup semi... but Bellingham is NOT",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13561651/explained-why-harry-kane-is-safe-from-missing-world-cup-semi-final-but-jude-bellingham-is-not",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz9l74k031do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "McIlroy: Scottish Open 'feels like home' and 'perfect' prep for The Open",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13561587/genesis-scottish-open-rory-mcilroy-relishes-perfect-prep-for-the-open-and-says-event-should-be-national-open-blueprint",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Meet Sweden's top scorer who hopes to play for Scotland",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0472drrlzo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Palace latest: Japan star Kamada pens new deal",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Why Newcastle target Manzambi is in demand",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Wimbledon LIVE! Britain's Fery fighting for surprise two sets lead against Cobolli",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Has World Cup signalled end of chaos at corners?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y723g7eno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Scotland latest: Benitez 'open' to head coach job",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "The World Cup stars who could have played for England",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Former world champion Moloney signs with Zuffa Boxing",
+      "topic": "Report",
+      "headline": "Cleary stars as New South Wales win State of Origin decider",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13561599/jason-moloney-former-bantamweight-world-champion-signs-zuffa-boxing-multi-fight-contract",
+      "url": "https://www.skysports.com/rugby-league/queensland-vs-nsw/report/62577",
       "isFeatured": false,
       "hasAiSummary": false
     }
