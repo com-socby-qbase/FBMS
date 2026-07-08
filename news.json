@@ -1,22 +1,122 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T11:30:44.686Z",
+    "generatedAt": "2026-07-08T13:15:21.072Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
+    "headline": "Egypt want officials kicked out of World Cup",
     "source": "BBC Sport",
-    "timeAgo": "34m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Report",
+      "headline": "Cleary stars as New South Wales win State of Origin decider",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-league/queensland-vs-nsw/report/62577",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz9l74k031do?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Why Kane is safe from missing World Cup semi...but Bellingham is NOT",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13561651/explained-why-harry-kane-is-safe-from-missing-world-cup-semi-final-but-jude-bellingham-is-not",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Meet Sweden's top scorer who hopes to play for Scotland",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0472drrlzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "McIlroy: Scottish Open 'feels like home' and 'perfect' prep for The Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13561587/genesis-scottish-open-rory-mcilroy-relishes-perfect-prep-for-the-open-and-says-event-should-be-national-open-blueprint",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Why Newcastle target Manzambi is in demand",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "Liveblog",
+      "headline": "Palace latest: Japan star Kamada pens new deal",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Has World Cup signalled end of chaos at corners?",
+      "source": "BBC Sport",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y723g7eno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Wimbledon Day 10 LIVE! Britain's new hero Fery bids for place in semi-finals later",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "The World Cup stars who could have played for England",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "Benitez 'open' to Scotland job",
       "source": "Sky Sports",
@@ -26,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
+      "headline": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9l74k031do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Former world champion Moloney signs with Zuffa Boxing",
       "source": "Sky Sports",
@@ -46,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Unusual or predictable? How Europe is dominating the World Cup",
+      "headline": "Watch every penalty from Switzerland v Colombia shootout",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr479drd159o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn0vn94je8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "England's right-back crisis continues - what are the options vs Norway?",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+      "headline": "Dalic leaves as Croatia coach after nine years",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7eeyl5evo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Waterford Castle chases first success at Yarmouth",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Tears of relief? Messi adds another incredible chapter to World Cup career",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Russell: I need to be better to fight for championship",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13561229/george-russell-mercedes-driver-says-kimi-antonelli-deserves-to-be-ahead-in-f1-title-fight-and-i-need-to-be-better",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Watch every penalty from Switzerland v Colombia shootout",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn0vn94je8qo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Highlights: England THUMP India in 3rd T20I thrashing",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13561435/england-vs-india-3rd-t20i-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Goals galore - how dominant is Premier League wealth at World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "38m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c77yg8nr516o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "'I hope they lose and cry!' | Hovland's World Cup wish ahead of Saturday!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13561357/viktor-hovlands-world-cup-wish-ahead-of-saturday-i-hope-they-lose-and-cry",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Why Newcastle target Manzambi is in demand",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Switzerland break Colombian hearts with first shoot-out success",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/switzerland-vs-colombia/report/549860",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "The World Cup stars who could have played for England",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Brentford latest: Wilson set for medical ahead of free transfer",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Fulham appoint Arbeloa as Silva's successor",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Brundle and Lewis Capaldi reunite with 'man hug' after viral handshake swerve!",
+      "topic": "News Story",
+      "headline": "Egypt make complaint to FIFA about 'unfair' referee decisions in Argentina defeat",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13560995/martin-brundle-and-lewis-capaldi-share-man-hug-on-grid-at-british-gp-after-viral-handshake-swerve",
+      "url": "https://www.skysports.com/football/news/12040/13561649/argentina-3-2-egypt-fifa-receive-complaint-from-egypt-about-the-refereeing-decisions-in-last-16-defeat",
       "isFeatured": false,
       "hasAiSummary": false
     }
