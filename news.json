@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T17:09:27.208Z",
+    "generatedAt": "2026-07-08T18:45:05.558Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Are Argentina being treated favourably at World Cup?",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Leeds United sign free agent Wilson",
+      "headline": "Leeds sign free agent Wilson after Fulham exit",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
@@ -28,75 +28,15 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "England players granted day off after Mexico win",
+      "headline": "Chelsea announce £40m Quenda signing",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "43m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy0v39qkko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "The key players walking disciplinary tightrope",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Wimbledon LIVE! Britain's Fery into semi-finals after incredible win over Cobolli",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "London City sign Ballon d'Or winner Putellas",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "A Golden Boot race for the ages - but who will come out on top?",
-      "source": "BBC Sport",
-      "timeAgo": "38m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Fury vs AJ must start at 1am if fight is staged at Wembley",
       "source": "Sky Sports",
@@ -106,19 +46,79 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Egypt want officials kicked out of World Cup",
+      "headline": "Arsenal target Guimaraes asks to leave Newcastle",
+      "source": "BBC Sport",
+      "timeAgo": "52m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Man Utd agree deal for Chelsea's Santos",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "The key players walking disciplinary tightrope",
       "source": "BBC Sport",
       "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Britain's Fery on stunning Centre Court success - 'I've never felt emotions like it!'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "London City sign Ballon d'Or winner Putellas",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7wenkklyo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Superstars, politics & hydration breaks: Themes of the World Cup so far",
+      "headline": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Henderson has surgery in USA after breaking arm",
+      "headline": "From Barcelona to Bromley: Inside Putellas' move to LCL",
       "source": "BBC Sport",
       "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Amorim apologises for silence towards Man Utd fans",
+      "headline": "Scotland goalkeeper Gunn signs for San Jose Earthquakes",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly5d57wkeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c982080yd7ro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Portugal confirm departure of coach Martinez",
+      "headline": "A Golden Boot race for the ages - but who will come out on top?",
       "source": "BBC Sport",
       "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78ygpede52o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,10 +188,10 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
+      "headline": "Egypt want officials kicked out of World Cup",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9l74k031do?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
