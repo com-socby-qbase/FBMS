@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T16:13:03.108Z",
+    "generatedAt": "2026-07-09T18:11:45.530Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "I've changed my mind, we might actually be able to win this thing - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "1h",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,8 +17,68 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Muchova beats Gauff after epic tie-break to set up all-Czech Wimbledon final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562014/wimbledon-2026-karolina-muchova-beats-coco-gauff-after-epic-tie-break-to-set-up-all-czech-final-against-linda-noskova",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Quansah banned for two games after Mexico red card",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Fery plans to use home crowd against Zverev in semi-final",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13561767/wimbledon-2026-arthur-fery-plans-to-use-crowd-to-my-advantage-against-alexander-zverev-in-mens-singles-semi-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Norway's Haaland calls for media pressure on England before quarter-final",
+      "source": "BBC Sport",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Rebel's Romance proves popular winner at Newmarket",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13562050/rebels-romance-proves-popular-winner-at-newmarket-as-inner-city-blues-strikes-for-godolphin",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Man Utd plan naming rights deal for new stadium",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "England looking to seal T20 series win over India LIVE!",
+      "headline": "England need 159 to win India T20 series after bowlers excel LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13561873/england-vs-india-fourth-t20-internationai-live-cricket-score-updates-video-and-analysis-from-bristol",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Man Utd plan naming rights deal for new stadium",
+      "headline": "Are France beatable? - BBC experts have their say",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
       "source": "Sky Sports",
@@ -46,37 +106,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Are France beatable? - BBC experts have their say",
+      "headline": "Premier League pre-season - who are your club playing?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Is Man Utd's midfield rebuild going to plan?",
+      "headline": "Quansah banned for two games after red card vs Mexico",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
+      "url": "https://www.skysports.com/football/news/12040/13562035/jarrell-quansah-banned-for-two-world-cup-games-for-red-card-vs-mexico",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "'It was good vibes in there' - Stones on viral prank",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Caluori, Janse van Rensburg set for England debuts against Fiji",
       "source": "Sky Sports",
@@ -86,122 +146,62 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Meslier joins Arsenal on free transfer after Leeds exit",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51xj4pjwwo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "Arsenal sign former Leeds goalkeeper Meslier",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561962/illan-meslier-to-arsenal-gunners-sign-former-leeds-goalkeeper-on-free-transfer",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Premier League pre-season - who are your club playing?",
-      "source": "BBC Sport",
-      "timeAgo": "7m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Liveblog",
-      "headline": "Wimbledon LIVE! Noskova vs Kostyuk in semi after Muchova beats Gauff in epic",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13561696/wimbledon-day-11-live-womens-semi-finals-scores-updates-news-results-with-coco-gauff-marta-kostyuk-karolina-muchova-linda-noskova-playing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Olise yellow card stands as Saibari out for Morocco",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "British South Asians in football: Team of the Season 2025/26",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561828/x",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Newcastle sign teenager Steur from Ajax for £23m",
+      "headline": "What's going on at Newcastle with Bruno's future in doubt?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg060ewpp8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qyx8y5pdpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "News Story",
-      "headline": "Draper set to make swift return from injury at DC Open",
+      "headline": "Haaland: England should be confident - the pressure is on them",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13561930/jack-draper-brit-set-to-make-swift-return-from-injury-at-dc-open-in-washington-after-missing-wimbledon-with-arm-issue",
+      "url": "https://www.skysports.com/football/news/12040/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Chris Sutton's World Cup quarter-final predictions",
+      "headline": "Ex-Leeds keeper Darlow set for Man Utd move",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "22m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj0g61gedz7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Sciver-Brunt calls on England to show resilience in historic Lord's Test vs India",
+      "headline": "Is Man Utd's midfield rebuild going to plan?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13561963/england-vs-india-nat-sciver-brunt-urges-team-to-show-resilience-in-historic-lords-test-after-agonising-t20-world-cup-final-loss",
+      "url": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "How Kane and Haaland compare - who would you pick?",
+      "headline": "Palace sign Spain defender Mingueza on free transfer",
       "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdxd5rd7kqwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "'Sack him' - Stokes reacts as ICC look into possible retirement video rule breach",
+      "headline": "Betfred World Matchplay 2026: Littler faces Springer as draw confirmed",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13561890/ben-stokes-former-england-captain-reacts-as-icc-contact-ecb-over-possible-retirement-video-rule-breach",
+      "url": "https://www.skysports.com/darts/news/12040/13561989/betfred-world-matchplay-2026-luke-littler-faces-niko-springer-luke-humphries-takes-on-cameron-menzies-as-draw-confirmed",
       "isFeatured": false,
       "hasAiSummary": false
     }
