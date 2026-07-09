@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T18:11:45.530Z",
+    "generatedAt": "2026-07-09T20:04:37.233Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "I've changed my mind, we might actually be able to win this thing - Shearer",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,46 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Brook, Salt blast England to T20 series win over dismal India",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13561985/harry-brook-stars-as-england-thrash-india-by-nine-wickets-to-clinch-t20-series-with-game-to-spare",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Quansah banned for two games after Mexico red card",
+      "source": "BBC Sport",
+      "timeAgo": "9m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "France vs Morocco LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/france-vs-morocco/live/549862",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Norway's Haaland calls for media pressure on England before quarter-final",
+      "source": "BBC Sport",
+      "timeAgo": "12m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "Muchova beats Gauff after epic tie-break to set up all-Czech Wimbledon final",
       "source": "Sky Sports",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Quansah banned for two games after Mexico red card",
+      "headline": "Man Utd plan naming rights deal for new stadium",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Fery plans to use home crowd against Zverev in semi-final",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Norway's Haaland calls for media pressure on England before quarter-final",
+      "headline": "Are France beatable? - BBC experts have their say",
       "source": "BBC Sport",
-      "timeAgo": "9m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Rebel's Romance proves popular winner at Newmarket",
       "source": "Sky Sports",
@@ -66,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Man Utd plan naming rights deal for new stadium",
+      "headline": "Premier League pre-season - who are your club playing?",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "England need 159 to win India T20 series after bowlers excel LIVE!",
+      "headline": "Brook, Salt blast England to T20 series victory over India LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13561873/england-vs-india-fourth-t20-internationai-live-cricket-score-updates-video-and-analysis-from-bristol",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Are France beatable? - BBC experts have their say",
+      "headline": "'It was good vibes in there' - Stones on viral prank",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Premier League pre-season - who are your club playing?",
+      "headline": "US confirm Pulisic leg fracture in defeat by Belgium",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq613v53emlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Quansah banned for two games after red card vs Mexico",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "'It was good vibes in there' - Stones on viral prank",
+      "headline": "What's going on at Newcastle with Bruno's future in doubt?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qyx8y5pdpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Caluori, Janse van Rensburg set for England debuts against Fiji",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "What's going on at Newcastle with Bruno's future in doubt?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qyx8y5pdpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Haaland: England should be confident - the pressure is on them",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Ex-Leeds keeper Darlow set for Man Utd move",
       "source": "BBC Sport",
-      "timeAgo": "22m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj0g61gedz7o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Is Man Utd's midfield rebuild going to plan?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Palace sign Spain defender Mingueza on free transfer",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdxd5rd7kqwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Betfred World Matchplay 2026: Littler faces Springer as draw confirmed",
+      "headline": "Haaland: England should be confident - the pressure is on them",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13561989/betfred-world-matchplay-2026-luke-littler-faces-niko-springer-luke-humphries-takes-on-cameron-menzies-as-draw-confirmed",
+      "url": "https://www.skysports.com/football/news/12040/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men",
       "isFeatured": false,
       "hasAiSummary": false
     }
