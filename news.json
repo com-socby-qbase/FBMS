@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T13:27:51.973Z",
+    "generatedAt": "2026-07-09T16:13:03.108Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Are France beatable? - BBC experts have their say",
+    "headline": "I've changed my mind, we might actually be able to win this thing - Shearer",
     "source": "BBC Sport",
     "timeAgo": "1h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "England looking to seal T20 series win over India LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13561873/england-vs-india-fourth-t20-internationai-live-cricket-score-updates-video-and-analysis-from-bristol",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man Utd plan naming rights deal for new stadium",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/norway-vs-england/live/549864",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Are France beatable? - BBC experts have their say",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4d7g1dvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Is Man Utd's midfield rebuild going to plan?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "'It was good vibes in there' - Stones on viral prank",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Caluori, Janse van Rensburg set for England debuts against Fiji",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'It was good vibes in there' - Stones on viral prank",
+      "headline": "Meslier joins Arsenal on free transfer after Leeds exit",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq51xj4pjwwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Arsenal sign former Leeds goalkeeper Meslier",
       "source": "Sky Sports",
@@ -46,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Olise yellow card stands as Saibari out for Morocco",
+      "headline": "Premier League pre-season - who are your club playing?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
-      "headline": "Wimbledon LIVE! Gauff in trouble against Muchova in first semi-final",
+      "headline": "Wimbledon LIVE! Noskova vs Kostyuk in semi after Muchova beats Gauff in epic",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13561696/wimbledon-day-11-live-womens-semi-finals-scores-updates-news-results-with-coco-gauff-marta-kostyuk-karolina-muchova-linda-noskova-playing",
@@ -66,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Newcastle sign teenager Steur from Ajax for £23m",
+      "headline": "Olise yellow card stands as Saibari out for Morocco",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg060ewpp8o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "British South Asians in football: Team of the Season 2025/26",
       "source": "Sky Sports",
@@ -86,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "How Kane and Haaland compare - who would you pick?",
+      "headline": "Newcastle sign teenager Steur from Ajax for £23m",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg060ewpp8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Draper set to make swift return from injury at DC Open",
       "source": "Sky Sports",
@@ -106,102 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Benitez open to Scotland job - what would he bring and is he affordable?",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzkjnye3o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "'Sack him' - Stokes reacts as ICC look into possible retirement video rule breach",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13561890/ben-stokes-former-england-captain-reacts-as-icc-contact-ecb-over-possible-retirement-video-rule-breach",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Man Utd reveal proposed 100,000-seater stadium location",
-      "source": "BBC Sport",
-      "timeAgo": "26m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1w0kkv16o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Newcastle sign Ajax teenager Steur",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561944/sean-steur-newcastle-sign-midfielder-from-ajax-for-23m-on-five-year-deal-after-sandro-tonali-exit",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Chris Sutton's World Cup quarter-final predictions",
       "source": "BBC Sport",
-      "timeAgo": "14h",
+      "timeAgo": "17h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Bellingham unlocked? How Tuchel has helped him find a new level",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561683/how-thomas-tuchel-has-helped-unlock-jude-bellinghams-attacking-potential-for-england-8211-between-the-lines",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Morocco's unfinished business with France",
-      "source": "BBC Sport",
-      "timeAgo": "47m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rd56dk1go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "GB Paralympic great Storey announces retirement",
+      "headline": "Sciver-Brunt calls on England to show resilience in historic Lord's Test vs India",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/olympics/news/12040/13561847/dame-sarah-storey-great-britains-most-successful-paralympian-announces-retirement-ahead-of-2028-games-in-los-angeles",
+      "url": "https://www.skysports.com/cricket/news/12040/13561963/england-vs-india-nat-sciver-brunt-urges-team-to-show-resilience-in-historic-lords-test-after-agonising-t20-world-cup-final-loss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Nobody can question integrity of World Cup referees - Collina",
+      "headline": "How Kane and Haaland compare - who would you pick?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze9z1307p2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Jansen set for debut as Ireland make nine changes for Japan clash",
+      "headline": "'Sack him' - Stokes reacts as ICC look into possible retirement video rule breach",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13561840/japan-vs-ireland-sean-jansen-to-make-international-debut-as-andy-farrell-makes-nine-changes-for-newcastle-contest",
+      "url": "https://www.skysports.com/cricket/news/12040/13561890/ben-stokes-former-england-captain-reacts-as-icc-contact-ecb-over-possible-retirement-video-rule-breach",
       "isFeatured": false,
       "hasAiSummary": false
     }
