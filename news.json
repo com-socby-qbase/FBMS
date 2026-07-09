@@ -1,22 +1,82 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T02:57:32.880Z",
+    "generatedAt": "2026-07-09T06:50:07.549Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "A Golden Boot race for the ages - but who will come out on top?",
+    "headline": "How Kane and Haaland compare - who would you pick?",
     "source": "BBC Sport",
-    "timeAgo": "10h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "1h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "GB Paralympic great Storey announces retirement",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/olympics/news/12040/13561847/dame-sarah-storey-great-britains-most-successful-paralympian-announces-retirement-ahead-of-2028-games-in-los-angeles",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Starmer hints at bank holiday if England win World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Jansen set for debut as Ireland make nine changes for Japan clash",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13561840/japan-vs-ireland-sean-jansen-to-make-international-debut-as-andy-farrell-makes-nine-changes-for-newcastle-contest",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Arsenal target Guimaraes asks to leave Newcastle",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Count Bezukhov looks to strike again on St Leger trials day",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13561383/today-on-sky-sports-racing-count-bezukhov-looks-to-strike-again-on-st-leger-trials-day",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
       "source": "Sky Sports",
@@ -26,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Are Argentina being treated favourably at World Cup?",
+      "headline": "Chris Sutton's World Cup quarter-final predictions",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Leeds sign free agent Wilson after Fulham exit",
       "source": "Sky Sports",
@@ -46,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Chris Sutton's World Cup quarter-final predictions",
+      "headline": "Man Utd agree deal for Chelsea's Santos",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Fery plans to use home crowd against Zverev in semi-final",
       "source": "Sky Sports",
@@ -66,37 +126,37 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Chelsea announce £40m Quenda signing",
+      "headline": "A Golden Boot race for the ages - but who will come out on top?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy0v39qkko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m526mjmeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-6",
       "topic": "News Story",
-      "headline": "Fury vs AJ must start at 1am if fight is staged at Wembley",
+      "headline": "Fury vs AJ must start at 2am if fight is staged at Wembley",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-1am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster",
+      "url": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-2am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "From Barcelona to Bromley: Inside Putellas' move to LCL",
+      "headline": "Idolises Ronaldo, plays like Saka - meet  £40m Chelsea winger Quenda",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "25m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
       "source": "Sky Sports",
@@ -106,102 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Arsenal target Guimaraes asks to leave Newcastle",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Man Utd agree deal for Chelsea's Santos",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Liveblog",
-      "headline": "Britain's Fery on stunning Centre Court success - 'I've never felt emotions like it!'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "The key World Cup players walking disciplinary tightrope",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7e9879m9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Henderson not ruled out of World Cup despite breaking arm",
+      "headline": "From Barcelona to Bromley: Inside Putellas' move to LCL",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70ygpg95vlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Feature Story",
-      "headline": "Putellas has power to change the WSL - why is she joining London City?",
+      "topic": "News Story",
+      "headline": "Papers: England set to get bank holiday IF Three Lions win World Cup",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13556749/alexia-putellas-transfer-barcelona-and-spain-star-completes-womens-super-league-move-why-london-city-lionesses",
+      "url": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Scotland goalkeeper Gunn signs for San Jose Earthquakes",
+      "headline": "Are Argentina being treated favourably at World Cup?",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c982080yd7ro?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "London City Lionesses complete landmark signing of Putellas",
+      "headline": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13548205/alexia-putellas-news-barcelona-and-spain-midfielder-joins-london-city-lionesses-on-a-free-transfer",
+      "url": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
       "isFeatured": false,
       "hasAiSummary": false
     }
