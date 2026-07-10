@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T13:11:02.592Z",
+    "generatedAt": "2026-07-10T15:40:05.324Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "How do England stop Norway - and Haaland?",
     "source": "BBC Sport",
-    "timeAgo": "31m",
+    "timeAgo": "3h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,126 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "Wimbledon women's final build-up: Muchova vs Noskova in all-Czech final on Saturday",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13562247/wimbledon-womens-final-live-scores-updates-news-results-with-karolina-muchova-and-linda-noskova-playing",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Edwards leaves football chief role with Liverpool owners FSG",
+      "source": "BBC Sport",
+      "timeAgo": "57m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3gqz6qleo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "'That's a way to make a 3!' | Scott holes out from fairway at Scottish Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562298/adam-scott-holes-out-from-fairway-for-birdie-on-second-hole-at-scottish-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'What old timers can do' - the evolution of Belgium's golden generation",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Afternoon session: England take big wickets of Mandhana and Harmanpreet",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562318/england-vs-india-afternoon-session-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Mexico boss' explicit heckle a bit of fun - Gordon",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Fery's fairytale Wimbledon run ended by Zverev in semi-finals",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562304/wimbledon-2026-arthur-fery-unable-to-emulate-andy-murray-as-fairytale-ended-by-alexander-zverev-in-semi-finals",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "How De la Fuente's Spain are closing in on greatness",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "News Story",
+      "headline": "Edwards leaves FSG and Liverpool ahead of new season",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13562295/liverpool-latest-michael-edwards-leaves-as-chief-executive-officer-of-football-for-fenway-sports-group",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "How good is Monga and what role could he play at Man City?",
+      "source": "BBC Sport",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "'That makes no scientific sense!' | Unbelievable golf shot as ball SKIMS off water",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562311/evian-championship-mi-hyang-lee-hits-incredible-golf-shot-as-ball-skims-off-the-water",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Arsenal sign Spain defender Batlle on free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Scheffler set to miss cut at Scottish Open",
       "source": "Sky Sports",
@@ -26,182 +146,62 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "'What old timers can do' - the evolution of Belgium's golden generation",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "Liveblog",
-      "headline": "Wimbledon LIVE! Fery, Zverev share breaks in early stages of semi-final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13561964/wimbledon-day-12-live-arthur-fery-takes-on-alexander-zverev-before-novak-djokovic-vs-jannik-sinner-in-mens-singles-semi-finals",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Guehi a doubt for Norway game and Rice ill with bug",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "Video",
-      "headline": "Morning session: England’s toss decision pays off as India lose three wickets",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562266/england-vs-india-morning-session-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Mexico boss' explicit heckle a bit of fun - Gordon",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "News Story",
-      "headline": "Arrest made after online racist abuse directed at Nsemba",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13562246/wigan-warriors-man-arrested-after-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "How De la Fuente's Spain are closing in on greatness",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Article/Blog",
-      "headline": "Hollie Doyle blog: More Thunder looks strong in Ascot's Summer Mile",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13562272/hollie-doyle-blog-more-thunder-can-strike-in-summer-mile-at-ascot-with-newmarket-and-york-also-staging-big-saturday-races",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "France into semi-finals after comfortable win over Morocco",
-      "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Could Fury-AJ go to Principality Stadium? 2am start shouldn't be an issue",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13562263/tyson-fury-vs-anthony-joshua-could-the-heavyweight-super-fight-go-to-principality-stadium-2am-start-shouldnt-be-an-issue",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "How good is Monga and what role could he play at Man City?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Arsenal sign Batlle from Barcelona",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562080/arsenal-former-man-utd-defender-ona-batlle-joins-gunners-on-a-permanent-deal-from-barcelona",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Arsenal sign Spain defender Batlle on free transfer",
+      "headline": "Are stuttering penalties clever or a fail? Stats suggest they are a no-no",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74k39rp4vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
       "topic": "Video",
-      "headline": "'What a wonderful start!' | Fitzpatrick birdies FIVE in a row at Scottish Open",
+      "headline": "Scheffler misses short putt as record cut streak crumbles in Scotland",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562240/matthew-fitzpatrick-birdies-5-in-a-row-at-the-scottish-open",
+      "url": "https://www.skysports.com/watch/video/13562293/scottie-scheffler-set-to-miss-first-cut-in-four-years-after-final-hole-par-putt-fails-to-drop",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "headline": "France into semi-finals after comfortable win over Morocco",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "India three down on day one of historic Lord's Test vs England LIVE!",
+      "topic": "News Story",
+      "headline": "England set new guidelines for player behaviour",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13562194/england-vs-india-womens-test-day-one-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords",
+      "url": "https://www.skysports.com/cricket/news/12040/13562288/england-issue-new-additional-player-behaviour-guidelines-after-ben-stokes-and-gus-atkinson-nightclub-incident",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "A-Z World Cup quiz: Name the best performing team for every letter",
+      "headline": "Coroner rules inquest needed into Nobby Stiles' death",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjepy9vk5vzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/news/articles/cy73z75kz78o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "European Darts Open: MVG, Van Veen, Clayton and Wade in action",
+      "topic": "Liveblog",
+      "headline": "Wimbledon LIVE! Sinner faces Djokovic in semi-final after Fery beaten by Zverev",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13562231/european-darts-open-draw-schedule-results-with-michael-van-gerwen-gian-van-veen-jonny-clayton-and-james-wade-in-action-in-leverkusen",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13561964/wimbledon-day-12-live-arthur-fery-takes-on-alexander-zverev-before-novak-djokovic-vs-jannik-sinner-in-mens-singles-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     }
