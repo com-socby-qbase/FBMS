@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T17:27:15.234Z",
+    "generatedAt": "2026-07-10T19:04:20.034Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "How do England stop Norway - and Haaland?",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "6h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,126 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Clinical Sinner outclasses Djokovic as he books Wimbledon final place",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562360/wimbledon-2026-clinical-jannik-sinner-outclasses-novak-djokovic-to-set-up-final-against-alexander-zverev",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Edwards leaves football chief role with Liverpool owners FSG",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3gqz6qleo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "McIlroy in co-lead at competitive Scottish Open after Scheffler shock",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/golf/news/12040/13562367/genesis-scottish-open-rory-mcilroy-tied-for-lead-after-second-round-as-jordan-smith-matt-fitzpatrick-bob-macintyre-all-in-mix",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'What old-timers can do' - the evolution of Belgium's golden generation",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Record-breaking Ecclestone helps England dismiss India for 285 at Lord's",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13562309/england-vs-india-womens-test-sophie-ecclestone-becomes-sides-leading-wicket-taker-as-tourists-285-all-out-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Jesus reunites with Ronaldo as new Portugal head coach",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Djokovic: I want to return to Wimbledon at least one more time",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562394/novak-djokovic-says-he-wants-to-play-at-wimbledon-at-least-one-more-time-after-semi-final-defeat-to-jannik-sinner",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Hacking worry for Argentine FA over World Cup emails",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "Spain facing Belgium in World Cup quarter-final LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/spain-vs-belgium/live/549863",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Mexico boss' explicit heckle a bit of fun - Gordon",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Can King Arthur conquer America? Fery eyes US Open after Wimbledon heroics",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562218/wimbledon-fairytale-of-new-york-can-arthur-fery-continue-his-remarkable-rise-at-the-us-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "How De la Fuente's Spain are closing in on greatness",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Bolt from the Blue too good for Precise at Newmarket",
       "source": "Sky Sports",
@@ -26,37 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Edwards leaves football chief role with Liverpool owners FSG",
+      "headline": "Burnley appoint Hayen as new head coach",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3gqz6qleo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "48m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Can King Arthur conquer America? Fery eyes the US Open after Wimbledon heroics",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13562218/wimbledon-fairytale-of-new-york-can-arthur-fery-continue-his-remarkable-rise-at-the-us-open",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "'What old-timers can do' - the evolution of Belgium's golden generation",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "Article/Blog",
       "headline": "Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
       "source": "Sky Sports",
@@ -66,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Jesus reunites with Ronaldo as new Portugal head coach",
+      "headline": "England defender Charles joins Man City from Chelsea",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "England's Woad storms into Evian Championship lead as Korda misses cut",
       "source": "Sky Sports",
@@ -86,122 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Mexico boss' explicit heckle a bit of fun - Gordon",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "News Story",
-      "headline": "July Cup tips: Team split over a hot edition of the Group One sprint",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13562377/july-cup-tips-team-split-over-a-hot-edition-of-the-group-one-sprint-as-four-royal-ascot-winners-clash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "How De la Fuente's Spain are closing in on greatness",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Man City sign Charles from Chelsea",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562248/man-city-transfer-news-niamh-charles-signs-from-wsl-rivals-chelsea-on-three-year-contract",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "How good is Monga and what role could he play at Man City?",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "Woad takes Evian Championship lead following final-hole birdie",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562344/lottie-woad-birdies-final-hole-to-take-lead-at-evian-championship",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Burnley appoint Hayen as new head coach",
-      "source": "BBC Sport",
-      "timeAgo": "7m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Wimbledon women's final build-up: Muchova vs Noskova in all-Czech final on Saturday",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13562247/wimbledon-womens-final-live-scores-updates-news-results-with-karolina-muchova-and-linda-noskova-playing",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "England defender Charles joins Man City from Chelsea",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Bruno, Manzambi and a new transfer policy - inside Newcastle's summer of change",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562252/newcastle-transfer-news-latest-updates-on-bruno-guimaraes-johan-manzambi-and-player-exits-as-eddie-howe-prepares-for-new-season",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Arsenal sign Spain defender Batlle on free transfer",
+      "headline": "France into semi-finals after comfortable win over Morocco",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "20h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "'That's a way to make a 3!' | Scott holes out from fairway at Scottish Open",
+      "topic": "News Story",
+      "headline": "July Cup tips: Team split over a hot edition of the Group One sprint",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562298/adam-scott-holes-out-from-fairway-for-birdie-on-second-hole-at-scottish-open",
+      "url": "https://www.skysports.com/racing/news/12040/13562377/july-cup-tips-team-split-over-a-hot-edition-of-the-group-one-sprint-as-four-royal-ascot-winners-clash",
       "isFeatured": false,
       "hasAiSummary": false
     }
