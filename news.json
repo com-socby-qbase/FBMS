@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T10:53:11.980Z",
+    "generatedAt": "2026-07-10T13:11:02.592Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+    "headline": "How do England stop Norway - and Haaland?",
     "source": "BBC Sport",
-    "timeAgo": "10h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "31m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -18,50 +18,50 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "European Darts Open: MVG, Van Veen, Clayton and Wade in action",
+      "headline": "Scheffler set to miss cut at Scottish Open",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13562231/european-darts-open-draw-schedule-results-with-michael-van-gerwen-gian-van-veen-jonny-clayton-and-james-wade-in-action-in-leverkusen",
+      "url": "https://www.skysports.com/golf/news/12040/13562292/genesis-scottish-open-scottie-scheffler-set-to-miss-cut-at-the-renaissance-club",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Guehi a doubt for Norway game and Rice ill with bug",
+      "headline": "'What old timers can do' - the evolution of Belgium's golden generation",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
-      "topic": "News Story",
-      "headline": "Nolan appointed new RFL chief executive",
+      "topic": "Liveblog",
+      "headline": "Wimbledon LIVE! Fery, Zverev share breaks in early stages of semi-final",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13562196/rugby-football-league-ian-nolan-appointed-new-chief-executive",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13561964/wimbledon-day-12-live-arthur-fery-takes-on-alexander-zverev-before-novak-djokovic-vs-jannik-sinner-in-mens-singles-semi-finals",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Loyal and royal: How the future King became a football superfan",
+      "headline": "Guehi a doubt for Norway game and Rice ill with bug",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/news/articles/cly9r8j7vrwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "Scorecard: England vs India, Women's Test, Lord's",
+      "topic": "Video",
+      "headline": "Morning session: England’s toss decision pays off as India lose three wickets",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/bd727125-00a4-52c3-9818-5d14f66aa73e",
+      "url": "https://www.skysports.com/watch/video/13562266/england-vs-india-morning-session-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -70,18 +70,18 @@
       "topic": "News",
       "headline": "Mexico boss' explicit heckle a bit of fun - Gordon",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "'It's the purest form of cricket!' | Beaumont on her Test cricket love before England retirement",
+      "topic": "News Story",
+      "headline": "Arrest made after online racist abuse directed at Nsemba",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562212/england-v-india-test-tammy-beaumont-on-her-love-for-test-cricket-before-she-retires-internationally",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13562246/wigan-warriors-man-arrested-after-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,15 +90,95 @@
       "topic": "News",
       "headline": "How De la Fuente's Spain are closing in on greatness",
       "source": "BBC Sport",
-      "timeAgo": "4h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-4",
+      "topic": "Article/Blog",
+      "headline": "Hollie Doyle blog: More Thunder looks strong in Ascot's Summer Mile",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/racing/news/12040/13562272/hollie-doyle-blog-more-thunder-can-strike-in-summer-mile-at-ascot-with-newmarket-and-york-also-staging-big-saturday-races",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "France into semi-finals after comfortable win over Morocco",
+      "source": "BBC Sport",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "News Story",
+      "headline": "Could Fury-AJ go to Principality Stadium? 2am start shouldn't be an issue",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13562263/tyson-fury-vs-anthony-joshua-could-the-heavyweight-super-fight-go-to-principality-stadium-2am-start-shouldnt-be-an-issue",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "How good is Monga and what role could he play at Man City?",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
+      "topic": "News Story",
+      "headline": "Arsenal sign Batlle from Barcelona",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13562080/arsenal-former-man-utd-defender-ona-batlle-joins-gunners-on-a-permanent-deal-from-barcelona",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-7",
+      "topic": "News",
+      "headline": "Arsenal sign Spain defender Batlle on free transfer",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-7",
+      "topic": "Video",
+      "headline": "'What a wonderful start!' | Fitzpatrick birdies FIVE in a row at Scottish Open",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562240/matthew-fitzpatrick-birdies-5-in-a-row-at-the-scottish-open",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-8",
+      "topic": "News",
+      "headline": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "source": "BBC Sport",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-8",
       "topic": "Liveblog",
-      "headline": "England take two early wickets vs India in first-ever women's Test at Lord's LIVE!",
+      "headline": "India three down on day one of historic Lord's Test vs England LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562194/england-vs-india-womens-test-day-one-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "What's going on with penalties - is it time to end the stutter?",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74k39rp4vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Forestieri, Williams, Keane among free agents using PFA pre-season to find a new club",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13561554/pfa-pre-season",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-      "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchels-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "A-Z World Cup quiz: Name the best performing team for every letter",
       "source": "BBC Sport",
-      "timeAgo": "2m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjepy9vk5vzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Guehi a serious doubt for quarter-final - could Burn start vs Norway?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "How good is Monga and what role could he play at Man City?",
-      "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Take a look inside Man Utd's proposed new 100,000-seater stadium!",
-      "source": "Sky Sports",
-      "timeAgo": "486d",
-      "url": "https://www.skysports.com/watch/video/13326239/manchester-united-new-stadium-first-look-at-new-100000-seater-stadium",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Klopp reveals how Liverpool tried to sign Mbappe",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "York Knights secure third consecutive Super League victory for first time in history",
+      "topic": "News Story",
+      "headline": "European Darts Open: MVG, Van Veen, Clayton and Wade in action",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562160/york-knights-20-16-hull-fc-super-league-highlights",
+      "url": "https://www.skysports.com/darts/news/12040/13562231/european-darts-open-draw-schedule-results-with-michael-van-gerwen-gian-van-veen-jonny-clayton-and-james-wade-in-action-in-leverkusen",
       "isFeatured": false,
       "hasAiSummary": false
     }
