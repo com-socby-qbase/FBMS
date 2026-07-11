@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T06:37:26.928Z",
+    "generatedAt": "2026-07-11T08:28:37.237Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "8h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Lammens' error spells end for Belgium's golden generation",
+      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Video",
+      "headline": "Highlights: Ecclestone breaks England record but Beaumont falls as India respond",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562391/england-vs-india-womens-test-match-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Vitality Blast: Notts earn home quarter-final; Surrey go top in South",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "headline": "Artificial turf & coaching revolution - how Norway shaped golden generation",
       "source": "BBC Sport",
-      "timeAgo": "41m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Belgian GP: UK schedule and how to watch on Sky Sports",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Artificial turf & coaching revolution - how Norway shaped golden generation",
+      "headline": "Hey Jude: Bellingham's return to England indispensability",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "ECB face no action over Stokes retirement video",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
+      "headline": "All the goals from England's 2026 World Cup campaign so far",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Merino: From mobility scooter to World Cup hero in six months",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "All the goals from England's 2026 World Cup campaign so far",
+      "headline": "Lammens' error spells end for Belgium's golden generation",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "No FIFA explanation over Quansah suspension, claims Tuchel",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "England's Guehi, Rice & James all train before Norway game",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "10h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "England favourites to reach semis, says Norway boss",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq61n2gqqv0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Clinical Sinner outclasses Djokovic as he books Wimbledon final place",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Man Utd's Ederson move in doubt",
       "source": "BBC Sport",
-      "timeAgo": "10h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9d2z59596eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "'Hugely impressive' Villiers enjoys dream Test debut for England at Lord's",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13562397/england-vs-india-mady-villiers-hugely-impressive-on-dream-test-debut-at-lords-but-is-hard-slog-ahead-for-hosts",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Football's best bromance: Why Bellingham and Haaland break the mould",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "McIlroy in co-lead at competitive Scottish Open after Scheffler shock",
+      "headline": "'Hugely impressive' Villiers enjoys dream Test debut for England at Lord's",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13562367/genesis-scottish-open-rory-mcilroy-tied-for-lead-after-second-round-as-jordan-smith-matt-fitzpatrick-bob-macintyre-all-in-mix",
+      "url": "https://www.skysports.com/cricket/news/12040/13562397/england-vs-india-mady-villiers-hugely-impressive-on-dream-test-debut-at-lords-but-is-hard-slog-ahead-for-hosts",
       "isFeatured": false,
       "hasAiSummary": false
     }
