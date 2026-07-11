@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T04:28:12.697Z",
+    "generatedAt": "2026-07-11T06:37:26.928Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,11 +17,11 @@
   "articles": [
     {
       "id": "sky_sports-0",
-      "topic": "Liveblog",
-      "headline": "Vitality Blast: Nottinghamshire earn home quarter-final; Surrey go top in South",
+      "topic": "News Story",
+      "headline": "More Thunder, Zeus Olympios and Docklands clash at Ascot",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
+      "url": "https://www.skysports.com/racing/news/12040/13562063/today-on-sky-sports-racing-flat-action-from-ascot-and-chester-features-live-on-saturday",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Lammens' error spells end for Belgium's golden generation",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Vitality Blast: Notts earn home quarter-final; Surrey go top in South",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "source": "BBC Sport",
+      "timeAgo": "41m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Belgian GP: UK schedule and how to watch on Sky Sports",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/f1/news/12040/13561703/belgian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-spa-francorchamps-live-on-sky-sports",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Artificial turf & coaching revolution - how Norway shaped golden generation",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "ECB face no action over Stokes retirement video",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Spain into semi-finals at expense of Belgium after Merino's late winner",
+      "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "Merino: From mobility scooter to World Cup hero in six months",
       "source": "Sky Sports",
@@ -66,19 +106,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "England's Guehi, Rice & James all train before Norway game",
+      "headline": "All the goals from England's 2026 World Cup campaign so far",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "No FIFA explanation over Quansah suspension claims Tuchel",
+      "headline": "No FIFA explanation over Quansah suspension, claims Tuchel",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "England favourites to reach semis, says Norway boss",
+      "headline": "England's Guehi, Rice & James all train before Norway game",
       "source": "BBC Sport",
       "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq61n2gqqv0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Man Utd's Ederson move in doubt",
+      "headline": "England favourites to reach semis, says Norway boss",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9d2z59596eo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq61n2gqqv0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Clinical Sinner outclasses Djokovic as he books Wimbledon final place",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Football's best bromance: Why Bellingham and Haaland break the mould",
+      "headline": "Man Utd's Ederson move in doubt",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9d2z59596eo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "'Hugely impressive' Villiers enjoys dream Test debut for England at Lord's",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "How do England stop Norway - and Haaland?",
-      "source": "BBC Sport",
-      "timeAgo": "15h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "McIlroy in co-lead at competitive Scottish Open after Scheffler shock",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13562367/genesis-scottish-open-rory-mcilroy-tied-for-lead-after-second-round-as-jordan-smith-matt-fitzpatrick-bob-macintyre-all-in-mix",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Hacking worry for Argentine FA over World Cup emails",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Record-breaking Ecclestone helps England dismiss India for 285 at Lord's",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13562309/england-vs-india-womens-test-sophie-ecclestone-becomes-sides-leading-wicket-taker-as-tourists-285-all-out-at-lords",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Jesus reunites with Ronaldo as new Portugal head coach",
+      "headline": "Football's best bromance: Why Bellingham and Haaland break the mould",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Djokovic: I want to return to Wimbledon at least one more time",
+      "headline": "McIlroy in co-lead at competitive Scottish Open after Scheffler shock",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13562394/novak-djokovic-says-he-wants-to-play-at-wimbledon-at-least-one-more-time-after-semi-final-defeat-to-jannik-sinner",
+      "url": "https://www.skysports.com/golf/news/12040/13562367/genesis-scottish-open-rory-mcilroy-tied-for-lead-after-second-round-as-jordan-smith-matt-fitzpatrick-bob-macintyre-all-in-mix",
       "isFeatured": false,
       "hasAiSummary": false
     }
