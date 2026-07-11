@@ -1,22 +1,122 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T12:12:59.153Z",
+    "generatedAt": "2026-07-11T13:56:06.865Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
+    "headline": "Hey Jude: Bellingham's return to England indispensability",
     "source": "BBC Sport",
-    "timeAgo": "7h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "6h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "England bat first eyeing world No 1 spot vs India in fifth T20 LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13562229/england-vs-india-fifth-t20-international-cricket-score-updates-video-and-analysis-as-harry-brooks-side-chase-world-no-1-spot",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "source": "BBC Sport",
+      "timeAgo": "26m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Klopp agrees deal in principle to manage Germany",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13560208/jurgen-klopp-former-liverpool-boss-on-the-verge-of-becoming-germany-head-coach-and-replacing-julian-nagelsmann",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Much-changed Ireland beat Japan in Nations Championship as debutants impress",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13562520/nations-championship-much-changed-ireland-overcome-japan-36-20-as-debutants-impress",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Former Chelsea and Leeds owner Bates dies aged 94",
+      "source": "BBC Sport",
+      "timeAgo": "34m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Hewett and Reid win seventh Wimbledon wheelchair doubles title",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562486/wimbledon-alfie-hewett-and-gordon-reid-win-seventh-wheelchair-doubles-title-defeating-gustavo-fernandez-and-tokito-oda-in-three-sets",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Video",
+      "headline": "Morning session highlights: India take four wickets to stay on top of England",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562534/england-vs-india-afternoon-session-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Should Argentina take Messi off penalties?",
+      "source": "BBC Sport",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Can Zverev deny unstoppable Sinner from defending Wimbledon title?",
       "source": "Sky Sports",
@@ -26,19 +126,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Hey Jude: Bellingham's return to England indispensability",
+      "headline": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
-      "headline": "Nations Championship LIVE! Under-fire England play Fiji in Liverpool",
+      "headline": "Nations Championship LIVE! England into big lead vs Fiji after corner flag assist",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/rugby-union/live-blog/12040/13562519/nations-championship-live-england-vs-fiji-updates-latest-score-team-news-commentary-from-hill-dickinson-stadium-in-liverpool",
@@ -46,19 +146,19 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "headline": "Playing golf with Trump surreal - Kane",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
-      "headline": "England 137-5 at lunch on day two, trail India by 148 runs in Lord's Test LIVE!",
+      "headline": "Five for Gaud as England nine down trailing India by over 100 at Lord's LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562398/england-vs-india-womens-test-day-two-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords",
@@ -66,142 +166,42 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "Should Argentina take Messi off penalties?",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "'It's ridiculous!' | Ryu holes out for eagle to co-lead Amundi Evian Championship",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562510/amundi-evian-championship-ryu-holes-out-for-eagle-to-lead",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
-      "source": "BBC Sport",
-      "timeAgo": "14m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Youthful Wigan step up in eventful win over Warrington",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562424/wigan-warriors-30-18-warrington-wolves-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Playing golf with Trump surreal - Kane",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "Video",
-      "headline": "Huddersfield Giants 14-30 Bradford Bulls | Super League highlights",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562442/huddersfield-giants-14-30-bradford-bulls-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "Video",
-      "headline": "On This Day: Dirtiest fight in boxing history ends in riot!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/12647694/andrew-golotas-x-rated-low-blows-sparks-riot",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Lammens' error spells end for Belgium's golden generation",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "DOUBLE BLOW! India get two early wickets on day two",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562509/england-vs-india-double-blow-india-get-two-early-wickets",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Artificial turf & coaching revolution - how Norway shaped golden generation",
+      "headline": "Garnacho absent from Chelsea pre-season training",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "'What a shot!' | Yang holes out at Evian Championship",
+      "topic": "News Story",
+      "headline": "Chelsea want permanent Garnacho sale this summer",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562498/amundi-evian-championship-yang-holes-out-on-seventh",
+      "url": "https://www.skysports.com/football/news/12040/13562540/chelsea-transfers-alejandro-garnacho-up-for-sale-a-year-after-joining-from-joining-from-manchester-united",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "When the World Cup finishes, the football continues on BBC Sport",
+      "headline": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Man City sign teenager Monga from Leicester for £10m",
+      "topic": "Video",
+      "headline": "'It's ridiculous!' | Ryu holes out for eagle to co-lead Amundi Evian Championship",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562077/jeremy-monga-transfer-man-city-complete-signing-of-17-year-old-leicester-city-winger",
+      "url": "https://www.skysports.com/watch/video/13562510/amundi-evian-championship-ryu-holes-out-for-eagle-to-lead",
       "isFeatured": false,
       "hasAiSummary": false
     }
