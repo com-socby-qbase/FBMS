@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T19:31:29.203Z",
+    "generatedAt": "2026-07-11T20:28:40.017Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Guehi and Stones set to start for England in World Cup quarter-final",
+    "headline": "Risk of thunderstorms before England face Norway in Miami heat",
     "source": "BBC Sport",
-    "timeAgo": "45m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "15h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Risk of thunderstorms before England face Norway in Miami heat",
+      "headline": "Hey Jude: Bellingham's return to England indispensability",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Hey Jude: Bellingham's return to England indispensability",
+      "headline": "South Africa World Cup midfielder Adams dies aged 25",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,10 +68,10 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "headline": "Klopp agrees to replace Nagelsmann as Germany coach",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "headline": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
       "source": "BBC Sport",
       "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -108,30 +108,30 @@
     {
       "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
+      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
       "topic": "News Story",
-      "headline": "Leigh take win over Castleford to keep play-off hopes alive",
+      "headline": "Hull KR suffer first home defeat in a year at hands of Wakefield",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13562581/super-league-leigh-leopards-defeat-castleford-tigers-24-18-to-keep-play-off-hopes-alive",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13562581/super-league-wakefield-trinity-take-20-6-win-to-hand-hull-kr-their-first-home-defeat-in-a-year",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "headline": "Man Utd and Liverpool want Gomes - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m9p5zd7lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Man Utd and Liverpool want Gomes - Sunday's gossip",
+      "headline": "Should Argentina take Messi off penalties?",
       "source": "BBC Sport",
-      "timeAgo": "6m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m9p5zd7lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Should Argentina take Messi off penalties?",
+      "headline": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
       "source": "BBC Sport",
       "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
+      "headline": "Bournemouth's Jimenez set for Fiorentina loan amid investigation",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd7z5xjvno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "McIlroy loses ground as fog halts play with Fitzpatrick sharing lead",
+      "headline": "Former captain Knight announces England retirement",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/golf/news/12040/13562631/genesis-scottish-open-rory-mcilroy-loses-ground-as-fog-halts-play-with-matt-fitzpatrick-sharing-lead",
+      "url": "https://www.skysports.com/cricket/news/12040/13562634/englands-heather-knight-announces-retirement-from-international-cricket-after-rothesay-test-match-vs-india-at-lords",
       "isFeatured": false,
       "hasAiSummary": false
     }
