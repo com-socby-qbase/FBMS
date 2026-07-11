@@ -1,24 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T11:18:58.160Z",
+    "generatedAt": "2026-07-11T12:12:59.153Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+    "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
     "source": "BBC Sport",
-    "timeAgo": "5h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "7h",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Can Zverev deny unstoppable Sinner from defending Wimbledon title?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/tennis/news/12040/13562478/wimbledon-mens-singles-final-can-alexander-zverev-deny-unstoppable-world-no-1-jannik-sinner-from-defending-title",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Hey Jude: Bellingham's return to England indispensability",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Liveblog",
-      "headline": "Sciver-Brunt, Jones rebuild for England after early India wickets at Lord's LIVE!",
+      "headline": "Nations Championship LIVE! Under-fire England play Fiji in Liverpool",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13562519/nations-championship-live-england-vs-fiji-updates-latest-score-team-news-commentary-from-hill-dickinson-stadium-in-liverpool",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Liveblog",
+      "headline": "England 137-5 at lunch on day two, trail India by 148 runs in Lord's Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562398/england-vs-india-womens-test-day-two-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords",
@@ -26,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "England set for open-air Miami heat - but do Norway hold the edge?",
+      "headline": "Should Argentina take Messi off penalties?",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-3",
       "topic": "Video",
       "headline": "'It's ridiculous!' | Ryu holes out for eagle to co-lead Amundi Evian Championship",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Should Argentina take Messi off penalties?",
+      "headline": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
       "source": "BBC Sport",
-      "timeAgo": "27m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "Video",
       "headline": "Youthful Wigan step up in eventful win over Warrington",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Playing golf with Trump surreal - Kane",
       "source": "BBC Sport",
-      "timeAgo": "44m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Huddersfield Giants 14-30 Bradford Bulls | Super League highlights",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "On This Day: Dirtiest fight in boxing history ends in riot!",
       "source": "Sky Sports",
@@ -106,7 +146,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Lammens' error spells end for Belgium's golden generation",
       "source": "BBC Sport",
@@ -116,7 +156,7 @@
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "DOUBLE BLOW! India get two early wickets on day two",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
       "headline": "Artificial turf & coaching revolution - how Norway shaped golden generation",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'What a shot!' | Yang holes out at Evian Championship",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Hey Jude: Bellingham's return to England indispensability",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "News Story",
-      "headline": "Man City sign teenager Monga from Leicester for £10m",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562077/jeremy-monga-transfer-man-city-complete-signing-of-17-year-old-leicester-city-winger",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "When the World Cup finishes, the football continues on BBC Sport",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Story Telling",
-      "headline": "Wanted by Arsenal but now at Man City - just how good is Monga?",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/story-telling/12040/13561376/jeremy-monga-to-manchester-city-how-good-is-leicester-teenage-prodigy-who-has-signed-for-enzo-marescas-side-over-arsenal",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Man City sign Monga - how good is the 17-year-old?",
-      "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "More Thunder, Zeus Olympios and Docklands clash at Ascot",
+      "headline": "Man City sign teenager Monga from Leicester for £10m",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13562063/today-on-sky-sports-racing-flat-action-from-ascot-and-chester-features-live-on-saturday",
+      "url": "https://www.skysports.com/football/news/12040/13562077/jeremy-monga-transfer-man-city-complete-signing-of-17-year-old-leicester-city-winger",
       "isFeatured": false,
       "hasAiSummary": false
     }
