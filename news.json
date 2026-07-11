@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T22:22:24.294Z",
+    "generatedAt": "2026-07-11T23:26:37.263Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Hey Jude: Bellingham's return to England indispensability",
     "source": "BBC Sport",
-    "timeAgo": "14h",
+    "timeAgo": "15h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "Rate the players as England face Norway",
       "source": "BBC Sport",
-      "timeAgo": "31m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Aspinall makes impressive start to Euro Darts title defence as Bunting beaten",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/darts/news/12040/13562585/european-darts-open-nathan-aspinall-kickstarts-title-defence-with-win-as-stephen-bunting-knocked-out",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Fifa official refuses to answer BBC's Balogun ban questions",
+      "source": "BBC Sport",
+      "timeAgo": "40m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Leigh stay on course for Play-offs after Castleford win",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562608/leigh-leopards-24-18-castleford-tigers-super-league-highlights",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Noskova recovers to win maiden Wimbledon title after six Championship points",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Fifa official refuses to answer BBC's ban questions",
+      "headline": "Klopp agrees to replace Nagelsmann as Germany coach",
       "source": "BBC Sport",
-      "timeAgo": "39m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "Report",
       "headline": "Scotland's late comeback falls short against Springboks",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "headline": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Box-office Buttler hits century to lead England to 4-0 series win vs India",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "headline": "Argentina midfield great Rattin dies aged 89",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy09z3qlppo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Highlights: In-control India leave England questioning on day two",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
+      "headline": "When the World Cup finishes, the football continues on BBC Sport",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Hull KR suffer first home defeat in a year at hands of Wakefield",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "When the World Cup finishes, the football continues on BBC Sport",
+      "headline": "Garnacho absent from Chelsea pre-season training",
       "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Billy Loughnane steers Comanche Brave to July Cup glory",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Garnacho absent from Chelsea pre-season training",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Liveblog",
-      "headline": "Bournemouth latest: Fiorentina agree loan deal for Jimenez",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Is it time to give record-breaker Pickford the credit he deserves?",
-      "source": "BBC Sport",
-      "timeAgo": "16h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Liveblog",
-      "headline": "Fulham latest: Deal agreed to sign Celtic youngster",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "Man Utd and Liverpool want Gomes - Sunday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd0m9p5zd7lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Joyce suffers stoppage loss in Moscow",
+      "topic": "Liveblog",
+      "headline": "Bournemouth latest: Fiorentina agree loan deal for Jimenez",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/boxing/news/12040/13562593/joe-joyce-suffers-stoppage-loss-to-artem-suslenkov-as-40-year-old-british-contender-endures-another-huge-setback",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
