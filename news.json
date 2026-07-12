@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T10:53:28.706Z",
+    "generatedAt": "2026-07-12T11:59:19.274Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tuchel angry at 'lucky' England - but Bellingham defends players",
     "source": "BBC Sport",
-    "timeAgo": "7h",
+    "timeAgo": "8h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "Bell strikes early on day three but India lead passes 300 in Women's Test LIVE!",
+      "headline": "India four down as lead over England passes 300 in Women's Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
@@ -30,13 +30,53 @@
       "topic": "News",
       "headline": "'We should all be excited' - Messi set for first England meeting",
       "source": "BBC Sport",
-      "timeAgo": "6h",
+      "timeAgo": "7h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Article/Blog",
+      "headline": "'One of the greats' - How 'hardy' Knight will be remembered for England",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13562756/heather-knights-international-retirement-former-england-captain-one-of-the-greats-says-tash-farrant",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "Video",
+      "headline": "Did the ball hit the Spidercam cable before England's equaliser? FIFA sensor reveals all...",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562727/world-cup-did-the-ball-hit-the-cable-camera-before-englands-equalising-goal",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "source": "BBC Sport",
+      "timeAgo": "44m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
       "topic": "Article/Blog",
       "headline": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
       "source": "Sky Sports",
@@ -46,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
       "source": "BBC Sport",
-      "timeAgo": "42m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
       "source": "Sky Sports",
@@ -66,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
+      "headline": "'He has dragged them through all tournament' - England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-5",
       "topic": "Report",
       "headline": "Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England",
       "source": "Sky Sports",
@@ -86,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "'He has dragged them through all tournament' - England player ratings",
+      "headline": "Embolo sent off as result of mistaken identity rule",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "'An absolute superstar' - Bellingham England's hero again",
       "source": "Sky Sports",
@@ -106,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Embolo sent off as result of mistaken identity rule",
+      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "'Naive' England toil in Women's Test as India dominate at Lord's",
       "source": "Sky Sports",
@@ -126,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "headline": "Bellingham scores extra-time winner as England reach semi-finals",
       "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "Highlights: England thrash India to become No 1-ranked T20 side",
       "source": "Sky Sports",
@@ -146,62 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "Senegal sack manager Thiaw in wake of World Cup exit",
-      "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Report",
-      "headline": "Brilliant Bellingham downs Norway to send England into last four",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/norway-vs-england/report/549864",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Bellingham scores extra-time winner as England reach semi-finals",
-      "source": "BBC Sport",
-      "timeAgo": "10h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Aspinall makes impressive start to Euro Darts title defence as Bunting beaten",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13562585/european-darts-open-nathan-aspinall-kickstarts-title-defence-with-win-as-stephen-bunting-knocked-out",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "BBC to show England's World Cup semi-final",
       "source": "BBC Sport",
-      "timeAgo": "11h",
+      "timeAgo": "12h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "Leigh stay on course for Play-offs after Castleford win",
+      "topic": "Report",
+      "headline": "Brilliant Bellingham downs Norway to send England into last four",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562608/leigh-leopards-24-18-castleford-tigers-super-league-highlights",
+      "url": "https://www.skysports.com/football/norway-vs-england/report/549864",
       "isFeatured": false,
       "hasAiSummary": false
     }
