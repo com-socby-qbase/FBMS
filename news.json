@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T16:00:13.126Z",
+    "generatedAt": "2026-07-12T17:10:57.127Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'Not happy with the performance' - so why do England keep winning?",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "headline": "'We should all be excited' - Messi set for first England meeting",
       "source": "BBC Sport",
       "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,17 +48,17 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "'We should all be excited' - Messi set for first England meeting",
+      "headline": "Tuchel angry at 'lucky' England - but Bellingham defends players",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-2",
       "topic": "Liveblog",
-      "headline": "Wimbledon men's final LIVE! Defending champion Sinner being pushed by Zverev",
+      "headline": "Wimbledon men's final LIVE! Zverev wins first set vs defending champion Sinner",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/tennis/live-blog/12040/13562479/wimbledon-mens-final-live-scores-updates-news-results-with-jannik-sinner-and-alexander-zverev-playing",
@@ -68,17 +68,17 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "England plummet to 34-4 chasing record 457 to beat India in Lord's Test LIVE!",
+      "headline": "England plummet to 59-5 chasing record 457 to beat India in Lord's Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
@@ -88,10 +88,10 @@
     {
       "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "headline": "Rice in bed for nearly three days before Norway game - Tuchel",
       "source": "BBC Sport",
       "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -110,7 +110,7 @@
       "topic": "News",
       "headline": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -128,10 +128,10 @@
     {
       "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Big stars and old rivals - what to expect in semi-finals",
+      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "14h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -148,10 +148,10 @@
     {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "headline": "Embolo sent off as result of mistaken identity rule",
       "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -168,10 +168,10 @@
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Embolo sent off as result of mistaken identity rule",
+      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -188,20 +188,20 @@
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
+      "headline": "O'Sullivan set to leave Liverpool six months after joining",
       "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjdg7kdm9p4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "Report",
-      "headline": "Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England",
+      "topic": "News Story",
+      "headline": "Who should replace McCullum as England Test head coach?",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/argentina-vs-switzerland/report/549865",
+      "url": "https://www.skysports.com/cricket/news/12040/13562824/englands-next-test-head-coach-andy-flower-andrew-flintoff-and-justin-langer-among-names-tipped-to-replace-brendon-mccullum",
       "isFeatured": false,
       "hasAiSummary": false
     }
