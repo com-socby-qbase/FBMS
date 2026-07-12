@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T17:10:57.127Z",
+    "generatedAt": "2026-07-12T18:08:32.460Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "'Not happy with the performance' - so why do England keep winning?",
     "source": "BBC Sport",
-    "timeAgo": "4h",
+    "timeAgo": "5h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,10 +18,10 @@
     {
       "id": "sky_sports-0",
       "topic": "News Story",
-      "headline": "Thesecretadversary adds Prix Jean Prat to Ascot gains",
+      "headline": "Retiring England greats out cheaply as hosts set for heavy defeat at Lord's",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/racing/news/12040/13562838/thesecretadversary-adds-prix-jean-prat-to-royal-ascot-gains-at-deauville",
+      "url": "https://www.skysports.com/cricket/news/12040/13562846/england-set-for-heavy-defeat-to-india-in-lords-test-as-heather-knight-and-tammy-beaumont-out-cheaply-in-final-innings",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -30,7 +30,7 @@
       "topic": "News",
       "headline": "'We should all be excited' - Messi set for first England meeting",
       "source": "BBC Sport",
-      "timeAgo": "12h",
+      "timeAgo": "13h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -38,10 +38,10 @@
     {
       "id": "sky_sports-1",
       "topic": "News Story",
-      "headline": "European Darts Open: Wade and Aspinall into quarters",
+      "headline": "Thesecretadversary adds Prix Jean Prat to Ascot gains",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13562231/european-darts-open-draw-schedule-results-with-michael-van-gerwen-gian-van-veen-jonny-clayton-and-james-wade-in-action-in-leverkusen",
+      "url": "https://www.skysports.com/racing/news/12040/13562838/thesecretadversary-adds-prix-jean-prat-to-royal-ascot-gains-at-deauville",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -57,11 +57,11 @@
     },
     {
       "id": "sky_sports-2",
-      "topic": "Liveblog",
-      "headline": "Wimbledon men's final LIVE! Zverev wins first set vs defending champion Sinner",
+      "topic": "News Story",
+      "headline": "European Darts Open: Wade and Aspinall into quarters",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13562479/wimbledon-mens-final-live-scores-updates-news-results-with-jannik-sinner-and-alexander-zverev-playing",
+      "url": "https://www.skysports.com/darts/news/12040/13562231/european-darts-open-draw-schedule-results-with-michael-van-gerwen-gian-van-veen-jonny-clayton-and-james-wade-in-action-in-leverkusen",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -78,10 +78,10 @@
     {
       "id": "sky_sports-3",
       "topic": "Liveblog",
-      "headline": "England plummet to 59-5 chasing record 457 to beat India in Lord's Test LIVE!",
+      "headline": "Wimbledon men's final LIVE! Sinner level against Zverev after over two hours of drama",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
+      "url": "https://www.skysports.com/tennis/live-blog/12040/13562479/wimbledon-mens-final-live-scores-updates-news-results-with-jannik-sinner-and-alexander-zverev-playing",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -90,7 +90,7 @@
       "topic": "News",
       "headline": "Rice in bed for nearly three days before Norway game - Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -110,13 +110,33 @@
       "topic": "News",
       "headline": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
       "source": "BBC Sport",
-      "timeAgo": "3h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-5",
+      "topic": "Liveblog",
+      "headline": "How India moved four wickets from victory over England",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "source": "BBC Sport",
+      "timeAgo": "15h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "Article/Blog",
       "headline": "'One of the greats' - How 'hardy' Knight will be remembered for England",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "headline": "Top four ranked teams make semi-finals for first time",
       "source": "BBC Sport",
-      "timeAgo": "14h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Video",
       "headline": "Did the ball hit the Spidercam cable before England's equaliser? FIFA sensor reveals all...",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Embolo sent off as result of mistaken identity rule",
+      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
       "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "13h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Article/Blog",
       "headline": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
       "source": "Sky Sports",
@@ -166,31 +186,11 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "O'Sullivan set to leave Liverpool six months after joining",
       "source": "BBC Sport",
-      "timeAgo": "8h",
+      "timeAgo": "9h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjdg7kdm9p4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
@@ -198,10 +198,10 @@
     {
       "id": "sky_sports-9",
       "topic": "News Story",
-      "headline": "Who should replace McCullum as England Test head coach?",
+      "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13562824/englands-next-test-head-coach-andy-flower-andrew-flintoff-and-justin-langer-among-names-tipped-to-replace-brendon-mccullum",
+      "url": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
       "isFeatured": false,
       "hasAiSummary": false
     }
