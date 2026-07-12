@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T09:26:08.047Z",
+    "generatedAt": "2026-07-12T10:53:28.706Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Tuchel angry at 'lucky' England - but Bellingham defends players",
     "source": "BBC Sport",
-    "timeAgo": "6h",
+    "timeAgo": "7h",
     "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -18,7 +18,7 @@
     {
       "id": "sky_sports-0",
       "topic": "Liveblog",
-      "headline": "England target early wickets as India dominate Women's Test LIVE!",
+      "headline": "Bell strikes early on day three but India lead passes 300 in Women's Test LIVE!",
       "source": "Sky Sports",
       "timeAgo": "",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
@@ -28,15 +28,35 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
+      "headline": "'We should all be excited' - Messi set for first England meeting",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-1",
+      "topic": "Article/Blog",
+      "headline": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "source": "BBC Sport",
+      "timeAgo": "42m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
       "topic": "News Story",
       "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "'We should all be excited' - Messi set for first England meeting",
+      "headline": "Bellingham reaching heights of World Cup legends with Messi next",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "Report",
       "headline": "Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
       "headline": "'He has dragged them through all tournament' - England player ratings",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'An absolute superstar' - Bellingham England's hero again",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Embolo sent off as result of mistaken identity rule",
       "source": "BBC Sport",
-      "timeAgo": "5h",
+      "timeAgo": "6h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "'Naive' England toil in Women's Test as India dominate at Lord's",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
       "source": "BBC Sport",
-      "timeAgo": "7h",
+      "timeAgo": "8h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Video",
       "headline": "Highlights: England thrash India to become No 1-ranked T20 side",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
       "headline": "Senegal sack manager Thiaw in wake of World Cup exit",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "3h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Report",
       "headline": "Brilliant Bellingham downs Norway to send England into last four",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 35",
+      "headline": "Bellingham scores extra-time winner as England reach semi-finals",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx21gn50e08o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Aspinall makes impressive start to Euro Darts title defence as Bunting beaten",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Bellingham scores extra-time winner as England reach semi-finals",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Leigh stay on course for Play-offs after Castleford win",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562608/leigh-leopards-24-18-castleford-tigers-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
       "headline": "BBC to show England's World Cup semi-final",
       "source": "BBC Sport",
-      "timeAgo": "9h",
+      "timeAgo": "11h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
-      "topic": "News Story",
-      "headline": "Noskova recovers to win maiden Wimbledon title after six Championship points",
+      "topic": "Video",
+      "headline": "Leigh stay on course for Play-offs after Castleford win",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13562477/wimbledon-linda-noskova-wins-maiden-grand-slam-title-with-epic-victory-over-czech-compatriot-karolina-muchova",
+      "url": "https://www.skysports.com/watch/video/13562608/leigh-leopards-24-18-castleford-tigers-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
