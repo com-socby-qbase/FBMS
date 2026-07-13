@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T16:32:41.640Z",
+    "generatedAt": "2026-07-13T18:20:52.306Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Man Utd sign £48m Santos and close in on Tielemans",
     "source": "BBC Sport",
-    "timeAgo": "2h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,86 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Liveblog",
+      "headline": "EFL latest: Genk striker Erabi makes Preston loan switch",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Most clinical? Least creative? Best in the air? Comparing the last four",
+      "source": "BBC Sport",
+      "timeAgo": "7h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "Liveblog",
+      "headline": "Aston Villa latest: Digne agrees to join PSG as Estupinan targeted - reports",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "Dutch referee dies weeks after being dropped from World Cup",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "'End of an era' for England - should a change of captain be next?",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/news/12040/13563085/england-vs-india-simon-doull-advocates-change-of-captain-for-england-as-heather-knight-tammy-beaumont-retirements-leave-huge-gaps",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Villa working on deal for Switzerland's Manzambi",
+      "source": "BBC Sport",
+      "timeAgo": "27m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39ym7e788wo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "How Spain can knock France off their 'World Cup favourites' perch",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Chris Sutton's World Cup semi-final predictions",
+      "source": "BBC Sport",
+      "timeAgo": "8h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "The Open: Full R1 groupings and tee times for Royal Birkdale",
       "source": "Sky Sports",
@@ -26,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-5",
       "topic": "News",
       "headline": "Alonso wants to keep Fernandez at Chelsea",
       "source": "BBC Sport",
-      "timeAgo": "3m",
+      "timeAgo": "1h",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-5",
       "topic": "Liveblog",
       "headline": "WSL latest: Liverpool confirm Keating signing",
       "source": "Sky Sports",
@@ -46,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Most clinical? Least creative? Best in the air? Comparing the last four",
+      "headline": "BBC experts pick their England World Cup semi-final XI - do you agree?",
       "source": "BBC Sport",
-      "timeAgo": "5h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "9h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Ex-Morrisons delivery driver earns late Open spot with fiancée as caddie",
       "source": "Sky Sports",
@@ -66,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Dutch referee dies weeks after being dropped from World Cup",
+      "headline": "I want to give fans a Liverpool team to be proud of - Iraola",
       "source": "BBC Sport",
-      "timeAgo": "50m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "5h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz1xx14wpo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Bethell to open as England name team for first ODI vs India",
       "source": "Sky Sports",
@@ -86,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "I want to give fans a Liverpool team to be proud of - Iraola",
+      "headline": "These are unprecedented times - England should enjoy them",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz1xx14wpo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "12h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'We aren't exposed to this format' | Edwards on why India thrashed England",
       "source": "Sky Sports",
@@ -106,102 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Chris Sutton's World Cup semi-final predictions",
-      "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Man Utd complete £50m signing of Santos from Chelsea",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562081/andrey-santos-man-utd-complete-50m-signing-of-brazil-international-midfielder-from-chelsea",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "These are unprecedented times - England should enjoy them",
-      "source": "BBC Sport",
-      "timeAgo": "11h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Edwards: England need more red-ball exposure ahead of Ashes",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/cricket/news/12040/13563058/england-need-more-exposure-to-red-ball-cricket-ahead-of-ashes-following-india-thrashing-says-charlotte-edwards",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-7",
-      "topic": "News",
-      "headline": "BBC experts pick their England World Cup semi-final XI - do you agree?",
-      "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-7",
-      "topic": "Video",
-      "headline": "Ever seen this?! Clark uses coat hanger to practise shots on the range!",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563084/the-open-2026-wyndham-clark-uses-coathanger-to-practice-shots-on-the-range",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-8",
+      "id": "bbc_sport-9",
       "topic": "News",
       "headline": "How valuable are Engels, Maeda & McGregor to Celtic?",
       "source": "BBC Sport",
-      "timeAgo": "34m",
+      "timeAgo": "2h",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr5jgjz598go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "McCullum responds to Test side sacking: 'It's a results business... I'll wear it'",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563040/brendon-mccullum-responds-to-test-side-sacking-its-a-results-business-ill-wear-it",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-9",
-      "topic": "News",
-      "headline": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
-      "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "sky_sports-9",
-      "topic": "Video",
-      "headline": "BOSH! Johnny Fisher reveals Chinese order... for Dana White!",
+      "topic": "News Story",
+      "headline": "Man Utd complete £50m signing of Santos from Chelsea",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563128/johnny-fisher-reveals-chinese-order-for-dana-white",
+      "url": "https://www.skysports.com/football/news/12040/13562081/andrey-santos-man-utd-complete-50m-signing-of-brazil-international-midfielder-from-chelsea",
       "isFeatured": false,
       "hasAiSummary": false
     }
