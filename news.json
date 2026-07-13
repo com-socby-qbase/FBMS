@@ -1,22 +1,142 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T08:16:17.525Z",
+    "generatedAt": "2026-07-13T11:37:55.198Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "These are unprecedented times for England - enjoy them",
+    "headline": "Most clinical? Least creative? Best in the air? Comparing the last four",
     "source": "BBC Sport",
-    "timeAgo": "2h",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "32m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "Video",
+      "headline": "Sky Sports pundits try to recreate Ghosh's incredible catch",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13562971/england-vs-india-women-sky-sports-pundits-try-to-recreate-ghoshs-incredible-catch",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Man Utd close to completing Tielemans deal",
+      "source": "BBC Sport",
+      "timeAgo": "15m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
+      "topic": "News Story",
+      "headline": "Man Utd closing in on Villa's Tielemans for £36m",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13562972/youri-tielemans-manchester-united-in-talks-to-sign-aston-villa-and-belgium-midfielder",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-2",
+      "topic": "News",
+      "headline": "These are unprecedented times - England should enjoy them",
+      "source": "BBC Sport",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-2",
+      "topic": "News Story",
+      "headline": "Fisher fights on September 26 live on Sky after signing with Zuffa",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/boxing/news/12040/13562224/johnny-fisher-signs-with-zuffa-boxing-and-will-fight-on-september-26-at-londons-copper-box-arena-live-on-sky-sports",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-3",
+      "topic": "News",
+      "headline": "Chris Sutton's World Cup semi-final predictions",
+      "source": "BBC Sport",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Bellingham leads England's World Cup stats after knockout heroics",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13562946/jude-bellingham-leads-world-cup-2026-england-stats-after-scoring-twice-against-norway-and-mexico-ahead-of-argentina-semi-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "BBC experts pick their England World Cup semi-final XI - do you agree?",
+      "source": "BBC Sport",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
+      "topic": "Liveblog",
+      "headline": "India hammer England by 270 runs in inaugural Women's Test at Lord's LIVE!",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13562905/england-vs-india-womens-test-day-four-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-5",
+      "topic": "News",
+      "headline": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-5",
+      "topic": "Video",
+      "headline": "Best of Iraola's first Liverpool presser: Style of play, transfer plans and 'magic'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/watch/video/13563000/andoni-iraola-best-of-liverpool-head-coachs-first-press-conference",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-6",
+      "topic": "News",
+      "headline": "England top air miles among semi-finalists - does it matter?",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Kalokalo and Cristo clash at Windsor",
       "source": "Sky Sports",
@@ -26,182 +146,62 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
-      "topic": "News",
-      "headline": "'We have another level we can reach' - Kane defends frustrated Tuchel",
-      "source": "BBC Sport",
-      "timeAgo": "13h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-1",
-      "topic": "Video",
-      "headline": "Jussaume hat-trick leads Toulouse to HUGE victory over St Helens",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562850/st-helens-0-46-toulouse-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-2",
-      "topic": "News",
-      "headline": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
-      "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-2",
-      "topic": "News Story",
-      "headline": "The key talking points for F1's crucial Belgium-Hungary double header",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/f1/news/12040/13562900/f1-title-battle-max-verstappens-future-and-aston-martin-upgrades-among-key-talking-points-ahead-of-belgium-hungary-double-header",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-3",
-      "topic": "News",
-      "headline": "England top air miles among semi-finalists - does it matter?",
-      "source": "BBC Sport",
-      "timeAgo": "45m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-3",
-      "topic": "Video",
-      "headline": "Croft scores hat-trick as Leeds cruise past Catalans",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562647/catalans-dragons-6-28-leeds-rhinos-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-4",
-      "topic": "News",
-      "headline": "Infantino opens door to 64-team World Cup",
-      "source": "BBC Sport",
-      "timeAgo": "12h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-4",
-      "topic": "Video",
-      "headline": "Faatili inspires Wakefield to end Hull's home dominance",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562627/hull-kr-6-20-wakefield-trinity-super-league-highlights",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-5",
-      "topic": "News",
-      "headline": "Tuchel unhappy with England display - so why do they keep winning?",
-      "source": "BBC Sport",
-      "timeAgo": "19h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-5",
-      "topic": "News Story",
-      "headline": "Fery ready for 'attention' like Raducanu after Wimbledon run",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13562820/arthur-fery-new-british-no-1-ready-for-attention-like-emma-raducanu-after-run-to-wimbledon-semi-finals",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "bbc_sport-6",
-      "topic": "News",
-      "headline": "'We should all be excited' - Messi set for first England meeting",
-      "source": "BBC Sport",
-      "timeAgo": "1d",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-6",
-      "topic": "News Story",
-      "headline": "Ratajski beats Wattimena to lift European Darts Open title",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/darts/news/12040/13562885/european-darts-open-krzysztof-ratajski-beats-jermaine-wattimena-to-lift-title-ahead-of-world-matchplay",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "headline": "Spain defender Leon joins London City Lionesses",
       "source": "BBC Sport",
-      "timeAgo": "22h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "36m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20ynnvyx4yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-7",
-      "topic": "Article/Blog",
-      "headline": "Bellingham and Tuchel's ‘battle of wills’ is healthy for England",
+      "topic": "Liveblog",
+      "headline": "Kit colours revealed for England vs Argentina clash",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england",
+      "url": "https://www.skysports.com/football/england-vs-argentina/live/549867",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Who am I? Guess World Cup star No 36",
+      "headline": "Infantino opens door to 64-team World Cup",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62elldp6l7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "16h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-8",
       "topic": "News Story",
-      "headline": "Sinner grinds down Zverev to successfully defend Wimbledon title",
+      "headline": "Manzambi picks Villa - becomes 10th player Newcastle have missed out on",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/tennis/news/12040/13562802/wimbledon-world-no-1-jannik-sinner-grinds-down-alexander-zverev-to-successfully-defend-title-on-centre-court-at-all-england-club",
+      "url": "https://www.skysports.com/football/news/12040/13562928/johan-manzambi-newcastle-set-to-lose-switzerland-world-cup-hero-to-aston-villa-becoming-10th-player-to-turn-magpies-down-in-two-years",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "headline": "'We have another level we can reach' - Kane defends frustrated Tuchel",
       "source": "BBC Sport",
-      "timeAgo": "21h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "17h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Wimbledon Day 14 wrap: Sinner successfully defends his title as he edges past Zverev",
+      "headline": "Jussaume hat-trick leads Toulouse to HUGE victory over St Helens",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13562926/wimbledon-day-14-wrap-sinner-successfully-defends-his-title-as-he-edges-past-zverev",
+      "url": "https://www.skysports.com/watch/video/13562850/st-helens-0-46-toulouse-super-league-highlights",
       "isFeatured": false,
       "hasAiSummary": false
     }
