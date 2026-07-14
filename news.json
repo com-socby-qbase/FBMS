@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T14:51:13.600Z",
+    "generatedAt": "2026-07-14T16:14:26.170Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
@@ -9,7 +9,7 @@
     "topic": "News",
     "headline": "Barry's journey from Accrington Stanley to World Cup semi-final",
     "source": "BBC Sport",
-    "timeAgo": "3h",
+    "timeAgo": "4h",
     "url": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
@@ -17,6 +17,26 @@
   "articles": [
     {
       "id": "sky_sports-0",
+      "topic": "News Story",
+      "headline": "Balogun: I knew Trump intervention 'would cause a lot of controversy'",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13563434/president-donald-trumps-fifa-intervention-over-world-cup-suspension-was-bound-to-cause-a-lot-of-controversy-says-usa-striker-folarin-balogun",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-1",
+      "topic": "News",
+      "headline": "Who will win the World Cup? The view from the semi-finalists",
+      "source": "BBC Sport",
+      "timeAgo": "10h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-1",
       "topic": "Video",
       "headline": "England World Cup semi-final and final? A reminder of where and when!",
       "source": "Sky Sports",
@@ -26,17 +46,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-1",
+      "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "Who will win the World Cup? The view from the semi-finalists",
+      "headline": "Arsenal agree fee for Trossard move to Besiktas",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-1",
+      "id": "sky_sports-2",
       "topic": "Liveblog",
       "headline": "Forest latest: Glasner says 'no button to press' to make Forest competitive",
       "source": "Sky Sports",
@@ -46,17 +66,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-2",
+      "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Arsenal agree fee for Trossard move to Besiktas",
+      "headline": "Why do Argentina sing about England and the Falklands?",
       "source": "BBC Sport",
-      "timeAgo": "39m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-2",
+      "id": "sky_sports-3",
       "topic": "News Story",
       "headline": "Arsenal confirm Trossard is moving to Besiktas",
       "source": "Sky Sports",
@@ -66,17 +86,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-3",
+      "id": "bbc_sport-4",
       "topic": "News",
-      "headline": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "headline": "Premier League rules World Cup defences - but not attacks",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "55m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzy9g501vo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-3",
+      "id": "sky_sports-4",
       "topic": "Liveblog",
       "headline": "Football news: Slot a candidate for Netherlands job",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
+      "headline": "Bournemouth sign £25.7m striker Rodriguez",
       "source": "BBC Sport",
-      "timeAgo": "9h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "45m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93239v347qo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "News Story",
       "headline": "Man City interested in Morocco wonderkid Bouaddi",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
       "headline": "Man Utd seek another midfielder as Tielemans has medical",
       "source": "BBC Sport",
-      "timeAgo": "2h",
+      "timeAgo": "4h",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "Liveblog",
       "headline": "Arsenal latest: Alvarez not keen on move to England amid Barcelona dream",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "England to make late call on Rice for World Cup semi-final",
+      "headline": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
       "source": "BBC Sport",
-      "timeAgo": "17h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "11h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "Liveblog",
       "headline": "Sunderland latest: Ex-Dortmund and PSG defender Meunier set to sign",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Walked for 47% of the World Cup - the evolution of Messi",
+      "headline": "Brighton sign Vuskovic from Spurs for club record £46m",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "News Story",
       "headline": "Which club's players have scored most WC goals? Arsenal join leaders",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "American Elfath to referee England v Argentina",
-      "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lylenekjpo?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "News Story",
-      "headline": "Carra: England must exploit Messi in World Cup semi-final",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/football/news/12040/13563342/england-vs-argentina-jamie-carragher-believes-thomas-tuchels-side-can-exploit-lionel-messi-in-their-world-cup-semi-final",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Increased security for England and Argentina tie",
+      "headline": "Everton sign France forward Mouchon from Leicester",
       "source": "BBC Sport",
-      "timeAgo": "7h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "30m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "Excellent coach, superstars and depth - McGinley on why England are built like Ryder Cup heroes",
+      "headline": "'This is where the magic happens!' | Rory McIlroy's driver swing analysed!",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563414/excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-heroes",
+      "url": "https://www.skysports.com/watch/video/13563436/this-is-where-the-magic-happens-rory-mcilroys-driver-swing-analysed",
       "isFeatured": false,
       "hasAiSummary": false
     }
