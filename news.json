@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T23:27:29.868Z",
+    "generatedAt": "2026-07-15T00:52:17.895Z",
     "source": "RSS (BBC/Guardian/Sky)",
     "attribution": "Match data via TheSportsDB (thesportsdb.com). Headlines link to their original publishers."
   },
   "featured": {
     "id": "bbc_sport-0",
     "topic": "News",
-    "headline": "End of incredible Deschamps era as France exit World Cup with a whimper",
+    "headline": "A special team beats brilliant individuals - how silky Spain flattened France",
     "source": "BBC Sport",
-    "timeAgo": "11m",
-    "url": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss",
+    "timeAgo": "23m",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
     "isFeatured": true,
     "hasAiSummary": false
   },
@@ -28,10 +28,10 @@
     {
       "id": "bbc_sport-1",
       "topic": "News",
-      "headline": "Henderson & Quansah only England absentees for Argentina",
+      "headline": "'Extremely happy' Deschamps gets the farewell game no-one wants",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "1h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -48,10 +48,10 @@
     {
       "id": "bbc_sport-2",
       "topic": "News",
-      "headline": "World Cup final half-time to last up to 25 minutes",
+      "headline": "Who 'came alive' in the semi-final? France v Spain player ratings",
       "source": "BBC Sport",
-      "timeAgo": "1h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dydqedp73o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
@@ -68,15 +68,35 @@
     {
       "id": "bbc_sport-3",
       "topic": "News",
-      "headline": "Man Utd sign Tielemans for £35m from Aston Villa",
+      "headline": "Pressure is on world champions Argentina in semi-final - Guehi",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "33m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-3",
+      "topic": "News Story",
+      "headline": "Tuchel: Argentina and Messi will bring best out of England",
+      "source": "Sky Sports",
+      "timeAgo": "",
+      "url": "https://www.skysports.com/football/news/12040/13563556/world-cup-2026-argentina-and-lionel-messi-will-bring-best-out-of-england-says-thomas-tuchel-ahead-of-semi-final",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "bbc_sport-4",
+      "topic": "News",
+      "headline": "Henderson & Quansah only England absentees for Argentina",
+      "source": "BBC Sport",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&at_campaign=rss",
+      "isFeatured": false,
+      "hasAiSummary": false
+    },
+    {
+      "id": "sky_sports-4",
       "topic": "News Story",
       "headline": "'I don't care!' - McIlroy, Scheffler dismiss legacy interest ahead of The Open",
       "source": "Sky Sports",
@@ -86,17 +106,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-4",
+      "id": "bbc_sport-5",
       "topic": "News",
-      "headline": "Villa warned over sportswashing after Visit Rwanda deal",
+      "headline": "World Cup final half-time to last up to 25 minutes",
       "source": "BBC Sport",
-      "timeAgo": "4h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "2h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-4",
+      "id": "sky_sports-5",
       "topic": "Video",
       "headline": "Highlights: India ease to victory over England in opening ODI",
       "source": "Sky Sports",
@@ -106,17 +126,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-5",
+      "id": "bbc_sport-6",
       "topic": "News",
-      "headline": "Gyokeres part of Alvarez offer - Wednesday's gossip",
+      "headline": "Man Utd sign Tielemans for £35m from Aston Villa",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mym8xvedlo?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-5",
+      "id": "sky_sports-6",
       "topic": "News Story",
       "headline": "Balogun: I knew Trump intervention 'would cause a lot of controversy'",
       "source": "Sky Sports",
@@ -126,17 +146,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-6",
+      "id": "bbc_sport-7",
       "topic": "News",
-      "headline": "Fenerbahce sign Greenwood from Marseille",
+      "headline": "Villa warned over sportswashing after Visit Rwanda deal",
       "source": "BBC Sport",
-      "timeAgo": "2h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "6h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-6",
+      "id": "sky_sports-7",
       "topic": "News Story",
       "headline": "Man Utd complete £35m Tielemans deal",
       "source": "Sky Sports",
@@ -146,17 +166,17 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-7",
+      "id": "bbc_sport-8",
       "topic": "News",
-      "headline": "Balogun expected controversy after World Cup ban waived",
+      "headline": "Gyokeres part of Alvarez offer - Wednesday's gossip",
       "source": "BBC Sport",
-      "timeAgo": "6h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx262x3rmx2o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "3h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mym8xvedlo?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
-      "id": "sky_sports-7",
+      "id": "sky_sports-8",
       "topic": "Video",
       "headline": "'Back to the bar!' | Fan spills drink trying to catch Axar six!",
       "source": "Sky Sports",
@@ -166,42 +186,22 @@
       "hasAiSummary": false
     },
     {
-      "id": "bbc_sport-8",
-      "topic": "News",
-      "headline": "Why do Argentina sing about England and the Falklands?",
-      "source": "BBC Sport",
-      "timeAgo": "8h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&at_campaign=rss",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
-      "id": "sky_sports-8",
-      "topic": "Video",
-      "headline": "Dettori back on track after Newmarket car crash",
-      "source": "Sky Sports",
-      "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563460/frankie-dettori-back-on-track-after-newmarket-car-crash",
-      "isFeatured": false,
-      "hasAiSummary": false
-    },
-    {
       "id": "bbc_sport-9",
       "topic": "News",
-      "headline": "Leeds agree £34.1m fee for defender Muharemovic",
+      "headline": "Fenerbahce sign Greenwood from Marseille",
       "source": "BBC Sport",
-      "timeAgo": "3h",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3d6vx803o?at_medium=RSS&at_campaign=rss",
+      "timeAgo": "4h",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss",
       "isFeatured": false,
       "hasAiSummary": false
     },
     {
       "id": "sky_sports-9",
       "topic": "Video",
-      "headline": "England World Cup semi-final and final? A reminder of where and when!",
+      "headline": "Dettori back on track after Newmarket car crash",
       "source": "Sky Sports",
       "timeAgo": "",
-      "url": "https://www.skysports.com/watch/video/13563368/world-cup-semi-final-and-final-a-reminder-of-where-and-when",
+      "url": "https://www.skysports.com/watch/video/13563460/frankie-dettori-back-on-track-after-newmarket-car-crash",
       "isFeatured": false,
       "hasAiSummary": false
     }
